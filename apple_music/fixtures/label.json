@@ -1,0 +1,366 @@
+{
+ "data": [
+  {
+   "id": "1556733255",
+   "type": "record-labels",
+   "href": "/v1/catalog/us/record-labels/1556733255?l=en-US",
+   "attributes": {
+    "artwork": {
+     "bgColor": "000000",
+     "hasP3": false,
+     "height": 1080,
+     "textColor1": "dddddd",
+     "textColor2": "c1c1c1",
+     "textColor3": "a8a8a8",
+     "textColor4": "929292",
+     "url": "https://is1-ssl.mzstatic.com/image/thumb/Features124/v4/6e/99/6a/6e996a0b-39d1-8766-6bc3-c1c3bee5c649/QkwtTVMtV1ctRGVmSmFtLnBuZw.png/{w}x{h}bb.jpg",
+     "width": 1080
+    },
+    "description": {
+     "standard": "Founded in 1984, Def Jam Recordings has represented the cutting-edge in hip-hop music. Today, with a diverse roster of marquee and emerging stars like Kanye West, Justin Bieber, Alessia Cara, Logic, Pusha T, Jadakiss, Jeremih, Big Sean, YG, 2 Chainz, Dave East, and Jhené Aiko, among others, Def Jam’s music and lifestyle has grown into a global brand. (From the label)"
+    },
+    "editorialArtwork": {
+     "bannerUber": {
+      "bgColor": "000000",
+      "hasP3": false,
+      "height": 1080,
+      "textColor1": "e7e7e7",
+      "textColor2": "c6c6c6",
+      "textColor3": "afafaf",
+      "textColor4": "969696",
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/1c/97/ad/1c97adc5-70be-1a08-a1e1-57f02d805c7a/QlUtTVMtV1ctRGVmSmFtLnBuZw.png/{w}x{h}sr.jpg",
+      "width": 4320
+     },
+     "brandLogo": {
+      "bgColor": "000000",
+      "hasP3": false,
+      "height": 1080,
+      "textColor1": "dddddd",
+      "textColor2": "c1c1c1",
+      "textColor3": "a8a8a8",
+      "textColor4": "929292",
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Features124/v4/6e/99/6a/6e996a0b-39d1-8766-6bc3-c1c3bee5c649/QkwtTVMtV1ctRGVmSmFtLnBuZw.png/{w}x{h}bb.jpg",
+      "width": 1080
+     }
+    },
+    "name": "Def Jam",
+    "url": "https://music.apple.com/us/label/def-jam/1556733255"
+   },
+   "views": {
+    "latest-releases": {
+     "href": "/v1/catalog/us/record-labels/1556733255/view/latest-releases?l=en-US",
+     "next": "/v1/catalog/us/record-labels/1556733255/view/latest-releases?l=en-US&offset=10",
+     "attributes": {
+      "title": "Latest Releases"
+     },
+     "data": [
+      {
+       "id": "1852827892",
+       "type": "albums",
+       "href": "/v1/catalog/us/albums/1852827892?l=en-US",
+       "attributes": {
+        "artistName": "Scram Jones",
+        "artwork": {
+         "bgColor": "555755",
+         "hasP3": false,
+         "height": 3000,
+         "textColor1": "f4f5f7",
+         "textColor2": "f8ebe3",
+         "textColor3": "d4d5d7",
+         "textColor4": "d7cec7",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fa/42/16/fa421668-09c1-82aa-cf30-e93d322db522/0b9dcd36-74bb-40d9-a2de-012e42ebc75c.jpg/{w}x{h}bb.jpg",
+         "width": 3000
+        },
+        "audioTraits": [
+         "lossless",
+         "lossy-stereo"
+        ],
+        "contentRating": "explicit",
+        "editorialNotes": {
+         "short": "Def Jam enters a new millennium, and the hits just keep coming.",
+         "tagline": "New DJ Mix"
+        },
+        "genreNames": [
+         "Hip-Hop/Rap",
+         "Music",
+         "Rap"
+        ],
+        "isCompilation": true,
+        "isComplete": false,
+        "isMasteredForItunes": false,
+        "isPrerelease": false,
+        "isSingle": false,
+        "name": "2004-2014: 2K (DJ Mix)",
+        "playParams": {
+         "id": "1852827892",
+         "kind": "album"
+        },
+        "releaseDate": "2025-11-21",
+        "trackCount": 30,
+        "upc": "5059449386386",
+        "url": "https://music.apple.com/us/album/2004-2014-2k-dj-mix/1852827892"
+       }
+      },
+      {
+       "id": "1853118315",
+       "type": "albums",
+       "href": "/v1/catalog/us/albums/1853118315?l=en-US",
+       "attributes": {
+        "artistName": "Technician the DJ",
+        "artwork": {
+         "bgColor": "afadaf",
+         "hasP3": false,
+         "height": 3000,
+         "textColor1": "110f0f",
+         "textColor2": "1c1b1b",
+         "textColor3": "302e2f",
+         "textColor4": "393838",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/91/df/4f/91df4f62-3fa8-5143-954a-764624c7ce6f/64032b5e-f48e-4cc9-bc1c-27eef00b1ac0.jpg/{w}x{h}bb.jpg",
+         "width": 3000
+        },
+        "audioTraits": [
+         "lossless",
+         "lossy-stereo"
+        ],
+        "contentRating": "explicit",
+        "editorialNotes": {
+         "short": "A chronicle of the decade when Def Jam dominated the musical landscape.",
+         "tagline": "New DJ Mix"
+        },
+        "genreNames": [
+         "Hip-Hop/Rap",
+         "Music",
+         "Rap"
+        ],
+        "isCompilation": true,
+        "isComplete": false,
+        "isMasteredForItunes": false,
+        "isPrerelease": false,
+        "isSingle": false,
+        "name": "1994-2004: Supremacy (DJ Mix)",
+        "playParams": {
+         "id": "1853118315",
+         "kind": "album"
+        },
+        "releaseDate": "2025-11-21",
+        "trackCount": 64,
+        "upc": "5059449398327",
+        "url": "https://music.apple.com/us/album/1994-2004-supremacy-dj-mix/1853118315"
+       }
+      },
+      {
+       "id": "1853908207",
+       "type": "albums",
+       "href": "/v1/catalog/us/albums/1853908207?l=en-US",
+       "attributes": {
+        "artistName": "D.J. Stretch Armstrong",
+        "artwork": {
+         "bgColor": "242425",
+         "hasP3": false,
+         "height": 3000,
+         "textColor1": "cec1a7",
+         "textColor2": "f0a97d",
+         "textColor3": "aca28d",
+         "textColor4": "c78f6b",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cd/0b/38/cd0b386b-25a6-d136-a107-48c5c0d6f5d4/3f74fb8c-acb4-4be8-a7b3-6ba6cc5213af.jpg/{w}x{h}bb.jpg",
+         "width": 3000
+        },
+        "audioTraits": [
+         "lossless",
+         "lossy-stereo"
+        ],
+        "contentRating": "explicit",
+        "editorialNotes": {
+         "short": "NYC’s college radio legend assembles a mix of Def Jam’s early successes.",
+         "tagline": "New DJ Mix"
+        },
+        "genreNames": [
+         "Hip-Hop",
+         "Music",
+         "Hip-Hop/Rap"
+        ],
+        "isCompilation": true,
+        "isComplete": false,
+        "isMasteredForItunes": false,
+        "isPrerelease": false,
+        "isSingle": false,
+        "name": "1984-1994: Origins (DJ Mix)",
+        "playParams": {
+         "id": "1853908207",
+         "kind": "album"
+        },
+        "releaseDate": "2025-11-21",
+        "trackCount": 34,
+        "upc": "5059449408132",
+        "url": "https://music.apple.com/us/album/1984-1994-origins-dj-mix/1853908207"
+       }
+      }
+     ]
+    },
+    "top-releases": {
+     "href": "/v1/catalog/us/record-labels/1556733255/view/top-releases?l=en-US",
+     "next": "/v1/catalog/us/record-labels/1556733255/view/top-releases?l=en-US&offset=10",
+     "attributes": {
+      "title": "Top Releases"
+     },
+     "data": [
+      {
+       "id": "1440743075",
+       "type": "albums",
+       "href": "/v1/catalog/us/albums/1440743075?l=en-US",
+       "attributes": {
+        "artistName": "Jeezy",
+        "artwork": {
+         "bgColor": "1e1b13",
+         "hasP3": false,
+         "height": 1486,
+         "textColor1": "d6d7da",
+         "textColor2": "d2b492",
+         "textColor3": "b1b1b2",
+         "textColor4": "ae9578",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9a/17/0c/9a170c80-6a32-514e-5928-c4f2e18dd9e4/06UMGIM19754.rgb.jpg/{w}x{h}bb.jpg",
+         "width": 1459
+        },
+        "audioTraits": [
+         "lossless",
+         "lossy-stereo"
+        ],
+        "contentRating": "explicit",
+        "copyright": "℗ 2011 The Island Def Jam Music Group",
+        "editorialNotes": {
+         "short": "A brash debut artist whose gritty vision shifted rap's sound.",
+         "standard": "Atlanta MC Young Jeezy’s 2005 debut studio album, <i>Let’s Get It: Thug Motivation 101</i>, helped reorient the genre to a new Southern capital and shifted street rap's sound toward the metallic horror film symphonies of producers like Shawty Redd. But it's Jeezy's charismatic center—his growling vocals and brash personality—that electrified this portrait of a bleak world. Nestled among the disorienting trap anthems like \"Get Ya Mind Right\" are complementary crossover shots like the Akon-assisted \"Soul Survivor,\" which broadened Jeezy's appeal without undercutting his startling power."
+        },
+        "genreNames": [
+         "Hip-Hop/Rap",
+         "Music",
+         "Dirty South"
+        ],
+        "isCompilation": false,
+        "isComplete": true,
+        "isMasteredForItunes": false,
+        "isPrerelease": false,
+        "isSingle": false,
+        "name": "Let's Get It: Thug Motivation 101",
+        "playParams": {
+         "id": "1440743075",
+         "kind": "album"
+        },
+        "recordLabel": "Def Jam Recordings",
+        "releaseDate": "2005-07-26",
+        "trackCount": 19,
+        "upc": "00602527737393",
+        "url": "https://music.apple.com/us/album/lets-get-it-thug-motivation-101/1440743075"
+       }
+      },
+      {
+       "id": "1441154435",
+       "type": "albums",
+       "href": "/v1/catalog/us/albums/1441154435?l=en-US",
+       "attributes": {
+        "artistName": "Rihanna",
+        "artwork": {
+         "bgColor": "609a9e",
+         "hasP3": false,
+         "height": 3000,
+         "textColor1": "0c0c0c",
+         "textColor2": "171e1d",
+         "textColor3": "1c2829",
+         "textColor4": "253637",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2b/c0/81/2bc081c8-25f0-ba43-d451-587a54613778/16UMGIM59202.rgb.jpg/{w}x{h}bb.jpg",
+         "width": 3000
+        },
+        "audioTraits": [
+         "lossless",
+         "lossy-stereo"
+        ],
+        "copyright": "℗ 2016 Def Jam Recordings, a division of UMG Recordings, Inc.",
+        "editorialNotes": {
+         "short": "Rihanna’s third album introduces the world to “Umbrella.”",
+         "standard": "Superstars aren’t created overnight; most are lucky to access any notoriety after dropping a single blockbuster hit. But Rihanna isn’t your average superstar. The Barbadian singer’s career, it could be argued, broke through with a solo clash of a hi-hat cymbal now recognized the world over as the first sound of “Umbrella.” The Grammy winning track opens her third LP. With some assist from JAŸ-Z, Ri’s delivery of “brella-ella-ella-eh-eh-eh” was the sound heard around the world, the start of her own personal revolution: a departure from her “Pon de Replay” Caribbean pop (after all, “Umbrella” was originally written for Britney Spears, whose team turned it down) and an arrival at total ubiquity. His is the first voice we hear, but her voice is the one we remember.\n\nIt sets the tone for her third album, a confluence of ambitious, boundary-pushing vocal work on Rihanna’s part—a pivot toward edgy songcraft targeting the global stage—and a laundry list of A-list producers: Tricky Stewart, Sean Garrett, The-Dream, and Timbaland. They, armed with the skill set to evolve Ri’s voice, worked to maintain her dancehall roots (like in “Say It,” which samples Mad Cobra’s 1992 song “Flex”), laying the foundation for an ineffable career.\n\n<i>Good Girl Gone Bad</i> has it all, boasting a prescient genre-agnosticism decades ahead of the pop landscape. “Shut Up and Drive” is high-octane New Wave rock ’n’ roll, for example, though the record is largely classified as pop R&B, while “Disturbia” charms with its gothic disco. There’s also a deep understanding of the importance of worldwide dance-pop hits, particularly with “Don’t Stop the Music,” courtesy of Norwegian producers Stargate, and its clever sample of Michael Jackson’s “mama-say, mama-sa, ma-ma-koosa\" from his 1983 single “Wanna Be Startin’ Somethin’.”\n \nThe record isn’t stacked exclusively with timeless classics—the pursuit of perfection is a fool’s errand—but even the non-blockbuster tracks stand out as exemplars of their time. Looking for a smooth-like-butter acoustic R&B ballad challenging Beyoncé’s “Irreplaceable”? It’s “Hate That I Love You” featuring Ne-Yo. Or maybe it’s spacey, existential R&B with an ’80s-inspired spoken-word interlude you’re after? Look no further than “Question Existing.” Or do you prefer late-2000s sounds to be stacked with orchestral instruments and melancholic metaphor? That’s all “Rehab,” co-written by Justin Timberlake and produced by Timbaland. <i>Good Girl Gone Bad</i> remains the opening note for all the culture-shifting music Rihanna would create in the years that followed—as well as the legacies she’d inspire."
+        },
+        "genreNames": [
+         "Pop",
+         "Music",
+         "R&B/Soul"
+        ],
+        "isCompilation": false,
+        "isComplete": true,
+        "isMasteredForItunes": true,
+        "isPrerelease": false,
+        "isSingle": false,
+        "name": "Good Girl Gone Bad: Reloaded",
+        "playParams": {
+         "id": "1441154435",
+         "kind": "album"
+        },
+        "recordLabel": "Def Jam Recordings",
+        "releaseDate": "2007-05-31",
+        "trackCount": 17,
+        "upc": "00602557132335",
+        "url": "https://music.apple.com/us/album/good-girl-gone-bad-reloaded/1441154435"
+       }
+      },
+      {
+       "id": "1440895867",
+       "type": "albums",
+       "href": "/v1/catalog/us/albums/1440895867?l=en-US",
+       "attributes": {
+        "artistName": "Rihanna",
+        "artwork": {
+         "bgColor": "f2908c",
+         "hasP3": false,
+         "height": 3000,
+         "textColor1": "111135",
+         "textColor2": "2d1537",
+         "textColor3": "3e2a46",
+         "textColor4": "552d48",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/c6/b1/6c/c6b16cd1-5580-a214-8745-c4f6faa490d6/16UMGIM59220.rgb.jpg/{w}x{h}bb.jpg",
+         "width": 3000
+        },
+        "audioTraits": [
+         "atmos",
+         "lossless",
+         "lossy-stereo"
+        ],
+        "contentRating": "explicit",
+        "copyright": "℗ 2016 Def Jam Recordings, a division of UMG Recordings, Inc.",
+        "editorialNotes": {
+         "short": "What’s her name? Rihanna turns up the volume with Loud.",
+         "standard": "After navigating a highly publicized dark period, Rihanna reemerged as vibrant as ever with her fifth album. She told producers Stargate at the time of recording that she wanted to go back to having fun and making happy, uptempo records. The album’s unofficial theme is liberation, with the singer dyeing her hair a striking red that perfectly embodied the attention-grabbing energy that catapulted her into full-fledged pop-star status with unshakable international dominance. The LP spawned seven singles, three of which topped the charts both Stateside and overseas as party anthems: “Only Girl (In the World),” “What’s My Name?”, and “S&M.” Rihanna wasn’t new to crafting dance-driven hits (see 2006’s “SOS” and 2007’s “Don’t Stop the Music”). But it was <i>Loud</i> that confirmed just how easily she could rule any genre she experimented with. \n\n“Only Girl (In the World),” the album’s lead single, sets the tone thanks to its pulsating bassline and throbbing synths that defined the 2010s EDM revival. Marking her first time dipping into the genre, Rihanna demands the spotlight with full-on belts, showcasing some of her most commanding vocals to date. Naturally, the bigger-is-better approach worked in the singer’s favor: “Only Girl (In the World)” soared to No. 1 on the Billboard Hot 100. The party continues with “Cheers (Drink to That),” which revs up an Avril Lavigne “I’m With You” sample into a downright fun late-night sing-along, while “Raining Men,” alongside Nicki Minaj, finds the ladies having fun using potential suitors as toys.\n\n<i>Loud</i> is a kaleidoscopic reflection of Rihanna’s personality, spiraling from cheeky to vulnerable to unabashedly taboo. The ferocious “S&M” is filled to the brim with “na-na-na, come on!” come-hither chants and sexually suggestive lyrics as the singer explores the world of bondage and fetishes. Not one to take herself too seriously, though, the bedroom anthem winks with playfulness. “Sticks and stones may break my bones/But chains and whips excite me,” she growls atop Hi-NRG production dotted with fuzzy keyboard riffs. The confidence continues with “Skin,” one of Rihanna’s most alluring tunes, as she seductively purrs over a beat that fuses R&B with languid trip-hop.\n\nWhile <i>Loud</i> may be a more pop-leaning record, Rihanna continues to celebrate her Bajan roots, injecting tropical doses on the dancehall-tinged “What’s My Name?” Featuring frequent collaborator Drake, the chart-topper highlights the pair’s palpable chemistry as they trade flirtatious pickup lines: “The square root of 69 is eight somethin’, right?/’Cause I’ve been tryna work it out.” “Man Down” is deeply rooted in Caribbean reggae, as Rihanna details a vengeful tale of being on the run after pulling the trigger, echoing the suspenseful style of Bob Marley & The Wailers’ 1973 single “I Shot The Sheriff.”\n\nThreaded throughout the album are ballads centered on love’s ebbs and flows: the Enya-sampling “Fading” is a lightweight R&B midtempo where Rihanna moves on from an inconsistent lover; “California King Bed” is a heartbreaking power ballad as the singer desperately tries to save a relationship that’s growing more distant by the minute. The album closer “Love the Way You Lie, Pt. II” with Eminem, the sequel to the rapper’s hit single, tells Rihanna’s side of a broken love story over a tearful piano melody. <i>Loud</i> set off Rihanna’s pop explosion, and she’s remained music’s most fun party girl ever since."
+        },
+        "genreNames": [
+         "Pop",
+         "Music"
+        ],
+        "isCompilation": false,
+        "isComplete": true,
+        "isMasteredForItunes": true,
+        "isPrerelease": false,
+        "isSingle": false,
+        "name": "Loud (Deluxe)",
+        "playParams": {
+         "id": "1440895867",
+         "kind": "album"
+        },
+        "recordLabel": "Def Jam Recordings",
+        "releaseDate": "2010-11-12",
+        "trackCount": 13,
+        "upc": "00602557259698",
+        "url": "https://music.apple.com/us/album/loud-deluxe/1440895867"
+       }
+      }
+     ]
+    }
+   },
+   "meta": {
+    "views": {
+     "order": [
+      "top-releases",
+      "latest-releases"
+     ]
+    }
+   }
+  }
+ ]
+}

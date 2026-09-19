@@ -1,0 +1,731 @@
+{
+ "results": {
+  "albums": {
+   "href": "/v1/catalog/us/search?l=en-US&limit=3&term=drake&types=albums",
+   "next": "/v1/catalog/us/search?l=en-US&offset=3&term=drake&types=albums",
+   "data": [
+    {
+     "id": "6769568449",
+     "type": "albums",
+     "href": "/v1/catalog/us/albums/6769568449?l=en-US",
+     "attributes": {
+      "artistName": "Drake",
+      "artwork": {
+       "bgColor": "000000",
+       "hasP3": false,
+       "height": 4500,
+       "textColor1": "e5dcdd",
+       "textColor2": "d0c2c2",
+       "textColor3": "b7b0b1",
+       "textColor4": "a69b9b",
+       "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/b9/06/35b90629-a873-14f8-4789-ffc324960038/26UMGIM63614.rgb.jpg/{w}x{h}bb.jpg",
+       "width": 4500
+      },
+      "audioTraits": [
+       "lossless",
+       "lossy-stereo"
+      ],
+      "contentRating": "explicit",
+      "copyright": "℗ 2026 OVO, under exclusive license to Republic Records, a division of UMG Recordings, Inc.",
+      "editorialNotes": {
+       "short": "The multifaceted MC breaks the ice.",
+       "standard": "above you, below zero.",
+       "tagline": "New Album"
+      },
+      "genreNames": [
+       "Hip-Hop/Rap",
+       "Music"
+      ],
+      "isCompilation": false,
+      "isComplete": true,
+      "isMasteredForItunes": true,
+      "isPrerelease": false,
+      "isSingle": false,
+      "name": "ICEMAN",
+      "playParams": {
+       "id": "6769568449",
+       "kind": "album"
+      },
+      "recordLabel": "OVO/Republic",
+      "releaseDate": "2026-05-15",
+      "trackCount": 18,
+      "upc": "00600574206930",
+      "url": "https://music.apple.com/us/album/iceman/6769568449"
+     }
+    },
+    {
+     "id": "6769551464",
+     "type": "albums",
+     "href": "/v1/catalog/us/albums/6769551464?l=en-US",
+     "attributes": {
+      "artistName": "Drake",
+      "artwork": {
+       "bgColor": "d2bfa7",
+       "hasP3": false,
+       "height": 4500,
+       "textColor1": "272120",
+       "textColor2": "322c2a",
+       "textColor3": "49413b",
+       "textColor4": "524943",
+       "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c4/3b/89/c43b8964-a24e-b396-bd65-e5b45cabe039/26UMGIM63616.rgb.jpg/{w}x{h}bb.jpg",
+       "width": 4500
+      },
+      "audioTraits": [
+       "lossless",
+       "lossy-stereo"
+      ],
+      "contentRating": "explicit",
+      "copyright": "℗ 2026 OVO, under exclusive license to Republic Records, a division of UMG Recordings, Inc.",
+      "editorialNotes": {
+       "short": "The hitmaker still has plenty of love in his heart.",
+       "standard": "& other nicknames I call my dear city",
+       "tagline": "New Album"
+      },
+      "genreNames": [
+       "R&B/Soul",
+       "Music"
+      ],
+      "isCompilation": false,
+      "isComplete": true,
+      "isMasteredForItunes": true,
+      "isPrerelease": false,
+      "isSingle": false,
+      "name": "HABIBTI",
+      "playParams": {
+       "id": "6769551464",
+       "kind": "album"
+      },
+      "recordLabel": "OVO/Republic",
+      "releaseDate": "2026-05-15",
+      "trackCount": 11,
+      "upc": "00600574207029",
+      "url": "https://music.apple.com/us/album/habibti/6769551464"
+     }
+    },
+    {
+     "id": "6813244843",
+     "type": "albums",
+     "href": "/v1/catalog/us/albums/6813244843?l=en-US",
+     "attributes": {
+      "artistName": "Yeat",
+      "artwork": {
+       "bgColor": "e2e2e2",
+       "hasP3": false,
+       "height": 3000,
+       "textColor1": "0b0b0b",
+       "textColor2": "232323",
+       "textColor3": "363636",
+       "textColor4": "494949",
+       "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/95/9e/e2/959ee283-8ef9-30d5-1422-595e08bc7517/26UM1IM20013.rgb.jpg/{w}x{h}bb.jpg",
+       "width": 3000
+      },
+      "audioTraits": [
+       "lossless",
+       "lossy-stereo"
+      ],
+      "contentRating": "explicit",
+      "copyright": "Lyfestyle Corporation/Field Trip Recordings/Capitol Records; ℗ 2026 Field Trip Recordings and UMG Recordings, Inc.",
+      "editorialNotes": {
+       "short": "The prolific rap star showcases some subtle skills on this surprise EP.",
+       "standard": "A cocoon suggests a metamorphosis on the horizon, which means yet another evolution might be in store for <b>Yeat</b>, a rapper who is as restless and inventive as he is consistent. The surprise seven-song release dropped in September 2026, just six months after his seismic <i>ADL</i>.\n\nAs all Yeat projects seem to do, <i>COCOON</i> takes the styles and sounds the rapper has popularized in his near-decade on the scene and tweaks them in ways both small and large.\n\nThe lone feature on <i>COCOON</i> comes from <b>Drake</b>, which only further reiterates the plane upon which Yeat is floating these days. Few in the game are as reliably popular, and that’s thanks in large part to his consistency—impactful only because the reliable flow of releases demand attention.\n\nTake <b>“IN2THAT,”</b> which uses a deconstructed beat that highlights the staccato punches of Yeat’s flow pattern, or <b>“TËNNIS,”</b> which features Yeat pitch-shifting his vocals to highlight the emotional range of his delivery. He sings of a relationship that turns hot and cold, spitting: “We go back and forth likе the game of tennis did.” It’s difficult to discern whether the passion in his voice comes from pain or joy, helping to illustrate the complex array of feelings that come with a decidedly rocky relationship.\n\nEven on a surprise release like <i>COCOON</i>, which is seemingly aimed to bridge Yeat from one era to the next, he still takes great pride in the intricacies and details that makes his music both intimately familiar and one of a kind.\n\n<b>Our Favorite Track:</b> How can ya beat Drizzy and Yeat teaming up on <b>“MISS MY DAWG”</b>?",
+       "tagline": "New EP"
+      },
+      "genreNames": [
+       "Hip-Hop",
+       "Music",
+       "Hip-Hop/Rap"
+      ],
+      "isCompilation": false,
+      "isComplete": true,
+      "isMasteredForItunes": true,
+      "isPrerelease": false,
+      "isSingle": false,
+      "name": "COCOON",
+      "playParams": {
+       "id": "6813244843",
+       "kind": "album"
+      },
+      "recordLabel": "Lyfestyle Corporation/Field Trip Recordings/Capitol Records",
+      "releaseDate": "2026-09-18",
+      "trackCount": 7,
+      "upc": "00881061532835",
+      "url": "https://music.apple.com/us/album/cocoon/6813244843"
+     }
+    }
+   ]
+  },
+  "artists": {
+   "href": "/v1/catalog/us/search?l=en-US&limit=3&term=drake&types=artists",
+   "data": [
+    {
+     "id": "271256",
+     "type": "artists",
+     "href": "/v1/catalog/us/artists/271256?l=en-US",
+     "attributes": {
+      "artwork": {
+       "bgColor": "fafafa",
+       "defaultCropCode": "bb",
+       "hasP3": false,
+       "height": 1825,
+       "textColor1": "040404",
+       "textColor2": "161616",
+       "textColor3": "353535",
+       "textColor4": "444444",
+       "url": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages112/v4/1b/71/65/1b716513-b0c1-9c6b-45aa-cbb9198248cc/01607cf1-1d52-43d2-84ce-d6fc1f4a3475_ami-identity-7665599cc626d803af7956b3691905e7-2022-11-30T21-07-19.526Z_cropped.png/{w}x{h}bb.jpg",
+       "width": 1825
+      },
+      "editorialNotes": {
+       "short": "One of the most innovative hip-hop artists in the business."
+      },
+      "genreNames": [
+       "Hip-Hop/Rap"
+      ],
+      "name": "Drake",
+      "url": "https://music.apple.com/us/artist/drake/271256"
+     },
+     "relationships": {
+      "albums": {
+       "href": "/v1/catalog/us/artists/271256/albums?l=en-US",
+       "next": "/v1/catalog/us/artists/271256/albums?l=en-US&offset=25",
+       "data": [
+        {
+         "id": "1418213110",
+         "type": "albums",
+         "href": "/v1/catalog/us/albums/1418213110?l=en-US"
+        },
+        {
+         "id": "1652998965",
+         "type": "albums",
+         "href": "/v1/catalog/us/albums/1652998965?l=en-US"
+        },
+        {
+         "id": "1584281467",
+         "type": "albums",
+         "href": "/v1/catalog/us/albums/1584281467?l=en-US"
+        }
+       ]
+      }
+     }
+    },
+    {
+     "id": "296887979",
+     "type": "artists",
+     "href": "/v1/catalog/us/artists/296887979?l=en-US",
+     "attributes": {
+      "artwork": {
+       "bgColor": "fffeff",
+       "defaultCropCode": "ac",
+       "hasP3": false,
+       "height": 3000,
+       "textColor1": "130f0d",
+       "textColor2": "150f0d",
+       "textColor3": "423f3d",
+       "textColor4": "443f3d",
+       "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/af/c6/96/afc6969f-5bef-bda8-12ec-2ab3220b2517/733436.jpg/{w}x{h}ac.jpg",
+       "width": 3000
+      },
+      "genreNames": [
+       "Hip-Hop/Rap"
+      ],
+      "name": "Aubrey Drake Graham",
+      "url": "https://music.apple.com/us/artist/aubrey-drake-graham/296887979"
+     },
+     "relationships": {
+      "albums": {
+       "href": "/v1/catalog/us/artists/296887979/albums?l=en-US",
+       "data": [
+        {
+         "id": "1753807202",
+         "type": "albums",
+         "href": "/v1/catalog/us/albums/1753807202?l=en-US"
+        },
+        {
+         "id": "1797484460",
+         "type": "albums",
+         "href": "/v1/catalog/us/albums/1797484460?l=en-US"
+        },
+        {
+         "id": "1813998223",
+         "type": "albums",
+         "href": "/v1/catalog/us/albums/1813998223?l=en-US"
+        }
+       ]
+      }
+     }
+    }
+   ]
+  },
+  "playlists": {
+   "href": "/v1/catalog/us/search?l=en-US&limit=3&term=drake&types=playlists",
+   "next": "/v1/catalog/us/search?l=en-US&offset=3&term=drake&types=playlists",
+   "data": [
+    {
+     "id": "pl.b8afd0ec852542f785a5f7a4a9a80d6a",
+     "type": "playlists",
+     "href": "/v1/catalog/us/playlists/pl.b8afd0ec852542f785a5f7a4a9a80d6a?l=en-US",
+     "attributes": {
+      "artwork": {
+       "bgColor": "fafafa",
+       "hasP3": false,
+       "height": 1080,
+       "textColor1": "040404",
+       "textColor2": "161616",
+       "textColor3": "353535",
+       "textColor4": "444444",
+       "url": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages112/v4/1b/71/65/1b716513-b0c1-9c6b-45aa-cbb9198248cc/01607cf1-1d52-43d2-84ce-d6fc1f4a3475_ami-identity-7665599cc626d803af7956b3691905e7-2022-11-30T21-07-19.526Z_cropped.png/{w}x{h}SC.FPESS04.jpg?l=en-US",
+       "width": 1080
+      },
+      "audioTraits": [],
+      "curatorName": "Apple Music Hip-Hop",
+      "description": {
+       "short": "The era-defining rapper isn’t done showing us what he can do.",
+       "standard": "Drake officially became the voice of a generation with 2011’s sumptuous <i>Take Care</i>, a career-defining magnum opus that earned a prized slot in Apple Music’s 100 Best Albums list. Was he an R&B singer who rapped or a rapper who sang? Was he really that sad, or just exploiting a cultural preference for male vulnerability? Adding to the slipperiness of it all, any given Drake project might incorporate dreamy house and club music into his comfort zone of rap, pop, and R&B with equal conviction. Even after cementing his prowess as an MC many times over, Drake still retains the capacity to surprise. His 2015 earworm “Hotline Bling” radiated universal cool without breaking a sweat, while 2024’s “Push Ups” arrived during his fleeting beef with Kendrick Lamar yet applies lasting heat to its minimalistic prowl. Drake is now such a part of the firmament that his slightest move can trigger aftershocks far beyond his immediate reach."
+      },
+      "editorialNotes": {
+       "name": "Drake Essentials",
+       "short": "The era-defining rapper isn’t done showing us what he can do.",
+       "standard": "Drake officially became the voice of a generation with 2011’s sumptuous <i>Take Care</i>, a career-defining magnum opus that earned a prized slot in Apple Music’s 100 Best Albums list. Was he an R&B singer who rapped or a rapper who sang? Was he really that sad, or just exploiting a cultural preference for male vulnerability? Adding to the slipperiness of it all, any given Drake project might incorporate dreamy house and club music into his comfort zone of rap, pop, and R&B with equal conviction. Even after cementing his prowess as an MC many times over, Drake still retains the capacity to surprise. His 2015 earworm “Hotline Bling” radiated universal cool without breaking a sweat, while 2024’s “Push Ups” arrived during his fleeting beef with Kendrick Lamar yet applies lasting heat to its minimalistic prowl. Drake is now such a part of the firmament that his slightest move can trigger aftershocks far beyond his immediate reach."
+      },
+      "editorialPlaylistKind": "artist-franchise",
+      "hasCollaboration": false,
+      "isChart": false,
+      "lastModifiedDate": "2026-05-21T19:31:30Z",
+      "name": "Drake Essentials",
+      "playParams": {
+       "id": "pl.b8afd0ec852542f785a5f7a4a9a80d6a",
+       "kind": "playlist",
+       "versionHash": "afc91b1ae56e34211054238d5479215d5a0d99393aa2132344c7037dc37b6705"
+      },
+      "playlistType": "editorial",
+      "supportsSing": false,
+      "url": "https://music.apple.com/us/playlist/drake-essentials/pl.b8afd0ec852542f785a5f7a4a9a80d6a"
+     }
+    },
+    {
+     "id": "pl.e5bc0180234b40639b5fb6aeb3c6ff68",
+     "type": "playlists",
+     "href": "/v1/catalog/us/playlists/pl.e5bc0180234b40639b5fb6aeb3c6ff68?l=en-US",
+     "attributes": {
+      "artwork": {
+       "bgColor": "fafafa",
+       "hasP3": false,
+       "height": 1080,
+       "textColor1": "040404",
+       "textColor2": "161616",
+       "textColor3": "353535",
+       "textColor4": "444444",
+       "url": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages112/v4/1b/71/65/1b716513-b0c1-9c6b-45aa-cbb9198248cc/01607cf1-1d52-43d2-84ce-d6fc1f4a3475_ami-identity-7665599cc626d803af7956b3691905e7-2022-11-30T21-07-19.526Z_cropped.png/{w}x{h}SC.FPCHL02.jpg?l=en-US",
+       "width": 1080
+      },
+      "audioTraits": [],
+      "curatorName": "Apple Music Hip-Hop",
+      "editorialNotes": {
+       "name": "Drake: Chill",
+       "short": "Lean back and relax with some of the mellowest cuts."
+      },
+      "editorialPlaylistKind": "artist-franchise",
+      "hasCollaboration": false,
+      "isChart": false,
+      "lastModifiedDate": "2023-01-31T23:08:56Z",
+      "name": "Drake: Chill",
+      "playParams": {
+       "id": "pl.e5bc0180234b40639b5fb6aeb3c6ff68",
+       "kind": "playlist",
+       "versionHash": "44f86ce259a804687f999513d392e730df1f6c9c8a1ad553d2fbb95f0e8912b7"
+      },
+      "playlistType": "editorial",
+      "supportsSing": false,
+      "url": "https://music.apple.com/us/playlist/drake-chill/pl.e5bc0180234b40639b5fb6aeb3c6ff68"
+     }
+    },
+    {
+     "id": "pl.9c2961c0bd034974a954fa788f7eac3b",
+     "type": "playlists",
+     "href": "/v1/catalog/us/playlists/pl.9c2961c0bd034974a954fa788f7eac3b?l=en-US",
+     "attributes": {
+      "artwork": {
+       "bgColor": "fafafa",
+       "hasP3": false,
+       "height": 1080,
+       "textColor1": "040404",
+       "textColor2": "161616",
+       "textColor3": "353535",
+       "textColor4": "444444",
+       "url": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages112/v4/1b/71/65/1b716513-b0c1-9c6b-45aa-cbb9198248cc/01607cf1-1d52-43d2-84ce-d6fc1f4a3475_ami-identity-7665599cc626d803af7956b3691905e7-2022-11-30T21-07-19.526Z_cropped.png/{w}x{h}SC.FPDC03.jpg?l=en-US",
+       "width": 1080
+      },
+      "audioTraits": [],
+      "curatorName": "Apple Music Hip-Hop",
+      "description": {
+       "short": "Ballads and barbed disses from the depths of Drizzy's catalog.",
+       "standard": "Drake can go from being a crooning R&B loverman to spiky rapper in the blink of an eye, and that knack for stylistic shifts is particularly apparent on his less famous cuts. The inflatable synths of The-Dream duet “Shut It Down” tease out one of Drizzy's prettiest ballads; meanwhile, on the other end of the spectrum is the ghostly beat of barbed hip-hop cut “Charged Up,” a ruthless diss track aimed at his rival Meek Mill."
+      },
+      "editorialNotes": {
+       "name": "Drake: Deep Cuts",
+       "short": "Ballads and barbed disses from the depths of Drizzy's catalog.",
+       "standard": "Drake can go from being a crooning R&B loverman to spiky rapper in the blink of an eye, and that knack for stylistic shifts is particularly apparent on his less famous cuts. The inflatable synths of The-Dream duet “Shut It Down” tease out one of Drizzy's prettiest ballads; meanwhile, on the other end of the spectrum is the ghostly beat of barbed hip-hop cut “Charged Up,” a ruthless diss track aimed at his rival Meek Mill."
+      },
+      "editorialPlaylistKind": "artist-franchise",
+      "hasCollaboration": false,
+      "isChart": false,
+      "lastModifiedDate": "2017-08-24T22:42:14Z",
+      "name": "Drake: Deep Cuts",
+      "playParams": {
+       "id": "pl.9c2961c0bd034974a954fa788f7eac3b",
+       "kind": "playlist",
+       "versionHash": "6cb5eee3c8c6753e3c7422fb8876f4bb772fcba4df5579662639e5a4a59ff210"
+      },
+      "playlistType": "editorial",
+      "supportsSing": false,
+      "url": "https://music.apple.com/us/playlist/drake-deep-cuts/pl.9c2961c0bd034974a954fa788f7eac3b"
+     }
+    }
+   ]
+  },
+  "songs": {
+   "href": "/v1/catalog/us/search?l=en-US&limit=3&term=drake&types=songs",
+   "next": "/v1/catalog/us/search?l=en-US&offset=3&term=drake&types=songs",
+   "data": [
+    {
+     "id": "6769568596",
+     "type": "songs",
+     "href": "/v1/catalog/us/songs/6769568596?l=en-US",
+     "attributes": {
+      "albumArtistName": "Drake",
+      "albumName": "ICEMAN",
+      "artistName": "Drake",
+      "artwork": {
+       "bgColor": "000000",
+       "hasP3": false,
+       "height": 4500,
+       "textColor1": "e5dcdd",
+       "textColor2": "d0c2c2",
+       "textColor3": "b7b0b1",
+       "textColor4": "a69b9b",
+       "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/b9/06/35b90629-a873-14f8-4789-ffc324960038/26UMGIM63614.rgb.jpg/{w}x{h}bb.jpg",
+       "width": 4500
+      },
+      "audioLocale": "en-US",
+      "audioTraits": [
+       "lossless",
+       "lossy-stereo"
+      ],
+      "composerName": "Aubrey Drake Graham",
+      "contentRating": "explicit",
+      "discNumber": 1,
+      "durationInMillis": 237344,
+      "genreNames": [
+       "Hip-Hop/Rap",
+       "Music"
+      ],
+      "hasLyrics": true,
+      "hasTimeSyncedLyrics": true,
+      "isAppleDigitalMaster": true,
+      "isMasteredForItunes": true,
+      "isVocalAttenuationAllowed": true,
+      "isrc": "USUG12604763",
+      "name": "Janice STFU",
+      "playParams": {
+       "id": "6769568596",
+       "kind": "song"
+      },
+      "previews": [
+       {
+        "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a2/a3/18/a2a31893-76db-627e-0985-6c720be140b4/mzaf_4214220916679547498.plus.aac.ep.m4a"
+       }
+      ],
+      "releaseDate": "2026-05-15",
+      "trackNumber": 4,
+      "url": "https://music.apple.com/us/album/janice-stfu/6769568449?i=6769568596"
+     }
+    },
+    {
+     "id": "6813244854",
+     "type": "songs",
+     "href": "/v1/catalog/us/songs/6813244854?l=en-US",
+     "attributes": {
+      "albumArtistName": "Yeat",
+      "albumName": "COCOON",
+      "artistName": "Yeat & Drake",
+      "artwork": {
+       "bgColor": "e2e2e2",
+       "hasP3": false,
+       "height": 3000,
+       "textColor1": "0b0b0b",
+       "textColor2": "232323",
+       "textColor3": "363636",
+       "textColor4": "494949",
+       "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/95/9e/e2/959ee283-8ef9-30d5-1422-595e08bc7517/26UM1IM20013.rgb.jpg/{w}x{h}bb.jpg",
+       "width": 3000
+      },
+      "audioLocale": "en-US",
+      "audioTraits": [
+       "lossless",
+       "lossy-stereo"
+      ],
+      "composerName": "Noah Smith, Aubrey Drake Graham, Noel Cadastre, Lucius Lowe, Lucien Dunne & Daniel Lee",
+      "contentRating": "explicit",
+      "discNumber": 1,
+      "durationInMillis": 188504,
+      "genreNames": [
+       "Hip-Hop",
+       "Music",
+       "Hip-Hop/Rap"
+      ],
+      "hasLyrics": true,
+      "hasTimeSyncedLyrics": true,
+      "isAppleDigitalMaster": true,
+      "isMasteredForItunes": true,
+      "isVocalAttenuationAllowed": false,
+      "isrc": "USUM72608575",
+      "name": "MISS MY DAWG",
+      "playParams": {
+       "id": "6813244854",
+       "kind": "song"
+      },
+      "previews": [
+       {
+        "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/df/89/42/df894248-23f0-eef9-73fc-26e6f56ad50e/mzaf_2816553263188683360.plus.aac.ep.m4a"
+       }
+      ],
+      "releaseDate": "2026-09-18",
+      "trackNumber": 3,
+      "url": "https://music.apple.com/us/album/miss-my-dawg/6813244843?i=6813244854"
+     }
+    },
+    {
+     "id": "1440642731",
+     "type": "songs",
+     "href": "/v1/catalog/us/songs/1440642731?l=en-US",
+     "attributes": {
+      "albumArtistName": "Drake",
+      "albumName": "Take Care (Deluxe Version)",
+      "artistName": "Drake",
+      "artwork": {
+       "bgColor": "1d0f0f",
+       "hasP3": false,
+       "height": 1500,
+       "textColor1": "d7bf9a",
+       "textColor2": "d58a6a",
+       "textColor3": "b29c7e",
+       "textColor4": "b07257",
+       "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/74/fb/d3/74fbd365-bd52-23b4-604b-7f164407b0a9/00602527899107.rgb.jpg/{w}x{h}bb.jpg",
+       "width": 1500
+      },
+      "audioLocale": "en-US",
+      "audioTraits": [
+       "lossless",
+       "lossy-stereo"
+      ],
+      "composerName": "Aubrey Drake Graham, Matthew Jehu Samuels & Noah \"40\" Shebib",
+      "contentRating": "explicit",
+      "discNumber": 1,
+      "durationInMillis": 235987,
+      "genreNames": [
+       "Hip-Hop/Rap",
+       "Music"
+      ],
+      "hasLyrics": true,
+      "hasTimeSyncedLyrics": true,
+      "isAppleDigitalMaster": false,
+      "isMasteredForItunes": false,
+      "isVocalAttenuationAllowed": false,
+      "isrc": "USCM51100290",
+      "name": "Headlines",
+      "playParams": {
+       "id": "1440642731",
+       "kind": "song"
+      },
+      "previews": [
+       {
+        "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/09/b2/d7/09b2d7c1-402a-37c9-a9bd-4233869a6c91/mzaf_14059466937457587381.plus.aac.ep.m4a"
+       }
+      ],
+      "releaseDate": "2011-08-09",
+      "trackNumber": 3,
+      "url": "https://music.apple.com/us/album/headlines/1440642493?i=1440642731"
+     },
+     "meta": {
+      "formerIds": [
+       "479852368",
+       "479760326"
+      ]
+     }
+    }
+   ]
+  },
+  "topResults": {
+   "data": [
+    {
+     "id": "271256",
+     "type": "artists",
+     "href": "/v1/catalog/us/artists/271256?l=en-US",
+     "attributes": {
+      "artwork": {
+       "bgColor": "fafafa",
+       "defaultCropCode": "bb",
+       "hasP3": false,
+       "height": 1825,
+       "textColor1": "040404",
+       "textColor2": "161616",
+       "textColor3": "353535",
+       "textColor4": "444444",
+       "url": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages112/v4/1b/71/65/1b716513-b0c1-9c6b-45aa-cbb9198248cc/01607cf1-1d52-43d2-84ce-d6fc1f4a3475_ami-identity-7665599cc626d803af7956b3691905e7-2022-11-30T21-07-19.526Z_cropped.png/{w}x{h}bb.jpg",
+       "width": 1825
+      },
+      "editorialNotes": {
+       "short": "One of the most innovative hip-hop artists in the business."
+      },
+      "genreNames": [
+       "Hip-Hop/Rap"
+      ],
+      "name": "Drake",
+      "url": "https://music.apple.com/us/artist/drake/271256"
+     },
+     "relationships": {
+      "albums": {
+       "href": "/v1/catalog/us/artists/271256/albums?l=en-US",
+       "next": "/v1/catalog/us/artists/271256/albums?l=en-US&offset=25",
+       "data": [
+        {
+         "id": "1418213110",
+         "type": "albums",
+         "href": "/v1/catalog/us/albums/1418213110?l=en-US"
+        },
+        {
+         "id": "1652998965",
+         "type": "albums",
+         "href": "/v1/catalog/us/albums/1652998965?l=en-US"
+        },
+        {
+         "id": "1584281467",
+         "type": "albums",
+         "href": "/v1/catalog/us/albums/1584281467?l=en-US"
+        }
+       ]
+      }
+     }
+    },
+    {
+     "id": "6769568449",
+     "type": "albums",
+     "href": "/v1/catalog/us/albums/6769568449?l=en-US",
+     "attributes": {
+      "artistName": "Drake",
+      "artwork": {
+       "bgColor": "000000",
+       "hasP3": false,
+       "height": 4500,
+       "textColor1": "e5dcdd",
+       "textColor2": "d0c2c2",
+       "textColor3": "b7b0b1",
+       "textColor4": "a69b9b",
+       "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/b9/06/35b90629-a873-14f8-4789-ffc324960038/26UMGIM63614.rgb.jpg/{w}x{h}bb.jpg",
+       "width": 4500
+      },
+      "audioTraits": [
+       "lossless",
+       "lossy-stereo"
+      ],
+      "contentRating": "explicit",
+      "copyright": "℗ 2026 OVO, under exclusive license to Republic Records, a division of UMG Recordings, Inc.",
+      "editorialNotes": {
+       "short": "The multifaceted MC breaks the ice.",
+       "standard": "above you, below zero.",
+       "tagline": "New Album"
+      },
+      "genreNames": [
+       "Hip-Hop/Rap",
+       "Music"
+      ],
+      "isCompilation": false,
+      "isComplete": true,
+      "isMasteredForItunes": true,
+      "isPrerelease": false,
+      "isSingle": false,
+      "name": "ICEMAN",
+      "playParams": {
+       "id": "6769568449",
+       "kind": "album"
+      },
+      "recordLabel": "OVO/Republic",
+      "releaseDate": "2026-05-15",
+      "trackCount": 18,
+      "upc": "00600574206930",
+      "url": "https://music.apple.com/us/album/iceman/6769568449"
+     }
+    },
+    {
+     "id": "6769568596",
+     "type": "songs",
+     "href": "/v1/catalog/us/songs/6769568596?l=en-US",
+     "attributes": {
+      "albumArtistName": "Drake",
+      "albumName": "ICEMAN",
+      "artistName": "Drake",
+      "artwork": {
+       "bgColor": "000000",
+       "hasP3": false,
+       "height": 4500,
+       "textColor1": "e5dcdd",
+       "textColor2": "d0c2c2",
+       "textColor3": "b7b0b1",
+       "textColor4": "a69b9b",
+       "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/b9/06/35b90629-a873-14f8-4789-ffc324960038/26UMGIM63614.rgb.jpg/{w}x{h}bb.jpg",
+       "width": 4500
+      },
+      "audioLocale": "en-US",
+      "audioTraits": [
+       "lossless",
+       "lossy-stereo"
+      ],
+      "composerName": "Aubrey Drake Graham",
+      "contentRating": "explicit",
+      "discNumber": 1,
+      "durationInMillis": 237344,
+      "genreNames": [
+       "Hip-Hop/Rap",
+       "Music"
+      ],
+      "hasLyrics": true,
+      "hasTimeSyncedLyrics": true,
+      "isAppleDigitalMaster": true,
+      "isMasteredForItunes": true,
+      "isVocalAttenuationAllowed": true,
+      "isrc": "USUG12604763",
+      "name": "Janice STFU",
+      "playParams": {
+       "id": "6769568596",
+       "kind": "song"
+      },
+      "previews": [
+       {
+        "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a2/a3/18/a2a31893-76db-627e-0985-6c720be140b4/mzaf_4214220916679547498.plus.aac.ep.m4a"
+       }
+      ],
+      "releaseDate": "2026-05-15",
+      "trackNumber": 4,
+      "url": "https://music.apple.com/us/album/janice-stfu/6769568449?i=6769568596"
+     }
+    }
+   ]
+  }
+ },
+ "meta": {
+  "results": {
+   "order": [
+    "topResults",
+    "albums",
+    "songs"
+   ],
+   "rawOrder": [
+    "topResults",
+    "albums",
+    "songs"
+   ]
+  },
+  "metrics": {
+   "dataSetId": "e57b2f3a-f923-4ef3-a429-c7ff2cd7defd"
+  }
+ }
+}

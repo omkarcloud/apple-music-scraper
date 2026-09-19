@@ -1,0 +1,180 @@
+{
+ "data": [
+  {
+   "id": "6813319894",
+   "type": "rooms",
+   "href": "/v1/editorial/us/rooms/6813319894?l=en-US",
+   "attributes": {
+    "defaultSort": "featured",
+    "doNotFilter": false,
+    "editorialElementKind": "326",
+    "lastModifiedDate": "2026-09-19T07:42:32Z",
+    "resourceTypes": [
+     "albums"
+    ],
+    "sorts": [
+     "alphabet",
+     "releaseDate",
+     "featured"
+    ],
+    "title": "New This Week"
+   },
+   "relationships": {
+    "contents": {
+     "href": "/v1/editorial/us/rooms/6813319894/contents?l=en-US",
+     "next": "/v1/editorial/us/rooms/6813319894/contents?l=en-US&offset=100",
+     "data": [
+      {
+       "id": "6807197456",
+       "type": "albums",
+       "href": "/v1/catalog/us/albums/6807197456?l=en-US",
+       "attributes": {
+        "artistName": "Miley Cyrus",
+        "artwork": {
+         "bgColor": "f3f3f3",
+         "hasP3": false,
+         "height": 3000,
+         "textColor1": "161616",
+         "textColor2": "313131",
+         "textColor3": "424242",
+         "textColor4": "585858",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ff/af/51/ffaf51a6-d711-6f92-a5d6-f90e98014f0f/075679564061.jpg/{w}x{h}bb.jpg",
+         "width": 3000
+        },
+        "audioTraits": [
+         "atmos",
+         "lossless",
+         "lossy-stereo"
+        ],
+        "copyright": "℗ 2026 MCEO, Inc., under exclusive license to Atlantic Recording Corporation",
+        "editorialNotes": {
+         "short": "A(nother) new identity and a love story hidden inside a raucous dance party.",
+         "standard": "“There’s a song on the record called <b>‘Snow’</b> and the outro is me saying over and over again as a mantra, ‘It doesn’t get better,’” the artist formerly known as Miley Cyrus tells Apple Music. “This right here, this life that I’m in, this moment, it is such bliss. It isn’t just that I wake up and I’m happy, it is the boundaries that I set.”\n\nThe day before the announcement of her 10th studio album, Miley Cyrus changed her name, dropping “Cyrus” on all socials to go mononymous, as icons often do (think Cher, Madonna, Beyoncé). With two decades of stardom already in the rearview, the name change heralded a new era for the 33-year-old musician whose career has been defined by fearless experimentation, from 2013’s rebellious <i>Bangerz</i> to 2015’s psych-rock curveball <i>Miley Cyrus & Her Dead Petz</i> to the world-conquering disco empowerment of 2023’s “Flowers.” Fittingly, as she shared in a heartfelt tribute to her late godmother Dolly Parton, one of their final conversations “was about music and metamorphosis.”\n\nIf her 2007 debut album extended the invitation to <i>Meet Miley Cyrus</i>, <i>Bass Persuades</i> arrives with a new offer—meet <b>Miley</b>. And it appears that Miley has read the recent studies claiming that young people don’t party anymore. The antidote to this dilemma? A gritty album of hedonistic dance-pop, on which she casts her smoky voice in Blondie-esque directions when she isn’t belting out anthemic ’80s-coded love songs. (Amid her whirlwind of a past year, which included a deluxe version of 2025’s <i>Something Beautiful</i> and a live <i>Hannah Montana</i> 20th anniversary special, she got engaged to musician Maxx Morando, a name that appears often in <i>Bass Persuades</i>’ credits.) “The point,” she says, “was to have community through music again.”\n\nA love story hidden inside a raucous dance party, <i>Bass Persuades</i> finds Miley ready to surrender—to true love, to passion, to the thrill of the night. “Go analog!” she urges on the New Wave-tinged title track, <b>“Bass Persuades,”</b> pining for the era when people danced like no one was watching and MTV played music videos. (She pauses for a wink to her younger self: “Chaos is king, but you know that you can’t stop, won’t stop.”) “I’m sick of poets and being profound,” she belts over a galloping techno beat on <b>“Aftermath,”</b> while <b>“Different Religion”</b> draws from electroclash and industrial with a glamorous assist from Brooklyn rockers Model/Actriz.\n\nBut through the bacchanalia, Miley weaves a thread of romantic bliss, from the head-over-heels chillwave of <b>“Let’s Get Married”</b> to <b>“Neon Signs,”</b> a psych-rock duet with Miike Snow’s <b>Andrew Wyatt</b> that evokes a slow dance in the lamplight of a mid-century motel room. Life is short and nothing’s promised, <i>Bass Persuades</i> seems to suggest—why not fall in love, roll the dice, leave it all on the dance floor?",
+         "tagline": "New Album"
+        },
+        "genreNames": [
+         "Pop",
+         "Music"
+        ],
+        "isCompilation": false,
+        "isComplete": true,
+        "isMasteredForItunes": true,
+        "isPrerelease": false,
+        "isSingle": false,
+        "name": "Bass Persuades",
+        "playParams": {
+         "id": "6807197456",
+         "kind": "album"
+        },
+        "recordLabel": "Atlantic Records",
+        "releaseDate": "2026-09-18",
+        "trackCount": 11,
+        "upc": "075679564061",
+        "url": "https://music.apple.com/us/album/bass-persuades/6807197456"
+       }
+      },
+      {
+       "id": "6770725355",
+       "type": "albums",
+       "href": "/v1/catalog/us/albums/6770725355?l=en-US",
+       "attributes": {
+        "artistName": "Riley Green",
+        "artwork": {
+         "bgColor": "4e4f51",
+         "hasP3": false,
+         "height": 3000,
+         "textColor1": "f9ebe1",
+         "textColor2": "e9e8e6",
+         "textColor3": "d6ccc4",
+         "textColor4": "cac9c8",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/16/cf/71/16cf71b7-bda7-9916-3d11-3b60539ace2c/26BMR0008042.rgb.jpg/{w}x{h}bb.jpg",
+         "width": 3000
+        },
+        "audioTraits": [
+         "atmos",
+         "lossless",
+         "lossy-stereo"
+        ],
+        "copyright": "℗ 2026 Nashville Harbor Records & Entertainment, LLC",
+        "editorialNotes": {
+         "short": "The singer-songwriter prides himself on reflecting his interests, not trends.",
+         "standard": "<b>Riley Green</b> is allergic to complacency. The singer-songwriter—and, as of 2026, coach on <i>The Voice</i>—prides himself on making albums that reflect his wide range of influences rather than the trends of the day. Produced by Dann Huff (Keith Urban, Rascal Flatts), <i>That’s Just Me</i> lets Green indulge those influences across 19 tracks, with featured artists including country icons <b>Brooks & Dunn</b> and rising star <b>Hannah McFarland</b>.\n\nGreen curated a mix of solo writes, co-writes, and outside cuts to achieve that sense of well-roundedness, which coheres thanks to his ever-charismatic performances and Huff’s mellow, largely acoustic production. The McFarland duet <b>“Go Again”</b> is an early fan favorite, and finds the pair trading verses about the bittersweet aftermath of a one-night stand. <b>“Bartender in Destin”</b> is technically a beach song, but the opening interplay of fingerpicked dobro and acoustic guitar keep the tune grounded in the Appalachian sounds of Green’s northeast Alabama roots.\n\nBelow, Green shares insight into several key tracks.\n\n<b>“Beach Happy”</b>\n“I grew up in the era of burnt CDs, and it would have 2pac and then Tim McGraw and then Merle Haggard. I think that’s the way I like to do records. So, I wanted that little beach moment in there, and that one and ‘Bartender in Destin’ really did that for me.”\n\n<b>“Well Well Whiskey” (feat. Jake Worthington)</b>\n“Jake’s the closest to George Jones that I’ve been around vocally. But he also goes places that I wouldn’t go. His moves and his runs are different and unique. I’ve been a fan of him forever. I wrote that song probably three years ago. He was touring with me in Australia and I just looked at him. He was like a cartoon. He’s so country. I was like, ‘Jake, I got a song I’m going to cut, if you want to be a part of it.’ And he crushed it. I would find myself fast-forwarding to his part when I listen to it because he sounds so good on it.”\n\n<b>“Ten Pairs of Boots”</b>\n“That song is what country music is to me. One thing I’ll say about [songwriter] Chase [McGill] is he can do a lot of different things. I’ve had some success as a songwriter and solo writes and all that, but I live in my world and I do what I do. And sometimes I venture out a little bit, but I have a thing. Chase does a lot of different stuff.”",
+         "tagline": "New Album and Interview"
+        },
+        "genreNames": [
+         "Country",
+         "Music"
+        ],
+        "isCompilation": false,
+        "isComplete": true,
+        "isMasteredForItunes": true,
+        "isPrerelease": false,
+        "isSingle": false,
+        "name": "That's Just Me",
+        "playParams": {
+         "id": "6770725355",
+         "kind": "album"
+        },
+        "recordLabel": "Nashville Harbor",
+        "releaseDate": "2026-09-18",
+        "trackCount": 19,
+        "upc": "00843930154364",
+        "url": "https://music.apple.com/us/album/thats-just-me/6770725355"
+       }
+      },
+      {
+       "id": "6813244843",
+       "type": "albums",
+       "href": "/v1/catalog/us/albums/6813244843?l=en-US",
+       "attributes": {
+        "artistName": "Yeat",
+        "artwork": {
+         "bgColor": "e2e2e2",
+         "hasP3": false,
+         "height": 3000,
+         "textColor1": "0b0b0b",
+         "textColor2": "232323",
+         "textColor3": "363636",
+         "textColor4": "494949",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/95/9e/e2/959ee283-8ef9-30d5-1422-595e08bc7517/26UM1IM20013.rgb.jpg/{w}x{h}bb.jpg",
+         "width": 3000
+        },
+        "audioTraits": [
+         "lossless",
+         "lossy-stereo"
+        ],
+        "contentRating": "explicit",
+        "copyright": "Lyfestyle Corporation/Field Trip Recordings/Capitol Records; ℗ 2026 Field Trip Recordings and UMG Recordings, Inc.",
+        "editorialNotes": {
+         "short": "The prolific rap star showcases some subtle skills on this surprise EP.",
+         "standard": "A cocoon suggests a metamorphosis on the horizon, which means yet another evolution might be in store for <b>Yeat</b>, a rapper who is as restless and inventive as he is consistent. The surprise seven-song release dropped in September 2026, just six months after his seismic <i>ADL</i>.\n\nAs all Yeat projects seem to do, <i>COCOON</i> takes the styles and sounds the rapper has popularized in his near-decade on the scene and tweaks them in ways both small and large.\n\nThe lone feature on <i>COCOON</i> comes from <b>Drake</b>, which only further reiterates the plane upon which Yeat is floating these days. Few in the game are as reliably popular, and that’s thanks in large part to his consistency—impactful only because the reliable flow of releases demand attention.\n\nTake <b>“IN2THAT,”</b> which uses a deconstructed beat that highlights the staccato punches of Yeat’s flow pattern, or <b>“TËNNIS,”</b> which features Yeat pitch-shifting his vocals to highlight the emotional range of his delivery. He sings of a relationship that turns hot and cold, spitting: “We go back and forth likе the game of tennis did.” It’s difficult to discern whether the passion in his voice comes from pain or joy, helping to illustrate the complex array of feelings that come with a decidedly rocky relationship.\n\nEven on a surprise release like <i>COCOON</i>, which is seemingly aimed to bridge Yeat from one era to the next, he still takes great pride in the intricacies and details that makes his music both intimately familiar and one of a kind.\n\n<b>Our Favorite Track:</b> How can ya beat Drizzy and Yeat teaming up on <b>“MISS MY DAWG”</b>?",
+         "tagline": "New EP"
+        },
+        "genreNames": [
+         "Hip-Hop",
+         "Music",
+         "Hip-Hop/Rap"
+        ],
+        "isCompilation": false,
+        "isComplete": true,
+        "isMasteredForItunes": true,
+        "isPrerelease": false,
+        "isSingle": false,
+        "name": "COCOON",
+        "playParams": {
+         "id": "6813244843",
+         "kind": "album"
+        },
+        "recordLabel": "Lyfestyle Corporation/Field Trip Recordings/Capitol Records",
+        "releaseDate": "2026-09-18",
+        "trackCount": 7,
+        "upc": "00881061532835",
+        "url": "https://music.apple.com/us/album/cocoon/6813244843"
+       }
+      }
+     ]
+    }
+   }
+  }
+ ]
+}

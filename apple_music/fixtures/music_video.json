@@ -1,0 +1,936 @@
+{
+ "data": [
+  {
+   "id": "1024869937",
+   "type": "music-videos",
+   "href": "/v1/catalog/us/music-videos/1024869937?l=en-US",
+   "attributes": {
+    "artistName": "The Game & Drake",
+    "artwork": {
+     "bgColor": "030000",
+     "hasP3": false,
+     "height": 1008,
+     "textColor1": "e2cebf",
+     "textColor2": "d1b7a8",
+     "textColor3": "b5a598",
+     "textColor4": "a79286",
+     "url": "https://is1-ssl.mzstatic.com/image/thumb/Video5/v4/a1/93/4f/a1934fb7-19ad-edf0-1261-955b26c9b933/USKO11090567.jpg/{w}x{h}mv.jpg",
+     "width": 1920
+    },
+    "contentRating": "explicit",
+    "durationInMillis": 349267,
+    "genreNames": [
+     "Rap"
+    ],
+    "has4K": false,
+    "hasHDR": false,
+    "isrc": "USKO11090567",
+    "name": "100 (feat. Drake)",
+    "playParams": {
+     "id": "1024869937",
+     "kind": "musicVideo"
+    },
+    "previews": [
+     {
+      "artwork": {
+       "bgColor": "1a1310",
+       "hasP3": false,
+       "height": 1004,
+       "textColor1": "c9d2d3",
+       "textColor2": "b5bed0",
+       "textColor3": "a6abac",
+       "textColor4": "969caa",
+       "url": "https://is1-ssl.mzstatic.com/image/thumb/Video128/v4/68/f7/ab/68f7ab22-e5e7-8602-e863-558d78e29e90/Job1c981d31-9437-4e23-9ae1-feb11b31e602-99773584-PreviewImage_preview_image_35000_video_sdr-Time1525451903018.png/{w}x{h}bb.jpg",
+       "width": 1920
+      },
+      "hlsUrl": "https://play-edge.itunes.apple.com/WebObjects/MZPlayLocal.woa/hls/playlist.m3u8?cc=US&a=1024869937&id=52765853&aec=HD&l=en",
+      "url": "https://video-ssl.itunes.apple.com/itunes-assets/Video128/v4/40/14/e5/4014e56b-8101-08a5-940b-ecfc775b7824/mzvf_4323351733737388586.720w.h264lc.U.p.m4v"
+     }
+    ],
+    "releaseDate": "2015-07-30",
+    "url": "https://music.apple.com/us/music-video/100-feat-drake/1024869937",
+    "videoTraits": []
+   },
+   "relationships": {
+    "albums": {
+     "href": "/v1/catalog/us/music-videos/1024869937/albums?l=en-US",
+     "data": []
+    },
+    "artists": {
+     "href": "/v1/catalog/us/music-videos/1024869937/artists?l=en-US",
+     "data": [
+      {
+       "id": "261727947",
+       "type": "artists",
+       "href": "/v1/catalog/us/artists/261727947?l=en-US",
+       "attributes": {
+        "artwork": {
+         "bgColor": "0f1417",
+         "defaultCropCode": "bb",
+         "hasP3": false,
+         "height": 2400,
+         "textColor1": "d8a881",
+         "textColor2": "dd8739",
+         "textColor3": "b08b6c",
+         "textColor4": "b47032",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/64/c2/0c/64c20c32-bd01-0339-8f79-31ef7ba9fb2c/pr_source.png/{w}x{h}bb.jpg",
+         "width": 2400
+        },
+        "genreNames": [
+         "Hip-Hop/Rap"
+        ],
+        "name": "The Game",
+        "url": "https://music.apple.com/us/artist/the-game/261727947"
+       },
+       "relationships": {
+        "albums": {
+         "href": "/v1/catalog/us/artists/261727947/albums?l=en-US",
+         "next": "/v1/catalog/us/artists/261727947/albums?l=en-US&offset=25",
+         "data": [
+          {
+           "id": "1605174349",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1605174349?l=en-US",
+           "attributes": {
+            "artistName": "The Game & Kanye West",
+            "artwork": {
+             "bgColor": "a01600",
+             "hasP3": false,
+             "height": 1600,
+             "textColor1": "faf3f2",
+             "textColor2": "f7a7a7",
+             "textColor3": "e8c7c1",
+             "textColor4": "e68a86",
+             "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d6/b6/99/d6b699ba-3670-13ea-40d2-80035832a34a/859753069594_cover.jpg/{w}x{h}bb.jpg",
+             "width": 1600
+            },
+            "audioTraits": [
+             "atmos",
+             "hi-res-lossless",
+             "lossless"
+            ],
+            "contentRating": "explicit",
+            "copyright": "℗ 2022 100 Entertainment, Inc",
+            "genreNames": [
+             "Hip-Hop/Rap",
+             "Music"
+            ],
+            "isCompilation": false,
+            "isComplete": true,
+            "isMasteredForItunes": false,
+            "isPrerelease": false,
+            "isSingle": true,
+            "name": "Eazy - Single",
+            "playParams": {
+             "id": "1605174349",
+             "kind": "album"
+            },
+            "recordLabel": "100 Entertainment, Inc",
+            "releaseDate": "2022-01-16",
+            "trackCount": 1,
+            "upc": "859753069594",
+            "url": "https://music.apple.com/us/album/eazy-single/1605174349"
+           }
+          },
+          {
+           "id": "1125710913",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1125710913?l=en-US",
+           "attributes": {
+            "artistName": "The Game",
+            "artwork": {
+             "bgColor": "fefefe",
+             "hasP3": false,
+             "height": 1500,
+             "textColor1": "171717",
+             "textColor2": "2b2b2b",
+             "textColor3": "454545",
+             "textColor4": "555555",
+             "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/1a/76/f4/1a76f4d8-e3bc-262f-dfe4-589c33a5ac2a/Game_allEyez_Dirty.jpg/{w}x{h}bb.jpg",
+             "width": 1500
+            },
+            "audioTraits": [
+             "lossless",
+             "lossy-stereo"
+            ],
+            "contentRating": "explicit",
+            "copyright": "℗ 2016 Blood Money & Entertainment One U.S., LP",
+            "genreNames": [
+             "Hip-Hop/Rap",
+             "Music",
+             "R&B/Soul"
+            ],
+            "isCompilation": false,
+            "isComplete": true,
+            "isMasteredForItunes": false,
+            "isPrerelease": false,
+            "isSingle": true,
+            "name": "All Eyez (feat. Jeremih) - Single",
+            "playParams": {
+             "id": "1125710913",
+             "kind": "album"
+            },
+            "recordLabel": "eOne Music",
+            "releaseDate": "2016-06-20",
+            "trackCount": 1,
+            "upc": "634164064624",
+            "url": "https://music.apple.com/us/album/all-eyez-feat-jeremih-single/1125710913"
+           }
+          },
+          {
+           "id": "1012444155",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1012444155?l=en-US",
+           "attributes": {
+            "artistName": "The Game",
+            "artwork": {
+             "bgColor": "971609",
+             "hasP3": false,
+             "height": 1448,
+             "textColor1": "def8f1",
+             "textColor2": "cfebf9",
+             "textColor3": "d0cbc2",
+             "textColor4": "c4c1c9",
+             "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/eb/bd/5a/ebbd5ace-1da9-19b4-f3fb-c4ba89a161fc/099923098720.jpg/{w}x{h}bb.jpg",
+             "width": 1448
+            },
+            "audioTraits": [
+             "lossless",
+             "lossy-stereo"
+            ],
+            "contentRating": "explicit",
+            "copyright": "℗ 2015 Blood Money & Entertainment One U.S., ",
+            "genreNames": [
+             "Hip-Hop/Rap",
+             "Music"
+            ],
+            "isCompilation": false,
+            "isComplete": true,
+            "isMasteredForItunes": false,
+            "isPrerelease": false,
+            "isSingle": true,
+            "name": "100 (feat. Drake) - Single",
+            "playParams": {
+             "id": "1012444155",
+             "kind": "album"
+            },
+            "recordLabel": "eOne Music",
+            "releaseDate": "2015-06-23",
+            "trackCount": 1,
+            "upc": "099923098720",
+            "url": "https://music.apple.com/us/album/100-feat-drake-single/1012444155"
+           }
+          }
+         ]
+        }
+       }
+      },
+      {
+       "id": "271256",
+       "type": "artists",
+       "href": "/v1/catalog/us/artists/271256?l=en-US",
+       "attributes": {
+        "artwork": {
+         "bgColor": "fafafa",
+         "defaultCropCode": "bb",
+         "hasP3": false,
+         "height": 1825,
+         "textColor1": "040404",
+         "textColor2": "161616",
+         "textColor3": "353535",
+         "textColor4": "444444",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages112/v4/1b/71/65/1b716513-b0c1-9c6b-45aa-cbb9198248cc/01607cf1-1d52-43d2-84ce-d6fc1f4a3475_ami-identity-7665599cc626d803af7956b3691905e7-2022-11-30T21-07-19.526Z_cropped.png/{w}x{h}bb.jpg",
+         "width": 1825
+        },
+        "editorialNotes": {
+         "short": "One of the most innovative hip-hop artists in the business."
+        },
+        "genreNames": [
+         "Hip-Hop/Rap"
+        ],
+        "name": "Drake",
+        "url": "https://music.apple.com/us/artist/drake/271256"
+       },
+       "relationships": {
+        "albums": {
+         "href": "/v1/catalog/us/artists/271256/albums?l=en-US",
+         "next": "/v1/catalog/us/artists/271256/albums?l=en-US&offset=25",
+         "data": [
+          {
+           "id": "1418213110",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1418213110?l=en-US",
+           "attributes": {
+            "artistName": "Drake",
+            "artwork": {
+             "bgColor": "2f2f2f",
+             "hasP3": false,
+             "height": 3000,
+             "textColor1": "fdfdfd",
+             "textColor2": "e4e4e4",
+             "textColor3": "d4d4d4",
+             "textColor4": "c0c0c0",
+             "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/1f/37/43/1f374304-2e04-2be3-53ea-41dd6f0b6fb8/00602567892410.rgb.jpg/{w}x{h}bb.jpg",
+             "width": 3000
+            },
+            "audioTraits": [
+             "lossless",
+             "lossy-stereo"
+            ],
+            "contentRating": "explicit",
+            "copyright": "℗ 2018 Young Money/Cash Money Records",
+            "editorialNotes": {
+             "short": "Two sides of a story the OVO boss was born to tell.",
+             "standard": "I HATE WHEN DRAKE RAPS<br />DRAKE SINGS TOO MUCH<br />DRAKE IS A POP ARTIST<br />DRAKE DOESN’T EVEN WRITE HIS OWN SONGS<br />DRAKE TOOK AN L<br />DRAKE DIDN’T START FROM THE BOTTOM<br />DRAKE IS FINISHED<br />I LIKE DRAKE'S OLDER STUFF<br />DRAKE MAKES MUSIC FOR GIRLS<br />DRAKE THINKS HE’S JAMAICAN<br />DRAKE IS AN ACTOR<br />DRAKE CHANGED<br />ANYBODY ELSE > DRAKE …<br /><br />YEAH YEAH WE KNOW"
+            },
+            "genreNames": [
+             "Hip-Hop/Rap",
+             "Music",
+             "Rap"
+            ],
+            "isCompilation": false,
+            "isComplete": true,
+            "isMasteredForItunes": false,
+            "isPrerelease": false,
+            "isSingle": false,
+            "name": "Scorpion",
+            "playParams": {
+             "id": "1418213110",
+             "kind": "album"
+            },
+            "recordLabel": "Cash Money/Drake LP6",
+            "releaseDate": "2018-06-29",
+            "trackCount": 25,
+            "upc": "00602567892410",
+            "url": "https://music.apple.com/us/album/scorpion/1418213110"
+           }
+          },
+          {
+           "id": "1652998965",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1652998965?l=en-US",
+           "attributes": {
+            "artistName": "Drake & 21 Savage",
+            "artwork": {
+             "bgColor": "b198a9",
+             "hasP3": false,
+             "height": 3000,
+             "textColor1": "0c0a12",
+             "textColor2": "1b141f",
+             "textColor3": "2d2630",
+             "textColor4": "392e3b",
+             "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/c7/00/3f/c7003f83-3a43-1201-4aec-41be71ba64c5/22UM1IM29131.rgb.jpg/{w}x{h}bb.jpg",
+             "width": 3000
+            },
+            "audioTraits": [
+             "lossless",
+             "lossy-stereo"
+            ],
+            "contentRating": "explicit",
+            "copyright": "℗ 2022 OVO, under exclusive license to Republic Records, a division of UMG Recordings, Inc",
+            "editorialNotes": {
+             "short": "Her Loss is our gain. The “Jimmy Cooks” duo show up big for each other.",
+             "standard": "Drake and 21 Savage’s <i>Her Loss</i> is the culmination of a relationship that dates at least as far back as 2016, when the pair linked up for “Sneakin’.” Back then, 21 was a burgeoning Atlanta rapper with a lot of promise (and an association with producer of the moment Metro Boomin), while Drake was arguably the most impactful singer and MC in the world and the guy whose co-sign could be counted on to usher bubbling talents into proper rap stardom. Some eight years and three additional collaborations later, 21 Savage is most assuredly a bona fide rap star and Drake is still arguably the most impactful singer and MC in the world, but the 16 tracks that make up <i>Her Loss</i> reveal the pairing as somehow larger than the sum of its parts. \n\nIt was likely <i>Honestly, Nevermind</i> standout “Jimmy Cooks” that inspired, or at the very least prioritized, <i>Her Loss</i>. The song was a stylistic outlier from that album’s house and techno-adjacent dance music thread, allowing Drake and Savage the chance to do what they’ve always enjoyed doing together: rail against entitled love interests, revel in the lifestyle they’ve earned, and, for 21 Savage specifically, remind listeners that his guns still do go off. <i>Her Loss</i> is much of the same, with the pair leaning into a shared disdain for less-accomplished artists (“On BS,” “Privileged Rappers,” “Broke Boys”), sharing their views on contemporary courtship (“Spin Bout U,” “Hours in Silence”), detailing what life as a superstar rapper entails (“Circo Loco,” “Pussy & Millions”), and, in one instance, rapping about how much they appreciate one another (“Treacherous Twins”). The love they profess for one another might at first play as eyebrow-raising, but to question it would be to willfully ignore the notion that laying down raps, like nearly anything else, is just that much more fun with your bestie in tow. ",
+             "tagline": "Recommended Album"
+            },
+            "genreNames": [
+             "Hip-Hop/Rap",
+             "Music"
+            ],
+            "isCompilation": false,
+            "isComplete": true,
+            "isMasteredForItunes": true,
+            "isPrerelease": false,
+            "isSingle": false,
+            "name": "Her Loss",
+            "playParams": {
+             "id": "1652998965",
+             "kind": "album"
+            },
+            "recordLabel": "OVO / Republic Records",
+            "releaseDate": "2022-11-04",
+            "trackCount": 16,
+            "upc": "00602448926067",
+            "url": "https://music.apple.com/us/album/her-loss/1652998965"
+           }
+          },
+          {
+           "id": "1584281467",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1584281467?l=en-US",
+           "attributes": {
+            "artistName": "Drake",
+            "artwork": {
+             "bgColor": "ffffff",
+             "hasP3": false,
+             "height": 3000,
+             "textColor1": "3a2a1e",
+             "textColor2": "39322a",
+             "textColor3": "62544b",
+             "textColor4": "605b55",
+             "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/11/36/38/1136384a-eebc-697a-c005-d890e41c0854/21UM1IM07518.rgb.jpg/{w}x{h}bb.jpg",
+             "width": 3000
+            },
+            "audioTraits": [
+             "lossless",
+             "lossy-stereo"
+            ],
+            "contentRating": "explicit",
+            "copyright": "℗ 2021 OVO, under exclusive license to Republic Records, a division of UMG Recordings, Inc.",
+            "editorialNotes": {
+             "short": "The 6’s favorite son drops LP 6.",
+             "standard": "A combination of toxic masculinity and acceptance of truth which is inevitably heartbreaking. Executive produced by me, Noah “40” Shebib, Oliver El-Khatib, and Noel Cadastre. Dedicated to Nadia Ntuli and Mercedes Morr. RIP 💖 —Drake"
+            },
+            "genreNames": [
+             "Hip-Hop/Rap",
+             "Music"
+            ],
+            "isCompilation": false,
+            "isComplete": true,
+            "isMasteredForItunes": true,
+            "isPrerelease": false,
+            "isSingle": false,
+            "name": "Certified Lover Boy",
+            "playParams": {
+             "id": "1584281467",
+             "kind": "album"
+            },
+            "recordLabel": "OVO",
+            "releaseDate": "2021-09-03",
+            "trackCount": 21,
+            "upc": "00602438865680",
+            "url": "https://music.apple.com/us/album/certified-lover-boy/1584281467"
+           }
+          }
+         ]
+        }
+       }
+      }
+     ]
+    },
+    "genres": {
+     "href": "/v1/catalog/us/music-videos/1024869937/genres?l=en-US",
+     "data": []
+    },
+    "songs": {
+     "href": "/v1/catalog/us/music-videos/1024869937/songs?l=en-US",
+     "data": [
+      {
+       "id": "1012444165",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/1012444165?l=en-US",
+       "attributes": {
+        "albumArtistName": "The Game",
+        "albumName": "100 (feat. Drake) - Single",
+        "artistName": "The Game",
+        "artwork": {
+         "bgColor": "971609",
+         "hasP3": false,
+         "height": 1448,
+         "textColor1": "def8f1",
+         "textColor2": "cfebf9",
+         "textColor3": "d0cbc2",
+         "textColor4": "c4c1c9",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/eb/bd/5a/ebbd5ace-1da9-19b4-f3fb-c4ba89a161fc/099923098720.jpg/{w}x{h}bb.jpg",
+         "width": 1448
+        },
+        "audioLocale": "en-US",
+        "audioTraits": [
+         "lossless",
+         "lossy-stereo"
+        ],
+        "contentRating": "explicit",
+        "discNumber": 1,
+        "durationInMillis": 343077,
+        "genreNames": [
+         "Hip-Hop/Rap",
+         "Music"
+        ],
+        "hasLyrics": true,
+        "hasTimeSyncedLyrics": true,
+        "isAppleDigitalMaster": false,
+        "isMasteredForItunes": false,
+        "isVocalAttenuationAllowed": false,
+        "isrc": "USKO11500831",
+        "name": "100 (feat. Drake)",
+        "playParams": {
+         "id": "1012444165",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/75/4f/96/754f9626-5815-6920-90e8-2c9656d8a3aa/mzaf_982856247622779838.plus.aac.ep.m4a"
+         }
+        ],
+        "releaseDate": "2015-06-23",
+        "trackNumber": 1,
+        "url": "https://music.apple.com/us/album/100-feat-drake/1012444155?i=1012444165"
+       }
+      },
+      {
+       "id": "1018267996",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/1018267996?l=en-US",
+       "attributes": {
+        "albumArtistName": "The Game",
+        "albumName": "100 (feat. Drake) - Single",
+        "artistName": "The Game",
+        "artwork": {
+         "bgColor": "971609",
+         "hasP3": false,
+         "height": 1500,
+         "textColor1": "def8f2",
+         "textColor2": "cdebf9",
+         "textColor3": "d0cbc3",
+         "textColor4": "c2c1c9",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music7/v4/bd/de/98/bdde98e5-7136-d380-668b-a5da6a9ecace/TheGame_100_Clean.jpg/{w}x{h}bb.jpg",
+         "width": 1500
+        },
+        "audioLocale": "en-US",
+        "audioTraits": [
+         "lossless",
+         "lossy-stereo"
+        ],
+        "contentRating": "clean",
+        "discNumber": 1,
+        "durationInMillis": 343077,
+        "genreNames": [
+         "Hip-Hop/Rap",
+         "Music"
+        ],
+        "hasLyrics": true,
+        "hasTimeSyncedLyrics": true,
+        "isAppleDigitalMaster": false,
+        "isMasteredForItunes": false,
+        "isVocalAttenuationAllowed": false,
+        "isrc": "USKO11500832",
+        "name": "100 (feat. Drake)",
+        "playParams": {
+         "id": "1018267996",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/59/53/14/595314a9-e92c-0bc9-4388-ad75f2d25e69/mzaf_1415487724814060695.plus.aac.ep.m4a"
+         }
+        ],
+        "releaseDate": "2015-06-23",
+        "trackNumber": 1,
+        "url": "https://music.apple.com/us/album/100-feat-drake/1018267995?i=1018267996"
+       }
+      },
+      {
+       "id": "1040340673",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/1040340673?l=en-US",
+       "attributes": {
+        "albumArtistName": "The Game",
+        "albumName": "The Documentary 2",
+        "artistName": "The Game",
+        "artwork": {
+         "bgColor": "bfbebb",
+         "hasP3": false,
+         "height": 1500,
+         "textColor1": "040404",
+         "textColor2": "111111",
+         "textColor3": "292929",
+         "textColor4": "343433",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/04/d7/de/04d7de82-0334-b0c0-02d8-cf1e9a6852c7/TheGame_Documentary2_Cover1500px_DIRTY.jpg/{w}x{h}bb.jpg",
+         "width": 1516
+        },
+        "audioLocale": "en-US",
+        "audioTraits": [
+         "lossless",
+         "lossy-stereo"
+        ],
+        "contentRating": "explicit",
+        "discNumber": 1,
+        "durationInMillis": 334360,
+        "genreNames": [
+         "Hip-Hop/Rap",
+         "Music"
+        ],
+        "hasLyrics": true,
+        "hasTimeSyncedLyrics": true,
+        "isAppleDigitalMaster": false,
+        "isMasteredForItunes": false,
+        "isVocalAttenuationAllowed": false,
+        "isrc": "USKO11500831",
+        "name": "100 (feat. Drake)",
+        "playParams": {
+         "id": "1040340673",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0a/ea/b1/0aeab186-32aa-0cf0-4ef5-45ccbadb1017/mzaf_2584441549146952201.plus.aac.ep.m4a"
+         }
+        ],
+        "releaseDate": "2015-06-25",
+        "trackNumber": 17,
+        "url": "https://music.apple.com/us/album/100-feat-drake/1040340334?i=1040340673"
+       }
+      }
+     ]
+    }
+   },
+   "views": {
+    "more-by-artist": {
+     "href": "/v1/catalog/us/music-videos/1024869937/view/more-by-artist?l=en-US",
+     "next": "/v1/catalog/us/music-videos/1024869937/view/more-by-artist?l=en-US&offset=15",
+     "attributes": {
+      "title": "More By The Game"
+     },
+     "data": [
+      {
+       "id": "1146083223",
+       "type": "music-videos",
+       "href": "/v1/catalog/us/music-videos/1146083223?l=en-US",
+       "attributes": {
+        "artistName": "The Game",
+        "artwork": {
+         "bgColor": "7ac2da",
+         "hasP3": false,
+         "height": 796,
+         "textColor1": "051924",
+         "textColor2": "192e22",
+         "textColor3": "1d3a48",
+         "textColor4": "2c4c47",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Video52/v4/f6/e0/dd/f6e0ddfc-2496-7d38-001b-f15cb29ff27a/USKO11090697.jpg/{w}x{h}mv.jpg",
+         "width": 1920
+        },
+        "contentRating": "explicit",
+        "durationInMillis": 215659,
+        "genreNames": [
+         "Rap"
+        ],
+        "has4K": false,
+        "hasHDR": false,
+        "isrc": "USKO11090697",
+        "name": "All Eyez",
+        "playParams": {
+         "id": "1146083223",
+         "kind": "musicVideo"
+        },
+        "previews": [
+         {
+          "artwork": {
+           "bgColor": "000000",
+           "hasP3": false,
+           "height": 1080,
+           "textColor1": "c5f4f1",
+           "textColor2": "d2cfb2",
+           "textColor3": "a2c9c6",
+           "textColor4": "acaa92",
+           "url": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/b1/d1/5d/b1d15d69-fb3a-999f-d71a-2af0424671b4/Job089c12e0-ede3-4d70-a4e5-1ad3e701fbc1-219814322-PreviewImage_preview_image_66000_video_sdr-Time1772568687545.png/{w}x{h}bb.jpg",
+           "width": 1920
+          },
+          "hlsUrl": "https://play-edge.itunes.apple.com/WebObjects/MZPlayLocal.woa/hls/playlist.m3u8?cc=US&a=1146083223&id=1287844945&aec=HD&l=en",
+          "url": "https://video-ssl.itunes.apple.com/itunes-assets/Video221/v4/54/2f/b2/542fb255-ad0e-4726-1a9c-266a1cce07a0/mzvf_13748889164210331972.720w.h264lc.U.p.m4v"
+         }
+        ],
+        "releaseDate": "2016-08-16",
+        "url": "https://music.apple.com/us/music-video/all-eyez/1146083223",
+        "videoTraits": []
+       }
+      },
+      {
+       "id": "6794260352",
+       "type": "music-videos",
+       "href": "/v1/catalog/us/music-videos/6794260352?l=en-US",
+       "attributes": {
+        "artistName": "YG, The Game, Kamaiyah & Chef Boy",
+        "artwork": {
+         "bgColor": "3f1d25",
+         "hasP3": false,
+         "height": 1080,
+         "textColor1": "ddd1d4",
+         "textColor2": "da5c7a",
+         "textColor3": "bdadb1",
+         "textColor4": "bb4f69",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/12/f3/8a/12f38a2b-ae7c-cc74-c2f8-f09b594ae3fe/VERZUZ-YG_x_TheGame_VOD_02_05_08.png/{w}x{h}mv.jpg",
+         "width": 1920
+        },
+        "contentRating": "explicit",
+        "durationInMillis": 7613952,
+        "editorialNotes": {
+         "short": "The YG and The Game VERZUZ was LA rap perfection."
+        },
+        "genreNames": [
+         "Hip-Hop/Rap"
+        ],
+        "has4K": false,
+        "hasHDR": false,
+        "isrc": "US23A8865846",
+        "name": "VERZUZ: YG x The Game (Live)",
+        "playParams": {
+         "id": "6794260352",
+         "kind": "musicVideo"
+        },
+        "previews": [
+         {
+          "artwork": {
+           "bgColor": "201b1c",
+           "hasP3": false,
+           "height": 1080,
+           "textColor1": "c6f4d8",
+           "textColor2": "f8877f",
+           "textColor3": "a8cdb7",
+           "textColor4": "d2736d",
+           "url": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/37/ed/b4/37edb44b-a564-c619-6fa9-a3970bc355ab/Joba11d0ac2-8feb-4f03-b239-7f8a9bc3f7c7-238989309-PreviewImage_preview_image_45000_video_sdr-Time1786476313853.png/{w}x{h}bb.jpg",
+           "width": 1920
+          },
+          "hlsUrl": "https://play-edge.itunes.apple.com/WebObjects/MZPlayLocal.woa/hls/playlist.m3u8?cc=US&a=6794260352&id=1469408182&aec=HD&l=en",
+          "url": "https://video-ssl.itunes.apple.com/itunes-assets/Video211/v4/49/95/66/499566af-e14d-4ede-4ef2-1a9ef51ba2a3/mzvf_615637394268809453.720w.h264lc.U.p.m4v"
+         }
+        ],
+        "releaseDate": "2026-07-23",
+        "url": "https://music.apple.com/us/music-video/verzuz-yg-x-the-game-live/6794260352",
+        "videoTraits": []
+       }
+      },
+      {
+       "id": "1612720057",
+       "type": "music-videos",
+       "href": "/v1/catalog/us/music-videos/1612720057?l=en-US",
+       "attributes": {
+        "artistName": "The Game & Kanye West",
+        "artwork": {
+         "bgColor": "0f1a2c",
+         "hasP3": false,
+         "height": 1080,
+         "textColor1": "fefefc",
+         "textColor2": "f99e64",
+         "textColor3": "ced0d2",
+         "textColor4": "ca8359",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Video116/v4/e1/35/5c/e1355cf1-faac-b15f-971c-ed86f45c1e86/610012525240_cover.jpg/{w}x{h}mv.jpg",
+         "width": 1920
+        },
+        "contentRating": "explicit",
+        "durationInMillis": 234280,
+        "genreNames": [
+         "Hip-Hop/Rap"
+        ],
+        "has4K": false,
+        "hasHDR": false,
+        "isrc": "QZQAY2234891",
+        "name": "Eazy (Animation Video)",
+        "playParams": {
+         "id": "1612720057",
+         "kind": "musicVideo"
+        },
+        "previews": [
+         {
+          "artwork": {
+           "bgColor": "000000",
+           "hasP3": false,
+           "height": 1080,
+           "textColor1": "e9e3e6",
+           "textColor2": "c5bbbe",
+           "textColor3": "bab6b8",
+           "textColor4": "9e9598",
+           "url": "https://is1-ssl.mzstatic.com/image/thumb/Video126/v4/d8/fd/6c/d8fd6c9e-3e7a-6eb0-9201-79c0b8b41789/Job9ca12aad-93fb-4617-93e3-0c49b8afc25b-129396952-PreviewImage_preview_image_45000_video_sdr-Time1646350680298.png/{w}x{h}bb.jpg",
+           "width": 1920
+          },
+          "hlsUrl": "https://play-edge.itunes.apple.com/WebObjects/MZPlayLocal.woa/hls/playlist.m3u8?cc=US&a=1612720057&id=387884423&aec=HD&l=en",
+          "url": "https://video-ssl.itunes.apple.com/itunes-assets/Video126/v4/54/b4/6e/54b46e9b-c1f4-de12-90ee-16dfe4e01a19/mzvf_11248688902684921990.720w.h264lc.U.p.m4v"
+         }
+        ],
+        "releaseDate": "2022-03-09",
+        "url": "https://music.apple.com/us/music-video/eazy-animation-video/1612720057",
+        "videoTraits": []
+       }
+      }
+     ]
+    },
+    "more-in-genre": {
+     "href": "/v1/catalog/us/music-videos/1024869937/view/more-in-genre?l=en-US",
+     "next": "/v1/catalog/us/music-videos/1024869937/view/more-in-genre?l=en-US&offset=15",
+     "attributes": {
+      "title": "You Might Also Like"
+     },
+     "data": [
+      {
+       "id": "6781873414",
+       "type": "music-videos",
+       "href": "/v1/catalog/us/music-videos/6781873414?l=en-US",
+       "attributes": {
+        "albumArtistName": "Rod Wave",
+        "albumName": "Don't Look Down",
+        "artistName": "Rod Wave",
+        "artwork": {
+         "bgColor": "c0b29c",
+         "hasP3": false,
+         "height": 2160,
+         "textColor1": "0d0a08",
+         "textColor2": "2f1a07",
+         "textColor3": "302b25",
+         "textColor4": "4c3824",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/39/24/69/39246901-a9c5-3ad2-43b0-647fa835d39f/1968745413570125.jpg/{w}x{h}mv.jpg",
+         "width": 3840
+        },
+        "contentRating": "explicit",
+        "discNumber": 1,
+        "durationInMillis": 384598,
+        "genreNames": [
+         "Rap"
+        ],
+        "has4K": true,
+        "hasHDR": false,
+        "isrc": "USQX92603564",
+        "name": "Piece Of Your Love",
+        "playParams": {
+         "id": "6781873414",
+         "kind": "musicVideo"
+        },
+        "previews": [
+         {
+          "artwork": {
+           "bgColor": "000000",
+           "hasP3": false,
+           "height": 1440,
+           "textColor1": "f3f3f3",
+           "textColor2": "e8e8e8",
+           "textColor3": "c8c8c8",
+           "textColor4": "bfbfbf",
+           "url": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/29/55/b4/2955b4c2-58c4-a9aa-8cfd-4556601427fe/Jobcce2adf1-81a2-4b74-a8ac-58b02c14968b-241781330-PreviewImage_preview_image_0_video_sdr-Time1788227836303.png/{w}x{h}bb.jpg",
+           "width": 3840
+          },
+          "hlsUrl": "https://play-edge.itunes.apple.com/WebObjects/MZPlayLocal.woa/hls/playlist.m3u8?cc=US&a=6781873414&id=1482644676&aec=HD&l=en",
+          "url": "https://video-ssl.itunes.apple.com/itunes-assets/Video221/v4/d4/b6/76/d4b67622-0cfc-0dc0-e10a-479af727d5a9/mzvf_10863292891889582584.720w.h264lc.U.p.m4v"
+         }
+        ],
+        "releaseDate": "2026-06-25",
+        "trackNumber": 25,
+        "url": "https://music.apple.com/us/music-video/piece-of-your-love/6781873414",
+        "videoTraits": [
+         "4K"
+        ]
+       }
+      },
+      {
+       "id": "6781873415",
+       "type": "music-videos",
+       "href": "/v1/catalog/us/music-videos/6781873415?l=en-US",
+       "attributes": {
+        "albumArtistName": "Rod Wave",
+        "albumName": "Don't Look Down",
+        "artistName": "Rod Wave",
+        "artwork": {
+         "bgColor": "131e1e",
+         "hasP3": false,
+         "height": 2160,
+         "textColor1": "c1dba8",
+         "textColor2": "bbcb96",
+         "textColor3": "9eb58d",
+         "textColor4": "9aa87e",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/c5/bd/ab/c5bdab48-ee3c-9baa-5c42-c485644dea49/1968745413570126.jpg/{w}x{h}mv.jpg",
+         "width": 3840
+        },
+        "contentRating": "explicit",
+        "discNumber": 1,
+        "durationInMillis": 148118,
+        "genreNames": [
+         "Rap"
+        ],
+        "has4K": true,
+        "hasHDR": false,
+        "isrc": "USQX92603565",
+        "name": "Hustle",
+        "playParams": {
+         "id": "6781873415",
+         "kind": "musicVideo"
+        },
+        "previews": [
+         {
+          "artwork": {
+           "bgColor": "000000",
+           "hasP3": false,
+           "height": 2160,
+           "textColor1": "f3f3f3",
+           "textColor2": "e8e8e8",
+           "textColor3": "c8c8c8",
+           "textColor4": "bfbfbf",
+           "url": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/64/9a/6d/649a6d5c-3c7a-e255-df9d-61618adb7b86/Job4a3dc660-e503-478f-ba77-ed5e683e1376-241781338-PreviewImage_preview_image_0_video_sdr-Time1788227702761.png/{w}x{h}bb.jpg",
+           "width": 3840
+          },
+          "hlsUrl": "https://play-edge.itunes.apple.com/WebObjects/MZPlayLocal.woa/hls/playlist.m3u8?cc=US&a=6781873415&id=1482642404&aec=HD&l=en",
+          "url": "https://video-ssl.itunes.apple.com/itunes-assets/Video221/v4/25/8d/6a/258d6a33-23f6-29d6-1a40-1f874bd8b223/mzvf_7962218079266298241.720w.h264lc.U.p.m4v"
+         }
+        ],
+        "releaseDate": "2026-08-28",
+        "trackNumber": 26,
+        "url": "https://music.apple.com/us/music-video/hustle/6781873415",
+        "videoTraits": [
+         "4K"
+        ]
+       }
+      },
+      {
+       "id": "6781873417",
+       "type": "music-videos",
+       "href": "/v1/catalog/us/music-videos/6781873417?l=en-US",
+       "attributes": {
+        "albumArtistName": "Rod Wave",
+        "albumName": "Don't Look Down",
+        "artistName": "Rod Wave",
+        "artwork": {
+         "bgColor": "01000b",
+         "hasP3": false,
+         "height": 2160,
+         "textColor1": "f2a29a",
+         "textColor2": "f62808",
+         "textColor3": "c2817d",
+         "textColor4": "c52009",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/ce/84/c2/ce84c2e0-2109-9dd8-9c2a-e442b7d57517/1968745413570127.jpg/{w}x{h}mv.jpg",
+         "width": 3840
+        },
+        "discNumber": 1,
+        "durationInMillis": 183872,
+        "genreNames": [
+         "Rap"
+        ],
+        "has4K": true,
+        "hasHDR": false,
+        "isrc": "USQX92603666",
+        "name": "Feed The Streets",
+        "playParams": {
+         "id": "6781873417",
+         "kind": "musicVideo"
+        },
+        "previews": [
+         {
+          "artwork": {
+           "bgColor": "000000",
+           "hasP3": false,
+           "height": 1728,
+           "textColor1": "f3f3f3",
+           "textColor2": "e8e8e8",
+           "textColor3": "c8c8c8",
+           "textColor4": "bfbfbf",
+           "url": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/76/a0/92/76a0928c-f84e-57a2-202f-e8d72a5880c5/Job718e621e-12b1-4a36-a36e-973bd0e76569-241781302-PreviewImage_preview_image_0_video_sdr-Time1788227698104.png/{w}x{h}bb.jpg",
+           "width": 3840
+          },
+          "hlsUrl": "https://play-edge.itunes.apple.com/WebObjects/MZPlayLocal.woa/hls/playlist.m3u8?cc=US&a=6781873417&id=1482643347&aec=HD&l=en",
+          "url": "https://video-ssl.itunes.apple.com/itunes-assets/Video221/v4/29/71/d3/2971d3fe-c4ed-73c6-581d-ca71371c9365/mzvf_14472886157998785615.720w.h264lc.U.p.m4v"
+         }
+        ],
+        "releaseDate": "2026-08-28",
+        "trackNumber": 27,
+        "url": "https://music.apple.com/us/music-video/feed-the-streets/6781873417",
+        "videoTraits": [
+         "4K"
+        ]
+       }
+      }
+     ]
+    }
+   },
+   "meta": {
+    "views": {
+     "order": []
+    }
+   }
+  }
+ ]
+}

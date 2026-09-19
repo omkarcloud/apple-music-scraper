@@ -1,0 +1,1614 @@
+{
+ "data": [
+  {
+   "id": "1440841363",
+   "type": "albums",
+   "href": "/v1/catalog/us/albums/1440841363?l=en-US",
+   "attributes": {
+    "artistName": "Drake",
+    "artwork": {
+     "bgColor": "46535d",
+     "hasP3": false,
+     "height": 3000,
+     "textColor1": "e9f6f9",
+     "textColor2": "dfeef7",
+     "textColor3": "c8d5d9",
+     "textColor4": "c0cfd8",
+     "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f2/0d/8b/f20d8bff-a927-ae98-6784-20a1f51cb23e/16UMGIM27642.rgb.jpg/{w}x{h}bb.jpg",
+     "width": 3000
+    },
+    "audioTraits": [
+     "lossless",
+     "lossy-stereo"
+    ],
+    "contentRating": "explicit",
+    "copyright": "℗ 2016 Young Money Entertainment/Cash Money Records",
+    "editorialNotes": {
+     "short": "“Views already a classic.” He knew before he even delivered it.",
+     "standard": "On the cover of his fourth studio album <i>Views</i>, Drake looks down from atop Toronto’s CN Tower, paying homage to the city’s notoriously frigid winter temperatures in a heavyweight shearling coat and high-cut boots. He looks less like the superhero he’d made himself into over the course of a roughly six-year rise as singer-songwriter extraordinaire and more like a troubled monarch. <i>Views</i>, which followed two wildly successful projects in 2015 that he’d branded as mixtapes—<i>If You’re Reading This It’s Too Late</i> and the Future collab <i>What a Time to Be Alive</i>—would confirm him as both, his penchant for immaculate songwriting still fully intact and the pressures of existing as the most popular voice in rap, as well as his hometown’s most successful export, weighing heavy on his mind.\n\n“I made a decision last night that I would die for it,” Drake raps on “9.” “Just to show the city what it takes to be alive for it.” Drake’s presence eclipsed Toronto just about as soon as <i>So Far Gone</i> dropped, but the city—and what it thinks of him—was never far from his mind. There are references here to specific people (“Redemption”), places (“Weston Road Flows”), and experiences (“Views”), along with nods to the influence of the city’s Caribbean population on “With You,” “Controlla,” and “Too Good” (which just happens to feature Rihanna).\n\nHe isn’t too much for the world, though, ruminating on his position as one of music’s biggest names—and those who’d rather he wasn’t—on songs like “Still Here,” “Hype,” and “Grammys.” Maybe the the most affecting acknowledgment to this end is the fact that “Hotline Bling,” a strong contender for 2015 song of the summer, was such an afterthought by the time <i>Views</i> was released that it appears here as a bonus track. For all intents and purposes, the Drake of <i>Views</i> is the same one we got on <i>If You’re Reading This</i> and <i>What a Time</i>, but if his previous proper album (<i>Nothing Was the Same</i>) foretold anything, it’s that the man peering down from CN Tower sees things differently than the rest of us."
+    },
+    "editorialVideo": {
+     "motionDetailSquare": {
+      "previewFrame": {
+       "bgColor": "4f5a62",
+       "hasP3": false,
+       "height": 3840,
+       "textColor1": "e6f3f8",
+       "textColor2": "c1e5f8",
+       "textColor3": "c8d4da",
+       "textColor4": "aac9da",
+       "url": "https://is1-ssl.mzstatic.com/image/thumb/Video125/v4/44/53/30/44533084-baab-3980-38be-fbf076bf868c/Job49a2e3a2-fee1-48d2-a435-2d448390c6ec-112368966-PreviewImage_PreviewImageIntermediate_preview_image_nonvideo_vfcs132588481-Time1619642569296.png/{w}x{h}bb.jpg",
+       "width": 3840
+      },
+      "video": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic126/v4/16/45/20/16452040-e2c6-f354-0671-04536e2db0f6/P359423782_default.m3u8"
+     },
+     "motionDetailTall": {
+      "previewFrame": {
+       "bgColor": "47535a",
+       "hasP3": false,
+       "height": 2732,
+       "textColor1": "e4f3f8",
+       "textColor2": "d6e9f6",
+       "textColor3": "c5d3d8",
+       "textColor4": "bacbd6",
+       "url": "https://is1-ssl.mzstatic.com/image/thumb/Video125/v4/57/65/34/57653444-fb9e-9c69-a4fb-21927780767f/Job318acfd4-edf3-4cf2-bebf-cbf7670210a1-112368743-PreviewImage_preview_image_nonvideo_sdr-Time1619642497317.png/{w}x{h}bb.jpg",
+       "width": 2048
+      },
+      "video": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic116/v4/74/d9/57/74d95708-a0f9-6254-2bb0-c231d03e9bc7/P359424003_default.m3u8"
+     },
+     "motionSquareVideo1x1": {
+      "previewFrame": {
+       "bgColor": "4f5a62",
+       "hasP3": false,
+       "height": 3840,
+       "textColor1": "e6f3f8",
+       "textColor2": "c1e5f8",
+       "textColor3": "c8d4da",
+       "textColor4": "aac9da",
+       "url": "https://is1-ssl.mzstatic.com/image/thumb/Video125/v4/90/e9/ee/90e9eee2-1a89-afe5-07af-00bb7f9e8c65/Jobbb1a603a-6961-49ab-9cc4-db6aecac35ba-112368744-PreviewImage_preview_image_nonvideo_sdr-Time1619642546149.png/{w}x{h}bb.jpg",
+       "width": 3840
+      },
+      "video": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic116/v4/50/d3/8e/50d38ee5-1919-1c48-1543-d1f85194408f/P359423748_default.m3u8"
+     },
+     "motionTallVideo3x4": {
+      "previewFrame": {
+       "bgColor": "47535a",
+       "hasP3": false,
+       "height": 2732,
+       "textColor1": "e4f3f8",
+       "textColor2": "d6e9f6",
+       "textColor3": "c5d3d8",
+       "textColor4": "bacbd6",
+       "url": "https://is1-ssl.mzstatic.com/image/thumb/Video125/v4/57/65/34/57653444-fb9e-9c69-a4fb-21927780767f/Job318acfd4-edf3-4cf2-bebf-cbf7670210a1-112368743-PreviewImage_preview_image_nonvideo_sdr-Time1619642497317.png/{w}x{h}bb.jpg",
+       "width": 2048
+      },
+      "video": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic116/v4/74/d9/57/74d95708-a0f9-6254-2bb0-c231d03e9bc7/P359424003_default.m3u8"
+     }
+    },
+    "genreNames": [
+     "Hip-Hop/Rap",
+     "Music"
+    ],
+    "isCompilation": false,
+    "isComplete": true,
+    "isMasteredForItunes": true,
+    "isPrerelease": false,
+    "isSingle": false,
+    "name": "Views",
+    "plainEditorialNotes": {
+     "short": "“Views already a classic.” He knew before he even delivered it.",
+     "standard": "On the cover of his fourth studio album Views, Drake looks down from atop Toronto’s CN Tower, paying homage to the city’s notoriously frigid winter temperatures in a heavyweight shearling coat and high-cut boots. He looks less like the superhero he’d made himself into over the course of a roughly six-year rise as singer-songwriter extraordinaire and more like a troubled monarch. Views, which followed two wildly successful projects in 2015 that he’d branded as mixtapes—If You’re Reading This It’s Too Late and the Future collab What a Time to Be Alive—would confirm him as both, his penchant for immaculate songwriting still fully intact and the pressures of existing as the most popular voice in rap, as well as his hometown’s most successful export, weighing heavy on his mind.\n\n“I made a decision last night that I would die for it,” Drake raps on “9.” “Just to show the city what it takes to be alive for it.” Drake’s presence eclipsed Toronto just about as soon as So Far Gone dropped, but the city—and what it thinks of him—was never far from his mind. There are references here to specific people (“Redemption”), places (“Weston Road Flows”), and experiences (“Views”), along with nods to the influence of the city’s Caribbean population on “With You,” “Controlla,” and “Too Good” (which just happens to feature Rihanna).\n\nHe isn’t too much for the world, though, ruminating on his position as one of music’s biggest names—and those who’d rather he wasn’t—on songs like “Still Here,” “Hype,” and “Grammys.” Maybe the the most affecting acknowledgment to this end is the fact that “Hotline Bling,” a strong contender for 2015 song of the summer, was such an afterthought by the time Views was released that it appears here as a bonus track. For all intents and purposes, the Drake of Views is the same one we got on If You’re Reading This and What a Time, but if his previous proper album (Nothing Was the Same) foretold anything, it’s that the man peering down from CN Tower sees things differently than the rest of us."
+    },
+    "playParams": {
+     "id": "1440841363",
+     "kind": "album"
+    },
+    "recordLabel": "Cash Money Records/Young Money Ent./Universal Rec.",
+    "releaseDate": "2016-04-29",
+    "trackCount": 20,
+    "upc": "00602547943491",
+    "url": "https://music.apple.com/us/album/views/1440841363"
+   },
+   "relationships": {
+    "artists": {
+     "href": "/v1/catalog/us/albums/1440841363/artists?l=en-US",
+     "data": [
+      {
+       "id": "271256",
+       "type": "artists",
+       "href": "/v1/catalog/us/artists/271256?l=en-US",
+       "attributes": {
+        "artwork": {
+         "bgColor": "fafafa",
+         "defaultCropCode": "bb",
+         "hasP3": false,
+         "height": 1825,
+         "textColor1": "040404",
+         "textColor2": "161616",
+         "textColor3": "353535",
+         "textColor4": "444444",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages112/v4/1b/71/65/1b716513-b0c1-9c6b-45aa-cbb9198248cc/01607cf1-1d52-43d2-84ce-d6fc1f4a3475_ami-identity-7665599cc626d803af7956b3691905e7-2022-11-30T21-07-19.526Z_cropped.png/{w}x{h}bb.jpg",
+         "width": 1825
+        },
+        "editorialNotes": {
+         "short": "One of the most innovative hip-hop artists in the business."
+        },
+        "editorialVideo": {
+         "motionArtistFullscreen16x9": {
+          "previewFrame": {
+           "bgColor": "070709",
+           "hasP3": false,
+           "height": 2160,
+           "textColor1": "c0ccc6",
+           "textColor2": "c7b3a0",
+           "textColor3": "9ba4a0",
+           "textColor4": "a19182",
+           "url": "https://is1-ssl.mzstatic.com/image/thumb/Video126/v4/64/ed/92/64ed9205-11a1-0947-1540-65b13ee43d73/Jobcf3e0457-a47e-4e6b-abab-f6060213d143-157150531-PreviewImage_preview_image_nonvideo_sdr-Time1697220031316.png/{w}x{h}bb.jpg",
+           "width": 3840
+          },
+          "video": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic116/v4/f3/f1/9a/f3f19abd-6e9c-d700-dc42-0c223c6e483e/P633404207_default.m3u8"
+         },
+         "motionArtistSquare1x1": {
+          "previewFrame": {
+           "bgColor": "08080b",
+           "hasP3": false,
+           "height": 3840,
+           "textColor1": "c6d0ca",
+           "textColor2": "bac6c0",
+           "textColor3": "a0a8a4",
+           "textColor4": "96a09b",
+           "url": "https://is1-ssl.mzstatic.com/image/thumb/Video126/v4/0a/51/61/0a5161eb-fe94-7950-c1e2-edc0fb8adfd4/Job453ad630-3bc5-48dc-a34b-5758ed1acbde-157150532-PreviewImage_preview_image_nonvideo_sdr-Time1697220042859.png/{w}x{h}bb.jpg",
+           "width": 3840
+          },
+          "video": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic116/v4/85/94/02/8594029e-168e-818e-2431-938de56f845a/P633407077_default.m3u8"
+         },
+         "motionArtistWide16x9": {
+          "previewFrame": {
+           "bgColor": "070709",
+           "hasP3": false,
+           "height": 2160,
+           "textColor1": "c0ccc6",
+           "textColor2": "c7b3a0",
+           "textColor3": "9ba4a0",
+           "textColor4": "a19182",
+           "url": "https://is1-ssl.mzstatic.com/image/thumb/Video126/v4/64/ed/92/64ed9205-11a1-0947-1540-65b13ee43d73/Jobcf3e0457-a47e-4e6b-abab-f6060213d143-157150531-PreviewImage_preview_image_nonvideo_sdr-Time1697220031316.png/{w}x{h}bb.jpg",
+           "width": 3840
+          },
+          "video": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic116/v4/f3/f1/9a/f3f19abd-6e9c-d700-dc42-0c223c6e483e/P633404207_default.m3u8"
+         }
+        },
+        "genreNames": [
+         "Hip-Hop/Rap"
+        ],
+        "name": "Drake",
+        "plainEditorialNotes": {
+         "short": "One of the most innovative hip-hop artists in the business."
+        },
+        "url": "https://music.apple.com/us/artist/drake/271256"
+       },
+       "relationships": {
+        "albums": {
+         "href": "/v1/catalog/us/artists/271256/albums?l=en-US",
+         "next": "/v1/catalog/us/artists/271256/albums?l=en-US&offset=25",
+         "data": [
+          {
+           "id": "1418213110",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1418213110?l=en-US"
+          },
+          {
+           "id": "1652998965",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1652998965?l=en-US"
+          },
+          {
+           "id": "1584281467",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1584281467?l=en-US"
+          }
+         ]
+        }
+       }
+      }
+     ]
+    },
+    "genres": {
+     "href": "/v1/catalog/us/albums/1440841363/genres?l=en-US",
+     "data": [
+      {
+       "id": "18",
+       "type": "genres",
+       "href": "/v1/catalog/us/genres/18?l=en-US",
+       "attributes": {
+        "name": "Hip-Hop/Rap",
+        "parentId": "34",
+        "parentName": "Music",
+        "url": "https://itunes.apple.com/us/genre/id18"
+       }
+      },
+      {
+       "id": "34",
+       "type": "genres",
+       "href": "/v1/catalog/us/genres/34?l=en-US",
+       "attributes": {
+        "name": "Music",
+        "url": "https://itunes.apple.com/us/genre/id34"
+       }
+      }
+     ]
+    },
+    "record-labels": {
+     "href": "/v1/catalog/us/albums/1440841363/record-labels?l=en-US",
+     "data": [
+      {
+       "id": "1556910899",
+       "type": "record-labels",
+       "href": "/v1/catalog/us/record-labels/1556910899?l=en-US",
+       "attributes": {
+        "artwork": {
+         "bgColor": "000000",
+         "hasP3": false,
+         "height": 1080,
+         "textColor1": "efefef",
+         "textColor2": "c8c8c8",
+         "textColor3": "b5b5b5",
+         "textColor4": "989898",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/58/d0/70/58d070ba-7c62-9992-ef94-e5d2ffa1286f/QkwtTVMtV1ctQ2FzaF9Nb25leS1BREFNX0lEPTE1NTY5MTA4OTkucG5n.png/{w}x{h}bb.jpg",
+         "width": 1080
+        },
+        "description": {
+         "standard": "Since 1991, Brothers Bryan \"Birdman\" Williams and Ronald \"Slim\" Williams have built Cash Money Records into a legendary force in the industry. Through tireless devotion and an unparalleled work ethic, the duo founded the legendary label in the New Orleans housing projects and elevated it into a multimillion-dollar empire and cultural tastemaker. (From the label)"
+        },
+        "editorialArtwork": {
+         "bannerUber": {
+          "bgColor": "000000",
+          "hasP3": false,
+          "height": 1080,
+          "textColor1": "efefef",
+          "textColor2": "c9c9c9",
+          "textColor3": "b5b5b5",
+          "textColor4": "999999",
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Features124/v4/a9/fe/bf/a9febf43-0ecb-0ee4-eb06-2d32aae6c366/QlUtTVMtV1ctQ2FzaF9Nb25leS1BREFNX0lEPTE1NTY5MTA4OTkucG5n.png/{w}x{h}sr.jpg",
+          "width": 4320
+         },
+         "brandLogo": {
+          "bgColor": "000000",
+          "hasP3": false,
+          "height": 1080,
+          "textColor1": "efefef",
+          "textColor2": "c8c8c8",
+          "textColor3": "b5b5b5",
+          "textColor4": "989898",
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/58/d0/70/58d070ba-7c62-9992-ef94-e5d2ffa1286f/QkwtTVMtV1ctQ2FzaF9Nb25leS1BREFNX0lEPTE1NTY5MTA4OTkucG5n.png/{w}x{h}bb.jpg",
+          "width": 1080
+         }
+        },
+        "name": "Cash Money",
+        "url": "https://music.apple.com/us/label/cash-money/1556910899"
+       }
+      }
+     ]
+    },
+    "tracks": {
+     "href": "/v1/catalog/us/albums/1440841363/tracks?l=en-US",
+     "data": [
+      {
+       "id": "1440841367",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/1440841367?l=en-US",
+       "attributes": {
+        "albumArtistName": "Drake",
+        "albumName": "Views",
+        "artistName": "Drake",
+        "artwork": {
+         "bgColor": "46535d",
+         "hasP3": false,
+         "height": 3000,
+         "textColor1": "e9f6f9",
+         "textColor2": "dfeef7",
+         "textColor3": "c8d5d9",
+         "textColor4": "c0cfd8",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f2/0d/8b/f20d8bff-a927-ae98-6784-20a1f51cb23e/16UMGIM27642.rgb.jpg/{w}x{h}bb.jpg",
+         "width": 3000
+        },
+        "audioLocale": "en-US",
+        "audioTraits": [
+         "lossless",
+         "lossy-stereo"
+        ],
+        "composerName": "Aubrey Drake Graham & Maneesh Bidaye",
+        "contentRating": "explicit",
+        "discNumber": 1,
+        "durationInMillis": 328910,
+        "genreNames": [
+         "Hip-Hop/Rap",
+         "Music"
+        ],
+        "hasLyrics": true,
+        "hasTimeSyncedLyrics": true,
+        "isAppleDigitalMaster": true,
+        "isMasteredForItunes": true,
+        "isVocalAttenuationAllowed": true,
+        "isrc": "USCM51600061",
+        "name": "Keep the Family Close",
+        "playParams": {
+         "id": "1440841367",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/67/ff/a6/67ffa612-3d40-9fb5-aff9-2b4ef1845f76/mzaf_9376529871734784038.plus.aac.ep.m4a"
+         }
+        ],
+        "releaseDate": "2016-04-29",
+        "trackNumber": 1,
+        "url": "https://music.apple.com/us/album/keep-the-family-close/1440841363?i=1440841367"
+       },
+       "meta": {
+        "formerIds": [
+         "1108737253",
+         "1108742598"
+        ]
+       }
+      },
+      {
+       "id": "1440841369",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/1440841369?l=en-US",
+       "attributes": {
+        "albumArtistName": "Drake",
+        "albumName": "Views",
+        "artistName": "Drake",
+        "artwork": {
+         "bgColor": "46535d",
+         "hasP3": false,
+         "height": 3000,
+         "textColor1": "e9f6f9",
+         "textColor2": "dfeef7",
+         "textColor3": "c8d5d9",
+         "textColor4": "c0cfd8",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f2/0d/8b/f20d8bff-a927-ae98-6784-20a1f51cb23e/16UMGIM27642.rgb.jpg/{w}x{h}bb.jpg",
+         "width": 3000
+        },
+        "audioLocale": "en-US",
+        "audioTraits": [
+         "lossless",
+         "lossy-stereo"
+        ],
+        "composerName": "Noah \"40\" Shebib, Craig Harrisingh, David Harrisingh, Brian Morgan, David Brooks, Matthew Jehu Samuels, Aubrey Drake Graham & Craig Marsh",
+        "contentRating": "explicit",
+        "discNumber": 1,
+        "durationInMillis": 255794,
+        "genreNames": [
+         "Hip-Hop/Rap",
+         "Music"
+        ],
+        "hasLyrics": true,
+        "hasTimeSyncedLyrics": true,
+        "isAppleDigitalMaster": true,
+        "isMasteredForItunes": true,
+        "isVocalAttenuationAllowed": true,
+        "isrc": "USCM51600063",
+        "name": "9",
+        "playParams": {
+         "id": "1440841369",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a3/47/4b/a3474b63-2566-4052-1677-60edc0a59be2/mzaf_4937593961562527933.plus.aac.ep.m4a"
+         }
+        ],
+        "releaseDate": "2016-04-29",
+        "trackNumber": 2,
+        "url": "https://music.apple.com/us/album/9/1440841363?i=1440841369"
+       },
+       "meta": {
+        "formerIds": [
+         "1108737257",
+         "1108742601"
+        ]
+       }
+      },
+      {
+       "id": "1440841370",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/1440841370?l=en-US",
+       "attributes": {
+        "albumArtistName": "Drake",
+        "albumName": "Views",
+        "artistName": "Drake",
+        "artwork": {
+         "bgColor": "46535d",
+         "hasP3": false,
+         "height": 3000,
+         "textColor1": "e9f6f9",
+         "textColor2": "dfeef7",
+         "textColor3": "c8d5d9",
+         "textColor4": "c0cfd8",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f2/0d/8b/f20d8bff-a927-ae98-6784-20a1f51cb23e/16UMGIM27642.rgb.jpg/{w}x{h}bb.jpg",
+         "width": 3000
+        },
+        "audioLocale": "en-US",
+        "audioTraits": [
+         "lossless",
+         "lossy-stereo"
+        ],
+        "composerName": "Aubrey Drake Graham, Noah \"40\" Shebib, K. West, D. Natche, R Riera, Axel Morgan, J. Brathwaite, A. Hernandez, Ozan Yildirim, Devin Goode, Mark Andrews, Tamir Ruffin, Earl Simmons, Phillip Weatherspoon & Anthony Fields",
+        "contentRating": "explicit",
+        "discNumber": 1,
+        "durationInMillis": 297371,
+        "genreNames": [
+         "Hip-Hop/Rap",
+         "Music"
+        ],
+        "hasLyrics": true,
+        "hasTimeSyncedLyrics": true,
+        "isAppleDigitalMaster": true,
+        "isMasteredForItunes": true,
+        "isVocalAttenuationAllowed": true,
+        "isrc": "USCM51600065",
+        "name": "U With Me?",
+        "playParams": {
+         "id": "1440841370",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/47/bb/a9/47bba91a-d03b-64e6-e1c9-15f34be87e9f/mzaf_14767909463816885265.plus.aac.ep.m4a"
+         }
+        ],
+        "releaseDate": "2016-04-29",
+        "trackNumber": 3,
+        "url": "https://music.apple.com/us/album/u-with-me/1440841363?i=1440841370"
+       },
+       "meta": {
+        "formerIds": [
+         "1108742694",
+         "1108737267"
+        ]
+       }
+      }
+     ]
+    }
+   },
+   "views": {
+    "appears-on": {
+     "href": "/v1/catalog/us/albums/1440841363/view/appears-on?l=en-US",
+     "next": "/v1/catalog/us/albums/1440841363/view/appears-on?l=en-US&offset=10",
+     "attributes": {
+      "title": "Featured On"
+     },
+     "data": [
+      {
+       "id": "pl.b8afd0ec852542f785a5f7a4a9a80d6a",
+       "type": "playlists",
+       "href": "/v1/catalog/us/playlists/pl.b8afd0ec852542f785a5f7a4a9a80d6a?l=en-US",
+       "attributes": {
+        "artwork": {
+         "bgColor": "fafafa",
+         "hasP3": false,
+         "height": 1080,
+         "textColor1": "040404",
+         "textColor2": "161616",
+         "textColor3": "353535",
+         "textColor4": "444444",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages112/v4/1b/71/65/1b716513-b0c1-9c6b-45aa-cbb9198248cc/01607cf1-1d52-43d2-84ce-d6fc1f4a3475_ami-identity-7665599cc626d803af7956b3691905e7-2022-11-30T21-07-19.526Z_cropped.png/{w}x{h}SC.FPESS04.jpg?l=en-US",
+         "width": 1080
+        },
+        "audioTraits": [],
+        "curatorName": "Apple Music Hip-Hop",
+        "description": {
+         "short": "The era-defining rapper isn’t done showing us what he can do.",
+         "standard": "Drake officially became the voice of a generation with 2011’s sumptuous <i>Take Care</i>, a career-defining magnum opus that earned a prized slot in Apple Music’s 100 Best Albums list. Was he an R&B singer who rapped or a rapper who sang? Was he really that sad, or just exploiting a cultural preference for male vulnerability? Adding to the slipperiness of it all, any given Drake project might incorporate dreamy house and club music into his comfort zone of rap, pop, and R&B with equal conviction. Even after cementing his prowess as an MC many times over, Drake still retains the capacity to surprise. His 2015 earworm “Hotline Bling” radiated universal cool without breaking a sweat, while 2024’s “Push Ups” arrived during his fleeting beef with Kendrick Lamar yet applies lasting heat to its minimalistic prowl. Drake is now such a part of the firmament that his slightest move can trigger aftershocks far beyond his immediate reach."
+        },
+        "editorialNotes": {
+         "name": "Drake Essentials",
+         "short": "The era-defining rapper isn’t done showing us what he can do.",
+         "standard": "Drake officially became the voice of a generation with 2011’s sumptuous <i>Take Care</i>, a career-defining magnum opus that earned a prized slot in Apple Music’s 100 Best Albums list. Was he an R&B singer who rapped or a rapper who sang? Was he really that sad, or just exploiting a cultural preference for male vulnerability? Adding to the slipperiness of it all, any given Drake project might incorporate dreamy house and club music into his comfort zone of rap, pop, and R&B with equal conviction. Even after cementing his prowess as an MC many times over, Drake still retains the capacity to surprise. His 2015 earworm “Hotline Bling” radiated universal cool without breaking a sweat, while 2024’s “Push Ups” arrived during his fleeting beef with Kendrick Lamar yet applies lasting heat to its minimalistic prowl. Drake is now such a part of the firmament that his slightest move can trigger aftershocks far beyond his immediate reach."
+        },
+        "editorialPlaylistKind": "artist-franchise",
+        "editorialVideo": {
+         "motionDetailSquare": {
+          "previewFrame": {
+           "bgColor": "bdbdbd",
+           "hasP3": false,
+           "height": 3840,
+           "textColor1": "070707",
+           "textColor2": "121212",
+           "textColor3": "313131",
+           "textColor4": "3a3a3a",
+           "url": "https://is1-ssl.mzstatic.com/image/thumb/9coKFPoaFTnX9bJwf8B_kw/{w}x{h}bb.jpg",
+           "width": 3840
+          },
+          "video": "https://mvod.itunes.apple.com/itunes-assets/PurpleVideo221/v4/01/82/98/01829866-943d-847d-b4b5-57fa12b997d4/multi-variant-playlist_724b1c15bebf4a44947cb64d2c23fc01.m3u8"
+         },
+         "motionDetailTall": {
+          "previewFrame": {
+           "bgColor": "bdbdbd",
+           "hasP3": false,
+           "height": 2732,
+           "textColor1": "0b0b0b",
+           "textColor2": "2d2d2d",
+           "textColor3": "353535",
+           "textColor4": "4d4d4d",
+           "url": "https://is1-ssl.mzstatic.com/image/thumb/QVCSy7G25uxa9Vjaqn7bkA/{w}x{h}bb.jpg",
+           "width": 2048
+          },
+          "video": "https://mvod.itunes.apple.com/itunes-assets/PurpleVideo221/v4/c9/78/24/c97824a3-401c-a433-865f-3c7b1f09e57e/multi-variant-playlist_980d72b9a72f4be8bac6288602beef6f.m3u8"
+         },
+         "motionSquareVideo1x1": {
+          "previewFrame": {
+           "bgColor": "bdbdbd",
+           "hasP3": false,
+           "height": 3840,
+           "textColor1": "070707",
+           "textColor2": "121212",
+           "textColor3": "313131",
+           "textColor4": "3a3a3a",
+           "url": "https://is1-ssl.mzstatic.com/image/thumb/9coKFPoaFTnX9bJwf8B_kw/{w}x{h}bb.jpg",
+           "width": 3840
+          },
+          "video": "https://mvod.itunes.apple.com/itunes-assets/PurpleVideo221/v4/01/82/98/01829866-943d-847d-b4b5-57fa12b997d4/multi-variant-playlist_724b1c15bebf4a44947cb64d2c23fc01.m3u8"
+         },
+         "motionWideVideo21x9": {
+          "previewFrame": {
+           "bgColor": "bdbdbd",
+           "hasP3": false,
+           "height": 1646,
+           "textColor1": "000000",
+           "textColor2": "242424",
+           "textColor3": "292929",
+           "textColor4": "474747",
+           "url": "https://is1-ssl.mzstatic.com/image/thumb/_HNBixIrR8--LSOCe5nKaQ/{w}x{h}bb.jpg",
+           "width": 3840
+          },
+          "video": "https://mvod.itunes.apple.com/itunes-assets/PurpleVideo221/v4/72/db/3b/72db3b08-7eab-7549-1c18-008af7bbcfb3/multi-variant-playlist_1ef88d6d41c24578862102cf333451de.m3u8"
+         }
+        },
+        "hasCollaboration": false,
+        "isChart": false,
+        "lastModifiedDate": "2026-05-21T19:31:30Z",
+        "name": "Drake Essentials",
+        "plainEditorialNotes": {
+         "name": "Drake Essentials",
+         "short": "The era-defining rapper isn’t done showing us what he can do.",
+         "standard": "Drake officially became the voice of a generation with 2011’s sumptuous Take Care, a career-defining magnum opus that earned a prized slot in Apple Music’s 100 Best Albums list. Was he an R&B singer who rapped or a rapper who sang? Was he really that sad, or just exploiting a cultural preference for male vulnerability? Adding to the slipperiness of it all, any given Drake project might incorporate dreamy house and club music into his comfort zone of rap, pop, and R&B with equal conviction. Even after cementing his prowess as an MC many times over, Drake still retains the capacity to surprise. His 2015 earworm “Hotline Bling” radiated universal cool without breaking a sweat, while 2024’s “Push Ups” arrived during his fleeting beef with Kendrick Lamar yet applies lasting heat to its minimalistic prowl. Drake is now such a part of the firmament that his slightest move can trigger aftershocks far beyond his immediate reach."
+        },
+        "playParams": {
+         "id": "pl.b8afd0ec852542f785a5f7a4a9a80d6a",
+         "kind": "playlist",
+         "versionHash": "afc91b1ae56e34211054238d5479215d5a0d99393aa2132344c7037dc37b6705"
+        },
+        "playlistType": "editorial",
+        "supportsSing": false,
+        "url": "https://music.apple.com/us/playlist/drake-essentials/pl.b8afd0ec852542f785a5f7a4a9a80d6a"
+       }
+      },
+      {
+       "id": "pl.d549e09c35de455c8aaed84684898d01",
+       "type": "playlists",
+       "href": "/v1/catalog/us/playlists/pl.d549e09c35de455c8aaed84684898d01?l=en-US",
+       "attributes": {
+        "artwork": {
+         "bgColor": "0f0a0c",
+         "hasP3": false,
+         "height": 1080,
+         "textColor1": "fffffe",
+         "textColor2": "e1dddd",
+         "textColor3": "cecdcd",
+         "textColor4": "b7b3b3",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/7c/f4/05/7cf40556-7dae-045b-8e32-7004c64fe41e/ami-identity-d7c7fc06e25964f71047f919dd682d38-2025-08-27T19-58-49.477Z_cropped.png/{w}x{h}SC.FPESS04.jpg?l=en-US",
+         "width": 1080
+        },
+        "audioTraits": [],
+        "curatorName": "Apple Music Pop",
+        "description": {
+         "short": "Since 2005, this dance pop innovator has been making us beg for more.",
+         "standard": "A report card for Robyn Rihanna Fenty, first issued by a school back in Barbados’ Saint Michael parish and later reprinted in a giant coffee-table book called <I>RIHANNA</I>, stated, in part, that the young Fenty was positive, sure of herself. She took a leading role in group activities. Most of all, she had ideas and seemed comfortable expressing them. Fast-forward to the present day and there remains something effortless about Rihanna, a sense of confidence that transcends any one narrative or style. Though her biggest tracks have tended toward some variety of dance pop (mixed with reggae, EDM, dancehall, R&B, and so on), a closer listen reveals an artist willing to try just about anything—and the uncanny grace to sound good doing it. Describing the chameleonic nature of her clothing line, Fenty—the first female-created brand for LVMH, not to mention its first luxury label run by a black woman—Rihanna said the line didn’t have any fixed look, in part because her own was always changing. She was making things up as she went along, but when she went, she went full-steam ahead.<br>\nBorn in Barbados in 1988, she left high school to pursue music. Her 2005 debut, <I>Music of the Sun</I>, went Gold when she was just 17. By 2007’s <I>Good Girl Gone Bad</I>, she’d expanded the sunny Caribbean pop of her early work for sleek hybrids of hip-hop, R&B, club music, and rock. The tracks were inescapable—“Umbrella,” “Don’t Stop the Music,” “Rude Boy,” “Work”—but also had genuine personality, not to mention a carnal sense of expressiveness that set her apart: Rihanna’s changes didn’t seem like the product of high-concept self-reinvention so much as gut feeling. After leaving Def Jam in 2014 for a spot with JAŸ-Z’s Roc Nation, she took greater creative control for 2016’s <I>ANTI</I>, her most diverse album yet."
+        },
+        "editorialNotes": {
+         "name": "Rihanna Essentials",
+         "short": "Since 2005, this dance pop innovator has been making us beg for more.",
+         "standard": "A report card for Robyn Rihanna Fenty, first issued by a school back in Barbados’ Saint Michael parish and later reprinted in a giant coffee-table book called <i>RIHANNA</i>, stated, in part, that the young Fenty was positive, sure of herself. She took a leading role in group activities. Most of all, she had ideas and seemed comfortable expressing them. Fast-forward to the present day and there remains something effortless about Rihanna, a sense of confidence that transcends any one narrative or style. Though her biggest tracks have tended toward some variety of dance pop (mixed with reggae, EDM, dancehall, R&B, and so on), a closer listen reveals an artist willing to try just about anything—and the uncanny grace to sound good doing it. Describing the chameleonic nature of her clothing line, Fenty—the first female-created brand for LVMH, not to mention its first luxury label run by a black woman—Rihanna said the line didn’t have any fixed look, in part because her own was always changing. She was making things up as she went along, but when she went, she went full-steam ahead.<br />\nBorn in Barbados in 1988, she left high school to pursue music. Her 2005 debut, <i>Music of the Sun</i>, went Gold when she was just 17. By 2007’s <i>Good Girl Gone Bad</i>, she’d expanded the sunny Caribbean pop of her early work for sleek hybrids of hip-hop, R&B, club music, and rock. The tracks were inescapable—“Umbrella,” “Don’t Stop the Music,” “Rude Boy,” “Work”—but also had genuine personality, not to mention a carnal sense of expressiveness that set her apart: Rihanna’s changes didn’t seem like the product of high-concept self-reinvention so much as gut feeling. After leaving Def Jam in 2014 for a spot with JAŸ-Z’s Roc Nation, she took greater creative control for 2016’s <i>ANTI</i>, her most diverse album yet."
+        },
+        "editorialPlaylistKind": "artist-franchise",
+        "editorialVideo": {
+         "motionDetailSquare": {
+          "previewFrame": {
+           "bgColor": "080408",
+           "hasP3": false,
+           "height": 3840,
+           "textColor1": "fefdff",
+           "textColor2": "ffff76",
+           "textColor3": "d3d1d4",
+           "textColor4": "d3d362",
+           "url": "https://is1-ssl.mzstatic.com/image/thumb/BU1n0l7u4tV8SL-2AMdG1Q/{w}x{h}bb.jpg",
+           "width": 3840
+          },
+          "video": "https://mvod.itunes.apple.com/itunes-assets/PurpleVideo211/v4/62/6d/b9/626db9e5-bd32-a4c9-0fda-7c37791e98a5/multi-variant-playlist_e576072ea0694d1f9324906c3086a0f7.m3u8"
+         },
+         "motionDetailTall": {
+          "previewFrame": {
+           "bgColor": "ffff76",
+           "hasP3": false,
+           "height": 2732,
+           "textColor1": "020004",
+           "textColor2": "3b383d",
+           "textColor3": "3d3b1b",
+           "textColor4": "676549",
+           "url": "https://is1-ssl.mzstatic.com/image/thumb/nVki9ucQ0Jf8bJWula1GMQ/{w}x{h}bb.jpg",
+           "width": 2048
+          },
+          "video": "https://mvod.itunes.apple.com/itunes-assets/PurpleVideo221/v4/dc/4a/0b/dc4a0b84-34db-d2a6-483a-83cd95b8c6aa/multi-variant-playlist_fa7e39e2ad824092b469708499d56371.m3u8"
+         },
+         "motionSquareVideo1x1": {
+          "previewFrame": {
+           "bgColor": "080408",
+           "hasP3": false,
+           "height": 3840,
+           "textColor1": "fefdff",
+           "textColor2": "ffff76",
+           "textColor3": "d3d1d4",
+           "textColor4": "d3d362",
+           "url": "https://is1-ssl.mzstatic.com/image/thumb/BU1n0l7u4tV8SL-2AMdG1Q/{w}x{h}bb.jpg",
+           "width": 3840
+          },
+          "video": "https://mvod.itunes.apple.com/itunes-assets/PurpleVideo211/v4/62/6d/b9/626db9e5-bd32-a4c9-0fda-7c37791e98a5/multi-variant-playlist_e576072ea0694d1f9324906c3086a0f7.m3u8"
+         },
+         "motionWideVideo21x9": {
+          "previewFrame": {
+           "bgColor": "ffff76",
+           "hasP3": false,
+           "height": 1646,
+           "textColor1": "030205",
+           "textColor2": "332f33",
+           "textColor3": "3e3d1d",
+           "textColor4": "615f41",
+           "url": "https://is1-ssl.mzstatic.com/image/thumb/9auOMgpjD58qwTVUQ5Kj5w/{w}x{h}bb.jpg",
+           "width": 3840
+          },
+          "video": "https://mvod.itunes.apple.com/itunes-assets/PurpleVideo211/v4/18/16/78/181678e8-478b-a257-fee1-f6455dc67670/multi-variant-playlist_ad451806e891459fb5100d6acdbaab43.m3u8"
+         }
+        },
+        "hasCollaboration": false,
+        "isChart": false,
+        "lastModifiedDate": "2025-09-19T18:39:15Z",
+        "name": "Rihanna Essentials",
+        "plainEditorialNotes": {
+         "name": "Rihanna Essentials",
+         "short": "Since 2005, this dance pop innovator has been making us beg for more.",
+         "standard": "A report card for Robyn Rihanna Fenty, first issued by a school back in Barbados’ Saint Michael parish and later reprinted in a giant coffee-table book called RIHANNA, stated, in part, that the young Fenty was positive, sure of herself. She took a leading role in group activities. Most of all, she had ideas and seemed comfortable expressing them. Fast-forward to the present day and there remains something effortless about Rihanna, a sense of confidence that transcends any one narrative or style. Though her biggest tracks have tended toward some variety of dance pop (mixed with reggae, EDM, dancehall, R&B, and so on), a closer listen reveals an artist willing to try just about anything—and the uncanny grace to sound good doing it. Describing the chameleonic nature of her clothing line, Fenty—the first female-created brand for LVMH, not to mention its first luxury label run by a black woman—Rihanna said the line didn’t have any fixed look, in part because her own was always changing. She was making things up as she went along, but when she went, she went full-steam ahead.\nBorn in Barbados in 1988, she left high school to pursue music. Her 2005 debut, Music of the Sun, went Gold when she was just 17. By 2007’s Good Girl Gone Bad, she’d expanded the sunny Caribbean pop of her early work for sleek hybrids of hip-hop, R&B, club music, and rock. The tracks were inescapable—“Umbrella,” “Don’t Stop the Music,” “Rude Boy,” “Work”—but also had genuine personality, not to mention a carnal sense of expressiveness that set her apart: Rihanna’s changes didn’t seem like the product of high-concept self-reinvention so much as gut feeling. After leaving Def Jam in 2014 for a spot with JAŸ-Z’s Roc Nation, she took greater creative control for 2016’s ANTI, her most diverse album yet."
+        },
+        "playParams": {
+         "id": "pl.d549e09c35de455c8aaed84684898d01",
+         "kind": "playlist",
+         "versionHash": "b085ff6d3ab5d59560fda45e5eb473dcb43313994c3d74b141675380bb60d531"
+        },
+        "playlistType": "editorial",
+        "supportsSing": false,
+        "url": "https://music.apple.com/us/playlist/rihanna-essentials/pl.d549e09c35de455c8aaed84684898d01"
+       }
+      },
+      {
+       "id": "pl.6b1b5dfda067443481265436811002f1",
+       "type": "playlists",
+       "href": "/v1/catalog/us/playlists/pl.6b1b5dfda067443481265436811002f1?l=en-US",
+       "attributes": {
+        "artwork": {
+         "bgColor": "d0a40f",
+         "hasP3": false,
+         "height": 1080,
+         "textColor1": "ffffff",
+         "textColor2": "17130a",
+         "textColor3": "2f260a",
+         "textColor4": "342a0a",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Features126/v4/c3/e9/2a/c3e92a70-e987-00e0-4577-d2e8fc10fdae/571b185f-751e-4050-879b-c2bcb459af6e.png/{w}x{h}SC.CAESS02.jpg?l=en-US",
+         "width": 1080
+        },
+        "audioTraits": [],
+        "curatorName": "Apple Music 2010s",
+        "description": {
+         "short": "Viral sensations and A-list bops rule the airwaves.",
+         "standard": "The only rule for pop in the ‘10s? Trusting your instincts can do wonders for your star power. Take Lady Gaga, who shape-shifted from hard-edged diva to big-voiced balladeer multiple times during the decade, or Ariana Grande, who kept fans guessing with surprise drops and coded lyrics. The 2010s were a wild time on the charts, with pop divas, hip-hop stars, and guitar-strumming crooners all making their own way to the top. Adele belted her way through heartbreak and triumph; Drake got in his feelings over street-sourced beats; Taylor Swift shared her innermost thoughts with millions; and Shawn Mendes made the leap from viral-video star to world-conquering pop icon. Groups hit it big, too, whether they were singing in sweet harmony like the boy banders of One Direction or revamping themselves alongside the times like the soul-poppers in Maroon 5."
+        },
+        "editorialNotes": {
+         "name": "2010s Hits Essentials",
+         "short": "Viral sensations and A-list bops rule the airwaves.",
+         "standard": "The only rule for pop in the ‘10s? Trusting your instincts can do wonders for your star power. Take Lady Gaga, who shape-shifted from hard-edged diva to big-voiced balladeer multiple times during the decade, or Ariana Grande, who kept fans guessing with surprise drops and coded lyrics. The 2010s were a wild time on the charts, with pop divas, hip-hop stars, and guitar-strumming crooners all making their own way to the top. Adele belted her way through heartbreak and triumph; Drake got in his feelings over street-sourced beats; Taylor Swift shared her innermost thoughts with millions; and Shawn Mendes made the leap from viral-video star to world-conquering pop icon. Groups hit it big, too, whether they were singing in sweet harmony like the boy banders of One Direction or revamping themselves alongside the times like the soul-poppers in Maroon 5.",
+         "tagline": "Playlist We Like"
+        },
+        "hasCollaboration": false,
+        "isChart": false,
+        "lastModifiedDate": "2026-01-02T15:51:12Z",
+        "name": "2010s Hits Essentials",
+        "plainEditorialNotes": {
+         "name": "2010s Hits Essentials",
+         "short": "Viral sensations and A-list bops rule the airwaves.",
+         "standard": "The only rule for pop in the ‘10s? Trusting your instincts can do wonders for your star power. Take Lady Gaga, who shape-shifted from hard-edged diva to big-voiced balladeer multiple times during the decade, or Ariana Grande, who kept fans guessing with surprise drops and coded lyrics. The 2010s were a wild time on the charts, with pop divas, hip-hop stars, and guitar-strumming crooners all making their own way to the top. Adele belted her way through heartbreak and triumph; Drake got in his feelings over street-sourced beats; Taylor Swift shared her innermost thoughts with millions; and Shawn Mendes made the leap from viral-video star to world-conquering pop icon. Groups hit it big, too, whether they were singing in sweet harmony like the boy banders of One Direction or revamping themselves alongside the times like the soul-poppers in Maroon 5.",
+         "tagline": "Playlist We Like"
+        },
+        "playParams": {
+         "id": "pl.6b1b5dfda067443481265436811002f1",
+         "kind": "playlist",
+         "versionHash": "0e0e2d931fbc8fd05644cf5a5e84dfd12c44a194935a6bb731c04c9f3782ac68"
+        },
+        "playlistType": "editorial",
+        "supportsSing": false,
+        "url": "https://music.apple.com/us/playlist/2010s-hits-essentials/pl.6b1b5dfda067443481265436811002f1"
+       }
+      }
+     ]
+    },
+    "audio-extras": {
+     "href": "/v1/catalog/us/albums/1440841363/view/audio-extras?l=en-US",
+     "attributes": {
+      "title": "More to Hear"
+     },
+     "data": [
+      {
+       "id": "ra.1894062007",
+       "type": "stations",
+       "href": "/v1/catalog/us/stations/ra.1894062007?l=en-US",
+       "attributes": {
+        "airTime": {
+         "end": "2026-04-24T07:00:00Z",
+         "start": "2026-04-24T07:00:00Z"
+        },
+        "artwork": {
+         "bgColor": "9ea7ab",
+         "hasP3": false,
+         "height": 1080,
+         "textColor1": "000000",
+         "textColor2": "131518",
+         "textColor3": "232629",
+         "textColor4": "292c30",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/6d/c4/e0/6dc4e0bd-cc42-aecb-3594-edfe9ad01f79/290ba786-9d15-4fe8-bfab-a303064197ad.png/{w}x{h}sr.jpg",
+         "width": 4320
+        },
+        "contentRating": "explicit",
+        "durationInMillis": 149000,
+        "editorialNotes": {
+         "name": "Drake’s Views: 10-Year Anniversary",
+         "short": "Drake's blockbuster defined the early days of streaming.",
+         "standard": "Essentials Radio"
+        },
+        "isLive": false,
+        "kind": "streaming",
+        "mediaKind": "audio",
+        "name": "Drake’s Views: 10-Year Anniversary",
+        "plainEditorialNotes": {
+         "name": "Drake’s Views: 10-Year Anniversary",
+         "short": "Drake's blockbuster defined the early days of streaming.",
+         "standard": "Essentials Radio"
+        },
+        "playParams": {
+         "format": "stream",
+         "hasDrm": true,
+         "id": "ra.1894062007",
+         "kind": "radioStation",
+         "mediaType": 0,
+         "stationHash": "CgkIBRoFt6-UhwcQBA",
+         "streamingKind": 1
+        },
+        "radioUrl": "itsradio://music.apple.com/us/station/ra.1894062007",
+        "requiresSubscription": true,
+        "streamingRadioSubType": "Episode",
+        "supportedDrms": [
+         "fairplay",
+         "playready",
+         "widevine"
+        ],
+        "url": "https://music.apple.com/us/station/drakes-views-10-year-anniversary/ra.1894062007"
+       }
+      },
+      {
+       "id": "ra.1694087877",
+       "type": "stations",
+       "href": "/v1/catalog/us/stations/ra.1694087877?l=en-US",
+       "attributes": {
+        "airTime": {
+         "end": "2023-07-10T09:00:00Z",
+         "start": "2023-07-10T09:00:00Z"
+        },
+        "artwork": {
+         "bgColor": "4688ad",
+         "hasP3": false,
+         "height": 1080,
+         "textColor1": "000000",
+         "textColor2": "0c0d0f",
+         "textColor3": "111a20",
+         "textColor4": "152027",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Features116/v4/a3/d7/07/a3d707b5-f174-4286-76ad-d0c8341d824c/3c7f3032-aea7-4177-bdd7-2f0f2e946011.png/{w}x{h}sr.jpg",
+         "width": 4320
+        },
+        "durationInMillis": 1076000,
+        "editorialNotes": {
+         "name": "Drake, Wizkid",
+         "short": "15 years ago, Shazam revolutionized music discovery.",
+         "standard": "Apple Music Today"
+        },
+        "editorialVideo": {
+         "motionSquareVideo1x1": {
+          "previewFrame": {
+           "bgColor": "3094b8",
+           "hasP3": false,
+           "height": 3840,
+           "textColor1": "0c0c0e",
+           "textColor2": "111315",
+           "textColor3": "132730",
+           "textColor4": "172d35",
+           "url": "https://is1-ssl.mzstatic.com/image/thumb/Video126/v4/89/a9/78/89a97874-6665-ec7c-4281-6b4a572ed2d2/Job104ea35f-9207-441d-bf03-9ee2035a86c3-153651616-PreviewImage_preview_image_nonvideo_sdr-Time1690902491634.png/{w}x{h}bb.jpg",
+           "width": 3840
+          },
+          "video": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic126/v4/ea/8b/4e/ea8b4e24-c6e5-de11-9363-66b430ef7bde/P608174804_default.m3u8"
+         },
+         "motionTallVideo3x4": {
+          "previewFrame": {
+           "bgColor": "3094b8",
+           "hasP3": false,
+           "height": 2732,
+           "textColor1": "0a0809",
+           "textColor2": "0c0f13",
+           "textColor3": "12242c",
+           "textColor4": "132a34",
+           "url": "https://is1-ssl.mzstatic.com/image/thumb/Video116/v4/03/c4/63/03c46397-56e2-a96f-cff3-4a56d293f0e3/Jobfef5cb17-3f04-4da2-8e7f-6f891de72343-153651499-PreviewImage_preview_image_nonvideo_sdr-Time1690902423331.png/{w}x{h}bb.jpg",
+           "width": 2048
+          },
+          "video": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic126/v4/c0/29/16/c02916c6-e8c0-485b-ff1f-709dcc1cacec/P608173127_default.m3u8"
+         },
+         "motionWideVideo21x9": {
+          "previewFrame": {
+           "bgColor": "3094b8",
+           "hasP3": false,
+           "height": 1646,
+           "textColor1": "090a0d",
+           "textColor2": "14171a",
+           "textColor3": "11262f",
+           "textColor4": "19303a",
+           "url": "https://is1-ssl.mzstatic.com/image/thumb/Video116/v4/da/b9/17/dab91703-6e39-2a2b-78e4-f8558767f229/Job2cf71144-9f30-4ffc-b3f6-e32d469a3321-153651547-PreviewImage_preview_image_nonvideo_sdr-Time1690902399788.png/{w}x{h}bb.jpg",
+           "width": 3840
+          },
+          "video": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic126/v4/94/cf/06/94cf06c9-0a5b-f1bf-2a67-d8fa0744ca48/P608173095_default.m3u8"
+         }
+        },
+        "isLive": false,
+        "kind": "streaming",
+        "mediaKind": "audio",
+        "name": "Drake, Wizkid",
+        "plainEditorialNotes": {
+         "name": "Drake, Wizkid",
+         "short": "15 years ago, Shazam revolutionized music discovery.",
+         "standard": "Apple Music Today"
+        },
+        "playParams": {
+         "format": "stream",
+         "hasDrm": true,
+         "id": "ra.1694087877",
+         "kind": "radioStation",
+         "mediaType": 0,
+         "stationHash": "CgkIBRoFxfXmpwYQBA",
+         "streamingKind": 1
+        },
+        "radioUrl": "itsradio://music.apple.com/us/station/ra.1694087877",
+        "requiresSubscription": true,
+        "streamingRadioSubType": "Episode",
+        "supportedDrms": [
+         "fairplay",
+         "playready",
+         "widevine"
+        ],
+        "url": "https://music.apple.com/us/station/drake-wizkid/ra.1694087877"
+       }
+      },
+      {
+       "id": "ra.1564851062",
+       "type": "stations",
+       "href": "/v1/catalog/us/stations/ra.1564851062?l=en-US",
+       "attributes": {
+        "airTime": {
+         "end": "2021-04-29T21:00:00Z",
+         "start": "2021-04-29T20:00:00Z"
+        },
+        "artwork": {
+         "bgColor": "9ba7b1",
+         "hasP3": false,
+         "height": 1080,
+         "textColor1": "000000",
+         "textColor2": "111418",
+         "textColor3": "222529",
+         "textColor4": "272c30",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/02/ec/2f/02ec2f7d-33de-6723-d3f9-2dab732d51ab/dd7f25ae-bdeb-451f-b3ef-708b9c143994.png/{w}x{h}sr.jpg",
+         "width": 4320
+        },
+        "durationInMillis": 3099000,
+        "editorialNotes": {
+         "name": "Essential Album: Views",
+         "short": "Zane Lowe and Drake discuss and celebrate Views.",
+         "standard": "Essentials Radio"
+        },
+        "isLive": false,
+        "kind": "streaming",
+        "mediaKind": "audio",
+        "name": "Essential Album: Views",
+        "plainEditorialNotes": {
+         "name": "Essential Album: Views",
+         "short": "Zane Lowe and Drake discuss and celebrate Views.",
+         "standard": "Essentials Radio"
+        },
+        "playParams": {
+         "format": "stream",
+         "hasDrm": true,
+         "id": "ra.1564851062",
+         "kind": "radioStation",
+         "mediaType": 0,
+         "stationHash": "CgkIBRoF9vaW6gUQBA",
+         "streamingKind": 1
+        },
+        "radioUrl": "itsradio://music.apple.com/us/station/ra.1564851062",
+        "requiresSubscription": true,
+        "streamingRadioSubType": "Episode",
+        "supportedDrms": [
+         "fairplay",
+         "playready",
+         "widevine"
+        ],
+        "url": "https://music.apple.com/us/station/essential-album-views/ra.1564851062"
+       }
+      }
+     ]
+    },
+    "more-by-artist": {
+     "href": "/v1/catalog/us/albums/1440841363/view/more-by-artist?l=en-US",
+     "next": "/v1/catalog/us/albums/1440841363/view/more-by-artist?l=en-US&offset=15",
+     "attributes": {
+      "title": "More By Drake"
+     },
+     "data": [
+      {
+       "id": "1418213110",
+       "type": "albums",
+       "href": "/v1/catalog/us/albums/1418213110?l=en-US",
+       "attributes": {
+        "artistName": "Drake",
+        "artwork": {
+         "bgColor": "2f2f2f",
+         "hasP3": false,
+         "height": 3000,
+         "textColor1": "fdfdfd",
+         "textColor2": "e4e4e4",
+         "textColor3": "d4d4d4",
+         "textColor4": "c0c0c0",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/1f/37/43/1f374304-2e04-2be3-53ea-41dd6f0b6fb8/00602567892410.rgb.jpg/{w}x{h}bb.jpg",
+         "width": 3000
+        },
+        "audioTraits": [
+         "lossless",
+         "lossy-stereo"
+        ],
+        "contentRating": "explicit",
+        "copyright": "℗ 2018 Young Money/Cash Money Records",
+        "editorialNotes": {
+         "short": "Two sides of a story the OVO boss was born to tell.",
+         "standard": "I HATE WHEN DRAKE RAPS<br />DRAKE SINGS TOO MUCH<br />DRAKE IS A POP ARTIST<br />DRAKE DOESN’T EVEN WRITE HIS OWN SONGS<br />DRAKE TOOK AN L<br />DRAKE DIDN’T START FROM THE BOTTOM<br />DRAKE IS FINISHED<br />I LIKE DRAKE'S OLDER STUFF<br />DRAKE MAKES MUSIC FOR GIRLS<br />DRAKE THINKS HE’S JAMAICAN<br />DRAKE IS AN ACTOR<br />DRAKE CHANGED<br />ANYBODY ELSE > DRAKE …<br /><br />YEAH YEAH WE KNOW"
+        },
+        "genreNames": [
+         "Hip-Hop/Rap",
+         "Music",
+         "Rap"
+        ],
+        "isCompilation": false,
+        "isComplete": true,
+        "isMasteredForItunes": false,
+        "isPrerelease": false,
+        "isSingle": false,
+        "name": "Scorpion",
+        "plainEditorialNotes": {
+         "short": "Two sides of a story the OVO boss was born to tell.",
+         "standard": "I HATE WHEN DRAKE RAPSDRAKE SINGS TOO MUCHDRAKE IS A POP ARTISTDRAKE DOESN’T EVEN WRITE HIS OWN SONGSDRAKE TOOK AN LDRAKE DIDN’T START FROM THE BOTTOMDRAKE IS FINISHEDI LIKE DRAKE'S OLDER STUFFDRAKE MAKES MUSIC FOR GIRLSDRAKE THINKS HE’S JAMAICANDRAKE IS AN ACTORDRAKE CHANGEDANYBODY ELSE > DRAKE …YEAH YEAH WE KNOW"
+        },
+        "playParams": {
+         "id": "1418213110",
+         "kind": "album"
+        },
+        "recordLabel": "Cash Money/Drake LP6",
+        "releaseDate": "2018-06-29",
+        "trackCount": 25,
+        "upc": "00602567892410",
+        "url": "https://music.apple.com/us/album/scorpion/1418213110"
+       }
+      },
+      {
+       "id": "1652998965",
+       "type": "albums",
+       "href": "/v1/catalog/us/albums/1652998965?l=en-US",
+       "attributes": {
+        "artistName": "Drake & 21 Savage",
+        "artwork": {
+         "bgColor": "b198a9",
+         "hasP3": false,
+         "height": 3000,
+         "textColor1": "0c0a12",
+         "textColor2": "1b141f",
+         "textColor3": "2d2630",
+         "textColor4": "392e3b",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/c7/00/3f/c7003f83-3a43-1201-4aec-41be71ba64c5/22UM1IM29131.rgb.jpg/{w}x{h}bb.jpg",
+         "width": 3000
+        },
+        "audioTraits": [
+         "lossless",
+         "lossy-stereo"
+        ],
+        "contentRating": "explicit",
+        "copyright": "℗ 2022 OVO, under exclusive license to Republic Records, a division of UMG Recordings, Inc",
+        "editorialNotes": {
+         "short": "Her Loss is our gain. The “Jimmy Cooks” duo show up big for each other.",
+         "standard": "Drake and 21 Savage’s <i>Her Loss</i> is the culmination of a relationship that dates at least as far back as 2016, when the pair linked up for “Sneakin’.” Back then, 21 was a burgeoning Atlanta rapper with a lot of promise (and an association with producer of the moment Metro Boomin), while Drake was arguably the most impactful singer and MC in the world and the guy whose co-sign could be counted on to usher bubbling talents into proper rap stardom. Some eight years and three additional collaborations later, 21 Savage is most assuredly a bona fide rap star and Drake is still arguably the most impactful singer and MC in the world, but the 16 tracks that make up <i>Her Loss</i> reveal the pairing as somehow larger than the sum of its parts. \n\nIt was likely <i>Honestly, Nevermind</i> standout “Jimmy Cooks” that inspired, or at the very least prioritized, <i>Her Loss</i>. The song was a stylistic outlier from that album’s house and techno-adjacent dance music thread, allowing Drake and Savage the chance to do what they’ve always enjoyed doing together: rail against entitled love interests, revel in the lifestyle they’ve earned, and, for 21 Savage specifically, remind listeners that his guns still do go off. <i>Her Loss</i> is much of the same, with the pair leaning into a shared disdain for less-accomplished artists (“On BS,” “Privileged Rappers,” “Broke Boys”), sharing their views on contemporary courtship (“Spin Bout U,” “Hours in Silence”), detailing what life as a superstar rapper entails (“Circo Loco,” “Pussy & Millions”), and, in one instance, rapping about how much they appreciate one another (“Treacherous Twins”). The love they profess for one another might at first play as eyebrow-raising, but to question it would be to willfully ignore the notion that laying down raps, like nearly anything else, is just that much more fun with your bestie in tow. ",
+         "tagline": "Recommended Album"
+        },
+        "genreNames": [
+         "Hip-Hop/Rap",
+         "Music"
+        ],
+        "isCompilation": false,
+        "isComplete": true,
+        "isMasteredForItunes": true,
+        "isPrerelease": false,
+        "isSingle": false,
+        "name": "Her Loss",
+        "plainEditorialNotes": {
+         "short": "Her Loss is our gain. The “Jimmy Cooks” duo show up big for each other.",
+         "standard": "Drake and 21 Savage’s Her Loss is the culmination of a relationship that dates at least as far back as 2016, when the pair linked up for “Sneakin’.” Back then, 21 was a burgeoning Atlanta rapper with a lot of promise (and an association with producer of the moment Metro Boomin), while Drake was arguably the most impactful singer and MC in the world and the guy whose co-sign could be counted on to usher bubbling talents into proper rap stardom. Some eight years and three additional collaborations later, 21 Savage is most assuredly a bona fide rap star and Drake is still arguably the most impactful singer and MC in the world, but the 16 tracks that make up Her Loss reveal the pairing as somehow larger than the sum of its parts. \n\nIt was likely Honestly, Nevermind standout “Jimmy Cooks” that inspired, or at the very least prioritized, Her Loss. The song was a stylistic outlier from that album’s house and techno-adjacent dance music thread, allowing Drake and Savage the chance to do what they’ve always enjoyed doing together: rail against entitled love interests, revel in the lifestyle they’ve earned, and, for 21 Savage specifically, remind listeners that his guns still do go off. Her Loss is much of the same, with the pair leaning into a shared disdain for less-accomplished artists (“On BS,” “Privileged Rappers,” “Broke Boys”), sharing their views on contemporary courtship (“Spin Bout U,” “Hours in Silence”), detailing what life as a superstar rapper entails (“Circo Loco,” “Pussy & Millions”), and, in one instance, rapping about how much they appreciate one another (“Treacherous Twins”). The love they profess for one another might at first play as eyebrow-raising, but to question it would be to willfully ignore the notion that laying down raps, like nearly anything else, is just that much more fun with your bestie in tow. ",
+         "tagline": "Recommended Album"
+        },
+        "playParams": {
+         "id": "1652998965",
+         "kind": "album"
+        },
+        "recordLabel": "OVO / Republic Records",
+        "releaseDate": "2022-11-04",
+        "trackCount": 16,
+        "upc": "00602448926067",
+        "url": "https://music.apple.com/us/album/her-loss/1652998965"
+       }
+      },
+      {
+       "id": "1584281467",
+       "type": "albums",
+       "href": "/v1/catalog/us/albums/1584281467?l=en-US",
+       "attributes": {
+        "artistName": "Drake",
+        "artwork": {
+         "bgColor": "ffffff",
+         "hasP3": false,
+         "height": 3000,
+         "textColor1": "3a2a1e",
+         "textColor2": "39322a",
+         "textColor3": "62544b",
+         "textColor4": "605b55",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/11/36/38/1136384a-eebc-697a-c005-d890e41c0854/21UM1IM07518.rgb.jpg/{w}x{h}bb.jpg",
+         "width": 3000
+        },
+        "audioTraits": [
+         "lossless",
+         "lossy-stereo"
+        ],
+        "contentRating": "explicit",
+        "copyright": "℗ 2021 OVO, under exclusive license to Republic Records, a division of UMG Recordings, Inc.",
+        "editorialNotes": {
+         "short": "The 6’s favorite son drops LP 6.",
+         "standard": "A combination of toxic masculinity and acceptance of truth which is inevitably heartbreaking. Executive produced by me, Noah “40” Shebib, Oliver El-Khatib, and Noel Cadastre. Dedicated to Nadia Ntuli and Mercedes Morr. RIP 💖 —Drake"
+        },
+        "editorialVideo": {
+         "motionDetailSquare": {
+          "previewFrame": {
+           "bgColor": "ffffff",
+           "hasP3": false,
+           "height": 3840,
+           "textColor1": "0b0a0c",
+           "textColor2": "2b1a0d",
+           "textColor3": "3c3b3c",
+           "textColor4": "55483e",
+           "url": "https://is1-ssl.mzstatic.com/image/thumb/Video115/v4/7d/10/c2/7d10c278-adbf-6166-5d1c-c4030982f293/Job78f9a1a4-4f2c-4624-aabd-4a12a9ed064a-122839449-PreviewImage_preview_image_nonvideo_sdr-Time1630644315582.png/{w}x{h}bb.jpg",
+           "width": 3840
+          },
+          "video": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic116/v4/51/7e/e9/517ee965-85aa-dc4d-63af-08a38f2d4056/P359495959_default.m3u8"
+         },
+         "motionDetailTall": {
+          "previewFrame": {
+           "bgColor": "ffffff",
+           "hasP3": false,
+           "height": 2732,
+           "textColor1": "000000",
+           "textColor2": "000000",
+           "textColor3": "3e3d3e",
+           "textColor4": "4b4760",
+           "url": "https://is1-ssl.mzstatic.com/image/thumb/Video115/v4/a2/dc/ad/a2dcad35-0016-8c05-f3b1-088d0c2ace56/Job6e0dd6ea-b9da-47f2-b6e1-8d7cec93ae06-122839476-PreviewImage_preview_image_nonvideo_sdr-Time1630644277182.png/{w}x{h}bb.jpg",
+           "width": 2048
+          },
+          "video": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic126/v4/83/a3/04/83a30437-aa76-8542-61bf-ed056dbe3518/P359496149_default.m3u8"
+         },
+         "motionSquareVideo1x1": {
+          "previewFrame": {
+           "bgColor": "ffffff",
+           "hasP3": false,
+           "height": 3840,
+           "textColor1": "0b0a0c",
+           "textColor2": "2b1a0d",
+           "textColor3": "3c3b3c",
+           "textColor4": "55483e",
+           "url": "https://is1-ssl.mzstatic.com/image/thumb/Video115/v4/7d/10/c2/7d10c278-adbf-6166-5d1c-c4030982f293/Job78f9a1a4-4f2c-4624-aabd-4a12a9ed064a-122839449-PreviewImage_preview_image_nonvideo_sdr-Time1630644315582.png/{w}x{h}bb.jpg",
+           "width": 3840
+          },
+          "video": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic116/v4/51/7e/e9/517ee965-85aa-dc4d-63af-08a38f2d4056/P359495959_default.m3u8"
+         },
+         "motionTallVideo3x4": {
+          "previewFrame": {
+           "bgColor": "ffffff",
+           "hasP3": false,
+           "height": 2732,
+           "textColor1": "000000",
+           "textColor2": "000000",
+           "textColor3": "3e3d3e",
+           "textColor4": "4b4760",
+           "textGradient": [
+            "000000",
+            "000000"
+           ],
+           "url": "https://is1-ssl.mzstatic.com/image/thumb/Video115/v4/a2/dc/ad/a2dcad35-0016-8c05-f3b1-088d0c2ace56/Job6e0dd6ea-b9da-47f2-b6e1-8d7cec93ae06-122839476-PreviewImage_preview_image_nonvideo_sdr-Time1630644277182.png/{w}x{h}bb.jpg",
+           "width": 2048
+          },
+          "video": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic126/v4/83/a3/04/83a30437-aa76-8542-61bf-ed056dbe3518/P359496149_default.m3u8"
+         }
+        },
+        "genreNames": [
+         "Hip-Hop/Rap",
+         "Music"
+        ],
+        "isCompilation": false,
+        "isComplete": true,
+        "isMasteredForItunes": true,
+        "isPrerelease": false,
+        "isSingle": false,
+        "name": "Certified Lover Boy",
+        "plainEditorialNotes": {
+         "short": "The 6’s favorite son drops LP 6.",
+         "standard": "A combination of toxic masculinity and acceptance of truth which is inevitably heartbreaking. Executive produced by me, Noah “40” Shebib, Oliver El-Khatib, and Noel Cadastre. Dedicated to Nadia Ntuli and Mercedes Morr. RIP 💖 —Drake"
+        },
+        "playParams": {
+         "id": "1584281467",
+         "kind": "album"
+        },
+        "recordLabel": "OVO",
+        "releaseDate": "2021-09-03",
+        "trackCount": 21,
+        "upc": "00602438865680",
+        "url": "https://music.apple.com/us/album/certified-lover-boy/1584281467"
+       }
+      }
+     ]
+    },
+    "other-versions": {
+     "href": "/v1/catalog/us/albums/1440841363/view/other-versions?l=en-US",
+     "attributes": {
+      "title": "Other Versions"
+     },
+     "data": [
+      {
+       "id": "1440842556",
+       "type": "albums",
+       "href": "/v1/catalog/us/albums/1440842556?l=en-US",
+       "attributes": {
+        "artistName": "Drake",
+        "artwork": {
+         "bgColor": "46535d",
+         "hasP3": false,
+         "height": 3000,
+         "textColor1": "e9f6f9",
+         "textColor2": "deeef7",
+         "textColor3": "c8d5d9",
+         "textColor4": "bfcfd8",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/95/f5/87/95f587f7-21c3-d5f9-d81a-4350f9caa020/16UMGIM27643.rgb.jpg/{w}x{h}bb.jpg",
+         "width": 3000
+        },
+        "audioTraits": [
+         "lossless",
+         "lossy-stereo"
+        ],
+        "contentRating": "clean",
+        "copyright": "℗ 2016 Young Money Entertainment/Cash Money Records",
+        "editorialNotes": {
+         "short": "“Views already a classic.” He knew before he even delivered it.",
+         "standard": "On the cover of his fourth studio album <i>Views</i>, Drake looks down from atop Toronto’s CN Tower, paying homage to the city’s notoriously frigid winter temperatures in a heavyweight shearling coat and high-cut boots. He looks less like the superhero he’d made himself into over the course of a roughly six-year rise as singer-songwriter extraordinaire and more like a troubled monarch. <i>Views</i>, which followed two wildly successful projects in 2015 that he’d branded as mixtapes—<i>If You’re Reading This It’s Too Late</i> and the Future collab <i>What a Time to Be Alive</i>—would confirm him as both, his penchant for immaculate songwriting still fully intact and the pressures of existing as the most popular voice in rap, as well as his hometown’s most successful export, weighing heavy on his mind.\n\n“I made a decision last night that I would die for it,” Drake raps on “9.” “Just to show the city what it takes to be alive for it.” Drake’s presence eclipsed Toronto just about as soon as <i>So Far Gone</i> dropped, but the city—and what it thinks of him—was never far from his mind. There are references here to specific people (“Redemption”), places (“Weston Road Flows”), and experiences (“Views”), along with nods to the influence of the city’s Caribbean population on “With You,” “Controlla,” and “Too Good” (which just happens to feature Rihanna).\n\nHe isn’t too much for the world, though, ruminating on his position as one of music’s biggest names—and those who’d rather he wasn’t—on songs like “Still Here,” “Hype,” and “Grammys.” Maybe the the most affecting acknowledgment to this end is the fact that “Hotline Bling,” a strong contender for 2015 song of the summer, was such an afterthought by the time <i>Views</i> was released that it appears here as a bonus track. For all intents and purposes, the Drake of <i>Views</i> is the same one we got on <i>If You’re Reading This</i> and <i>What a Time</i>, but if his previous proper album (<i>Nothing Was the Same</i>) foretold anything, it’s that the man peering down from CN Tower sees things differently than the rest of us."
+        },
+        "editorialVideo": {
+         "motionDetailSquare": {
+          "previewFrame": {
+           "bgColor": "5e6970",
+           "hasP3": false,
+           "height": 3840,
+           "textColor1": "fbf8e6",
+           "textColor2": "efeae3",
+           "textColor3": "dbdbce",
+           "textColor4": "d2d1cc",
+           "url": "https://is1-ssl.mzstatic.com/image/thumb/Video125/v4/bd/c7/6e/bdc76e65-95e9-cf55-d362-b1bbc543985c/Job49026f5a-67c4-42cd-be21-a3afbfb8e693-112369123-PreviewImage_PreviewImageIntermediate_preview_image_nonvideo_vfcs132589051-Time1619642897583.png/{w}x{h}bb.jpg",
+           "width": 3840
+          },
+          "video": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic126/v4/0e/85/d5/0e85d50b-923b-f10b-2864-fb01dd57765b/P359423855_default.m3u8"
+         },
+         "motionDetailTall": {
+          "previewFrame": {
+           "bgColor": "12202b",
+           "hasP3": false,
+           "height": 2732,
+           "textColor1": "c7c4c3",
+           "textColor2": "a8c3d0",
+           "textColor3": "a3a3a4",
+           "textColor4": "8aa3af",
+           "url": "https://is1-ssl.mzstatic.com/image/thumb/Video125/v4/19/32/c4/1932c439-5f6d-d11b-61ca-7f7be98c5665/Job0bb98b31-7888-4922-a578-fa55fe86b9f4-112368753-PreviewImage_preview_image_nonvideo_sdr-Time1619642801360.png/{w}x{h}bb.jpg",
+           "width": 2048
+          },
+          "video": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic126/v4/1e/94/7b/1e947bfd-ca17-4454-81c2-0873a2dc27ab/P359424028_default.m3u8"
+         },
+         "motionSquareVideo1x1": {
+          "previewFrame": {
+           "bgColor": "5e6970",
+           "hasP3": false,
+           "height": 3840,
+           "textColor1": "fbf8e6",
+           "textColor2": "efeae3",
+           "textColor3": "dbdbce",
+           "textColor4": "d2d1cc",
+           "url": "https://is1-ssl.mzstatic.com/image/thumb/Video125/v4/7d/c9/f2/7dc9f21a-18a3-11aa-b709-30495de0ffca/Jobe391224d-6c2f-4538-8c65-915aafa2b1cb-112368754-PreviewImage_preview_image_nonvideo_sdr-Time1619642901403.png/{w}x{h}bb.jpg",
+           "width": 3840
+          },
+          "video": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic126/v4/f7/23/32/f723327e-0b24-9a78-027a-9a4939ad0f0a/P359423752_default.m3u8"
+         },
+         "motionTallVideo3x4": {
+          "previewFrame": {
+           "bgColor": "12202b",
+           "hasP3": false,
+           "height": 2732,
+           "textColor1": "c7c4c3",
+           "textColor2": "a8c3d0",
+           "textColor3": "a3a3a4",
+           "textColor4": "8aa3af",
+           "url": "https://is1-ssl.mzstatic.com/image/thumb/Video125/v4/19/32/c4/1932c439-5f6d-d11b-61ca-7f7be98c5665/Job0bb98b31-7888-4922-a578-fa55fe86b9f4-112368753-PreviewImage_preview_image_nonvideo_sdr-Time1619642801360.png/{w}x{h}bb.jpg",
+           "width": 2048
+          },
+          "video": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic126/v4/1e/94/7b/1e947bfd-ca17-4454-81c2-0873a2dc27ab/P359424028_default.m3u8"
+         }
+        },
+        "genreNames": [
+         "Hip-Hop/Rap",
+         "Music"
+        ],
+        "isCompilation": false,
+        "isComplete": true,
+        "isMasteredForItunes": true,
+        "isPrerelease": false,
+        "isSingle": false,
+        "name": "Views",
+        "plainEditorialNotes": {
+         "short": "“Views already a classic.” He knew before he even delivered it.",
+         "standard": "On the cover of his fourth studio album Views, Drake looks down from atop Toronto’s CN Tower, paying homage to the city’s notoriously frigid winter temperatures in a heavyweight shearling coat and high-cut boots. He looks less like the superhero he’d made himself into over the course of a roughly six-year rise as singer-songwriter extraordinaire and more like a troubled monarch. Views, which followed two wildly successful projects in 2015 that he’d branded as mixtapes—If You’re Reading This It’s Too Late and the Future collab What a Time to Be Alive—would confirm him as both, his penchant for immaculate songwriting still fully intact and the pressures of existing as the most popular voice in rap, as well as his hometown’s most successful export, weighing heavy on his mind.\n\n“I made a decision last night that I would die for it,” Drake raps on “9.” “Just to show the city what it takes to be alive for it.” Drake’s presence eclipsed Toronto just about as soon as So Far Gone dropped, but the city—and what it thinks of him—was never far from his mind. There are references here to specific people (“Redemption”), places (“Weston Road Flows”), and experiences (“Views”), along with nods to the influence of the city’s Caribbean population on “With You,” “Controlla,” and “Too Good” (which just happens to feature Rihanna).\n\nHe isn’t too much for the world, though, ruminating on his position as one of music’s biggest names—and those who’d rather he wasn’t—on songs like “Still Here,” “Hype,” and “Grammys.” Maybe the the most affecting acknowledgment to this end is the fact that “Hotline Bling,” a strong contender for 2015 song of the summer, was such an afterthought by the time Views was released that it appears here as a bonus track. For all intents and purposes, the Drake of Views is the same one we got on If You’re Reading This and What a Time, but if his previous proper album (Nothing Was the Same) foretold anything, it’s that the man peering down from CN Tower sees things differently than the rest of us."
+        },
+        "playParams": {
+         "id": "1440842556",
+         "kind": "album"
+        },
+        "recordLabel": "Cash Money Records/Young Money Ent./Universal Rec.",
+        "releaseDate": "2016-04-29",
+        "trackCount": 20,
+        "upc": "00602547943507",
+        "url": "https://music.apple.com/us/album/views/1440842556"
+       }
+      }
+     ]
+    },
+    "related-videos": {
+     "href": "/v1/catalog/us/albums/1440841363/view/related-videos?l=en-US",
+     "attributes": {
+      "title": "Music Videos"
+     },
+     "data": [
+      {
+       "id": "1444861580",
+       "type": "music-videos",
+       "href": "/v1/catalog/us/music-videos/1444861580?l=en-US",
+       "attributes": {
+        "artistName": "Drake",
+        "artwork": {
+         "bgColor": "9daecc",
+         "hasP3": false,
+         "height": 360,
+         "textColor1": "000008",
+         "textColor2": "0f1631",
+         "textColor3": "1f222f",
+         "textColor4": "2b3450",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Video2/v4/34/f5/6d/34f56deb-1388-f8fe-7128-48a31e0d1396/dj.snawrfoa.jpg/{w}x{h}mv.jpg",
+         "width": 640
+        },
+        "durationInMillis": 297107,
+        "genreNames": [
+         "Hip-Hop/Rap"
+        ],
+        "has4K": false,
+        "hasHDR": false,
+        "isrc": "USCMV1500030",
+        "name": "Hotline Bling",
+        "playParams": {
+         "id": "1444861580",
+         "kind": "musicVideo"
+        },
+        "previews": [
+         {
+          "artwork": {
+           "bgColor": "0e2748",
+           "hasP3": false,
+           "height": 1080,
+           "textColor1": "a3c7f0",
+           "textColor2": "91b7e7",
+           "textColor3": "85a7ce",
+           "textColor4": "779ac7",
+           "url": "https://is1-ssl.mzstatic.com/image/thumb/Video123/v4/da/99/17/da991761-8e86-9235-e415-a879c1810116/Job45a2ab3c-c2c6-4a57-857a-6e55175446aa-103060442-PreviewImage_preview_image_45000_video_sdr-Time1558465820778.png/{w}x{h}bb.jpg",
+           "width": 1920
+          },
+          "hlsUrl": "https://play-edge.itunes.apple.com/WebObjects/MZPlayLocal.woa/hls/playlist.m3u8?cc=US&a=1444861580&id=59972130&aec=HD&l=en",
+          "url": "https://video-ssl.itunes.apple.com/itunes-assets/Video113/v4/0f/72/ed/0f72edf9-ffff-a339-97fe-ab528df056b9/mzvf_7740326463722097098.720w.h264lc.U.p.m4v"
+         }
+        ],
+        "releaseDate": "2015-10-20",
+        "url": "https://music.apple.com/us/music-video/hotline-bling/1444861580",
+        "videoTraits": []
+       }
+      }
+     ]
+    },
+    "you-might-also-like": {
+     "href": "/v1/catalog/us/albums/1440841363/view/you-might-also-like?l=en-US",
+     "next": "/v1/catalog/us/albums/1440841363/view/you-might-also-like?l=en-US&offset=10",
+     "attributes": {
+      "title": "You Might Also Like"
+     },
+     "data": [
+      {
+       "id": "1127989414",
+       "type": "albums",
+       "href": "/v1/catalog/us/albums/1127989414?l=en-US",
+       "attributes": {
+        "artistName": "DJ Khaled",
+        "artwork": {
+         "bgColor": "655132",
+         "hasP3": false,
+         "height": 1500,
+         "textColor1": "f7f0e0",
+         "textColor2": "fecdc9",
+         "textColor3": "dad0bd",
+         "textColor4": "dfb4ab",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/02/f6/9e/02f69e64-9f7b-8c15-c0a4-4dec2860fb44/886445975833.jpg/{w}x{h}bb.jpg",
+         "width": 1500
+        },
+        "audioTraits": [
+         "lossless",
+         "lossy-stereo"
+        ],
+        "contentRating": "explicit",
+        "copyright": "℗ 2016 We The Best x Influence. Exclusively distributed by Epic Records, a division of Sony Music Entertainment.",
+        "editorialNotes": {
+         "short": "The rap mogul doles out free advice on his 2016 album.",
+         "standard": "In 2015, DJ Khaled found himself ascending from acclaimed rap producer and cultural presence to a global superstar and social media phenom. It was a persona that he began honing in preparation for his 2016 album, <i>Major Key</i>, and it helped him drop projects that would spend weeks atop the charts. Everything DJ Khaled has become was introduced and solidified on <i>Major Key</i>. Even the title itself was ushered in by Khaled on the social media sessions that helped propel him from producer to everywhere-at-once icon. \n\nBack when Khaled began his worldwide domination in 2015, he became a sensation on social, sharing his self-described “keys to success,” which offered insight into how he turned himself into rap’s most in-demand personality and producer. It informs the thematic thrust of the album, which finds Khaled and his massive list of collaborators explaining how they built themselves up into self-sustaining rap magnates. \n\nThe album, which features JAŸ-Z, Drake, Future, Nas, Kendrick Lamar, Rick Ross, Gucci Mane, 2 Chainz, Big Sean, J. Cole, Nicki Minaj, and more, is part who’s who of rap superstars and a helpful manual for anyone wondering what it takes to become a star. On the LP’s first song, “I Got the Keys,” JAŸ-Z and Future join Khaled for a turn-up anthem, which features the latter two outlining the album’s philosophy during the interlude: “I got the keys/I got them keys, the keys, the keys,” they chant, before adding, “I got the keys to all success/I got them keys, the keys, the keys/We the best.” It became a calling card for Khaled, a way to define his mission as rap’s great connoisseur of positivity. Unlike so many entrepreneurs, DJ Khaled refused to conceal his guidebook. Instead, he turned it into an album, offering insight into his massive rise."
+        },
+        "genreNames": [
+         "Hip-Hop/Rap",
+         "Music",
+         "R&B/Soul"
+        ],
+        "isCompilation": false,
+        "isComplete": true,
+        "isMasteredForItunes": false,
+        "isPrerelease": false,
+        "isSingle": false,
+        "name": "Major Key",
+        "plainEditorialNotes": {
+         "short": "The rap mogul doles out free advice on his 2016 album.",
+         "standard": "In 2015, DJ Khaled found himself ascending from acclaimed rap producer and cultural presence to a global superstar and social media phenom. It was a persona that he began honing in preparation for his 2016 album, Major Key, and it helped him drop projects that would spend weeks atop the charts. Everything DJ Khaled has become was introduced and solidified on Major Key. Even the title itself was ushered in by Khaled on the social media sessions that helped propel him from producer to everywhere-at-once icon. \n\nBack when Khaled began his worldwide domination in 2015, he became a sensation on social, sharing his self-described “keys to success,” which offered insight into how he turned himself into rap’s most in-demand personality and producer. It informs the thematic thrust of the album, which finds Khaled and his massive list of collaborators explaining how they built themselves up into self-sustaining rap magnates. \n\nThe album, which features JAŸ-Z, Drake, Future, Nas, Kendrick Lamar, Rick Ross, Gucci Mane, 2 Chainz, Big Sean, J. Cole, Nicki Minaj, and more, is part who’s who of rap superstars and a helpful manual for anyone wondering what it takes to become a star. On the LP’s first song, “I Got the Keys,” JAŸ-Z and Future join Khaled for a turn-up anthem, which features the latter two outlining the album’s philosophy during the interlude: “I got the keys/I got them keys, the keys, the keys,” they chant, before adding, “I got the keys to all success/I got them keys, the keys, the keys/We the best.” It became a calling card for Khaled, a way to define his mission as rap’s great connoisseur of positivity. Unlike so many entrepreneurs, DJ Khaled refused to conceal his guidebook. Instead, he turned it into an album, offering insight into his massive rise."
+        },
+        "playParams": {
+         "id": "1127989414",
+         "kind": "album"
+        },
+        "recordLabel": "Epic/We The Best",
+        "releaseDate": "2016-07-29",
+        "trackCount": 14,
+        "upc": "886445975833",
+        "url": "https://music.apple.com/us/album/major-key/1127989414"
+       }
+      },
+      {
+       "id": "1440831596",
+       "type": "albums",
+       "href": "/v1/catalog/us/albums/1440831596?l=en-US",
+       "attributes": {
+        "artistName": "Big Sean",
+        "artwork": {
+         "bgColor": "090909",
+         "hasP3": false,
+         "height": 1500,
+         "textColor1": "f2f2f2",
+         "textColor2": "e1e1e1",
+         "textColor3": "c3c3c3",
+         "textColor4": "b6b6b6",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/4c/6c/4d/4c6c4d66-10ad-43b5-41bc-8d7c5d1d02a5/15UMGIM05599.rgb.jpg/{w}x{h}bb.jpg",
+         "width": 1500
+        },
+        "audioTraits": [
+         "atmos",
+         "lossless",
+         "lossy-stereo"
+        ],
+        "contentRating": "explicit",
+        "copyright": "℗ 2015 Getting Out Our Dreams, Inc./Def Jam Recordings, a division of UMG Recordings, Inc.",
+        "editorialNotes": {
+         "short": "Humility and hubris collide.",
+         "standard": "“I should have known back then I wasn’t gonna stop / ’Cause even then, I was infatuated with just sitting at the top,” Big Sean reflects on “Dark Sky (Skyscrapers),” the opening track of <i>Dark Sky Paradise</i>. Since his first foray into the industry, the Detroit MC has been recognized for rapping candidly about his most crucial wins alongside his ongoing battles. His 2015 opus underscores that approach. After experiencing significant losses in his personal life—the death of his grandmother, a called-off engagement, a fall-out with one of his best friends over business—Big Sean sought to create an album that addressed his challenges and highlighted his ability to overcome them all.\n\n<i>Dark Sky Paradise</i> begins and ends with the same message: Big Sean’s father asking, “Sean, it’s good to be home, isn’t it?” With this clip, Sean Don, a proud Detroiter, acknowledges that he had to circle back to his humble, hard-working origins to progress musically. The project sees Big Sean casting aside others’ opinions and diving into the depths of his own mind and soul to investigate what drives him through hardship. The juxtaposition of light and dark, successes and setbacks, remains at the core of Big Sean’s signature style.\n\nGlimmers of Big Sean’s future as a mental health advocate are detectable on this project through songs like the contemplative, Lil Wayne-assisted “Deep,” which features the MCs assessing the impact they have as hip-hop artists, breadwinners, and cultural influencers. \n“Blessings” with Drake is Sean’s opportunity to reiterate that there’s no turning back in the life he’s created for himself. In addition to a stacked roster of featured artists, the album boasts production from some of hip-hop’s most sought-after beatmakers, including Kanye West and DJ Mustard. Even among a cast of stars and kingmaking talents, Big Sean shines bright through his sheer ambition.\n\nWhile <i>Dark Sky Paradise</i> is often weighty and gravely serious, Big Sean takes time on the album to provide levity. The high-energy hit “I Don’t F**k With You” featuring E-40 has become a go-to anthem for anyone who’s ready to remove themselves from a relationship that’s no longer serving them. Big Sean also joins forces with Jhené Aiko, who’s featured on credited (“I Know”) and uncredited (“Win Some, Lose Some”) tracks within the album, giving listeners a preview of the duo’s eventual collaborative project, TWENTY88.\n\nOn “One Man Can Change the World” with Kanye West and John Legend, the rapper pays homage to his beloved late grandmother, a decorated WWII veteran. In addition to honoring his roots, Big Sean acknowledges how much further he wants to go as not only an artist, but also as a human being."
+        },
+        "editorialVideo": {
+         "motionDetailSquare": {
+          "previewFrame": {
+           "bgColor": "1c1c1c",
+           "hasP3": false,
+           "height": 3840,
+           "textColor1": "e5e5e5",
+           "textColor2": "cccccc",
+           "textColor3": "bdbdbd",
+           "textColor4": "a8a8a8",
+           "url": "https://is1-ssl.mzstatic.com/image/thumb/Video126/v4/0e/d3/b7/0ed3b77c-60e1-e389-5ede-196cc4b72310/Job7672b4b5-db89-4939-b9a1-f700634e9c82-129429200-PreviewImage_preview_image_nonvideo_sdr-Time1646421690802.png/{w}x{h}bb.jpg",
+           "width": 3840
+          },
+          "video": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic116/v4/bb/9b/ae/bb9bae4f-06ce-9617-3c0e-642297f30d30/P389440710_default.m3u8"
+         },
+         "motionDetailTall": {
+          "previewFrame": {
+           "bgColor": "010101",
+           "hasP3": false,
+           "height": 2732,
+           "textColor1": "e6e6e6",
+           "textColor2": "d2d2d2",
+           "textColor3": "b8b8b8",
+           "textColor4": "a8a8a8",
+           "url": "https://is1-ssl.mzstatic.com/image/thumb/Video116/v4/24/5a/0e/245a0e31-c691-26ff-75e9-a59320ca12c0/Jobf6fb99a8-e82a-4402-8255-74dbc5387ec9-129429067-PreviewImage_preview_image_nonvideo_sdr-Time1646421675976.png/{w}x{h}bb.jpg",
+           "width": 2048
+          },
+          "video": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic116/v4/c7/a2/91/c7a2918c-c0e8-70ec-91aa-119f6222be0f/P389440919_default.m3u8"
+         },
+         "motionSquareVideo1x1": {
+          "previewFrame": {
+           "bgColor": "1c1c1c",
+           "hasP3": false,
+           "height": 3840,
+           "textColor1": "e5e5e5",
+           "textColor2": "cccccc",
+           "textColor3": "bdbdbd",
+           "textColor4": "a8a8a8",
+           "url": "https://is1-ssl.mzstatic.com/image/thumb/Video126/v4/0e/d3/b7/0ed3b77c-60e1-e389-5ede-196cc4b72310/Job7672b4b5-db89-4939-b9a1-f700634e9c82-129429200-PreviewImage_preview_image_nonvideo_sdr-Time1646421690802.png/{w}x{h}bb.jpg",
+           "width": 3840
+          },
+          "video": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic116/v4/bb/9b/ae/bb9bae4f-06ce-9617-3c0e-642297f30d30/P389440710_default.m3u8"
+         },
+         "motionTallVideo3x4": {
+          "previewFrame": {
+           "bgColor": "010101",
+           "hasP3": false,
+           "height": 2732,
+           "textColor1": "e6e6e6",
+           "textColor2": "d2d2d2",
+           "textColor3": "b8b8b8",
+           "textColor4": "a8a8a8",
+           "url": "https://is1-ssl.mzstatic.com/image/thumb/Video116/v4/24/5a/0e/245a0e31-c691-26ff-75e9-a59320ca12c0/Jobf6fb99a8-e82a-4402-8255-74dbc5387ec9-129429067-PreviewImage_preview_image_nonvideo_sdr-Time1646421675976.png/{w}x{h}bb.jpg",
+           "width": 2048
+          },
+          "video": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic116/v4/c7/a2/91/c7a2918c-c0e8-70ec-91aa-119f6222be0f/P389440919_default.m3u8"
+         }
+        },
+        "genreNames": [
+         "Hip-Hop/Rap",
+         "Music",
+         "Hardcore Rap"
+        ],
+        "isCompilation": false,
+        "isComplete": true,
+        "isMasteredForItunes": true,
+        "isPrerelease": false,
+        "isSingle": false,
+        "name": "Dark Sky Paradise (Deluxe)",
+        "plainEditorialNotes": {
+         "short": "Humility and hubris collide.",
+         "standard": "“I should have known back then I wasn’t gonna stop / ’Cause even then, I was infatuated with just sitting at the top,” Big Sean reflects on “Dark Sky (Skyscrapers),” the opening track of Dark Sky Paradise. Since his first foray into the industry, the Detroit MC has been recognized for rapping candidly about his most crucial wins alongside his ongoing battles. His 2015 opus underscores that approach. After experiencing significant losses in his personal life—the death of his grandmother, a called-off engagement, a fall-out with one of his best friends over business—Big Sean sought to create an album that addressed his challenges and highlighted his ability to overcome them all.\n\nDark Sky Paradise begins and ends with the same message: Big Sean’s father asking, “Sean, it’s good to be home, isn’t it?” With this clip, Sean Don, a proud Detroiter, acknowledges that he had to circle back to his humble, hard-working origins to progress musically. The project sees Big Sean casting aside others’ opinions and diving into the depths of his own mind and soul to investigate what drives him through hardship. The juxtaposition of light and dark, successes and setbacks, remains at the core of Big Sean’s signature style.\n\nGlimmers of Big Sean’s future as a mental health advocate are detectable on this project through songs like the contemplative, Lil Wayne-assisted “Deep,” which features the MCs assessing the impact they have as hip-hop artists, breadwinners, and cultural influencers. \n“Blessings” with Drake is Sean’s opportunity to reiterate that there’s no turning back in the life he’s created for himself. In addition to a stacked roster of featured artists, the album boasts production from some of hip-hop’s most sought-after beatmakers, including Kanye West and DJ Mustard. Even among a cast of stars and kingmaking talents, Big Sean shines bright through his sheer ambition.\n\nWhile Dark Sky Paradise is often weighty and gravely serious, Big Sean takes time on the album to provide levity. The high-energy hit “I Don’t F**k With You” featuring E-40 has become a go-to anthem for anyone who’s ready to remove themselves from a relationship that’s no longer serving them. Big Sean also joins forces with Jhené Aiko, who’s featured on credited (“I Know”) and uncredited (“Win Some, Lose Some”) tracks within the album, giving listeners a preview of the duo’s eventual collaborative project, TWENTY88.\n\nOn “One Man Can Change the World” with Kanye West and John Legend, the rapper pays homage to his beloved late grandmother, a decorated WWII veteran. In addition to honoring his roots, Big Sean acknowledges how much further he wants to go as not only an artist, but also as a human being."
+        },
+        "playParams": {
+         "id": "1440831596",
+         "kind": "album"
+        },
+        "recordLabel": "Getting Out Our Dreams Inc. (G.O.O.D.) Music / IDJ",
+        "releaseDate": "2015-02-23",
+        "trackCount": 15,
+        "upc": "00602547237880",
+        "url": "https://music.apple.com/us/album/dark-sky-paradise-deluxe/1440831596"
+       }
+      },
+      {
+       "id": "1253102461",
+       "type": "albums",
+       "href": "/v1/catalog/us/albums/1253102461?l=en-US",
+       "attributes": {
+        "artistName": "Future",
+        "artwork": {
+         "bgColor": "d3d3d3",
+         "hasP3": false,
+         "height": 3000,
+         "textColor1": "0b0b0b",
+         "textColor2": "1d1d1d",
+         "textColor3": "333333",
+         "textColor4": "414141",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/69/6c/e9/696ce94b-c23f-1e78-07e7-d09990fedcae/886446604039.jpg/{w}x{h}bb.jpg",
+         "width": 3000
+        },
+        "audioTraits": [
+         "atmos",
+         "lossless",
+         "lossy-stereo"
+        ],
+        "contentRating": "explicit",
+        "copyright": "℗ 2017 Epic Records, a division of Sony Music Entertainment with A1 / Freebandz",
+        "editorialNotes": {
+         "short": "The rapper steps out of the darkness, blowing minds while opening his heart.",
+         "standard": "Forever the over-indulger, Future dropped his fifth and sixth albums in the span of seven days in early 2017. Both <i>FUTURE</i> and <i>HNDRXX</i> debuted at No. 1, making the Atlanta rapper the first artist to release two chart-topping albums in consecutive weeks. But what’s even more remarkable about these back-to-back hits is the way in which they serve as companion pieces and counterpoints: While <i>FUTURE</i> hones in on the grimy trap bangers he’d proved he could write in his sleep, <i>HNDRXX</i> is lush, introspective, and occasionally even…sweet? \n\nTo fans who’d become accustomed to the antihero persona Future crafted on such mid-2010s hits as <i>Monster</i> and <i>DS2</i>, the softer side of Future likely came as a shock. But those who’d been listening since 2012’s <i>Pluto</i> knew the rapper had a sentimental streak: After all, this is the guy who once warbled about searching for his soulmate with a flashlight.\n\n<i>HNDRXX</i> allows Future to indulge his more romantic impulses. It’s also a showcase for one of his most fan-beloved alter egos: Future Hendrix, a figure the rapper describes as something of a rock-star Casanova with a penchant for the psychedelic. Though <i>HNDRXX</i>’s opening suite of songs wallow in some leftover bitterness, Future Hendrix soon shows up, as the album gives way to love-drunk crooners that shimmer like sunlight on an infinity pool—and reveal a rapper who’s ready to move on from all the hurt. On the island-inspired “Incredible,” the former Mr. Toxic Masculinity USA tries out hot yoga and texts cute emojis to his new partner, while the gently trippy “I Thank U” looks back on a former relationship with gratitude instead of spite. Scattered in the mix are a few bids for the mainstream airwaves, including a pair of cutesy duets with Rihanna and Nicki Minaj. Just a few years earlier, Future had sworn he was a monster, not a pop star. But who says we can’t have it all?"
+        },
+        "genreNames": [
+         "Hip-Hop/Rap",
+         "Music",
+         "Rap"
+        ],
+        "isCompilation": false,
+        "isComplete": false,
+        "isMasteredForItunes": false,
+        "isPrerelease": false,
+        "isSingle": false,
+        "name": "HNDRXX",
+        "plainEditorialNotes": {
+         "short": "The rapper steps out of the darkness, blowing minds while opening his heart.",
+         "standard": "Forever the over-indulger, Future dropped his fifth and sixth albums in the span of seven days in early 2017. Both FUTURE and HNDRXX debuted at No. 1, making the Atlanta rapper the first artist to release two chart-topping albums in consecutive weeks. But what’s even more remarkable about these back-to-back hits is the way in which they serve as companion pieces and counterpoints: While FUTURE hones in on the grimy trap bangers he’d proved he could write in his sleep, HNDRXX is lush, introspective, and occasionally even…sweet? \n\nTo fans who’d become accustomed to the antihero persona Future crafted on such mid-2010s hits as Monster and DS2, the softer side of Future likely came as a shock. But those who’d been listening since 2012’s Pluto knew the rapper had a sentimental streak: After all, this is the guy who once warbled about searching for his soulmate with a flashlight.\n\nHNDRXX allows Future to indulge his more romantic impulses. It’s also a showcase for one of his most fan-beloved alter egos: Future Hendrix, a figure the rapper describes as something of a rock-star Casanova with a penchant for the psychedelic. Though HNDRXX’s opening suite of songs wallow in some leftover bitterness, Future Hendrix soon shows up, as the album gives way to love-drunk crooners that shimmer like sunlight on an infinity pool—and reveal a rapper who’s ready to move on from all the hurt. On the island-inspired “Incredible,” the former Mr. Toxic Masculinity USA tries out hot yoga and texts cute emojis to his new partner, while the gently trippy “I Thank U” looks back on a former relationship with gratitude instead of spite. Scattered in the mix are a few bids for the mainstream airwaves, including a pair of cutesy duets with Rihanna and Nicki Minaj. Just a few years earlier, Future had sworn he was a monster, not a pop star. But who says we can’t have it all?"
+        },
+        "playParams": {
+         "id": "1253102461",
+         "kind": "album"
+        },
+        "recordLabel": "Epic/Freebandz/A1",
+        "releaseDate": "2017-02-24",
+        "trackCount": 19,
+        "upc": "886446604039",
+        "url": "https://music.apple.com/us/album/hndrxx/1253102461"
+       }
+      }
+     ],
+     "meta": {
+      "count": 20,
+      "types": [
+       "albums"
+      ]
+     }
+    }
+   },
+   "meta": {
+    "views": {
+     "order": [
+      "other-versions",
+      "related-videos",
+      "audio-extras"
+     ]
+    }
+   }
+  }
+ ]
+}

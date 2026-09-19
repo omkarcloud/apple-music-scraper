@@ -1,0 +1,165 @@
+{
+ "next": "/v1/catalog/us/artists/271256/view/top-songs?l=en-US&offset=3",
+ "data": [
+  {
+   "id": "1621119447",
+   "type": "songs",
+   "href": "/v1/catalog/us/songs/1621119447?l=en-US",
+   "attributes": {
+    "albumArtistName": "Future",
+    "albumName": "I NEVER LIKED YOU",
+    "artistName": "Future",
+    "artwork": {
+     "bgColor": "311911",
+     "hasP3": false,
+     "height": 3600,
+     "textColor1": "f3d796",
+     "textColor2": "d68b5b",
+     "textColor3": "ccb17b",
+     "textColor4": "b5744c",
+     "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/65/f2/06/65f2067b-a8ea-239c-c219-8e0f0282dcea/196589073693.jpg/{w}x{h}bb.jpg",
+     "width": 3600
+    },
+    "audioLocale": "en-US",
+    "audioTraits": [
+     "atmos",
+     "hi-res-lossless",
+     "lossless"
+    ],
+    "composerName": "Tejiri Akpoghene, Floyd E. Bentley III, Nayvadius Wilburn, Aubrey Drake Graham, Temilade Openiyi, Jacob Canady, Michael Mule, Isaac De Boni, Oluwatoroti Oke & Israel Ayomide Fowobaje",
+    "contentRating": "explicit",
+    "discNumber": 1,
+    "durationInMillis": 189893,
+    "genreNames": [
+     "Hip-Hop/Rap",
+     "Music"
+    ],
+    "hasLyrics": true,
+    "hasTimeSyncedLyrics": true,
+    "isAppleDigitalMaster": false,
+    "isMasteredForItunes": false,
+    "isVocalAttenuationAllowed": true,
+    "isrc": "USSM12203789",
+    "name": "WAIT FOR U (feat. Drake & Tems)",
+    "playParams": {
+     "id": "1621119447",
+     "kind": "song"
+    },
+    "previews": [
+     {
+      "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/77/67/90/77679025-8a80-42a2-bbcd-335dd083295b/mzaf_7314791168777766376.plus.aac.ep.m4a"
+     }
+    ],
+    "releaseDate": "2022-04-29",
+    "trackNumber": 7,
+    "url": "https://music.apple.com/us/album/wait-for-u-feat-drake-tems/1621119097?i=1621119447"
+   }
+  },
+  {
+   "id": "1452017954",
+   "type": "songs",
+   "href": "/v1/catalog/us/songs/1452017954?l=en-US",
+   "attributes": {
+    "albumArtistName": "Drake",
+    "albumName": "So Far Gone",
+    "artistName": "Drake",
+    "artwork": {
+     "bgColor": "000000",
+     "hasP3": false,
+     "height": 3000,
+     "textColor1": "e5e5e5",
+     "textColor2": "c9c9c9",
+     "textColor3": "b7b7b7",
+     "textColor4": "a1a1a1",
+     "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/7e/b0/35/7eb0353b-8f25-32dd-5f5e-71d9ed700247/00602577524004.rgb.jpg/{w}x{h}bb.jpg",
+     "width": 3000
+    },
+    "audioLocale": "en-US",
+    "audioTraits": [
+     "lossless",
+     "lossy-stereo"
+    ],
+    "composerName": "Matthew Jehu Samuels & Aubrey Drake Graham",
+    "contentRating": "explicit",
+    "discNumber": 1,
+    "durationInMillis": 257690,
+    "genreNames": [
+     "Hip-Hop/Rap",
+     "Music"
+    ],
+    "hasLyrics": true,
+    "hasTimeSyncedLyrics": true,
+    "isAppleDigitalMaster": true,
+    "isMasteredForItunes": true,
+    "isVocalAttenuationAllowed": true,
+    "isrc": "USCM51900161",
+    "name": "Best I Ever Had",
+    "playParams": {
+     "id": "1452017954",
+     "kind": "song"
+    },
+    "previews": [
+     {
+      "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/00/dd/f3/00ddf3d1-073d-dfbe-b7d5-b41280fc9d07/mzaf_13308763546930604098.plus.aac.ep.m4a"
+     }
+    ],
+    "releaseDate": "2009-02-13",
+    "trackNumber": 10,
+    "url": "https://music.apple.com/us/album/best-i-ever-had/1452017773?i=1452017954"
+   }
+  },
+  {
+   "id": "1556670532",
+   "type": "songs",
+   "href": "/v1/catalog/us/songs/1556670532?l=en-US",
+   "attributes": {
+    "albumArtistName": "Drake",
+    "albumName": "Scary Hours 2",
+    "artistName": "Drake",
+    "artwork": {
+     "bgColor": "10162e",
+     "hasP3": false,
+     "height": 3000,
+     "textColor1": "86b1f4",
+     "textColor2": "6da3f4",
+     "textColor3": "6e92cc",
+     "textColor4": "5a86cc",
+     "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/63/2a/34/632a3488-d104-3ff1-dc02-4ed86f58ed05/21UMGIM18577.rgb.jpg/{w}x{h}bb.jpg",
+     "width": 3000
+    },
+    "audioLocale": "en-US",
+    "audioTraits": [
+     "lossless",
+     "lossy-stereo"
+    ],
+    "composerName": "Aubrey Drake Graham, Dominique' Jones, Ronald LaTour, Dylan Cleary-Krell & Noah \"40\" Shebib",
+    "contentRating": "explicit",
+    "discNumber": 1,
+    "durationInMillis": 192956,
+    "genreNames": [
+     "Hip-Hop/Rap",
+     "Music"
+    ],
+    "hasLyrics": true,
+    "hasTimeSyncedLyrics": true,
+    "isAppleDigitalMaster": true,
+    "isMasteredForItunes": true,
+    "isVocalAttenuationAllowed": true,
+    "isrc": "USUG12101042",
+    "name": "Wants and Needs (feat. Lil Baby)",
+    "playParams": {
+     "id": "1556670532",
+     "kind": "song"
+    },
+    "previews": [
+     {
+      "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8f/f5/f3/8ff5f38f-5803-212f-2edf-29865316646b/mzaf_17955789529557057386.plus.aac.ep.m4a"
+     }
+    ],
+    "releaseDate": "2021-03-05",
+    "trackNumber": 2,
+    "url": "https://music.apple.com/us/album/wants-and-needs-feat-lil-baby/1556669854?i=1556670532"
+   }
+  }
+ ]
+}

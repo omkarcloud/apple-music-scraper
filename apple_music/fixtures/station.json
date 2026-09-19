@@ -1,0 +1,48 @@
+{
+ "data": [
+  {
+   "id": "ra.978194965",
+   "type": "stations",
+   "href": "/v1/catalog/us/stations/ra.978194965?l=en-US",
+   "attributes": {
+    "artwork": {
+     "bgColor": "f6f6f6",
+     "hasP3": false,
+     "height": 1080,
+     "textColor1": "160105",
+     "textColor2": "160306",
+     "textColor3": "433235",
+     "textColor4": "433436",
+     "url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/fd/45/5b/fd455ba0-4a4d-854b-fc65-6d48f70be2f4/7da7d278-56c7-42a7-a801-d2193b71770a.png/{w}x{h}sr.jpg",
+     "width": 4320
+    },
+    "editorialNotes": {
+     "name": "Apple Music 1",
+     "short": "Live Station",
+     "tagline": "The new music that matters."
+    },
+    "isLive": true,
+    "kind": "streaming",
+    "mediaKind": "audio",
+    "name": "Apple Music 1",
+    "playParams": {
+     "format": "stream",
+     "hasDrm": true,
+     "id": "ra.978194965",
+     "kind": "radioStation",
+     "mediaType": 0,
+     "stationHash": "CgkIBRoFlaS40gMQBA"
+    },
+    "radioUrl": "itsradio://music.apple.com/us/station/ra.978194965",
+    "requiresSubscription": false,
+    "stationProviderName": "Apple Music",
+    "supportedDrms": [
+     "fairplay",
+     "playready",
+     "widevine"
+    ],
+    "url": "https://music.apple.com/us/station/apple-music-1/ra.978194965"
+   }
+  }
+ ]
+}

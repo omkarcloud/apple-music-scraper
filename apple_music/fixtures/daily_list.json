@@ -1,0 +1,142 @@
+{
+ "results": {
+  "dailyGlobalTopCharts": [
+   {
+    "chart": "daily-global-top",
+    "data": [
+     {
+      "id": "pl.d25f5d1181894928af76c85c967f8f31",
+      "type": "playlists",
+      "href": "/v1/catalog/us/playlists/pl.d25f5d1181894928af76c85c967f8f31?l=en-US",
+      "attributes": {
+       "artwork": {
+        "bgColor": "f1f1f1",
+        "hasP3": false,
+        "height": 1080,
+        "textColor1": "000000",
+        "textColor2": "110909",
+        "textColor3": "332829",
+        "textColor4": "33292a",
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/Features116/v4/c6/05/b6/c605b65a-427f-0165-33c1-a8d2f99877e9/5f02f9bb-8eb2-4c79-bdb8-6bfb24a57e96.png/{w}x{h}cc.jpg",
+        "width": 4320
+       },
+       "audioTraits": [],
+       "curatorName": "Apple Music",
+       "description": {
+        "standard": "The most-played songs around the world, updated every day."
+       },
+       "editorialNotes": {
+        "name": "Top 100: Global",
+        "short": "The most-played songs around the world, updated every day.",
+        "standard": "The most-played songs around the world, updated every day."
+       },
+       "hasCollaboration": false,
+       "isChart": true,
+       "lastModifiedDate": "2026-09-19T07:00:53Z",
+       "name": "Top 100: Global",
+       "playParams": {
+        "id": "pl.d25f5d1181894928af76c85c967f8f31",
+        "kind": "playlist",
+        "versionHash": "3e98f7fc485cfe1feb0629ad91f77fd6d9c92bc12e1d051492e0f66f34932d31"
+       },
+       "playlistType": "editorial",
+       "supportsSing": false,
+       "url": "https://music.apple.com/us/playlist/top-100-global/pl.d25f5d1181894928af76c85c967f8f31"
+      }
+     },
+     {
+      "id": "pl.606afcbb70264d2eb2b51d8dbcfa6a12",
+      "type": "playlists",
+      "href": "/v1/catalog/us/playlists/pl.606afcbb70264d2eb2b51d8dbcfa6a12?l=en-US",
+      "attributes": {
+       "artwork": {
+        "bgColor": "f1f1f1",
+        "hasP3": false,
+        "height": 1080,
+        "textColor1": "000000",
+        "textColor2": "3b0411",
+        "textColor3": "2e2d4c",
+        "textColor4": "5a2833",
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/Features126/v4/5a/9a/09/5a9a098c-9be3-52de-678b-bfb622419cfe/532c1a0a-fca6-4d47-8c2f-04e7c8a042ab.png/{w}x{h}cc.jpg",
+        "width": 4320
+       },
+       "audioTraits": [],
+       "curatorName": "Apple Music",
+       "description": {
+        "standard": "The most-played songs in the United States, updated every day."
+       },
+       "editorialNotes": {
+        "name": "Top 100: USA",
+        "short": "The most-played songs in the United States, updated every day.",
+        "standard": "The most-played songs in the United States, updated every day."
+       },
+       "hasCollaboration": false,
+       "isChart": true,
+       "lastModifiedDate": "2026-09-19T07:00:32Z",
+       "name": "Top 100: USA",
+       "playParams": {
+        "id": "pl.606afcbb70264d2eb2b51d8dbcfa6a12",
+        "kind": "playlist",
+        "versionHash": "cc3876e743c4dd745927af34fa912ee6f93f1426720eb17773d8b6680af2a4c6"
+       },
+       "playlistType": "editorial",
+       "supportsSing": false,
+       "url": "https://music.apple.com/us/playlist/top-100-usa/pl.606afcbb70264d2eb2b51d8dbcfa6a12"
+      }
+     },
+     {
+      "id": "pl.c2273b7e89b44121b3093f67228918e7",
+      "type": "playlists",
+      "href": "/v1/catalog/us/playlists/pl.c2273b7e89b44121b3093f67228918e7?l=en-US",
+      "attributes": {
+       "artwork": {
+        "bgColor": "f1f1f1",
+        "hasP3": false,
+        "height": 1080,
+        "textColor1": "000000",
+        "textColor2": "4e000b",
+        "textColor3": "3d3164",
+        "textColor4": "6a222c",
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/Features116/v4/3e/bf/08/3ebf087f-58c2-f214-a6aa-88601c121aa0/43dc0db4-e830-48d9-8d31-72003eb40548.png/{w}x{h}cc.jpg",
+        "width": 4320
+       },
+       "audioTraits": [],
+       "curatorName": "Apple Music",
+       "description": {
+        "standard": "The most-played songs in the United Kingdom, updated every day. "
+       },
+       "editorialNotes": {
+        "name": "Top 100: UK",
+        "short": "The most-played songs in the United Kingdom, updated every day. ",
+        "standard": "The most-played songs in the United Kingdom, updated every day. "
+       },
+       "hasCollaboration": false,
+       "isChart": true,
+       "lastModifiedDate": "2026-09-19T07:01:32Z",
+       "name": "Top 100: UK",
+       "playParams": {
+        "id": "pl.c2273b7e89b44121b3093f67228918e7",
+        "kind": "playlist",
+        "versionHash": "ac6143de5342178269416b7f4728f11ea6cc44aa8f19ea8d5a45f1835018ac91"
+       },
+       "playlistType": "editorial",
+       "supportsSing": false,
+       "url": "https://music.apple.com/us/playlist/top-100-uk/pl.c2273b7e89b44121b3093f67228918e7"
+      }
+     }
+    ],
+    "href": "/v1/catalog/us/charts?chartId=119&l=en-US&limit=200",
+    "name": "Daily Top 100",
+    "shortName": "Daily Top 100",
+    "orderId": "daily-global-top:dailyGlobalTopCharts"
+   }
+  ]
+ },
+ "meta": {
+  "results": {
+   "order": [
+    "daily-global-top:dailyGlobalTopCharts"
+   ]
+  }
+ }
+}

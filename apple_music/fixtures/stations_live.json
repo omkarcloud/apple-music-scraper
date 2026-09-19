@@ -1,0 +1,159 @@
+{
+ "data": [
+  {
+   "id": "ra.978194965",
+   "type": "stations",
+   "href": "/v1/catalog/us/stations/ra.978194965?l=en-US",
+   "attributes": {
+    "artwork": {
+     "bgColor": "f6f6f6",
+     "hasP3": false,
+     "height": 1080,
+     "textColor1": "160105",
+     "textColor2": "160306",
+     "textColor3": "433235",
+     "textColor4": "433436",
+     "url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/fd/45/5b/fd455ba0-4a4d-854b-fc65-6d48f70be2f4/7da7d278-56c7-42a7-a801-d2193b71770a.png/{w}x{h}sr.jpg",
+     "width": 4320
+    },
+    "editorialNotes": {
+     "name": "Apple Music 1",
+     "short": "Live Station",
+     "tagline": "The new music that matters."
+    },
+    "isLive": true,
+    "kind": "streaming",
+    "mediaKind": "audio",
+    "name": "Apple Music 1",
+    "playParams": {
+     "format": "stream",
+     "hasDrm": true,
+     "id": "ra.978194965",
+     "kind": "radioStation",
+     "mediaType": 0,
+     "stationHash": "CgkIBRoFlaS40gMQBA"
+    },
+    "radioUrl": "itsradio://music.apple.com/us/station/ra.978194965",
+    "requiresSubscription": false,
+    "stationProviderName": "Apple Music",
+    "supportedDrms": [
+     "fairplay",
+     "playready",
+     "widevine"
+    ],
+    "url": "https://music.apple.com/us/station/apple-music-1/ra.978194965"
+   }
+  },
+  {
+   "id": "ra.1498155548",
+   "type": "stations",
+   "href": "/v1/catalog/us/stations/ra.1498155548?l=en-US",
+   "attributes": {
+    "artwork": {
+     "bgColor": "f6f6f6",
+     "hasP3": false,
+     "height": 1080,
+     "textColor1": "060816",
+     "textColor2": "17246e",
+     "textColor3": "363842",
+     "textColor4": "444e89",
+     "url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/27/b7/ec/27b7eca8-5bb2-3c46-ca1e-be2877a3cc91/feb0dc99-412b-4688-b8d6-c0fa07059558.png/{w}x{h}sr.jpg",
+     "width": 4320
+    },
+    "editorialNotes": {
+     "name": "Apple Music Hits",
+     "short": "Live Station",
+     "tagline": "Songs you know and love."
+    },
+    "isLive": true,
+    "kind": "streaming",
+    "mediaKind": "audio",
+    "name": "Apple Music Hits",
+    "playParams": {
+     "format": "stream",
+     "hasDrm": true,
+     "id": "ra.1498155548",
+     "kind": "radioStation",
+     "mediaType": 0,
+     "stationHash": "CgkIBRoFnJSwygUQBA"
+    },
+    "radioUrl": "itsradio://music.apple.com/us/station/ra.1498155548",
+    "requiresSubscription": false,
+    "stationProviderName": "Apple Music",
+    "supportedDrms": [
+     "fairplay",
+     "playready",
+     "widevine"
+    ],
+    "url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548"
+   }
+  },
+  {
+   "id": "ra.1498157166",
+   "type": "stations",
+   "href": "/v1/catalog/us/stations/ra.1498157166?l=en-US",
+   "attributes": {
+    "artwork": {
+     "bgColor": "f6f6f6",
+     "hasP3": false,
+     "height": 1080,
+     "textColor1": "232812",
+     "textColor2": "363315",
+     "textColor3": "4d513f",
+     "textColor4": "5d5a42",
+     "url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/03/d7/3f/03d73f57-a05e-5da8-54de-1362a2f6e94c/46714416-3d53-41cf-8600-10fae38a34ab.png/{w}x{h}sr.jpg",
+     "width": 4320
+    },
+    "editorialNotes": {
+     "name": "Apple Music Country",
+     "short": "Live Station",
+     "tagline": "Where it sounds like home."
+    },
+    "isLive": true,
+    "kind": "streaming",
+    "mediaKind": "audio",
+    "name": "Apple Music Country",
+    "playParams": {
+     "format": "stream",
+     "hasDrm": true,
+     "id": "ra.1498157166",
+     "kind": "radioStation",
+     "mediaType": 0,
+     "stationHash": "CgkIBRoF7qCwygUQBA"
+    },
+    "radioUrl": "itsradio://music.apple.com/us/station/ra.1498157166",
+    "requiresSubscription": false,
+    "stationProviderName": "Apple Music",
+    "supportedDrms": [
+     "fairplay",
+     "playready",
+     "widevine"
+    ],
+    "url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166"
+   }
+  }
+ ],
+ "meta": {
+  "filters": {
+   "featured": {
+    "apple-music-live-radio": [
+     {
+      "id": "ra.978194965",
+      "type": "stations",
+      "href": "/v1/catalog/us/stations/ra.978194965?l=en-US"
+     },
+     {
+      "id": "ra.1498155548",
+      "type": "stations",
+      "href": "/v1/catalog/us/stations/ra.1498155548?l=en-US"
+     },
+     {
+      "id": "ra.1498157166",
+      "type": "stations",
+      "href": "/v1/catalog/us/stations/ra.1498157166?l=en-US"
+     }
+    ]
+   }
+  }
+ }
+}

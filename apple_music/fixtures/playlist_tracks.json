@@ -1,0 +1,165 @@
+{
+ "next": "/v1/catalog/us/playlists/pl.d25f5d1181894928af76c85c967f8f31/tracks?l=en-US&offset=5",
+ "data": [
+  {
+   "id": "6796864754",
+   "type": "songs",
+   "href": "/v1/catalog/us/songs/6796864754?l=en-US",
+   "attributes": {
+    "albumArtistName": "KAROL G",
+    "albumName": "NO ME ARREPIENTO DE SENTIR TANTO",
+    "artistName": "KAROL G, Judeline & rusowsky",
+    "artwork": {
+     "bgColor": "bfdae6",
+     "hasP3": false,
+     "height": 3000,
+     "textColor1": "030d12",
+     "textColor2": "0e2831",
+     "textColor3": "29363c",
+     "textColor4": "324c55",
+     "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2b/66/b2/2b66b26c-ab23-faa1-c4ee-06fa2cce8f76/26UM1IM00558.rgb.jpg/{w}x{h}bb.jpg",
+     "width": 3000
+    },
+    "audioLocale": "es-ES",
+    "audioTraits": [
+     "atmos",
+     "lossless",
+     "lossy-stereo"
+    ],
+    "composerName": "Carolina Giraldo Navarro, Marco Masis, Omer Fedi, Lara Fernández Castrelo, Andres Jael Correa Rios & Ruslán Mediavilla",
+    "discNumber": 1,
+    "durationInMillis": 225835,
+    "genreNames": [
+     "Urbano latino",
+     "Music",
+     "Latin"
+    ],
+    "hasLyrics": true,
+    "hasTimeSyncedLyrics": true,
+    "isAppleDigitalMaster": true,
+    "isMasteredForItunes": true,
+    "isVocalAttenuationAllowed": true,
+    "isrc": "USUG12607940",
+    "name": "BbY WOW",
+    "playParams": {
+     "id": "6796864754",
+     "kind": "song"
+    },
+    "previews": [
+     {
+      "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f3/08/da/f308da3d-00cc-7682-7be9-87cb882f4ea5/mzaf_14078178240008272749.plus.aac.ep.m4a"
+     }
+    ],
+    "releaseDate": "2026-08-07",
+    "trackNumber": 11,
+    "url": "https://music.apple.com/us/album/bby-wow/6796864741?i=6796864754"
+   }
+  },
+  {
+   "id": "1844932150",
+   "type": "songs",
+   "href": "/v1/catalog/us/songs/1844932150?l=en-US",
+   "attributes": {
+    "albumArtistName": "Ella Langley",
+    "albumName": "Choosin' Texas - Single",
+    "artistName": "Ella Langley",
+    "artwork": {
+     "bgColor": "284c8e",
+     "hasP3": false,
+     "height": 3000,
+     "textColor1": "e9e8e9",
+     "textColor2": "f5e2b6",
+     "textColor3": "c2c9d7",
+     "textColor4": "ccc4ae",
+     "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/{w}x{h}bb.jpg",
+     "width": 3000
+    },
+    "audioLocale": "en-US",
+    "audioTraits": [
+     "atmos",
+     "lossless",
+     "lossy-stereo"
+    ],
+    "composerName": "Ella Langley, Luke Dick, Miranda Lambert & Joybeth Taylor",
+    "discNumber": 1,
+    "durationInMillis": 232226,
+    "genreNames": [
+     "Country",
+     "Music"
+    ],
+    "hasLyrics": true,
+    "hasTimeSyncedLyrics": true,
+    "isAppleDigitalMaster": false,
+    "isMasteredForItunes": false,
+    "isVocalAttenuationAllowed": true,
+    "isrc": "USSM12504190",
+    "name": "Choosin' Texas",
+    "playParams": {
+     "id": "1844932150",
+     "kind": "song"
+    },
+    "previews": [
+     {
+      "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/38/49/4c/38494cb4-f9e0-1db4-0b84-8c478cb55390/mzaf_14015374052766148372.plus.aac.ep.m4a"
+     }
+    ],
+    "releaseDate": "2025-10-17",
+    "trackNumber": 1,
+    "url": "https://music.apple.com/us/album/choosin-texas/1844932149?i=1844932150"
+   }
+  },
+  {
+   "id": "6812477131",
+   "type": "songs",
+   "href": "/v1/catalog/us/songs/6812477131?l=en-US",
+   "attributes": {
+    "albumArtistName": "Morgan Wallen",
+    "albumName": "Last Thing You Need (from GTAVI: The Album) - Single",
+    "artistName": "Morgan Wallen",
+    "artwork": {
+     "bgColor": "7e8db8",
+     "hasP3": false,
+     "height": 1425,
+     "textColor1": "130d1b",
+     "textColor2": "1c162b",
+     "textColor3": "28273a",
+     "textColor4": "2f2e47",
+     "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a2/ab/6b/a2ab6b7e-7da3-e05f-b53a-885a4f64b0e1/075679559340.jpg/{w}x{h}bb.jpg",
+     "width": 1425
+    },
+    "audioLocale": "en-US",
+    "audioTraits": [
+     "lossless",
+     "lossy-stereo"
+    ],
+    "composerName": "Blake Pendergrass, Chase McGill, John Byron, Morgan Wallen & Ryan Vojtesak",
+    "discNumber": 1,
+    "durationInMillis": 196000,
+    "genreNames": [
+     "Country",
+     "Music",
+     "Soundtrack"
+    ],
+    "hasLyrics": true,
+    "hasTimeSyncedLyrics": true,
+    "isAppleDigitalMaster": true,
+    "isMasteredForItunes": true,
+    "isVocalAttenuationAllowed": false,
+    "isrc": "USAT22606602",
+    "name": "Last Thing You Need (from GTAVI: The Album)",
+    "playParams": {
+     "id": "6812477131",
+     "kind": "song"
+    },
+    "previews": [
+     {
+      "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/56/6f/a2/566fa2f9-28d5-e1a6-bbb9-687bebdf7784/mzaf_16817543354011232345.plus.aac.ep.m4a"
+     }
+    ],
+    "releaseDate": "2026-09-17",
+    "trackNumber": 1,
+    "url": "https://music.apple.com/us/album/last-thing-you-need-from-gtavi-the-album/6812477129?i=6812477131"
+   }
+  }
+ ]
+}

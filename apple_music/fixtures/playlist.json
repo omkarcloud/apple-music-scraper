@@ -1,0 +1,537 @@
+{
+ "data": [
+  {
+   "id": "pl.f4d106fed2bd41149aaacabb233eb5eb",
+   "type": "playlists",
+   "href": "/v1/catalog/us/playlists/pl.f4d106fed2bd41149aaacabb233eb5eb?l=en-US",
+   "attributes": {
+    "artistNames": "Jhené Aiko, Olivia Rodrigo, KAROL G, Ella Langley, Drake, and more",
+    "artwork": {
+     "bgColor": "070707",
+     "hasP3": false,
+     "height": 1080,
+     "textColor1": "ffffff",
+     "textColor2": "ffffff",
+     "textColor3": "aaaaaa",
+     "textColor4": "a2975e",
+     "url": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/f3/75/4e/f3754e7b-ac9d-12ce-0b0a-fd9fa15efe1a/76ac6684-8406-4a23-aa00-96a97ebb6569.png/{w}x{h}SC.DN01.jpg?l=en-US",
+     "width": 1080
+    },
+    "audioTraits": [],
+    "curatorName": "Apple Music Hits",
+    "description": {
+     "short": "Jhené Aiko and Kendrick Lamar reunite on “So Good.”",
+     "standard": "Today’s Hits is home to the biggest songs in pop, hip-hop, R&B, and more. Here are the biggest hits anywhere and everywhere—an ever-changing snapshot of now. At the top of this week’s playlist are <b>Jhené Aiko</b> and <b>Kendrick Lamar</b>’s <b>“So Good.”</b> The flirtatious track off of Jhené’s latest album, <i>Westside Whimsy</i>, finds the duo trading verses about their chemistry and desire for each other on a deeper level. Our editors are constantly searching for new music and updating this mix—so if you hear a song you like, add it to your library."
+    },
+    "editorialNotes": {
+     "name": "Today’s Hits",
+     "short": "Jhené Aiko and Kendrick Lamar reunite on “So Good.”",
+     "standard": "Today’s Hits is home to the biggest songs in pop, hip-hop, R&B, and more. Here are the biggest hits anywhere and everywhere—an ever-changing snapshot of now. At the top of this week’s playlist are <b>Jhené Aiko</b> and <b>Kendrick Lamar</b>’s <b>“So Good.”</b> The flirtatious track off of Jhené’s latest album, <i>Westside Whimsy</i>, finds the duo trading verses about their chemistry and desire for each other on a deeper level. Our editors are constantly searching for new music and updating this mix—so if you hear a song you like, add it to your library.",
+     "tagline": "The Songs That Matter"
+    },
+    "editorialVideo": {
+     "motionDetailSquare": {
+      "previewFrame": {
+       "bgColor": "d6a659",
+       "hasP3": false,
+       "height": 3840,
+       "textColor1": "080603",
+       "textColor2": "22190d",
+       "textColor3": "322614",
+       "textColor4": "46351c",
+       "url": "https://is1-ssl.mzstatic.com/image/thumb/Video115/v4/56/dc/0a/56dc0a5a-2d40-8c3a-a10e-a0fda1898b94/Job4aa95986-4595-4d7d-b439-07c0e2a679d6-124458662-PreviewImage_preview_image_nonvideo_sdr-Time1633041459287.png/{w}x{h}bb.jpg",
+       "width": 3840
+      },
+      "video": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic126/v4/67/bc/85/67bc8592-5291-66f2-6ceb-7f2b8e10caff/P359502453_default.m3u8"
+     },
+     "motionDetailTall": {
+      "previewFrame": {
+       "bgColor": "4a3419",
+       "hasP3": false,
+       "height": 2732,
+       "textColor1": "000000",
+       "textColor2": "271709",
+       "textColor3": "2b2112",
+       "textColor4": "4a3419",
+       "url": "https://is1-ssl.mzstatic.com/image/thumb/Video125/v4/eb/4f/fc/eb4ffc99-a00c-fd1f-8ee7-78d24bc6c7ef/Joba79af956-5352-43dc-9c04-74a8203d7d35-124458660-PreviewImage_preview_image_nonvideo_sdr-Time1633041208135.png/{w}x{h}bb.jpg",
+       "width": 2048
+      },
+      "video": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic112/v4/b3/96/ee/b396ee05-e4af-7483-1238-602e3d13d127/P470606068_default.m3u8"
+     },
+     "motionSquareVideo1x1": {
+      "previewFrame": {
+       "bgColor": "272727",
+       "hasP3": false,
+       "height": 3840,
+       "textColor1": "ffffff",
+       "textColor2": "ffffff",
+       "textColor3": "b8b8b8",
+       "textColor4": "acaa76",
+       "url": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/f7/b8/9e/f7b89ee0-47e2-fe30-d469-8bbe785305cd/OBJECT_PROXYa3daa96e-546c-4b02-89a3-bf714acc17d5_KEY_FRAME_OUTPUT_0_OBJECT_PROXYa3daa96e-546c-4b02-89a3-bf714acc17d5.png/{w}x{h}bb.jpg",
+       "width": 3840
+      },
+      "video": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic211/v4/67/fb/42/67fb4290-074c-094c-134f-fc40ae0b6a86/P1499304826_default.m3u8"
+     },
+     "motionTallVideo3x4": {
+      "previewFrame": {
+       "bgColor": "010101",
+       "gradient": {},
+       "hasP3": false,
+       "height": 2732,
+       "textColor1": "ffffff",
+       "textColor2": "ffffff",
+       "textColor3": "acacac",
+       "textColor4": "aca36d",
+       "textGradient": [
+        "ffffff",
+        "ffffff"
+       ],
+       "url": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/01/2e/16/012e1629-809b-e08e-ca97-09782f02cb5f/OBJECT_PROXY1bc425b5-c387-4aa4-8862-cd6175ce7da4_KEY_FRAME_OUTPUT_0_OBJECT_PROXY1bc425b5-c387-4aa4-8862-cd6175ce7da4.png/{w}x{h}bb.jpg",
+       "width": 2048
+      },
+      "video": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/e2/66/32/e26632be-a54b-7159-69fd-88d9020f13ee/P1499306880_default.m3u8"
+     },
+     "motionWideVideo21x9": {
+      "previewFrame": {
+       "bgColor": "040404",
+       "hasP3": false,
+       "height": 1646,
+       "textColor1": "ffffff",
+       "textColor2": "ffffff",
+       "textColor3": "a8a8a8",
+       "textColor4": "a99f6e",
+       "url": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/35/97/76/35977695-50a0-596f-bc16-0bb621235994/OBJECT_PROXY64776b4f-639a-4725-bfae-b2173e5f26a4_KEY_FRAME_OUTPUT_0_OBJECT_PROXY64776b4f-639a-4725-bfae-b2173e5f26a4.png/{w}x{h}bb.jpg",
+       "width": 3840
+      },
+      "video": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/84/21/8a/84218a80-46aa-36a1-526f-34c4af4b05bf/P1499313431_default.m3u8"
+     }
+    },
+    "hasCollaboration": false,
+    "isChart": false,
+    "lastModifiedDate": "2026-09-18T19:10:28Z",
+    "name": "Today’s Hits",
+    "plainEditorialNotes": {
+     "name": "Today’s Hits",
+     "short": "Jhené Aiko and Kendrick Lamar reunite on “So Good.”",
+     "standard": "Today’s Hits is home to the biggest songs in pop, hip-hop, R&B, and more. Here are the biggest hits anywhere and everywhere—an ever-changing snapshot of now. At the top of this week’s playlist are Jhené Aiko and Kendrick Lamar’s “So Good.” The flirtatious track off of Jhené’s latest album, Westside Whimsy, finds the duo trading verses about their chemistry and desire for each other on a deeper level. Our editors are constantly searching for new music and updating this mix—so if you hear a song you like, add it to your library.",
+     "tagline": "The Songs That Matter"
+    },
+    "playParams": {
+     "id": "pl.f4d106fed2bd41149aaacabb233eb5eb",
+     "kind": "playlist",
+     "versionHash": "73b080aaf86e47ac39a4716f03ce64a58521a79c4d133f0c4a5abb3fb854dcaf"
+    },
+    "playlistType": "editorial",
+    "supportsSing": false,
+    "trackCount": 50,
+    "url": "https://music.apple.com/us/playlist/todays-hits/pl.f4d106fed2bd41149aaacabb233eb5eb"
+   },
+   "relationships": {
+    "curator": {
+     "href": "/v1/catalog/us/playlists/pl.f4d106fed2bd41149aaacabb233eb5eb/curator?l=en-US",
+     "data": [
+      {
+       "id": "1526756058",
+       "type": "apple-curators",
+       "href": "/v1/catalog/us/apple-curators/1526756058?l=en-US",
+       "attributes": {
+        "artwork": {
+         "bgColor": "0a0801",
+         "hasP3": false,
+         "height": 1080,
+         "textColor1": "f3c820",
+         "textColor2": "dbb61d",
+         "textColor3": "c4a21a",
+         "textColor4": "b19318",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/84/81/3d/84813d02-ac8a-4e94-1a51-031f3e3a5137/e656f395-7556-41b0-b909-986cfa8de217.png/{w}x{h}bb.jpg",
+         "width": 1080
+        },
+        "kind": "Genre",
+        "name": "Apple Music Hits",
+        "shortName": "Hits",
+        "url": "https://music.apple.com/us/curator/apple-music-hits/1526756058"
+       }
+      }
+     ]
+    },
+    "tracks": {
+     "href": "/v1/catalog/us/playlists/pl.f4d106fed2bd41149aaacabb233eb5eb/tracks?l=en-US",
+     "data": [
+      {
+       "id": "6810716062",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/6810716062?l=en-US",
+       "attributes": {
+        "albumArtistName": "Jhené Aiko",
+        "albumName": "Westside Whimsy",
+        "artistName": "Jhené Aiko",
+        "artwork": {
+         "bgColor": "131721",
+         "hasP3": false,
+         "height": 3000,
+         "textColor1": "46c8dc",
+         "textColor2": "42c2d1",
+         "textColor3": "3ca5b6",
+         "textColor4": "39a0ae",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5f/51/9f/5f519f49-44c1-6aeb-f289-5b14c677abb1/26UM1IM17017.rgb.jpg/{w}x{h}bb.jpg",
+         "width": 3000
+        },
+        "audioLocale": "en-US",
+        "audioTraits": [
+         "atmos",
+         "lossless",
+         "lossy-stereo"
+        ],
+        "composerName": "Jhené Aiko, Kendrick Duckworth, Mark Spears, Matthew \"MTech\" Bernard, Ruchaun “Scott Bridgeway” Akers Jr & Jahaan Sweet",
+        "contentRating": "explicit",
+        "discNumber": 1,
+        "durationInMillis": 237251,
+        "genreNames": [
+         "R&B/Soul",
+         "Music"
+        ],
+        "hasLyrics": true,
+        "hasTimeSyncedLyrics": true,
+        "isAppleDigitalMaster": true,
+        "isMasteredForItunes": true,
+        "isVocalAttenuationAllowed": false,
+        "isrc": "USUM72608343",
+        "name": "So Good (feat. Kendrick Lamar)",
+        "playParams": {
+         "id": "6810716062",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/20/78/dd/2078ddf0-de7d-f534-a4fd-476382ae012b/mzaf_14956571615491096710.plus.aac.ep.m4a"
+         }
+        ],
+        "releaseDate": "2026-09-11",
+        "trackNumber": 14,
+        "url": "https://music.apple.com/us/album/so-good-feat-kendrick-lamar/6810715695?i=6810716062"
+       }
+      },
+      {
+       "id": "1889992115",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/1889992115?l=en-US",
+       "attributes": {
+        "albumArtistName": "Olivia Rodrigo",
+        "albumName": "you seem pretty sad for a girl so in love",
+        "artistName": "Olivia Rodrigo",
+        "artwork": {
+         "bgColor": "7c939f",
+         "hasP3": false,
+         "height": 4000,
+         "textColor1": "070605",
+         "textColor2": "141413",
+         "textColor3": "1e2224",
+         "textColor4": "282d2f",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/{w}x{h}bb.jpg",
+         "width": 4000
+        },
+        "audioLocale": "en-US",
+        "audioTraits": [
+         "atmos",
+         "lossless",
+         "lossy-stereo"
+        ],
+        "composerName": "Olivia Rodrigo & Daniel Nigro",
+        "discNumber": 1,
+        "durationInMillis": 209680,
+        "genreNames": [
+         "Pop",
+         "Music"
+        ],
+        "hasLyrics": true,
+        "hasTimeSyncedLyrics": true,
+        "isAppleDigitalMaster": true,
+        "isMasteredForItunes": true,
+        "isVocalAttenuationAllowed": true,
+        "isrc": "USUG12601723",
+        "name": "stupid song",
+        "playParams": {
+         "id": "1889992115",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ab/d6/78/abd678a1-bf4e-7ee9-d0b2-ba8afee10914/mzaf_3726531799916235303.plus.aac.ep.m4a"
+         }
+        ],
+        "releaseDate": "2026-06-12",
+        "trackNumber": 2,
+        "url": "https://music.apple.com/us/album/stupid-song/1889992111?i=1889992115"
+       }
+      },
+      {
+       "id": "6796864754",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/6796864754?l=en-US",
+       "attributes": {
+        "albumArtistName": "KAROL G",
+        "albumName": "NO ME ARREPIENTO DE SENTIR TANTO",
+        "artistName": "KAROL G, Judeline & rusowsky",
+        "artwork": {
+         "bgColor": "bfdae6",
+         "hasP3": false,
+         "height": 3000,
+         "textColor1": "030d12",
+         "textColor2": "0e2831",
+         "textColor3": "29363c",
+         "textColor4": "324c55",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2b/66/b2/2b66b26c-ab23-faa1-c4ee-06fa2cce8f76/26UM1IM00558.rgb.jpg/{w}x{h}bb.jpg",
+         "width": 3000
+        },
+        "audioLocale": "es-ES",
+        "audioTraits": [
+         "atmos",
+         "lossless",
+         "lossy-stereo"
+        ],
+        "composerName": "Carolina Giraldo Navarro, Marco Masis, Omer Fedi, Lara Fernández Castrelo, Andres Jael Correa Rios & Ruslán Mediavilla",
+        "discNumber": 1,
+        "durationInMillis": 225835,
+        "genreNames": [
+         "Urbano latino",
+         "Music",
+         "Latin"
+        ],
+        "hasLyrics": true,
+        "hasTimeSyncedLyrics": true,
+        "isAppleDigitalMaster": true,
+        "isMasteredForItunes": true,
+        "isVocalAttenuationAllowed": true,
+        "isrc": "USUG12607940",
+        "name": "BbY WOW",
+        "playParams": {
+         "id": "6796864754",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f3/08/da/f308da3d-00cc-7682-7be9-87cb882f4ea5/mzaf_14078178240008272749.plus.aac.ep.m4a"
+         }
+        ],
+        "releaseDate": "2026-08-07",
+        "trackNumber": 11,
+        "url": "https://music.apple.com/us/album/bby-wow/6796864741?i=6796864754"
+       }
+      }
+     ]
+    }
+   },
+   "views": {
+    "featured-artists": {
+     "href": "/v1/catalog/us/playlists/pl.f4d106fed2bd41149aaacabb233eb5eb/view/featured-artists?l=en-US",
+     "next": "/v1/catalog/us/playlists/pl.f4d106fed2bd41149aaacabb233eb5eb/view/featured-artists?l=en-US&offset=10",
+     "attributes": {
+      "title": "Featured Artists"
+     },
+     "data": [
+      {
+       "id": "198431322",
+       "type": "artists",
+       "href": "/v1/catalog/us/artists/198431322?l=en-US",
+       "attributes": {
+        "artwork": {
+         "bgColor": "255c7a",
+         "defaultCropCode": "bb",
+         "hasP3": true,
+         "height": 2688,
+         "textColor1": "f4e6e6",
+         "textColor2": "e5cfca",
+         "textColor3": "cacad0",
+         "textColor4": "bfb8ba",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/5b/23/f5/5b23f54e-5d9f-abdb-eae5-550fe9d4e4a3/file_cropped.png/{w}x{h}bb.jpg",
+         "width": 2688
+        },
+        "genreNames": [
+         "R&B/Soul"
+        ],
+        "name": "Jhené Aiko",
+        "url": "https://music.apple.com/us/artist/jhen%C3%A9-aiko/198431322"
+       },
+       "relationships": {
+        "albums": {
+         "href": "/v1/catalog/us/artists/198431322/albums?l=en-US",
+         "next": "/v1/catalog/us/artists/198431322/albums?l=en-US&offset=25",
+         "data": [
+          {
+           "id": "1461949547",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1461949547?l=en-US"
+          },
+          {
+           "id": "1494544267",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1494544267?l=en-US"
+          },
+          {
+           "id": "1500821043",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1500821043?l=en-US"
+          }
+         ]
+        }
+       }
+      },
+      {
+       "id": "979458609",
+       "type": "artists",
+       "href": "/v1/catalog/us/artists/979458609?l=en-US",
+       "attributes": {
+        "artwork": {
+         "bgColor": "c3c5c1",
+         "defaultCropCode": "bb",
+         "hasP3": true,
+         "height": 972,
+         "textColor1": "1d1912",
+         "textColor2": "221f19",
+         "textColor3": "3e3b35",
+         "textColor4": "42403b",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/ba/36/7a/ba367a61-9f8a-8905-9dbd-7a99db6ee77b/ami-identity-5b05d351a6e3c7256ef7680c8aef2894-2026-06-12T04-01-34.107Z_cropped.png/{w}x{h}bb.jpg",
+         "width": 972
+        },
+        "editorialVideo": {
+         "motionArtistFullscreen16x9": {
+          "previewFrame": {
+           "bgColor": "b2b1b0",
+           "hasP3": false,
+           "height": 2160,
+           "textColor1": "0d1010",
+           "textColor2": "141613",
+           "textColor3": "343636",
+           "textColor4": "393a37",
+           "url": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/b9/ca/89/b9ca8958-0a09-cbb2-34a0-a8212abc7823/0d7e0d8280713ef5508e4a61b0326730_Preview_Image_Intermediate_nonvideo_436368767_2640850934.png/{w}x{h}bb.jpg",
+           "width": 3840
+          },
+          "video": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/62/67/d2/6267d2b3-8c2f-2f94-b6a7-5387ec4fc51d/P1319234636_default.m3u8"
+         },
+         "motionArtistSquare1x1": {
+          "previewFrame": {
+           "bgColor": "aba9a8",
+           "hasP3": false,
+           "height": 3840,
+           "textColor1": "0e1010",
+           "textColor2": "212520",
+           "textColor3": "333433",
+           "textColor4": "40433f",
+           "url": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/a4/65/09/a465097e-01f5-7282-919b-d92102bba0d8/45283e10ea2effbf08a1c60f723db297_Preview_Image_Intermediate_nonvideo_436368576_2640850746.png/{w}x{h}bb.jpg",
+           "width": 3840
+          },
+          "video": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic211/v4/93/a8/be/93a8be95-1343-6f32-6c43-e8b0a6fb1270/P1319253263_default.m3u8"
+         },
+         "motionArtistWide16x9": {
+          "previewFrame": {
+           "bgColor": "b2b1b0",
+           "hasP3": false,
+           "height": 2160,
+           "textColor1": "0d1010",
+           "textColor2": "141613",
+           "textColor3": "343636",
+           "textColor4": "393a37",
+           "url": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/b9/ca/89/b9ca8958-0a09-cbb2-34a0-a8212abc7823/0d7e0d8280713ef5508e4a61b0326730_Preview_Image_Intermediate_nonvideo_436368767_2640850934.png/{w}x{h}bb.jpg",
+           "width": 3840
+          },
+          "video": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/62/67/d2/6267d2b3-8c2f-2f94-b6a7-5387ec4fc51d/P1319234636_default.m3u8"
+         }
+        },
+        "genreNames": [
+         "Pop"
+        ],
+        "name": "Olivia Rodrigo",
+        "url": "https://music.apple.com/us/artist/olivia-rodrigo/979458609"
+       },
+       "relationships": {
+        "albums": {
+         "href": "/v1/catalog/us/artists/979458609/albums?l=en-US",
+         "next": "/v1/catalog/us/artists/979458609/albums?l=en-US&offset=25",
+         "data": [
+          {
+           "id": "1560735414",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1560735414?l=en-US"
+          },
+          {
+           "id": "1545051447",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1545051447?l=en-US"
+          },
+          {
+           "id": "1889992111",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1889992111?l=en-US"
+          }
+         ]
+        }
+       }
+      },
+      {
+       "id": "290814601",
+       "type": "artists",
+       "href": "/v1/catalog/us/artists/290814601?l=en-US",
+       "attributes": {
+        "artwork": {
+         "bgColor": "c6dbe6",
+         "defaultCropCode": "bb",
+         "hasP3": true,
+         "height": 1454,
+         "textColor1": "162831",
+         "textColor2": "1d333d",
+         "textColor3": "394c55",
+         "textColor4": "3e545f",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/84/8a/4e/848a4e8b-48c7-e3fa-ae20-a42cd4b469a8/ami-identity-d59cbd95617167e768f2dbfe6377cf2e-2026-08-09T23-03-10.005Z_cropped.png/{w}x{h}bb.jpg",
+         "width": 1454
+        },
+        "genreNames": [
+         "Urbano latino"
+        ],
+        "name": "KAROL G",
+        "url": "https://music.apple.com/us/artist/karol-g/290814601"
+       },
+       "relationships": {
+        "albums": {
+         "href": "/v1/catalog/us/artists/290814601/albums?l=en-US",
+         "next": "/v1/catalog/us/artists/290814601/albums?l=en-US&offset=25",
+         "data": [
+          {
+           "id": "1670245862",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1670245862?l=en-US"
+          },
+          {
+           "id": "1485476559",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1485476559?l=en-US"
+          },
+          {
+           "id": "1449291376",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1449291376?l=en-US"
+          }
+         ]
+        }
+       }
+      }
+     ]
+    },
+    "more-by-curator": {
+     "href": "/v1/catalog/us/playlists/pl.f4d106fed2bd41149aaacabb233eb5eb/view/more-by-curator?l=en-US",
+     "attributes": {
+      "title": "More By Apple Music Hits"
+     },
+     "data": []
+    }
+   },
+   "meta": {
+    "views": {
+     "order": [
+      "more-by-curator",
+      "featured-artists"
+     ]
+    }
+   }
+  }
+ ]
+}

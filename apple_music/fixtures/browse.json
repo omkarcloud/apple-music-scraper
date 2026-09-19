@@ -1,0 +1,895 @@
+{
+ "data": [
+  {
+   "id": "1",
+   "type": "groupings",
+   "href": "/v1/editorial/us/groupings/1?l=en-US",
+   "attributes": {
+    "genreNames": [
+     "Music"
+    ],
+    "name": "Music"
+   },
+   "relationships": {
+    "curator": {
+     "href": "/v1/editorial/us/groupings/1/curator?l=en-US",
+     "data": []
+    },
+    "tabs": {
+     "href": "/v1/editorial/us/groupings/1/tabs?l=en-US",
+     "data": [
+      {
+       "id": "default",
+       "type": "editorial-elements",
+       "attributes": {
+        "doNotFilter": false,
+        "editorialElementKind": "382"
+       },
+       "relationships": {
+        "children": {
+         "data": [
+          {
+           "id": "6813318568",
+           "type": "editorial-elements",
+           "attributes": {
+            "displayStyle": "compact",
+            "doNotFilter": false,
+            "editorialElementKind": "316",
+            "lastModifiedDate": "2026-09-19T07:42:19Z"
+           },
+           "relationships": {
+            "children": {
+             "data": [
+              {
+               "id": "6811924016",
+               "type": "editorial-elements",
+               "attributes": {
+                "designBadge": "NEW ALBUM",
+                "doNotFilter": false,
+                "editorialElementKind": "317",
+                "lastModifiedDate": "2026-09-19T07:42:20Z",
+                "resourceTypes": [
+                 "albums"
+                ]
+               },
+               "relationships": {
+                "contents": {
+                 "data": [
+                  {
+                   "id": "6807197456",
+                   "type": "albums",
+                   "href": "/v1/catalog/us/albums/6807197456?l=en-US",
+                   "attributes": {
+                    "artistName": "Miley Cyrus",
+                    "artwork": {
+                     "bgColor": "f3f3f3",
+                     "hasP3": false,
+                     "height": 3000,
+                     "textColor1": "161616",
+                     "textColor2": "313131",
+                     "textColor3": "424242",
+                     "textColor4": "585858",
+                     "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ff/af/51/ffaf51a6-d711-6f92-a5d6-f90e98014f0f/075679564061.jpg/{w}x{h}bb.jpg",
+                     "width": 3000
+                    },
+                    "audioTraits": [
+                     "atmos",
+                     "lossless",
+                     "lossy-stereo"
+                    ],
+                    "copyright": "℗ 2026 MCEO, Inc., under exclusive license to Atlantic Recording Corporation",
+                    "editorialNotes": {
+                     "short": "A(nother) new identity and a love story hidden inside a raucous dance party.",
+                     "standard": "“There’s a song on the record called <b>‘Snow’</b> and the outro is me saying over and over again as a mantra, ‘It doesn’t get better,’” the artist formerly known as Miley Cyrus tells Apple Music. “This right here, this life that I’m in, this moment, it is such bliss. It isn’t just that I wake up and I’m happy, it is the boundaries that I set.”\n\nThe day before the announcement of her 10th studio album, Miley Cyrus changed her name, dropping “Cyrus” on all socials to go mononymous, as icons often do (think Cher, Madonna, Beyoncé). With two decades of stardom already in the rearview, the name change heralded a new era for the 33-year-old musician whose career has been defined by fearless experimentation, from 2013’s rebellious <i>Bangerz</i> to 2015’s psych-rock curveball <i>Miley Cyrus & Her Dead Petz</i> to the world-conquering disco empowerment of 2023’s “Flowers.” Fittingly, as she shared in a heartfelt tribute to her late godmother Dolly Parton, one of their final conversations “was about music and metamorphosis.”\n\nIf her 2007 debut album extended the invitation to <i>Meet Miley Cyrus</i>, <i>Bass Persuades</i> arrives with a new offer—meet <b>Miley</b>. And it appears that Miley has read the recent studies claiming that young people don’t party anymore. The antidote to this dilemma? A gritty album of hedonistic dance-pop, on which she casts her smoky voice in Blondie-esque directions when she isn’t belting out anthemic ’80s-coded love songs. (Amid her whirlwind of a past year, which included a deluxe version of 2025’s <i>Something Beautiful</i> and a live <i>Hannah Montana</i> 20th anniversary special, she got engaged to musician Maxx Morando, a name that appears often in <i>Bass Persuades</i>’ credits.) “The point,” she says, “was to have community through music again.”\n\nA love story hidden inside a raucous dance party, <i>Bass Persuades</i> finds Miley ready to surrender—to true love, to passion, to the thrill of the night. “Go analog!” she urges on the New Wave-tinged title track, <b>“Bass Persuades,”</b> pining for the era when people danced like no one was watching and MTV played music videos. (She pauses for a wink to her younger self: “Chaos is king, but you know that you can’t stop, won’t stop.”) “I’m sick of poets and being profound,” she belts over a galloping techno beat on <b>“Aftermath,”</b> while <b>“Different Religion”</b> draws from electroclash and industrial with a glamorous assist from Brooklyn rockers Model/Actriz.\n\nBut through the bacchanalia, Miley weaves a thread of romantic bliss, from the head-over-heels chillwave of <b>“Let’s Get Married”</b> to <b>“Neon Signs,”</b> a psych-rock duet with Miike Snow’s <b>Andrew Wyatt</b> that evokes a slow dance in the lamplight of a mid-century motel room. Life is short and nothing’s promised, <i>Bass Persuades</i> seems to suggest—why not fall in love, roll the dice, leave it all on the dance floor?",
+                     "tagline": "New Album"
+                    },
+                    "genreNames": [
+                     "Pop",
+                     "Music"
+                    ],
+                    "isCompilation": false,
+                    "isComplete": true,
+                    "isMasteredForItunes": true,
+                    "isPrerelease": false,
+                    "isSingle": false,
+                    "name": "Bass Persuades",
+                    "playParams": {
+                     "id": "6807197456",
+                     "kind": "album"
+                    },
+                    "recordLabel": "Atlantic Records",
+                    "releaseDate": "2026-09-18",
+                    "trackCount": 11,
+                    "upc": "075679564061",
+                    "url": "https://music.apple.com/us/album/bass-persuades/6807197456"
+                   }
+                  }
+                 ]
+                }
+               }
+              },
+              {
+               "id": "1774320219",
+               "type": "editorial-elements",
+               "attributes": {
+                "artwork": {
+                 "bgColor": "da7038",
+                 "hasP3": false,
+                 "height": 1080,
+                 "textColor1": "190904",
+                 "textColor2": "2b1308",
+                 "textColor3": "3f1e0f",
+                 "textColor4": "4e2512",
+                 "url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/79/4b/9b/794b9b37-2ec9-72d2-4876-cc3470597702/source/{w}x{h}bb.jpg",
+                 "width": 4320
+                },
+                "designBadge": "NEW RADIO SHOW",
+                "designTag": "Missed Friday’s episode? Catch up on Vince’s 5 songs of the week.",
+                "doNotFilter": false,
+                "editorialArtwork": {
+                 "brandLogo": {
+                  "bgColor": "a3302c",
+                  "hasP3": true,
+                  "height": 1080,
+                  "textColor1": "ffd147",
+                  "textColor2": "f0c946",
+                  "textColor3": "ecb041",
+                  "textColor4": "e0aa41",
+                  "url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/b2/90/9d/b2909d94-7c83-b11f-338c-c0f28538df12/46169405-1a10-42c7-8d11-9f41948bbe0f.png/{w}x{h}bb.jpg",
+                  "width": 1080
+                 },
+                 "subscriptionCover": {
+                  "bgColor": "eb483f",
+                  "hasP3": true,
+                  "height": 1080,
+                  "textColor1": "060302",
+                  "textColor2": "080501",
+                  "textColor3": "34110e",
+                  "textColor4": "35130e",
+                  "url": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/e5/c1/be/e5c1beec-5f28-0c65-cf47-13785a44346b/6a5248a1-3b8f-4091-a128-bcf2fd8132d7.png/{w}x{h}sr.jpg",
+                  "width": 4320
+                 },
+                 "subscriptionHero": {
+                  "bgColor": "da7038",
+                  "hasP3": true,
+                  "height": 1080,
+                  "textColor1": "190904",
+                  "textColor2": "2b1308",
+                  "textColor3": "3f1e0f",
+                  "textColor4": "4e2512",
+                  "url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/79/4b/9b/794b9b37-2ec9-72d2-4876-cc3470597702/7a73f465-6042-4d07-a426-6445c83340f9.png/{w}x{h}sr.jpg",
+                  "width": 4320
+                 },
+                 "superHeroTall": {
+                  "bgColor": "d34c33",
+                  "gradient": {},
+                  "hasP3": true,
+                  "height": 2240,
+                  "textColor1": "010201",
+                  "textColor2": "030301",
+                  "textColor3": "2b110b",
+                  "textColor4": "2c110b",
+                  "url": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/7a/2d/36/7a2d36a9-f066-cad0-b131-eb89cd5a7550/74d9ddba-9369-410b-bafb-117444bc6a4b.png/{w}x{h}sr.jpg",
+                  "width": 1680
+                 }
+                },
+                "editorialElementKind": "320",
+                "lastModifiedDate": "2026-09-19T07:42:20Z",
+                "resourceTypes": [
+                 "apple-curators"
+                ]
+               },
+               "relationships": {
+                "contents": {
+                 "data": [
+                  {
+                   "id": "1774320219",
+                   "type": "apple-curators",
+                   "href": "/v1/catalog/us/apple-curators/1774320219?l=en-US",
+                   "attributes": {
+                    "artwork": {
+                     "bgColor": "a3302c",
+                     "hasP3": true,
+                     "height": 1080,
+                     "textColor1": "ffd147",
+                     "textColor2": "f0c946",
+                     "textColor3": "ecb041",
+                     "textColor4": "e0aa41",
+                     "url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/b2/90/9d/b2909d94-7c83-b11f-338c-c0f28538df12/46169405-1a10-42c7-8d11-9f41948bbe0f.png/{w}x{h}bb.jpg",
+                     "width": 1080
+                    },
+                    "editorialNotes": {
+                     "name": "5 on Fridays with Vince Staples",
+                     "short": "The top five new releases of the week, according to Vince.",
+                     "standard": "Friday means new music—and Vince Staples. The world-building MC is live on Apple Music 1 every Friday, counting down his fave five new releases across all genres, plus a few other choice cuts. “Hopefully you love music,” says Vince, “because that’s all we got.”",
+                     "tagline": "Only on Apple Music"
+                    },
+                    "kind": "Show",
+                    "name": "5 on Fridays with Vince Staples",
+                    "shortName": "5 on Fridays with Vince Staples",
+                    "showHostName": "Vince Staples",
+                    "url": "https://music.apple.com/us/curator/5-on-fridays-with-vince-staples/1774320219"
+                   }
+                  }
+                 ]
+                }
+               }
+              },
+              {
+               "id": "6502918115",
+               "type": "editorial-elements",
+               "attributes": {
+                "artwork": {
+                 "bgColor": "0b2026",
+                 "hasP3": false,
+                 "height": 1080,
+                 "textColor1": "f0f1fb",
+                 "textColor2": "c9ced1",
+                 "textColor3": "c2c7d1",
+                 "textColor4": "a3abaf",
+                 "url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/1e/66/95/1e669514-0f72-9e8e-6a69-ab75293e12d5/source/{w}x{h}bb.jpg",
+                 "width": 4320
+                },
+                "designBadge": "NOW IN SPATIAL AUDIO",
+                "designTag": "Come out and play The Offspring in Spatial Audio.",
+                "doNotFilter": false,
+                "editorialArtwork": {
+                 "brandLogo": {
+                  "bgColor": "cc0033",
+                  "hasP3": false,
+                  "height": 1080,
+                  "textColor1": "fcf2f4",
+                  "textColor2": "f9e5ea",
+                  "textColor3": "f2c1ce",
+                  "textColor4": "f0b7c5",
+                  "url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/8e/80/a7/8e80a725-f4e5-2efa-d571-6e68087fc18b/79b7f50d-a834-4d70-8dd6-f5e7d37a09e1.png/{w}x{h}bb.jpg",
+                  "width": 1080
+                 },
+                 "subscriptionCover": {
+                  "bgColor": "fb0032",
+                  "hasP3": false,
+                  "height": 1080,
+                  "textColor1": "000000",
+                  "textColor2": "0a0003",
+                  "textColor3": "2b000d",
+                  "textColor4": "2d000d",
+                  "url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/fc/b2/1f/fcb21f97-ce7f-e222-5f0c-48d2b3a3374d/c695e51c-4a2e-4bbc-8e5d-1457d9072947.png/{w}x{h}sr.jpg",
+                  "width": 4320
+                 },
+                 "subscriptionHero": {
+                  "bgColor": "0b2026",
+                  "hasP3": true,
+                  "height": 1080,
+                  "textColor1": "f0f1fb",
+                  "textColor2": "c9ced1",
+                  "textColor3": "c2c7d1",
+                  "textColor4": "a3abaf",
+                  "url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/1e/66/95/1e669514-0f72-9e8e-6a69-ab75293e12d5/07ea3626-a5c2-4745-8210-cdec348982eb.png/{w}x{h}sr.jpg",
+                  "width": 4320
+                 }
+                },
+                "editorialElementKind": "320",
+                "lastModifiedDate": "2026-09-19T07:42:20Z",
+                "link": {
+                 "label": "",
+                 "url": "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewFeature?cc=us&id=1635612875"
+                },
+                "resourceTypes": []
+               },
+               "relationships": {
+                "contents": {
+                 "data": []
+                }
+               }
+              }
+             ]
+            }
+           }
+          },
+          {
+           "id": "6813320444",
+           "type": "editorial-elements",
+           "attributes": {
+            "displayStyle": "compact",
+            "doNotFilter": false,
+            "editorialElementKind": "327",
+            "emphasize": false,
+            "featureFirstElement": false,
+            "lastModifiedDate": "2026-09-19T07:42:32Z",
+            "name": "Best New Songs",
+            "resourceTypes": [
+             "songs"
+            ],
+            "supportedSorts": [],
+            "type": "track"
+           },
+           "relationships": {
+            "contents": {
+             "data": [
+              {
+               "id": "6812477290",
+               "type": "songs",
+               "href": "/v1/catalog/us/songs/6812477290?l=en-US",
+               "attributes": {
+                "albumArtistName": "Various Artists",
+                "albumName": "Grand Theft Auto VI: The Album",
+                "artistName": "Morgan Wallen",
+                "artwork": {
+                 "bgColor": "7e8db8",
+                 "hasP3": false,
+                 "height": 1425,
+                 "textColor1": "130d1b",
+                 "textColor2": "1c162b",
+                 "textColor3": "28273a",
+                 "textColor4": "2f2e47",
+                 "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/d3/1c/5dd31c9c-1e1c-0bbc-104f-4a42e2bb4c59/075679556424.jpg/{w}x{h}bb.jpg",
+                 "width": 1425
+                },
+                "audioLocale": "en-US",
+                "audioTraits": [
+                 "lossless",
+                 "lossy-stereo"
+                ],
+                "composerName": "Blake Pendergrass, Chase McGill, John Byron, Morgan Wallen & Ryan Vojtesak",
+                "discNumber": 1,
+                "durationInMillis": 196000,
+                "genreNames": [
+                 "Country",
+                 "Music"
+                ],
+                "hasLyrics": true,
+                "hasTimeSyncedLyrics": true,
+                "isAppleDigitalMaster": false,
+                "isMasteredForItunes": false,
+                "isVocalAttenuationAllowed": false,
+                "isrc": "USAT22606648",
+                "name": "Last Thing You Need",
+                "playParams": {
+                 "id": "6812477290",
+                 "kind": "song"
+                },
+                "previews": [
+                 {
+                  "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7f/98/3c/7f983c2f-9eb3-7089-b929-8c64b23fb29f/mzaf_3877266011687742149.plus.aac.ep.m4a"
+                 }
+                ],
+                "trackNumber": 8,
+                "url": "https://music.apple.com/us/album/last-thing-you-need/6812476961?i=6812477290"
+               }
+              },
+              {
+               "id": "6813244854",
+               "type": "songs",
+               "href": "/v1/catalog/us/songs/6813244854?l=en-US",
+               "attributes": {
+                "albumArtistName": "Yeat",
+                "albumName": "COCOON",
+                "artistName": "Yeat & Drake",
+                "artwork": {
+                 "bgColor": "e2e2e2",
+                 "hasP3": false,
+                 "height": 3000,
+                 "textColor1": "0b0b0b",
+                 "textColor2": "232323",
+                 "textColor3": "363636",
+                 "textColor4": "494949",
+                 "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/95/9e/e2/959ee283-8ef9-30d5-1422-595e08bc7517/26UM1IM20013.rgb.jpg/{w}x{h}bb.jpg",
+                 "width": 3000
+                },
+                "audioLocale": "en-US",
+                "audioTraits": [
+                 "lossless",
+                 "lossy-stereo"
+                ],
+                "composerName": "Noah Smith, Aubrey Drake Graham, Noel Cadastre, Lucius Lowe, Lucien Dunne & Daniel Lee",
+                "contentRating": "explicit",
+                "discNumber": 1,
+                "durationInMillis": 188504,
+                "genreNames": [
+                 "Hip-Hop",
+                 "Music",
+                 "Hip-Hop/Rap"
+                ],
+                "hasLyrics": true,
+                "hasTimeSyncedLyrics": true,
+                "isAppleDigitalMaster": true,
+                "isMasteredForItunes": true,
+                "isVocalAttenuationAllowed": false,
+                "isrc": "USUM72608575",
+                "name": "MISS MY DAWG",
+                "playParams": {
+                 "id": "6813244854",
+                 "kind": "song"
+                },
+                "previews": [
+                 {
+                  "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/df/89/42/df894248-23f0-eef9-73fc-26e6f56ad50e/mzaf_2816553263188683360.plus.aac.ep.m4a"
+                 }
+                ],
+                "releaseDate": "2026-09-18",
+                "trackNumber": 3,
+                "url": "https://music.apple.com/us/album/miss-my-dawg/6813244843?i=6813244854"
+               }
+              },
+              {
+               "id": "6807197465",
+               "type": "songs",
+               "href": "/v1/catalog/us/songs/6807197465?l=en-US",
+               "attributes": {
+                "albumArtistName": "Miley Cyrus",
+                "albumName": "Bass Persuades",
+                "artistName": "Miley Cyrus",
+                "artwork": {
+                 "bgColor": "f3f3f3",
+                 "hasP3": false,
+                 "height": 3000,
+                 "textColor1": "161616",
+                 "textColor2": "313131",
+                 "textColor3": "424242",
+                 "textColor4": "585858",
+                 "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ff/af/51/ffaf51a6-d711-6f92-a5d6-f90e98014f0f/075679564061.jpg/{w}x{h}bb.jpg",
+                 "width": 3000
+                },
+                "audioLocale": "en-US",
+                "audioTraits": [
+                 "atmos",
+                 "lossless",
+                 "lossy-stereo"
+                ],
+                "composerName": "Gregory \"Aldae\" Hein, Jordan Johnson, Michael Pollack, Miley Cyrus & Stefan Johnson",
+                "discNumber": 1,
+                "durationInMillis": 216104,
+                "genreNames": [
+                 "Pop",
+                 "Music"
+                ],
+                "hasLyrics": true,
+                "hasTimeSyncedLyrics": true,
+                "isAppleDigitalMaster": true,
+                "isMasteredForItunes": true,
+                "isVocalAttenuationAllowed": false,
+                "isrc": "USAT22604408",
+                "name": "Let’s Get Married",
+                "playParams": {
+                 "id": "6807197465",
+                 "kind": "song"
+                },
+                "previews": [
+                 {
+                  "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/fa/7a/20/fa7a20b0-1e5f-2e08-071f-6ad1c6e5008e/mzaf_745177469361252551.plus.aac.ep.m4a"
+                 }
+                ],
+                "releaseDate": "2026-09-18",
+                "trackNumber": 3,
+                "url": "https://music.apple.com/us/album/lets-get-married/6807197456?i=6807197465"
+               }
+              }
+             ]
+            },
+            "room": {
+             "data": [
+              {
+               "id": "6813320444",
+               "type": "rooms",
+               "href": "/v1/editorial/us/rooms/6813320444?l=en-US"
+              }
+             ]
+            }
+           }
+          },
+          {
+           "id": "6813319894",
+           "type": "editorial-elements",
+           "attributes": {
+            "displayStyle": "compact",
+            "doNotFilter": false,
+            "editorialElementKind": "326",
+            "emphasize": false,
+            "featureFirstElement": false,
+            "lastModifiedDate": "2026-09-19T07:42:32Z",
+            "name": "New This Week",
+            "resourceTypes": [
+             "albums"
+            ],
+            "supportedSorts": [],
+            "type": "normal"
+           },
+           "relationships": {
+            "contents": {
+             "data": [
+              {
+               "id": "6807197456",
+               "type": "albums",
+               "href": "/v1/catalog/us/albums/6807197456?l=en-US",
+               "attributes": {
+                "artistName": "Miley Cyrus",
+                "artwork": {
+                 "bgColor": "f3f3f3",
+                 "hasP3": false,
+                 "height": 3000,
+                 "textColor1": "161616",
+                 "textColor2": "313131",
+                 "textColor3": "424242",
+                 "textColor4": "585858",
+                 "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ff/af/51/ffaf51a6-d711-6f92-a5d6-f90e98014f0f/075679564061.jpg/{w}x{h}bb.jpg",
+                 "width": 3000
+                },
+                "audioTraits": [
+                 "atmos",
+                 "lossless",
+                 "lossy-stereo"
+                ],
+                "copyright": "℗ 2026 MCEO, Inc., under exclusive license to Atlantic Recording Corporation",
+                "editorialNotes": {
+                 "short": "A(nother) new identity and a love story hidden inside a raucous dance party.",
+                 "standard": "“There’s a song on the record called <b>‘Snow’</b> and the outro is me saying over and over again as a mantra, ‘It doesn’t get better,’” the artist formerly known as Miley Cyrus tells Apple Music. “This right here, this life that I’m in, this moment, it is such bliss. It isn’t just that I wake up and I’m happy, it is the boundaries that I set.”\n\nThe day before the announcement of her 10th studio album, Miley Cyrus changed her name, dropping “Cyrus” on all socials to go mononymous, as icons often do (think Cher, Madonna, Beyoncé). With two decades of stardom already in the rearview, the name change heralded a new era for the 33-year-old musician whose career has been defined by fearless experimentation, from 2013’s rebellious <i>Bangerz</i> to 2015’s psych-rock curveball <i>Miley Cyrus & Her Dead Petz</i> to the world-conquering disco empowerment of 2023’s “Flowers.” Fittingly, as she shared in a heartfelt tribute to her late godmother Dolly Parton, one of their final conversations “was about music and metamorphosis.”\n\nIf her 2007 debut album extended the invitation to <i>Meet Miley Cyrus</i>, <i>Bass Persuades</i> arrives with a new offer—meet <b>Miley</b>. And it appears that Miley has read the recent studies claiming that young people don’t party anymore. The antidote to this dilemma? A gritty album of hedonistic dance-pop, on which she casts her smoky voice in Blondie-esque directions when she isn’t belting out anthemic ’80s-coded love songs. (Amid her whirlwind of a past year, which included a deluxe version of 2025’s <i>Something Beautiful</i> and a live <i>Hannah Montana</i> 20th anniversary special, she got engaged to musician Maxx Morando, a name that appears often in <i>Bass Persuades</i>’ credits.) “The point,” she says, “was to have community through music again.”\n\nA love story hidden inside a raucous dance party, <i>Bass Persuades</i> finds Miley ready to surrender—to true love, to passion, to the thrill of the night. “Go analog!” she urges on the New Wave-tinged title track, <b>“Bass Persuades,”</b> pining for the era when people danced like no one was watching and MTV played music videos. (She pauses for a wink to her younger self: “Chaos is king, but you know that you can’t stop, won’t stop.”) “I’m sick of poets and being profound,” she belts over a galloping techno beat on <b>“Aftermath,”</b> while <b>“Different Religion”</b> draws from electroclash and industrial with a glamorous assist from Brooklyn rockers Model/Actriz.\n\nBut through the bacchanalia, Miley weaves a thread of romantic bliss, from the head-over-heels chillwave of <b>“Let’s Get Married”</b> to <b>“Neon Signs,”</b> a psych-rock duet with Miike Snow’s <b>Andrew Wyatt</b> that evokes a slow dance in the lamplight of a mid-century motel room. Life is short and nothing’s promised, <i>Bass Persuades</i> seems to suggest—why not fall in love, roll the dice, leave it all on the dance floor?",
+                 "tagline": "New Album"
+                },
+                "genreNames": [
+                 "Pop",
+                 "Music"
+                ],
+                "isCompilation": false,
+                "isComplete": true,
+                "isMasteredForItunes": true,
+                "isPrerelease": false,
+                "isSingle": false,
+                "name": "Bass Persuades",
+                "playParams": {
+                 "id": "6807197456",
+                 "kind": "album"
+                },
+                "recordLabel": "Atlantic Records",
+                "releaseDate": "2026-09-18",
+                "trackCount": 11,
+                "upc": "075679564061",
+                "url": "https://music.apple.com/us/album/bass-persuades/6807197456"
+               }
+              },
+              {
+               "id": "6770725355",
+               "type": "albums",
+               "href": "/v1/catalog/us/albums/6770725355?l=en-US",
+               "attributes": {
+                "artistName": "Riley Green",
+                "artwork": {
+                 "bgColor": "4e4f51",
+                 "hasP3": false,
+                 "height": 3000,
+                 "textColor1": "f9ebe1",
+                 "textColor2": "e9e8e6",
+                 "textColor3": "d6ccc4",
+                 "textColor4": "cac9c8",
+                 "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/16/cf/71/16cf71b7-bda7-9916-3d11-3b60539ace2c/26BMR0008042.rgb.jpg/{w}x{h}bb.jpg",
+                 "width": 3000
+                },
+                "audioTraits": [
+                 "atmos",
+                 "lossless",
+                 "lossy-stereo"
+                ],
+                "copyright": "℗ 2026 Nashville Harbor Records & Entertainment, LLC",
+                "editorialNotes": {
+                 "short": "The singer-songwriter prides himself on reflecting his interests, not trends.",
+                 "standard": "<b>Riley Green</b> is allergic to complacency. The singer-songwriter—and, as of 2026, coach on <i>The Voice</i>—prides himself on making albums that reflect his wide range of influences rather than the trends of the day. Produced by Dann Huff (Keith Urban, Rascal Flatts), <i>That’s Just Me</i> lets Green indulge those influences across 19 tracks, with featured artists including country icons <b>Brooks & Dunn</b> and rising star <b>Hannah McFarland</b>.\n\nGreen curated a mix of solo writes, co-writes, and outside cuts to achieve that sense of well-roundedness, which coheres thanks to his ever-charismatic performances and Huff’s mellow, largely acoustic production. The McFarland duet <b>“Go Again”</b> is an early fan favorite, and finds the pair trading verses about the bittersweet aftermath of a one-night stand. <b>“Bartender in Destin”</b> is technically a beach song, but the opening interplay of fingerpicked dobro and acoustic guitar keep the tune grounded in the Appalachian sounds of Green’s northeast Alabama roots.\n\nBelow, Green shares insight into several key tracks.\n\n<b>“Beach Happy”</b>\n“I grew up in the era of burnt CDs, and it would have 2pac and then Tim McGraw and then Merle Haggard. I think that’s the way I like to do records. So, I wanted that little beach moment in there, and that one and ‘Bartender in Destin’ really did that for me.”\n\n<b>“Well Well Whiskey” (feat. Jake Worthington)</b>\n“Jake’s the closest to George Jones that I’ve been around vocally. But he also goes places that I wouldn’t go. His moves and his runs are different and unique. I’ve been a fan of him forever. I wrote that song probably three years ago. He was touring with me in Australia and I just looked at him. He was like a cartoon. He’s so country. I was like, ‘Jake, I got a song I’m going to cut, if you want to be a part of it.’ And he crushed it. I would find myself fast-forwarding to his part when I listen to it because he sounds so good on it.”\n\n<b>“Ten Pairs of Boots”</b>\n“That song is what country music is to me. One thing I’ll say about [songwriter] Chase [McGill] is he can do a lot of different things. I’ve had some success as a songwriter and solo writes and all that, but I live in my world and I do what I do. And sometimes I venture out a little bit, but I have a thing. Chase does a lot of different stuff.”",
+                 "tagline": "New Album and Interview"
+                },
+                "genreNames": [
+                 "Country",
+                 "Music"
+                ],
+                "isCompilation": false,
+                "isComplete": true,
+                "isMasteredForItunes": true,
+                "isPrerelease": false,
+                "isSingle": false,
+                "name": "That's Just Me",
+                "playParams": {
+                 "id": "6770725355",
+                 "kind": "album"
+                },
+                "recordLabel": "Nashville Harbor",
+                "releaseDate": "2026-09-18",
+                "trackCount": 19,
+                "upc": "00843930154364",
+                "url": "https://music.apple.com/us/album/thats-just-me/6770725355"
+               }
+              },
+              {
+               "id": "6813244843",
+               "type": "albums",
+               "href": "/v1/catalog/us/albums/6813244843?l=en-US",
+               "attributes": {
+                "artistName": "Yeat",
+                "artwork": {
+                 "bgColor": "e2e2e2",
+                 "hasP3": false,
+                 "height": 3000,
+                 "textColor1": "0b0b0b",
+                 "textColor2": "232323",
+                 "textColor3": "363636",
+                 "textColor4": "494949",
+                 "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/95/9e/e2/959ee283-8ef9-30d5-1422-595e08bc7517/26UM1IM20013.rgb.jpg/{w}x{h}bb.jpg",
+                 "width": 3000
+                },
+                "audioTraits": [
+                 "lossless",
+                 "lossy-stereo"
+                ],
+                "contentRating": "explicit",
+                "copyright": "Lyfestyle Corporation/Field Trip Recordings/Capitol Records; ℗ 2026 Field Trip Recordings and UMG Recordings, Inc.",
+                "editorialNotes": {
+                 "short": "The prolific rap star showcases some subtle skills on this surprise EP.",
+                 "standard": "A cocoon suggests a metamorphosis on the horizon, which means yet another evolution might be in store for <b>Yeat</b>, a rapper who is as restless and inventive as he is consistent. The surprise seven-song release dropped in September 2026, just six months after his seismic <i>ADL</i>.\n\nAs all Yeat projects seem to do, <i>COCOON</i> takes the styles and sounds the rapper has popularized in his near-decade on the scene and tweaks them in ways both small and large.\n\nThe lone feature on <i>COCOON</i> comes from <b>Drake</b>, which only further reiterates the plane upon which Yeat is floating these days. Few in the game are as reliably popular, and that’s thanks in large part to his consistency—impactful only because the reliable flow of releases demand attention.\n\nTake <b>“IN2THAT,”</b> which uses a deconstructed beat that highlights the staccato punches of Yeat’s flow pattern, or <b>“TËNNIS,”</b> which features Yeat pitch-shifting his vocals to highlight the emotional range of his delivery. He sings of a relationship that turns hot and cold, spitting: “We go back and forth likе the game of tennis did.” It’s difficult to discern whether the passion in his voice comes from pain or joy, helping to illustrate the complex array of feelings that come with a decidedly rocky relationship.\n\nEven on a surprise release like <i>COCOON</i>, which is seemingly aimed to bridge Yeat from one era to the next, he still takes great pride in the intricacies and details that makes his music both intimately familiar and one of a kind.\n\n<b>Our Favorite Track:</b> How can ya beat Drizzy and Yeat teaming up on <b>“MISS MY DAWG”</b>?",
+                 "tagline": "New EP"
+                },
+                "genreNames": [
+                 "Hip-Hop",
+                 "Music",
+                 "Hip-Hop/Rap"
+                ],
+                "isCompilation": false,
+                "isComplete": true,
+                "isMasteredForItunes": true,
+                "isPrerelease": false,
+                "isSingle": false,
+                "name": "COCOON",
+                "playParams": {
+                 "id": "6813244843",
+                 "kind": "album"
+                },
+                "recordLabel": "Lyfestyle Corporation/Field Trip Recordings/Capitol Records",
+                "releaseDate": "2026-09-18",
+                "trackCount": 7,
+                "upc": "00881061532835",
+                "url": "https://music.apple.com/us/album/cocoon/6813244843"
+               }
+              }
+             ]
+            },
+            "room": {
+             "data": [
+              {
+               "id": "6813319894",
+               "type": "rooms",
+               "href": "/v1/editorial/us/rooms/6813319894?l=en-US"
+              }
+             ]
+            }
+           }
+          },
+          {
+           "id": "6813320346",
+           "type": "editorial-elements",
+           "attributes": {
+            "displayStyle": "compact",
+            "doNotFilter": false,
+            "editorialElementKind": "326",
+            "emphasize": true,
+            "featureFirstElement": false,
+            "lastModifiedDate": "2026-09-19T07:42:33Z",
+            "name": "Recent Releases",
+            "resourceTypes": [
+             "albums"
+            ],
+            "supportedSorts": [],
+            "type": "normal"
+           },
+           "relationships": {
+            "contents": {
+             "data": [
+              {
+               "id": "6804629429",
+               "type": "albums",
+               "href": "/v1/catalog/us/albums/6804629429?l=en-US",
+               "attributes": {
+                "artistName": "TAEMIN",
+                "artwork": {
+                 "bgColor": "020202",
+                 "hasP3": false,
+                 "height": 3000,
+                 "textColor1": "f6efe4",
+                 "textColor2": "e5ddd0",
+                 "textColor3": "c5bfb7",
+                 "textColor4": "b7b1a7",
+                 "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/72/eb/9e/72eb9efa-2454-a4a6-74ae-c4ef47444846/8800388639357_cover.jpg/{w}x{h}bb.jpg",
+                 "width": 3000
+                },
+                "audioTraits": [
+                 "atmos",
+                 "lossless",
+                 "lossy-stereo"
+                ],
+                "copyright": "℗ 2026 Galaxy Corporation Co., Ltd., under license to YG PLUS",
+                "genreNames": [
+                 "Dance",
+                 "Music"
+                ],
+                "isCompilation": false,
+                "isComplete": true,
+                "isMasteredForItunes": false,
+                "isPrerelease": false,
+                "isSingle": false,
+                "name": "PHASE 1 : Soft Violence",
+                "playParams": {
+                 "id": "6804629429",
+                 "kind": "album"
+                },
+                "recordLabel": "Galaxy Corporation Co., Ltd.",
+                "releaseDate": "2026-08-31",
+                "trackCount": 10,
+                "upc": "8800388639357",
+                "url": "https://music.apple.com/us/album/phase-1-soft-violence/6804629429"
+               }
+              },
+              {
+               "id": "6803273580",
+               "type": "albums",
+               "href": "/v1/catalog/us/albums/6803273580?l=en-US",
+               "attributes": {
+                "artistName": "Wisin",
+                "artwork": {
+                 "bgColor": "dcbe8b",
+                 "hasP3": false,
+                 "height": 3000,
+                 "textColor1": "040612",
+                 "textColor2": "24190d",
+                 "textColor3": "2f2b2a",
+                 "textColor4": "493a26",
+                 "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/71/70/49/717049f5-7472-6fdb-3343-809616c71fc4/196874684054.jpg/{w}x{h}bb.jpg",
+                 "width": 3000
+                },
+                "audioTraits": [
+                 "atmos",
+                 "lossless",
+                 "lossy-stereo"
+                ],
+                "contentRating": "explicit",
+                "copyright": "℗ 2026 La Base Music Group LLC. Distributed and Marketed by Sony Music Entertainment US Latin LLC.",
+                "editorialNotes": {
+                 "short": "The Puerto Rican star teaches a crash course in reggaetón history.\n",
+                 "standard": "For nearly three decades, Wisin has been embedded in reggaetón. And while the Puerto Rican star successfully adapted to changing times in ways some of his peers sadly did not, his considerable tenure with this music remains critical to his artistic endurance. On <i>La Universidad del Perreo</i>, he gazes backwards to an earlier time when sandungueo reigned supreme on the island.\n\nThe established influence of Jamaican music arrives promptly with <b>“Te Guayo,”</b> a call-and-response track informed by the seminal Bam Bam riddim, and the Kapo-assisted dancehall reggae groover <b>“Muévelo pa Mi.”</b> From there, he gets his grind on via throwback cuts like <b>“Pa’ Bailarlo Así”</b> and <b>“Yakeame,”</b> each one representative of a once-prominent variation on the genre.\n\nNaturally, this veritable crash course in perreo history includes a number of figures from reggaetón’s storied past, including pioneers Don Chezina and Jowell & Randy, as well as younger talents like El Bogueto. Older fans in particular will appreciate the range represented on these collaborations, especially when Franco “El Gorilla” and Trebol Clan drop in for the DJ Urba-produced <b>“En Alta.”</b>\n\n<b>Our Favorite Track:</b> Repeat collaborator Ivy Queen reunites with Wisin on <b>“Hasta Abajo,”</b> a scorching dance-floor moment that embraces nostalgia while sounding remarkably fresh.",
+                 "tagline": "New Album"
+                },
+                "genreNames": [
+                 "Urbano latino",
+                 "Music",
+                 "Latin"
+                ],
+                "isCompilation": false,
+                "isComplete": true,
+                "isMasteredForItunes": false,
+                "isPrerelease": false,
+                "isSingle": false,
+                "name": "La Universidad del Perreo",
+                "playParams": {
+                 "id": "6803273580",
+                 "kind": "album"
+                },
+                "recordLabel": "W Entertainment LLC/Sony Music Latin",
+                "releaseDate": "2026-09-03",
+                "trackCount": 12,
+                "upc": "196874684054",
+                "url": "https://music.apple.com/us/album/la-universidad-del-perreo/6803273580"
+               }
+              },
+              {
+               "id": "6802478070",
+               "type": "albums",
+               "href": "/v1/catalog/us/albums/6802478070?l=en-US",
+               "attributes": {
+                "artistName": "03 Greedo",
+                "artwork": {
+                 "bgColor": "020202",
+                 "hasP3": false,
+                 "height": 3000,
+                 "textColor1": "ef9854",
+                 "textColor2": "e86928",
+                 "textColor3": "bf7a44",
+                 "textColor4": "ba5521",
+                 "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6e/aa/68/6eaa686a-b34c-8169-3aee-d62d186f867a/196874704905.jpg/{w}x{h}bb.jpg",
+                 "width": 3000
+                },
+                "audioTraits": [
+                 "lossless",
+                 "lossy-stereo"
+                ],
+                "contentRating": "explicit",
+                "copyright": "℗ 2026 Alamo Records, LLC/Sony Music Entertainment",
+                "editorialNotes": {
+                 "short": "Charisma carries the melodic LA rapper on this concise project.",
+                 "standard": "Eternally charismatic Los Angeles rapper 03 Greedo emerged a decade ago as a streetwise purveyor of West Coast hip-hop allure with the <i>Purple Summer</i> series. Between that and this 2026 outing, he went through an unfortunate period of incarceration yet managed to capitalize on his second chance with solid releases like <i>Halfway There</i> and the Detroit-informed <i>Hella Greedy</i>. Compared with those robust projects, the far more concise <i>Last Night Out</i> distills his appeal into roughly a half-hour’s worth of engaging material.\n\nComing some nine years after its last installment, <b>“If I, Pt. 3”</b> continues Greedo’s earnest probings with melodic support from explicit R&B exponent Ty Dolla $ign. Desires and flexes blur together on the impossibly smooth <b>“2 Seater”</b> with Desto Dubb, while Wallie The Sensei and Kalan.FrFr add to the hedonistic mischief on <b>“BTA.”</b> Even without guests, he floats over the accusatory <b>“White Lies”</b> and the exultant <b>“Fine China,”</b> his unmistakable if sometimes inscrutable delivery part of his charm.\n\n<b>Our Favorite Track:</b> A foray into sexy drill terrain, <b>“Cougar”</b> ends the project on a subtly raunchy, oddly anthemic note.",
+                 "tagline": "New Album"
+                },
+                "genreNames": [
+                 "Rap",
+                 "Music",
+                 "Hip-Hop/Rap"
+                ],
+                "isCompilation": false,
+                "isComplete": true,
+                "isMasteredForItunes": false,
+                "isPrerelease": false,
+                "isSingle": false,
+                "name": "Last Night Out",
+                "playParams": {
+                 "id": "6802478070",
+                 "kind": "album"
+                },
+                "recordLabel": "Alamo",
+                "releaseDate": "2026-09-02",
+                "trackCount": 10,
+                "upc": "196874704905",
+                "url": "https://music.apple.com/us/album/last-night-out/6802478070"
+               }
+              }
+             ]
+            },
+            "room": {
+             "data": [
+              {
+               "id": "6813320346",
+               "type": "rooms",
+               "href": "/v1/editorial/us/rooms/6813320346?l=en-US"
+              }
+             ]
+            }
+           }
+          },
+          {
+           "id": "6783041563",
+           "type": "editorial-elements",
+           "attributes": {
+            "editorialElementKind": "391",
+            "lastModifiedDate": "2026-09-19T07:42:34Z",
+            "links": [
+             {
+              "label": "Concerts",
+              "target": "external",
+              "url": "https://music.apple.com/concerts"
+             },
+             {
+              "label": "Spatial Audio",
+              "url": "https://music.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&id=188736"
+             },
+             {
+              "label": "Music Videos",
+              "url": "https://music.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&id=34"
+             }
+            ],
+            "name": "More to Explore"
+           }
+          },
+          {
+           "id": "6503109588",
+           "type": "editorial-elements",
+           "attributes": {
+            "doNotFilter": false,
+            "editorialElementKind": "322",
+            "lastModifiedDate": "2026-09-19T07:42:34Z",
+            "links": [
+             {
+              "label": "Acoustic",
+              "url": "https://music.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&id=168981"
+             },
+             {
+              "label": "Alternative",
+              "url": "https://music.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&id=168955"
+             },
+             {
+              "label": "African Music",
+              "url": "https://music.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&id=170932"
+             }
+            ]
+           }
+          }
+         ]
+        }
+       }
+      }
+     ]
+    }
+   }
+  }
+ ]
+}

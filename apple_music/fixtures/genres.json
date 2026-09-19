@@ -1,0 +1,35 @@
+{
+ "data": [
+  {
+   "id": "34",
+   "type": "genres",
+   "href": "/v1/catalog/us/genres/34?l=en-US",
+   "attributes": {
+    "name": "Music",
+    "url": "https://itunes.apple.com/us/genre/id34"
+   }
+  },
+  {
+   "id": "20",
+   "type": "genres",
+   "href": "/v1/catalog/us/genres/20?l=en-US",
+   "attributes": {
+    "name": "Alternative",
+    "parentId": "34",
+    "parentName": "Music",
+    "url": "https://itunes.apple.com/us/genre/id20"
+   }
+  },
+  {
+   "id": "2",
+   "type": "genres",
+   "href": "/v1/catalog/us/genres/2?l=en-US",
+   "attributes": {
+    "name": "Blues",
+    "parentId": "34",
+    "parentName": "Music",
+    "url": "https://itunes.apple.com/us/genre/id2"
+   }
+  }
+ ]
+}

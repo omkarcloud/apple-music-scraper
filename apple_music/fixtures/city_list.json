@@ -1,0 +1,133 @@
+{
+ "results": {
+  "cityCharts": [
+   {
+    "chart": "city-top",
+    "data": [
+     {
+      "id": "pl.a88b5c26caea48a59484370b6f79c9df",
+      "type": "playlists",
+      "href": "/v1/catalog/us/playlists/pl.a88b5c26caea48a59484370b6f79c9df?l=en-US",
+      "attributes": {
+       "artwork": {
+        "bgColor": "f1f1f1",
+        "hasP3": false,
+        "height": 1080,
+        "textColor1": "000000",
+        "textColor2": "2a2727",
+        "textColor3": "474542",
+        "textColor4": "4b4848",
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/f8/9c/b4/f89cb44b-1048-e043-6b87-90e8f1251cb6/U0MtTVMtV1ctVG9wLTI1LU5ld1lvcmtDaXR5LUFEQU1fSUQ9MTU1NTk5MzY0OS5wbmc.png/{w}x{h}cc.jpg",
+        "width": 4320
+       },
+       "audioTraits": [],
+       "curatorName": "Apple Music",
+       "editorialNotes": {
+        "name": "Top 25: New York City",
+        "short": "From the Bronx to Brooklyn, these are the songs making waves in the Big Apple, updated every day.",
+        "tagline": "New Playlist for You"
+       },
+       "hasCollaboration": false,
+       "isChart": true,
+       "lastModifiedDate": "2026-09-19T07:01:42Z",
+       "name": "Top 25: New York City",
+       "playParams": {
+        "id": "pl.a88b5c26caea48a59484370b6f79c9df",
+        "kind": "playlist",
+        "versionHash": "34e4a2269112e3e1135f5c69145e02e1f629aa7bcff6c01889537f367ab47dba"
+       },
+       "playlistType": "editorial",
+       "supportsSing": false,
+       "url": "https://music.apple.com/us/playlist/top-25-new-york-city/pl.a88b5c26caea48a59484370b6f79c9df"
+      }
+     },
+     {
+      "id": "pl.a42d6fd3917f4445b18468109d27f201",
+      "type": "playlists",
+      "href": "/v1/catalog/us/playlists/pl.a42d6fd3917f4445b18468109d27f201?l=en-US",
+      "attributes": {
+       "artwork": {
+        "bgColor": "f1f1f1",
+        "hasP3": false,
+        "height": 1080,
+        "textColor1": "000000",
+        "textColor2": "1f1c14",
+        "textColor3": "3b3b35",
+        "textColor4": "403d35",
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/65/62/1d/65621dfc-53db-4fe3-7fb4-6a2d52ac543e/U0MtTVMtV1ctVG9wXzI1LUxvc19BbmdlbGVzLUFEQU1fSUQ9MTU1NTk5MzY0Ny5wbmc.png/{w}x{h}cc.jpg",
+        "width": 4320
+       },
+       "audioTraits": [],
+       "curatorName": "Apple Music",
+       "editorialNotes": {
+        "name": "Top 25: Los Angeles",
+        "short": "The songs soundtracking the streets of Tinseltown, updated every day.",
+        "tagline": "New Playlist for You"
+       },
+       "hasCollaboration": false,
+       "isChart": true,
+       "lastModifiedDate": "2026-09-19T07:01:42Z",
+       "name": "Top 25: Los Angeles",
+       "playParams": {
+        "id": "pl.a42d6fd3917f4445b18468109d27f201",
+        "kind": "playlist",
+        "versionHash": "ed4236cd6c1ff7e0ae582eda08b105149e0e60f8b86dee45e520eef3b58df202"
+       },
+       "playlistType": "editorial",
+       "supportsSing": false,
+       "url": "https://music.apple.com/us/playlist/top-25-los-angeles/pl.a42d6fd3917f4445b18468109d27f201"
+      }
+     },
+     {
+      "id": "pl.b3b5a187ce4448f1b9143185c59d7609",
+      "type": "playlists",
+      "href": "/v1/catalog/us/playlists/pl.b3b5a187ce4448f1b9143185c59d7609?l=en-US",
+      "attributes": {
+       "artwork": {
+        "bgColor": "f1f1f1",
+        "hasP3": false,
+        "height": 1080,
+        "textColor1": "000000",
+        "textColor2": "28231c",
+        "textColor3": "2b2b2b",
+        "textColor4": "49443d",
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/97/65/1a/97651ac2-a24c-0f40-1809-84c08075a2da/U0MtTVMtV1ctVG9wXzI1LUF0bGFudGEtQURBTV9JRD0xNTU1OTkzODkwLnBuZw.png/{w}x{h}cc.jpg",
+        "width": 4320
+       },
+       "audioTraits": [],
+       "curatorName": "Apple Music",
+       "editorialNotes": {
+        "name": "Top 25: Atlanta",
+        "short": "The songs making moves in the Southern hip-hop capital, updated every day.",
+        "tagline": "New Playlist for You"
+       },
+       "hasCollaboration": false,
+       "isChart": true,
+       "lastModifiedDate": "2026-09-19T07:01:26Z",
+       "name": "Top 25: Atlanta",
+       "playParams": {
+        "id": "pl.b3b5a187ce4448f1b9143185c59d7609",
+        "kind": "playlist",
+        "versionHash": "5022449f74d0b539d06ec3e9ba6f78a0b2c3163b24238f60b82159c770219444"
+       },
+       "playlistType": "editorial",
+       "supportsSing": false,
+       "url": "https://music.apple.com/us/playlist/top-25-atlanta/pl.b3b5a187ce4448f1b9143185c59d7609"
+      }
+     }
+    ],
+    "href": "/v1/catalog/us/charts?chartId=135&l=en-US&limit=200",
+    "name": "City Charts",
+    "shortName": "City Charts",
+    "orderId": "city-top:cityCharts"
+   }
+  ]
+ },
+ "meta": {
+  "results": {
+   "order": [
+    "city-top:cityCharts"
+   ]
+  }
+ }
+}

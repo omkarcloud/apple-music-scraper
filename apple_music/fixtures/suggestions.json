@@ -1,0 +1,661 @@
+{
+ "results": {
+  "suggestions": [
+   {
+    "kind": "terms",
+    "searchTerm": "drake",
+    "displayTerm": "drake",
+    "source": "7"
+   },
+   {
+    "kind": "terms",
+    "searchTerm": "fomo drake",
+    "displayTerm": "fomo drake",
+    "source": "7"
+   },
+   {
+    "kind": "terms",
+    "searchTerm": "drake iceman",
+    "displayTerm": "drake iceman",
+    "source": "7"
+   },
+   {
+    "kind": "topResults",
+    "content": {
+     "id": "271256",
+     "type": "artists",
+     "href": "/v1/catalog/us/artists/271256?l=en-US",
+     "attributes": {
+      "artwork": {
+       "bgColor": "fafafa",
+       "defaultCropCode": "bb",
+       "hasP3": false,
+       "height": 1825,
+       "textColor1": "040404",
+       "textColor2": "161616",
+       "textColor3": "353535",
+       "textColor4": "444444",
+       "url": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages112/v4/1b/71/65/1b716513-b0c1-9c6b-45aa-cbb9198248cc/01607cf1-1d52-43d2-84ce-d6fc1f4a3475_ami-identity-7665599cc626d803af7956b3691905e7-2022-11-30T21-07-19.526Z_cropped.png/{w}x{h}bb.jpg",
+       "width": 1825
+      },
+      "editorialNotes": {
+       "short": "One of the most innovative hip-hop artists in the business."
+      },
+      "genreNames": [
+       "Hip-Hop/Rap"
+      ],
+      "name": "Drake",
+      "url": "https://music.apple.com/us/artist/drake/271256"
+     },
+     "relationships": {
+      "albums": {
+       "href": "/v1/catalog/us/artists/271256/albums?l=en-US",
+       "next": "/v1/catalog/us/artists/271256/albums?l=en-US&offset=25",
+       "data": [
+        {
+         "id": "1418213110",
+         "type": "albums",
+         "href": "/v1/catalog/us/albums/1418213110?l=en-US"
+        },
+        {
+         "id": "1652998965",
+         "type": "albums",
+         "href": "/v1/catalog/us/albums/1652998965?l=en-US"
+        },
+        {
+         "id": "1584281467",
+         "type": "albums",
+         "href": "/v1/catalog/us/albums/1584281467?l=en-US"
+        },
+        {
+         "id": "1493864494",
+         "type": "albums",
+         "href": "/v1/catalog/us/albums/1493864494?l=en-US"
+        },
+        {
+         "id": "1662168867",
+         "type": "albums",
+         "href": "/v1/catalog/us/albums/1662168867?l=en-US"
+        },
+        {
+         "id": "1440842556",
+         "type": "albums",
+         "href": "/v1/catalog/us/albums/1440842556?l=en-US"
+        },
+        {
+         "id": "1527584873",
+         "type": "albums",
+         "href": "/v1/catalog/us/albums/1527584873?l=en-US"
+        },
+        {
+         "id": "6769568449",
+         "type": "albums",
+         "href": "/v1/catalog/us/albums/6769568449?l=en-US"
+        },
+        {
+         "id": "1440891750",
+         "type": "albums",
+         "href": "/v1/catalog/us/albums/1440891750?l=en-US"
+        },
+        {
+         "id": "1511037323",
+         "type": "albums",
+         "href": "/v1/catalog/us/albums/1511037323?l=en-US"
+        },
+        {
+         "id": "1630230040",
+         "type": "albums",
+         "href": "/v1/catalog/us/albums/1630230040?l=en-US"
+        },
+        {
+         "id": "1681131987",
+         "type": "albums",
+         "href": "/v1/catalog/us/albums/1681131987?l=en-US"
+        },
+        {
+         "id": "1440642493",
+         "type": "albums",
+         "href": "/v1/catalog/us/albums/1440642493?l=en-US"
+        },
+        {
+         "id": "1556669854",
+         "type": "albums",
+         "href": "/v1/catalog/us/albums/1556669854?l=en-US"
+        },
+        {
+         "id": "1662168983",
+         "type": "albums",
+         "href": "/v1/catalog/us/albums/1662168983?l=en-US"
+        },
+        {
+         "id": "1440829462",
+         "type": "albums",
+         "href": "/v1/catalog/us/albums/1440829462?l=en-US"
+        },
+        {
+         "id": "1796127242",
+         "type": "albums",
+         "href": "/v1/catalog/us/albums/1796127242?l=en-US"
+        },
+        {
+         "id": "1662168785",
+         "type": "albums",
+         "href": "/v1/catalog/us/albums/1662168785?l=en-US"
+        },
+        {
+         "id": "1440839718",
+         "type": "albums",
+         "href": "/v1/catalog/us/albums/1440839718?l=en-US"
+        },
+        {
+         "id": "1710685602",
+         "type": "albums",
+         "href": "/v1/catalog/us/albums/1710685602?l=en-US"
+        },
+        {
+         "id": "1505943426",
+         "type": "albums",
+         "href": "/v1/catalog/us/albums/1505943426?l=en-US"
+        },
+        {
+         "id": "1475177816",
+         "type": "albums",
+         "href": "/v1/catalog/us/albums/1475177816?l=en-US"
+        },
+        {
+         "id": "1523923810",
+         "type": "albums",
+         "href": "/v1/catalog/us/albums/1523923810?l=en-US"
+        },
+        {
+         "id": "1444620506",
+         "type": "albums",
+         "href": "/v1/catalog/us/albums/1444620506?l=en-US"
+        },
+        {
+         "id": "1444898453",
+         "type": "albums",
+         "href": "/v1/catalog/us/albums/1444898453?l=en-US"
+        }
+       ]
+      }
+     }
+    }
+   },
+   {
+    "kind": "topResults",
+    "content": {
+     "id": "pl.b8afd0ec852542f785a5f7a4a9a80d6a",
+     "type": "playlists",
+     "href": "/v1/catalog/us/playlists/pl.b8afd0ec852542f785a5f7a4a9a80d6a?l=en-US",
+     "attributes": {
+      "artwork": {
+       "bgColor": "fafafa",
+       "hasP3": false,
+       "height": 1080,
+       "textColor1": "040404",
+       "textColor2": "161616",
+       "textColor3": "353535",
+       "textColor4": "444444",
+       "url": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages112/v4/1b/71/65/1b716513-b0c1-9c6b-45aa-cbb9198248cc/01607cf1-1d52-43d2-84ce-d6fc1f4a3475_ami-identity-7665599cc626d803af7956b3691905e7-2022-11-30T21-07-19.526Z_cropped.png/{w}x{h}SC.FPESS04.jpg?l=en-US",
+       "width": 1080
+      },
+      "audioTraits": [],
+      "curatorName": "Apple Music Hip-Hop",
+      "description": {
+       "short": "The era-defining rapper isn’t done showing us what he can do.",
+       "standard": "Drake officially became the voice of a generation with 2011’s sumptuous <i>Take Care</i>, a career-defining magnum opus that earned a prized slot in Apple Music’s 100 Best Albums list. Was he an R&B singer who rapped or a rapper who sang? Was he really that sad, or just exploiting a cultural preference for male vulnerability? Adding to the slipperiness of it all, any given Drake project might incorporate dreamy house and club music into his comfort zone of rap, pop, and R&B with equal conviction. Even after cementing his prowess as an MC many times over, Drake still retains the capacity to surprise. His 2015 earworm “Hotline Bling” radiated universal cool without breaking a sweat, while 2024’s “Push Ups” arrived during his fleeting beef with Kendrick Lamar yet applies lasting heat to its minimalistic prowl. Drake is now such a part of the firmament that his slightest move can trigger aftershocks far beyond his immediate reach."
+      },
+      "editorialNotes": {
+       "name": "Drake Essentials",
+       "short": "The era-defining rapper isn’t done showing us what he can do.",
+       "standard": "Drake officially became the voice of a generation with 2011’s sumptuous <i>Take Care</i>, a career-defining magnum opus that earned a prized slot in Apple Music’s 100 Best Albums list. Was he an R&B singer who rapped or a rapper who sang? Was he really that sad, or just exploiting a cultural preference for male vulnerability? Adding to the slipperiness of it all, any given Drake project might incorporate dreamy house and club music into his comfort zone of rap, pop, and R&B with equal conviction. Even after cementing his prowess as an MC many times over, Drake still retains the capacity to surprise. His 2015 earworm “Hotline Bling” radiated universal cool without breaking a sweat, while 2024’s “Push Ups” arrived during his fleeting beef with Kendrick Lamar yet applies lasting heat to its minimalistic prowl. Drake is now such a part of the firmament that his slightest move can trigger aftershocks far beyond his immediate reach."
+      },
+      "editorialPlaylistKind": "artist-franchise",
+      "hasCollaboration": false,
+      "isChart": false,
+      "lastModifiedDate": "2026-05-21T19:31:30Z",
+      "name": "Drake Essentials",
+      "playParams": {
+       "id": "pl.b8afd0ec852542f785a5f7a4a9a80d6a",
+       "kind": "playlist",
+       "versionHash": "afc91b1ae56e34211054238d5479215d5a0d99393aa2132344c7037dc37b6705"
+      },
+      "playlistType": "editorial",
+      "supportsSing": false,
+      "url": "https://music.apple.com/us/playlist/drake-essentials/pl.b8afd0ec852542f785a5f7a4a9a80d6a"
+     }
+    }
+   },
+   {
+    "kind": "topResults",
+    "content": {
+     "id": "6769568449",
+     "type": "albums",
+     "href": "/v1/catalog/us/albums/6769568449?l=en-US",
+     "attributes": {
+      "artistName": "Drake",
+      "artwork": {
+       "bgColor": "000000",
+       "hasP3": false,
+       "height": 4500,
+       "textColor1": "e5dcdd",
+       "textColor2": "d0c2c2",
+       "textColor3": "b7b0b1",
+       "textColor4": "a69b9b",
+       "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/b9/06/35b90629-a873-14f8-4789-ffc324960038/26UMGIM63614.rgb.jpg/{w}x{h}bb.jpg",
+       "width": 4500
+      },
+      "audioTraits": [
+       "lossless",
+       "lossy-stereo"
+      ],
+      "contentRating": "explicit",
+      "copyright": "℗ 2026 OVO, under exclusive license to Republic Records, a division of UMG Recordings, Inc.",
+      "editorialNotes": {
+       "short": "The multifaceted MC breaks the ice.",
+       "standard": "above you, below zero.",
+       "tagline": "New Album"
+      },
+      "genreNames": [
+       "Hip-Hop/Rap",
+       "Music"
+      ],
+      "isCompilation": false,
+      "isComplete": true,
+      "isMasteredForItunes": true,
+      "isPrerelease": false,
+      "isSingle": false,
+      "name": "ICEMAN",
+      "playParams": {
+       "id": "6769568449",
+       "kind": "album"
+      },
+      "recordLabel": "OVO/Republic",
+      "releaseDate": "2026-05-15",
+      "trackCount": 18,
+      "upc": "00600574206930",
+      "url": "https://music.apple.com/us/album/iceman/6769568449"
+     }
+    }
+   },
+   {
+    "kind": "topResults",
+    "content": {
+     "id": "6769568597",
+     "type": "songs",
+     "href": "/v1/catalog/us/songs/6769568597?l=en-US",
+     "attributes": {
+      "albumArtistName": "Drake",
+      "albumName": "ICEMAN",
+      "artistName": "Drake, Future & Molly Santana",
+      "artwork": {
+       "bgColor": "000000",
+       "hasP3": false,
+       "height": 4500,
+       "textColor1": "e5dcdd",
+       "textColor2": "d0c2c2",
+       "textColor3": "b7b0b1",
+       "textColor4": "a69b9b",
+       "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/b9/06/35b90629-a873-14f8-4789-ffc324960038/26UMGIM63614.rgb.jpg/{w}x{h}bb.jpg",
+       "width": 4500
+      },
+      "audioLocale": "en-US",
+      "audioTraits": [
+       "lossless",
+       "lossy-stereo"
+      ],
+      "composerName": "Aubrey Drake Graham",
+      "contentRating": "explicit",
+      "discNumber": 1,
+      "durationInMillis": 247183,
+      "genreNames": [
+       "Hip-Hop/Rap",
+       "Music"
+      ],
+      "hasLyrics": true,
+      "hasTimeSyncedLyrics": true,
+      "isAppleDigitalMaster": true,
+      "isMasteredForItunes": true,
+      "isVocalAttenuationAllowed": true,
+      "isrc": "USUG12604764",
+      "name": "Ran To Atlanta",
+      "playParams": {
+       "id": "6769568597",
+       "kind": "song"
+      },
+      "previews": [
+       {
+        "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/7d/37/3c/7d373c04-72b6-9454-fec8-30bd16acb5b4/mzaf_14139212372792120798.plus.aac.ep.m4a"
+       }
+      ],
+      "releaseDate": "2026-05-15",
+      "trackNumber": 5,
+      "url": "https://music.apple.com/us/album/ran-to-atlanta/6769568449?i=6769568597"
+     }
+    }
+   },
+   {
+    "kind": "topResults",
+    "content": {
+     "id": "6769568596",
+     "type": "songs",
+     "href": "/v1/catalog/us/songs/6769568596?l=en-US",
+     "attributes": {
+      "albumArtistName": "Drake",
+      "albumName": "ICEMAN",
+      "artistName": "Drake",
+      "artwork": {
+       "bgColor": "000000",
+       "hasP3": false,
+       "height": 4500,
+       "textColor1": "e5dcdd",
+       "textColor2": "d0c2c2",
+       "textColor3": "b7b0b1",
+       "textColor4": "a69b9b",
+       "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/b9/06/35b90629-a873-14f8-4789-ffc324960038/26UMGIM63614.rgb.jpg/{w}x{h}bb.jpg",
+       "width": 4500
+      },
+      "audioLocale": "en-US",
+      "audioTraits": [
+       "lossless",
+       "lossy-stereo"
+      ],
+      "composerName": "Aubrey Drake Graham",
+      "contentRating": "explicit",
+      "discNumber": 1,
+      "durationInMillis": 237344,
+      "genreNames": [
+       "Hip-Hop/Rap",
+       "Music"
+      ],
+      "hasLyrics": true,
+      "hasTimeSyncedLyrics": true,
+      "isAppleDigitalMaster": true,
+      "isMasteredForItunes": true,
+      "isVocalAttenuationAllowed": true,
+      "isrc": "USUG12604763",
+      "name": "Janice STFU",
+      "playParams": {
+       "id": "6769568596",
+       "kind": "song"
+      },
+      "previews": [
+       {
+        "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a2/a3/18/a2a31893-76db-627e-0985-6c720be140b4/mzaf_4214220916679547498.plus.aac.ep.m4a"
+       }
+      ],
+      "releaseDate": "2026-05-15",
+      "trackNumber": 4,
+      "url": "https://music.apple.com/us/album/janice-stfu/6769568449?i=6769568596"
+     }
+    }
+   },
+   {
+    "kind": "topResults",
+    "content": {
+     "id": "1621119447",
+     "type": "songs",
+     "href": "/v1/catalog/us/songs/1621119447?l=en-US",
+     "attributes": {
+      "albumArtistName": "Future",
+      "albumName": "I NEVER LIKED YOU",
+      "artistName": "Future",
+      "artwork": {
+       "bgColor": "311911",
+       "hasP3": false,
+       "height": 3600,
+       "textColor1": "f3d796",
+       "textColor2": "d68b5b",
+       "textColor3": "ccb17b",
+       "textColor4": "b5744c",
+       "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/65/f2/06/65f2067b-a8ea-239c-c219-8e0f0282dcea/196589073693.jpg/{w}x{h}bb.jpg",
+       "width": 3600
+      },
+      "audioLocale": "en-US",
+      "audioTraits": [
+       "atmos",
+       "hi-res-lossless",
+       "lossless",
+       "lossy-stereo",
+       "spatial"
+      ],
+      "composerName": "Tejiri Akpoghene, Floyd E. Bentley III, Nayvadius Wilburn, Aubrey Drake Graham, Temilade Openiyi, Jacob Canady, Michael Mule, Isaac De Boni, Oluwatoroti Oke & Israel Ayomide Fowobaje",
+      "contentRating": "explicit",
+      "discNumber": 1,
+      "durationInMillis": 189893,
+      "genreNames": [
+       "Hip-Hop/Rap",
+       "Music"
+      ],
+      "hasLyrics": true,
+      "hasTimeSyncedLyrics": true,
+      "isAppleDigitalMaster": false,
+      "isMasteredForItunes": false,
+      "isVocalAttenuationAllowed": true,
+      "isrc": "USSM12203789",
+      "name": "WAIT FOR U (feat. Drake & Tems)",
+      "playParams": {
+       "id": "1621119447",
+       "kind": "song"
+      },
+      "previews": [
+       {
+        "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/77/67/90/77679025-8a80-42a2-bbcd-335dd083295b/mzaf_7314791168777766376.plus.aac.ep.m4a"
+       }
+      ],
+      "releaseDate": "2022-04-29",
+      "trackNumber": 7,
+      "url": "https://music.apple.com/us/album/wait-for-u-feat-drake-tems/1621119097?i=1621119447"
+     }
+    }
+   },
+   {
+    "kind": "topResults",
+    "content": {
+     "id": "6769551464",
+     "type": "albums",
+     "href": "/v1/catalog/us/albums/6769551464?l=en-US",
+     "attributes": {
+      "artistName": "Drake",
+      "artwork": {
+       "bgColor": "d2bfa7",
+       "hasP3": false,
+       "height": 4500,
+       "textColor1": "272120",
+       "textColor2": "322c2a",
+       "textColor3": "49413b",
+       "textColor4": "524943",
+       "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c4/3b/89/c43b8964-a24e-b396-bd65-e5b45cabe039/26UMGIM63616.rgb.jpg/{w}x{h}bb.jpg",
+       "width": 4500
+      },
+      "audioTraits": [
+       "lossless",
+       "lossy-stereo"
+      ],
+      "contentRating": "explicit",
+      "copyright": "℗ 2026 OVO, under exclusive license to Republic Records, a division of UMG Recordings, Inc.",
+      "editorialNotes": {
+       "short": "The hitmaker still has plenty of love in his heart.",
+       "standard": "& other nicknames I call my dear city",
+       "tagline": "New Album"
+      },
+      "genreNames": [
+       "R&B/Soul",
+       "Music"
+      ],
+      "isCompilation": false,
+      "isComplete": true,
+      "isMasteredForItunes": true,
+      "isPrerelease": false,
+      "isSingle": false,
+      "name": "HABIBTI",
+      "playParams": {
+       "id": "6769551464",
+       "kind": "album"
+      },
+      "recordLabel": "OVO/Republic",
+      "releaseDate": "2026-05-15",
+      "trackCount": 11,
+      "upc": "00600574207029",
+      "url": "https://music.apple.com/us/album/habibti/6769551464"
+     }
+    }
+   },
+   {
+    "kind": "topResults",
+    "content": {
+     "id": "1440842320",
+     "type": "albums",
+     "href": "/v1/catalog/us/albums/1440842320?l=en-US",
+     "attributes": {
+      "artistName": "Drake & Future",
+      "artwork": {
+       "bgColor": "c7c7c8",
+       "hasP3": false,
+       "height": 1500,
+       "textColor1": "0a0b0b",
+       "textColor2": "0c0c0d",
+       "textColor3": "303031",
+       "textColor4": "323132",
+       "url": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/4b/9c/db/4b9cdb40-effb-141c-aa20-9ebeabb1b97f/00602547616661.rgb.jpg/{w}x{h}bb.jpg",
+       "width": 1500
+      },
+      "audioTraits": [
+       "lossless",
+       "lossy-stereo"
+      ],
+      "contentRating": "explicit",
+      "copyright": "℗ 2015 Cash Money Records Inc.. With Epic Records, a division of Sony Music Entertainment/A1",
+      "editorialNotes": {
+       "short": "Two MCs at the height of their powers.",
+       "standard": "<i>What a Time to Be Alive</i> captures Drake and Future at the height of their powers. Recorded in six days, their interplay is respectful as it is complementary, matching Drake’s inward-facing narratives with Future’s personal demon-slaying. Club anthems like “Jumpman,” “Digital Dash,” and “Diamonds Dancing” fulfill the rap nerd fantasy of two superheroes trading lyrical blows in the octagon."
+      },
+      "genreNames": [
+       "Hip-Hop/Rap",
+       "Music",
+       "Hardcore Rap",
+       "Rap"
+      ],
+      "isCompilation": false,
+      "isComplete": true,
+      "isMasteredForItunes": true,
+      "isPrerelease": false,
+      "isSingle": false,
+      "name": "What a Time To Be Alive",
+      "playParams": {
+       "id": "1440842320",
+       "kind": "album"
+      },
+      "recordLabel": "Cash Money Records Inc.. With Epic Records, a division of Sony Music Entertainment/A1",
+      "releaseDate": "2015-09-20",
+      "trackCount": 11,
+      "upc": "00602547616661",
+      "url": "https://music.apple.com/us/album/what-a-time-to-be-alive/1440842320"
+     }
+    }
+   },
+   {
+    "kind": "topResults",
+    "content": {
+     "id": "pl.e5bc0180234b40639b5fb6aeb3c6ff68",
+     "type": "playlists",
+     "href": "/v1/catalog/us/playlists/pl.e5bc0180234b40639b5fb6aeb3c6ff68?l=en-US",
+     "attributes": {
+      "artwork": {
+       "bgColor": "fafafa",
+       "hasP3": false,
+       "height": 1080,
+       "textColor1": "040404",
+       "textColor2": "161616",
+       "textColor3": "353535",
+       "textColor4": "444444",
+       "url": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages112/v4/1b/71/65/1b716513-b0c1-9c6b-45aa-cbb9198248cc/01607cf1-1d52-43d2-84ce-d6fc1f4a3475_ami-identity-7665599cc626d803af7956b3691905e7-2022-11-30T21-07-19.526Z_cropped.png/{w}x{h}SC.FPCHL02.jpg?l=en-US",
+       "width": 1080
+      },
+      "audioTraits": [],
+      "curatorName": "Apple Music Hip-Hop",
+      "editorialNotes": {
+       "name": "Drake: Chill",
+       "short": "Lean back and relax with some of the mellowest cuts."
+      },
+      "editorialPlaylistKind": "artist-franchise",
+      "hasCollaboration": false,
+      "isChart": false,
+      "lastModifiedDate": "2023-01-31T23:08:56Z",
+      "name": "Drake: Chill",
+      "playParams": {
+       "id": "pl.e5bc0180234b40639b5fb6aeb3c6ff68",
+       "kind": "playlist",
+       "versionHash": "44f86ce259a804687f999513d392e730df1f6c9c8a1ad553d2fbb95f0e8912b7"
+      },
+      "playlistType": "editorial",
+      "supportsSing": false,
+      "url": "https://music.apple.com/us/playlist/drake-chill/pl.e5bc0180234b40639b5fb6aeb3c6ff68"
+     }
+    }
+   },
+   {
+    "kind": "topResults",
+    "content": {
+     "id": "1493865024",
+     "type": "songs",
+     "href": "/v1/catalog/us/songs/1493865024?l=en-US",
+     "attributes": {
+      "albumArtistName": "Future",
+      "albumName": "Life Is Good (feat. Drake) - Single",
+      "artistName": "Future",
+      "artwork": {
+       "bgColor": "d1e3df",
+       "hasP3": false,
+       "height": 3000,
+       "textColor1": "1a2625",
+       "textColor2": "232d2b",
+       "textColor3": "3f4b4a",
+       "textColor4": "46524f",
+       "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/56/17/2c/56172c37-dc56-6651-1e70-59dc6d2e6e3f/886448218845.jpg/{w}x{h}bb.jpg",
+       "width": 3000
+      },
+      "audioLocale": "en-US",
+      "audioTraits": [
+       "lossless",
+       "lossy-stereo"
+      ],
+      "composerName": "Nayvadius Wilburn, D. Hill, Aubrey Drake Graham, Ozan Yildirim & Mathias Liyew",
+      "contentRating": "explicit",
+      "discNumber": 1,
+      "durationInMillis": 237735,
+      "genreNames": [
+       "Hip-Hop/Rap",
+       "Music"
+      ],
+      "hasLyrics": true,
+      "hasTimeSyncedLyrics": true,
+      "isAppleDigitalMaster": false,
+      "isMasteredForItunes": false,
+      "isVocalAttenuationAllowed": true,
+      "isrc": "USSM11914962",
+      "name": "Life Is Good (feat. Drake)",
+      "playParams": {
+       "id": "1493865024",
+       "kind": "song"
+      },
+      "previews": [
+       {
+        "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/50/98/3b/50983b15-6c28-9eec-eb69-7379a7ff0911/mzaf_13918177283869870802.plus.aac.ep.m4a"
+       }
+      ],
+      "releaseDate": "2020-01-10",
+      "trackNumber": 1,
+      "url": "https://music.apple.com/us/album/life-is-good-feat-drake/1493864494?i=1493865024"
+     }
+    }
+   }
+  ]
+ },
+ "meta": {
+  "metrics": {
+   "dataSetId": "f7f192a1-fad3-40ac-acd3-ca114b182891"
+  }
+ }
+}

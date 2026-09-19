@@ -1,0 +1,902 @@
+{
+ "data": [
+  {
+   "id": "168577",
+   "type": "groupings",
+   "href": "/v1/editorial/us/groupings/168577?l=en-US",
+   "attributes": {
+    "genreNames": [],
+    "name": "Radio - Main"
+   },
+   "relationships": {
+    "curator": {
+     "href": "/v1/editorial/us/groupings/168577/curator?l=en-US",
+     "data": []
+    },
+    "tabs": {
+     "href": "/v1/editorial/us/groupings/168577/tabs?l=en-US",
+     "data": [
+      {
+       "id": "1009497920",
+       "type": "editorial-elements",
+       "attributes": {
+        "doNotFilter": false,
+        "editorialElementKind": "382",
+        "lastModifiedDate": "2026-09-08T17:56:35Z",
+        "name": "Subscriber",
+        "token": "subscriber"
+       },
+       "relationships": {
+        "children": {
+         "data": [
+          {
+           "id": "1196519529",
+           "type": "editorial-elements",
+           "attributes": {
+            "displayStyle": "compact",
+            "doNotFilter": false,
+            "editorialElementKind": "316",
+            "lastModifiedDate": "2026-09-10T18:14:45Z"
+           },
+           "relationships": {
+            "children": {
+             "data": [
+              {
+               "id": "1518058003",
+               "type": "editorial-elements",
+               "attributes": {
+                "designBadge": "EXCLUSIVE",
+                "doNotFilter": false,
+                "editorialElementKind": "383",
+                "lastModifiedDate": "2026-08-25T23:01:57Z",
+                "resourceTypes": [
+                 "stations"
+                ],
+                "suppressBeatsOneLogo": "false"
+               },
+               "relationships": {
+                "contents": {
+                 "data": [
+                  {
+                   "id": "ra.978194965",
+                   "type": "stations",
+                   "href": "/v1/catalog/us/stations/ra.978194965?l=en-US",
+                   "attributes": {
+                    "artwork": {
+                     "bgColor": "f6f6f6",
+                     "hasP3": false,
+                     "height": 1080,
+                     "textColor1": "160105",
+                     "textColor2": "160306",
+                     "textColor3": "433235",
+                     "textColor4": "433436",
+                     "url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/fd/45/5b/fd455ba0-4a4d-854b-fc65-6d48f70be2f4/7da7d278-56c7-42a7-a801-d2193b71770a.png/{w}x{h}sr.jpg",
+                     "width": 4320
+                    },
+                    "editorialNotes": {
+                     "name": "Apple Music 1",
+                     "short": "Live Station",
+                     "tagline": "The new music that matters."
+                    },
+                    "isLive": true,
+                    "kind": "streaming",
+                    "mediaKind": "audio",
+                    "name": "Apple Music 1",
+                    "playParams": {
+                     "format": "stream",
+                     "hasDrm": true,
+                     "id": "ra.978194965",
+                     "kind": "radioStation",
+                     "mediaType": 0,
+                     "stationHash": "CgkIBRoFlaS40gMQBA"
+                    },
+                    "radioUrl": "itsradio://music.apple.com/us/station/ra.978194965",
+                    "requiresSubscription": false,
+                    "stationProviderName": "Apple Music",
+                    "supportedDrms": [
+                     "fairplay",
+                     "playready",
+                     "widevine"
+                    ],
+                    "url": "https://music.apple.com/us/station/apple-music-1/ra.978194965"
+                   }
+                  }
+                 ]
+                }
+               }
+              },
+              {
+               "id": "1528102198",
+               "type": "editorial-elements",
+               "attributes": {
+                "artwork": {
+                 "bgColor": "f6f6f6",
+                 "hasP3": false,
+                 "height": 1080,
+                 "textColor1": "060816",
+                 "textColor2": "17246e",
+                 "textColor3": "363842",
+                 "textColor4": "444e89",
+                 "url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/88/e2/58/88e258c9-6e01-977e-ac6b-0a456962b2bc/source/{w}x{h}bb.jpg",
+                 "width": 4320
+                },
+                "designBadge": "LISTEN NOW",
+                "designTag": "Our brand-new home for hits, hits, and more hits.",
+                "doNotFilter": false,
+                "editorialArtwork": {},
+                "editorialElementKind": "320",
+                "lastModifiedDate": "2026-08-25T23:01:57Z",
+                "resourceTypes": [
+                 "stations"
+                ]
+               },
+               "relationships": {
+                "contents": {
+                 "data": [
+                  {
+                   "id": "ra.1498155548",
+                   "type": "stations",
+                   "href": "/v1/catalog/us/stations/ra.1498155548?l=en-US",
+                   "attributes": {
+                    "artwork": {
+                     "bgColor": "f6f6f6",
+                     "hasP3": false,
+                     "height": 1080,
+                     "textColor1": "060816",
+                     "textColor2": "17246e",
+                     "textColor3": "363842",
+                     "textColor4": "444e89",
+                     "url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/27/b7/ec/27b7eca8-5bb2-3c46-ca1e-be2877a3cc91/feb0dc99-412b-4688-b8d6-c0fa07059558.png/{w}x{h}sr.jpg",
+                     "width": 4320
+                    },
+                    "editorialNotes": {
+                     "name": "Apple Music Hits",
+                     "short": "Live Station",
+                     "tagline": "Songs you know and love."
+                    },
+                    "isLive": true,
+                    "kind": "streaming",
+                    "mediaKind": "audio",
+                    "name": "Apple Music Hits",
+                    "playParams": {
+                     "format": "stream",
+                     "hasDrm": true,
+                     "id": "ra.1498155548",
+                     "kind": "radioStation",
+                     "mediaType": 0,
+                     "stationHash": "CgkIBRoFnJSwygUQBA"
+                    },
+                    "radioUrl": "itsradio://music.apple.com/us/station/ra.1498155548",
+                    "requiresSubscription": false,
+                    "stationProviderName": "Apple Music",
+                    "supportedDrms": [
+                     "fairplay",
+                     "playready",
+                     "widevine"
+                    ],
+                    "url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548"
+                   }
+                  }
+                 ]
+                }
+               }
+              },
+              {
+               "id": "1528102199",
+               "type": "editorial-elements",
+               "attributes": {
+                "artwork": {
+                 "bgColor": "f6f6f6",
+                 "hasP3": false,
+                 "height": 1080,
+                 "textColor1": "232812",
+                 "textColor2": "363315",
+                 "textColor3": "4d513f",
+                 "textColor4": "5d5a42",
+                 "url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/84/88/ee/8488ee77-afef-7fa6-2381-7bb83066258e/source/{w}x{h}bb.jpg",
+                 "width": 4320
+                },
+                "designBadge": "LISTEN NOW",
+                "designTag": "Check out our new country station, broadcast from our Nashville HQ.",
+                "doNotFilter": false,
+                "editorialArtwork": {},
+                "editorialElementKind": "320",
+                "lastModifiedDate": "2026-08-25T23:01:57Z",
+                "resourceTypes": [
+                 "stations"
+                ]
+               },
+               "relationships": {
+                "contents": {
+                 "data": [
+                  {
+                   "id": "ra.1498157166",
+                   "type": "stations",
+                   "href": "/v1/catalog/us/stations/ra.1498157166?l=en-US",
+                   "attributes": {
+                    "artwork": {
+                     "bgColor": "f6f6f6",
+                     "hasP3": false,
+                     "height": 1080,
+                     "textColor1": "232812",
+                     "textColor2": "363315",
+                     "textColor3": "4d513f",
+                     "textColor4": "5d5a42",
+                     "url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/03/d7/3f/03d73f57-a05e-5da8-54de-1362a2f6e94c/46714416-3d53-41cf-8600-10fae38a34ab.png/{w}x{h}sr.jpg",
+                     "width": 4320
+                    },
+                    "editorialNotes": {
+                     "name": "Apple Music Country",
+                     "short": "Live Station",
+                     "tagline": "Where it sounds like home."
+                    },
+                    "isLive": true,
+                    "kind": "streaming",
+                    "mediaKind": "audio",
+                    "name": "Apple Music Country",
+                    "playParams": {
+                     "format": "stream",
+                     "hasDrm": true,
+                     "id": "ra.1498157166",
+                     "kind": "radioStation",
+                     "mediaType": 0,
+                     "stationHash": "CgkIBRoF7qCwygUQBA"
+                    },
+                    "radioUrl": "itsradio://music.apple.com/us/station/ra.1498157166",
+                    "requiresSubscription": false,
+                    "stationProviderName": "Apple Music",
+                    "supportedDrms": [
+                     "fairplay",
+                     "playready",
+                     "widevine"
+                    ],
+                    "url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166"
+                   }
+                  }
+                 ]
+                }
+               }
+              }
+             ]
+            }
+           }
+          },
+          {
+           "id": "1498962702",
+           "type": "editorial-elements",
+           "attributes": {
+            "doNotFilter": false,
+            "editorialElementKind": "488",
+            "lastModifiedDate": "2026-09-08T17:56:35Z",
+            "title": "On Air Now"
+           },
+           "relationships": {
+            "children": {
+             "data": [
+              {
+               "id": "1498962703",
+               "type": "editorial-elements",
+               "attributes": {
+                "doNotFilter": false,
+                "editorialElementKind": "489",
+                "lastModifiedDate": "2026-09-08T17:55:27Z",
+                "resourceTypes": [
+                 "stations"
+                ],
+                "stationGlyph": {
+                 "bgColor": "000000",
+                 "hasP3": false,
+                 "height": 88,
+                 "textColor1": "ffffff",
+                 "textColor2": "e3e3e3",
+                 "textColor3": "cbcbcb",
+                 "textColor4": "b5b5b5",
+                 "url": "https://is1-ssl.mzstatic.com/image/thumb/Features123/v4/e6/fa/27/e6fa27c3-31af-709a-5681-ebe067593b4a/source/{w}x{h}bb.jpg",
+                 "width": 136
+                }
+               },
+               "relationships": {
+                "contents": {
+                 "data": [
+                  {
+                   "id": "ra.978194965",
+                   "type": "stations",
+                   "href": "/v1/catalog/us/stations/ra.978194965?l=en-US",
+                   "attributes": {
+                    "artwork": {
+                     "bgColor": "f6f6f6",
+                     "hasP3": false,
+                     "height": 1080,
+                     "textColor1": "160105",
+                     "textColor2": "160306",
+                     "textColor3": "433235",
+                     "textColor4": "433436",
+                     "url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/fd/45/5b/fd455ba0-4a4d-854b-fc65-6d48f70be2f4/7da7d278-56c7-42a7-a801-d2193b71770a.png/{w}x{h}sr.jpg",
+                     "width": 4320
+                    },
+                    "editorialNotes": {
+                     "name": "Apple Music 1",
+                     "short": "Live Station",
+                     "tagline": "The new music that matters."
+                    },
+                    "isLive": true,
+                    "kind": "streaming",
+                    "mediaKind": "audio",
+                    "name": "Apple Music 1",
+                    "playParams": {
+                     "format": "stream",
+                     "hasDrm": true,
+                     "id": "ra.978194965",
+                     "kind": "radioStation",
+                     "mediaType": 0,
+                     "stationHash": "CgkIBRoFlaS40gMQBA"
+                    },
+                    "radioUrl": "itsradio://music.apple.com/us/station/ra.978194965",
+                    "requiresSubscription": false,
+                    "stationProviderName": "Apple Music",
+                    "supportedDrms": [
+                     "fairplay",
+                     "playready",
+                     "widevine"
+                    ],
+                    "url": "https://music.apple.com/us/station/apple-music-1/ra.978194965"
+                   }
+                  }
+                 ]
+                }
+               }
+              },
+              {
+               "id": "1498962704",
+               "type": "editorial-elements",
+               "attributes": {
+                "doNotFilter": false,
+                "editorialElementKind": "489",
+                "lastModifiedDate": "2026-09-08T17:55:27Z",
+                "resourceTypes": [
+                 "stations"
+                ],
+                "stationGlyph": {
+                 "bgColor": "000000",
+                 "hasP3": false,
+                 "height": 88,
+                 "textColor1": "ffffff",
+                 "textColor2": "e3e3e3",
+                 "textColor3": "cbcbcb",
+                 "textColor4": "b5b5b5",
+                 "url": "https://is1-ssl.mzstatic.com/image/thumb/Features123/v4/b0/9e/06/b09e0659-84ab-4b0f-e131-ee143a78cf72/source/{w}x{h}bb.jpg",
+                 "width": 136
+                }
+               },
+               "relationships": {
+                "contents": {
+                 "data": [
+                  {
+                   "id": "ra.1498155548",
+                   "type": "stations",
+                   "href": "/v1/catalog/us/stations/ra.1498155548?l=en-US",
+                   "attributes": {
+                    "artwork": {
+                     "bgColor": "f6f6f6",
+                     "hasP3": false,
+                     "height": 1080,
+                     "textColor1": "060816",
+                     "textColor2": "17246e",
+                     "textColor3": "363842",
+                     "textColor4": "444e89",
+                     "url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/27/b7/ec/27b7eca8-5bb2-3c46-ca1e-be2877a3cc91/feb0dc99-412b-4688-b8d6-c0fa07059558.png/{w}x{h}sr.jpg",
+                     "width": 4320
+                    },
+                    "editorialNotes": {
+                     "name": "Apple Music Hits",
+                     "short": "Live Station",
+                     "tagline": "Songs you know and love."
+                    },
+                    "isLive": true,
+                    "kind": "streaming",
+                    "mediaKind": "audio",
+                    "name": "Apple Music Hits",
+                    "playParams": {
+                     "format": "stream",
+                     "hasDrm": true,
+                     "id": "ra.1498155548",
+                     "kind": "radioStation",
+                     "mediaType": 0,
+                     "stationHash": "CgkIBRoFnJSwygUQBA"
+                    },
+                    "radioUrl": "itsradio://music.apple.com/us/station/ra.1498155548",
+                    "requiresSubscription": false,
+                    "stationProviderName": "Apple Music",
+                    "supportedDrms": [
+                     "fairplay",
+                     "playready",
+                     "widevine"
+                    ],
+                    "url": "https://music.apple.com/us/station/apple-music-hits/ra.1498155548"
+                   }
+                  }
+                 ]
+                }
+               }
+              },
+              {
+               "id": "1498962705",
+               "type": "editorial-elements",
+               "attributes": {
+                "doNotFilter": false,
+                "editorialElementKind": "489",
+                "lastModifiedDate": "2026-09-08T17:55:27Z",
+                "resourceTypes": [
+                 "stations"
+                ],
+                "stationGlyph": {
+                 "bgColor": "000000",
+                 "hasP3": false,
+                 "height": 88,
+                 "textColor1": "ffffff",
+                 "textColor2": "e3e3e3",
+                 "textColor3": "cbcbcb",
+                 "textColor4": "b5b5b5",
+                 "url": "https://is1-ssl.mzstatic.com/image/thumb/Features123/v4/d9/1f/77/d91f7701-8bba-1862-35d0-c07f97364bc6/source/{w}x{h}bb.jpg",
+                 "width": 136
+                }
+               },
+               "relationships": {
+                "contents": {
+                 "data": [
+                  {
+                   "id": "ra.1498157166",
+                   "type": "stations",
+                   "href": "/v1/catalog/us/stations/ra.1498157166?l=en-US",
+                   "attributes": {
+                    "artwork": {
+                     "bgColor": "f6f6f6",
+                     "hasP3": false,
+                     "height": 1080,
+                     "textColor1": "232812",
+                     "textColor2": "363315",
+                     "textColor3": "4d513f",
+                     "textColor4": "5d5a42",
+                     "url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/03/d7/3f/03d73f57-a05e-5da8-54de-1362a2f6e94c/46714416-3d53-41cf-8600-10fae38a34ab.png/{w}x{h}sr.jpg",
+                     "width": 4320
+                    },
+                    "editorialNotes": {
+                     "name": "Apple Music Country",
+                     "short": "Live Station",
+                     "tagline": "Where it sounds like home."
+                    },
+                    "isLive": true,
+                    "kind": "streaming",
+                    "mediaKind": "audio",
+                    "name": "Apple Music Country",
+                    "playParams": {
+                     "format": "stream",
+                     "hasDrm": true,
+                     "id": "ra.1498157166",
+                     "kind": "radioStation",
+                     "mediaType": 0,
+                     "stationHash": "CgkIBRoF7qCwygUQBA"
+                    },
+                    "radioUrl": "itsradio://music.apple.com/us/station/ra.1498157166",
+                    "requiresSubscription": false,
+                    "stationProviderName": "Apple Music",
+                    "supportedDrms": [
+                     "fairplay",
+                     "playready",
+                     "widevine"
+                    ],
+                    "url": "https://music.apple.com/us/station/apple-music-country/ra.1498157166"
+                   }
+                  }
+                 ]
+                }
+               }
+              }
+             ]
+            }
+           }
+          },
+          {
+           "id": "1481508361",
+           "type": "editorial-elements",
+           "attributes": {
+            "collectionId": "6749649953",
+            "displayStyle": "expanded",
+            "doNotFilter": false,
+            "editorialElementKind": "326",
+            "emphasize": false,
+            "featureFirstElement": false,
+            "lastModifiedDate": "2026-09-08T17:56:35Z",
+            "name": "Artists Take Over",
+            "resourceTypes": [
+             "stations"
+            ],
+            "supportedSorts": [],
+            "type": "normal"
+           },
+           "relationships": {
+            "contents": {
+             "data": [
+              {
+               "id": "ra.6808346885",
+               "type": "stations",
+               "href": "/v1/catalog/us/stations/ra.6808346885?l=en-US",
+               "attributes": {
+                "airTime": {
+                 "end": "2026-09-10T22:00:00Z",
+                 "start": "2026-09-10T21:00:00Z"
+                },
+                "artwork": {
+                 "bgColor": "000000",
+                 "hasP3": false,
+                 "height": 1080,
+                 "textColor1": "000000",
+                 "textColor2": "8891c6",
+                 "textColor3": "a3806c",
+                 "textColor4": "686e96",
+                 "url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/35/cb/12/35cb1265-d974-2f29-70d5-3e5b15be8892/24018d79-af6d-4407-b4b7-bec2d08a3e34.png/{w}x{h}sr.jpg",
+                 "width": 4320
+                },
+                "contentRating": "explicit",
+                "durationInMillis": 3837000,
+                "editorialNotes": {
+                 "name": "Kim Petras",
+                 "short": "Kim takes us on a Detour and calls up some friends.",
+                 "standard": "Radio Takeover"
+                },
+                "isLive": false,
+                "kind": "streaming",
+                "mediaKind": "audio",
+                "name": "Kim Petras",
+                "playParams": {
+                 "format": "stream",
+                 "hasDrm": true,
+                 "id": "ra.6808346885",
+                 "kind": "radioStation",
+                 "mediaType": 0,
+                 "stationHash": "CgkIBRoFhcK8rhkQBA",
+                 "streamingKind": 1
+                },
+                "radioUrl": "itsradio://music.apple.com/us/station/ra.6808346885",
+                "requiresSubscription": true,
+                "streamingRadioSubType": "Episode",
+                "supportedDrms": [
+                 "fairplay",
+                 "playready",
+                 "widevine"
+                ],
+                "url": "https://music.apple.com/us/station/kim-petras/ra.6808346885"
+               }
+              },
+              {
+               "id": "ra.6803660484",
+               "type": "stations",
+               "href": "/v1/catalog/us/stations/ra.6803660484?l=en-US",
+               "attributes": {
+                "airTime": {
+                 "end": "2026-09-09T22:00:00Z",
+                 "start": "2026-09-09T21:00:00Z"
+                },
+                "artwork": {
+                 "bgColor": "000000",
+                 "hasP3": false,
+                 "height": 1080,
+                 "textColor1": "dac7da",
+                 "textColor2": "bfbcce",
+                 "textColor3": "ae9fae",
+                 "textColor4": "9996a5",
+                 "url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/94/e7/4b/94e74bac-b333-2aa4-8678-b107a02224ce/87879ee7-b0dc-4241-a4bb-3dccfa708b39.png/{w}x{h}sr.jpg",
+                 "width": 4320
+                },
+                "contentRating": "explicit",
+                "durationInMillis": 3793000,
+                "editorialNotes": {
+                 "name": "Rebecca Black",
+                 "short": "The pop star shares the story behind Age of the Exhibitionist.",
+                 "standard": "Radio Takeover"
+                },
+                "isLive": false,
+                "kind": "streaming",
+                "mediaKind": "audio",
+                "name": "Rebecca Black",
+                "playParams": {
+                 "format": "stream",
+                 "hasDrm": true,
+                 "id": "ra.6803660484",
+                 "kind": "radioStation",
+                 "mediaType": 0,
+                 "stationHash": "CgkIBRoFxL2erBkQBA",
+                 "streamingKind": 1
+                },
+                "radioUrl": "itsradio://music.apple.com/us/station/ra.6803660484",
+                "requiresSubscription": true,
+                "streamingRadioSubType": "Episode",
+                "supportedDrms": [
+                 "fairplay",
+                 "playready",
+                 "widevine"
+                ],
+                "url": "https://music.apple.com/us/station/rebecca-black/ra.6803660484"
+               }
+              },
+              {
+               "id": "ra.6803661701",
+               "type": "stations",
+               "href": "/v1/catalog/us/stations/ra.6803661701?l=en-US",
+               "attributes": {
+                "airTime": {
+                 "end": "2026-09-08T22:00:00Z",
+                 "start": "2026-09-08T21:00:00Z"
+                },
+                "artwork": {
+                 "bgColor": "000000",
+                 "hasP3": false,
+                 "height": 1080,
+                 "textColor1": "ead7c9",
+                 "textColor2": "d6cdc2",
+                 "textColor3": "bbaca0",
+                 "textColor4": "aba49b",
+                 "url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/f1/ba/5a/f1ba5a00-fed6-4137-695f-e7165b5e11d6/faca03c5-86dc-40a3-baaa-1eb27407c519.png/{w}x{h}sr.jpg",
+                 "width": 4320
+                },
+                "contentRating": "explicit",
+                "durationInMillis": 3638000,
+                "editorialNotes": {
+                 "name": "Eric Bellinger",
+                 "short": "The R&B artist and guests discuss his self-titled LP."
+                },
+                "isLive": false,
+                "kind": "streaming",
+                "mediaKind": "audio",
+                "name": "Eric Bellinger",
+                "playParams": {
+                 "format": "stream",
+                 "hasDrm": true,
+                 "id": "ra.6803661701",
+                 "kind": "radioStation",
+                 "mediaType": 0,
+                 "stationHash": "CgkIBRoFhceerBkQBA",
+                 "streamingKind": 1
+                },
+                "radioUrl": "itsradio://music.apple.com/us/station/ra.6803661701",
+                "requiresSubscription": true,
+                "streamingRadioSubType": "Episode",
+                "supportedDrms": [
+                 "fairplay",
+                 "playready",
+                 "widevine"
+                ],
+                "url": "https://music.apple.com/us/station/eric-bellinger/ra.6803661701"
+               }
+              }
+             ]
+            },
+            "room": {
+             "data": [
+              {
+               "id": "1481508361",
+               "type": "rooms",
+               "href": "/v1/editorial/us/rooms/1481508361?l=en-US"
+              }
+             ]
+            }
+           }
+          },
+          {
+           "id": "1466156296",
+           "type": "editorial-elements",
+           "attributes": {
+            "collectionId": "6737987950",
+            "displayStyle": "expanded",
+            "doNotFilter": false,
+            "editorialElementKind": "326",
+            "emphasize": false,
+            "featureFirstElement": false,
+            "lastModifiedDate": "2026-09-08T17:56:35Z",
+            "name": "Latest Radio Episodes",
+            "resourceTypes": [
+             "stations"
+            ],
+            "supportedSorts": [],
+            "type": "normal"
+           },
+           "relationships": {
+            "contents": {
+             "data": [
+              {
+               "id": "ra.6812470129",
+               "type": "stations",
+               "href": "/v1/catalog/us/stations/ra.6812470129?l=en-US",
+               "attributes": {
+                "airTime": {
+                 "end": "2026-09-18T18:00:00Z",
+                 "start": "2026-09-18T17:00:00Z"
+                },
+                "artwork": {
+                 "bgColor": "111111",
+                 "hasP3": false,
+                 "height": 1080,
+                 "textColor1": "ffffff",
+                 "textColor2": "ffffff",
+                 "textColor3": "a2a890",
+                 "textColor4": "8f9aa7",
+                 "url": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/d1/94/13/d19413ae-38e6-178a-21a5-68133fdbf87b/708d56c9-7424-418e-9a5b-f679ad879e67.png/{w}x{h}sr.jpg",
+                 "width": 4320
+                },
+                "durationInMillis": 3515000,
+                "editorialNotes": {
+                 "name": "That’s Just Me Radio",
+                 "short": "Riley Green celebrates his album with his biggest fans.",
+                 "standard": "For The Fans"
+                },
+                "isLive": false,
+                "kind": "streaming",
+                "mediaKind": "audio",
+                "name": "That’s Just Me Radio",
+                "playParams": {
+                 "format": "stream",
+                 "hasDrm": true,
+                 "id": "ra.6812470129",
+                 "kind": "radioStation",
+                 "mediaType": 0,
+                 "stationHash": "CgkIBRoF8Za4sBkQBA",
+                 "streamingKind": 1
+                },
+                "radioUrl": "itsradio://music.apple.com/us/station/ra.6812470129",
+                "requiresSubscription": true,
+                "streamingRadioSubType": "Episode",
+                "supportedDrms": [
+                 "fairplay",
+                 "playready",
+                 "widevine"
+                ],
+                "url": "https://music.apple.com/us/station/thats-just-me-radio/ra.6812470129"
+               }
+              },
+              {
+               "id": "ra.6810828750",
+               "type": "stations",
+               "href": "/v1/catalog/us/stations/ra.6810828750?l=en-US",
+               "attributes": {
+                "airTime": {
+                 "end": "2026-09-18T19:00:00Z",
+                 "start": "2026-09-18T18:00:00Z"
+                },
+                "artwork": {
+                 "bgColor": "e33031",
+                 "hasP3": false,
+                 "height": 1080,
+                 "textColor1": "000000",
+                 "textColor2": "0a0503",
+                 "textColor3": "270e0d",
+                 "textColor4": "290e0d",
+                 "url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/d4/08/aa/d408aa4d-dd92-4725-2b02-ce5e1c294e4d/e63c236d-6645-44c6-829d-e68304531afb.png/{w}x{h}sr.jpg",
+                 "width": 4320
+                },
+                "contentRating": "explicit",
+                "durationInMillis": 3727000,
+                "editorialNotes": {
+                 "name": "Youth Football Team Approved",
+                 "short": "Keeping the cardboard on the concrete.",
+                 "standard": "5 on Fridays with Vince Staples"
+                },
+                "isLive": false,
+                "kind": "streaming",
+                "mediaKind": "audio",
+                "name": "Youth Football Team Approved",
+                "playParams": {
+                 "format": "stream",
+                 "hasDrm": true,
+                 "id": "ra.6810828750",
+                 "kind": "radioStation",
+                 "mediaType": 0,
+                 "stationHash": "CgkIBRoFzv_TrxkQBA",
+                 "streamingKind": 1
+                },
+                "radioUrl": "itsradio://music.apple.com/us/station/ra.6810828750",
+                "requiresSubscription": true,
+                "streamingRadioSubType": "Episode",
+                "supportedDrms": [
+                 "fairplay",
+                 "playready",
+                 "widevine"
+                ],
+                "url": "https://music.apple.com/us/station/youth-football-team-approved/ra.6810828750"
+               }
+              },
+              {
+               "id": "ra.6807514970",
+               "type": "stations",
+               "href": "/v1/catalog/us/stations/ra.6807514970?l=en-US",
+               "attributes": {
+                "airTime": {
+                 "end": "2026-09-04T19:00:00Z",
+                 "start": "2026-09-04T19:00:00Z"
+                },
+                "artwork": {
+                 "bgColor": "838383",
+                 "hasP3": false,
+                 "height": 1080,
+                 "textColor1": "0a0a0a",
+                 "textColor2": "131313",
+                 "textColor3": "222222",
+                 "textColor4": "292929",
+                 "url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/14/23/e0/1423e0e9-f189-2562-b0a0-5e354ff49808/f56f3625-2f12-478f-ab7f-6a58e139657e.png/{w}x{h}sr.jpg",
+                 "width": 4320
+                },
+                "durationInMillis": 373000,
+                "editorialNotes": {
+                 "name": "Miley Cyrus: How We Got Here",
+                 "short": "Will her 10th album be yet another transformation?",
+                 "standard": "How We Got Here"
+                },
+                "isLive": false,
+                "kind": "streaming",
+                "mediaKind": "audio",
+                "name": "Miley Cyrus: How We Got Here",
+                "playParams": {
+                 "format": "stream",
+                 "hasDrm": true,
+                 "id": "ra.6807514970",
+                 "kind": "radioStation",
+                 "mediaType": 0,
+                 "stationHash": "CgkIBRoF2t6JrhkQBA",
+                 "streamingKind": 1
+                },
+                "radioUrl": "itsradio://music.apple.com/us/station/ra.6807514970",
+                "requiresSubscription": true,
+                "streamingRadioSubType": "Episode",
+                "supportedDrms": [
+                 "fairplay",
+                 "playready",
+                 "widevine"
+                ],
+                "url": "https://music.apple.com/us/station/miley-cyrus-how-we-got-here/ra.6807514970"
+               }
+              }
+             ]
+            },
+            "room": {
+             "data": [
+              {
+               "id": "1466156296",
+               "type": "rooms",
+               "href": "/v1/editorial/us/rooms/1466156296?l=en-US"
+              }
+             ]
+            }
+           }
+          },
+          {
+           "id": "1567315106",
+           "type": "editorial-elements",
+           "attributes": {
+            "editorialElementKind": "391",
+            "lastModifiedDate": "2026-09-08T17:56:35Z",
+            "links": [
+             {
+              "label": "Acoustic",
+              "url": "https://itunes.apple.com/us/collection/acoustic/id171952?fcId=6737578234&mt=14"
+             },
+             {
+              "label": "African",
+              "url": "https://itunes.apple.com/us/collection/african/id171952?fcId=6751006840&mt=14"
+             },
+             {
+              "label": "Alternative & Indie",
+              "url": "https://itunes.apple.com/us/collection/alternative-indie/id171952?fcId=6737577917&mt=14"
+             }
+            ],
+            "name": "More to Explore"
+           }
+          }
+         ]
+        }
+       }
+      }
+     ]
+    }
+   }
+  }
+ ]
+}

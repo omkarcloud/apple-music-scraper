@@ -1,0 +1,4229 @@
+{
+ "data": [
+  {
+   "id": "271256",
+   "type": "artists",
+   "href": "/v1/catalog/us/artists/271256?l=en-US",
+   "attributes": {
+    "artistBio": "A year or so after 2010’s <i>Thank Me Later</i> hit, Drake was browsing art in LA when a neon sign caught his eye: “LESS DRAKE, MORE TUPAC.” At first, he felt like ripping it off the wall. Instead, he bought it. After all, he figured if someone puts your name next to 2Pac, you must be doing something right. \n\nBorn Aubrey Drake Graham in Toronto in 1986, he—like 2Pac—became the voice of a generation and prism for his pop-cultural moment, starting with 2011’s sumptuous <i>Take Care</i>, a career-defining magnum opus that’s included in Apple Music’s 100 Best Albums list.\n\nA Drake project can incorporate house and club music (2017’s <i>More Life</i>, 2022’s <i>Honestly, Nevermind</i>) and red-eyed trap (2022’s 21 Savage collab <i>Her Loss</i>) with equal conviction and at no loss to the subjectivity at the center. “I obviously spend a lot of time in my own world,” he told Apple Music in 2016. “But when I do take a look at the broader scope of things, I’ve always tried to make music that transcends gender, nationality—to try and unify people. Because that’s really what it’s about.” \n\nEven after cementing his prowess many times over, Drake still retains the capacity to surprise. His 2023 poetry collection, <i>Titles Ruin Everything</i>, with repeat collaborator Kenza Samir proved intentionally fragmented, while his very public 2024 beef with Kendrick Lamar became a focal point not just in hip-hop fandom, but also global mainstream culture. And in 2026, after teasing his eventual release <i>ICEMAN</i>, he dropped two more full-lengths—<i>HABIBTI</i> and <i>MAID OF HONOUR</i>—at the same time. At this point, he’s such an indelible part of the firmament that his slightest move can trigger aftershocks far beyond his immediate reach.",
+    "artwork": {
+     "bgColor": "fafafa",
+     "defaultCropCode": "bb",
+     "hasP3": false,
+     "height": 1825,
+     "textColor1": "040404",
+     "textColor2": "161616",
+     "textColor3": "353535",
+     "textColor4": "444444",
+     "url": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages112/v4/1b/71/65/1b716513-b0c1-9c6b-45aa-cbb9198248cc/01607cf1-1d52-43d2-84ce-d6fc1f4a3475_ami-identity-7665599cc626d803af7956b3691905e7-2022-11-30T21-07-19.526Z_cropped.png/{w}x{h}bb.jpg",
+     "width": 1825
+    },
+    "bornOrFormed": "October 24, 1986",
+    "editorialArtwork": {
+     "bannerUber": {
+      "bgColor": "000000",
+      "hasP3": false,
+      "height": 1080,
+      "textColor1": "f0c8a7",
+      "textColor2": "e0b48b",
+      "textColor3": "c0a086",
+      "textColor4": "b3906f",
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/0b/6f/65/0b6f6531-bdeb-3a54-01c8-c7096b656df7/pr_source.png/{w}x{h}sr.jpg",
+      "width": 4320
+     },
+     "centeredFullscreenBackground": {
+      "bgColor": "040601",
+      "hasP3": false,
+      "height": 2160,
+      "textColor1": "fbfaf7",
+      "textColor2": "e1dfd3",
+      "textColor3": "cac9c6",
+      "textColor4": "b5b3a9",
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/56/35/c3/5635c37d-093e-6cc8-9e1a-daabeb6cb4f9/pr_source.png/{w}x{h}bb.jpg",
+      "width": 4320
+     },
+     "emailFeature": {
+      "bgColor": "15151f",
+      "hasP3": false,
+      "height": 1080,
+      "textColor1": "c7cbd2",
+      "textColor2": "97c4d1",
+      "textColor3": "a3a6ae",
+      "textColor4": "7da1ad",
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Features18/v4/f6/4e/43/f64e43f4-e3fb-730c-0684-53c8e5380d8c/mza_400270002282622251.png/{w}x{h}bb.jpg",
+      "width": 4320
+     },
+     "originalFlowcaseBrick": {
+      "bgColor": "343230",
+      "hasP3": false,
+      "height": 600,
+      "textColor1": "fcfcfc",
+      "textColor2": "d7d6d6",
+      "textColor3": "d4d4d3",
+      "textColor4": "b6b5b4",
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Features5/v4/6a/a5/a8/6aa5a8fa-dd37-169f-8ac0-9c8edc3fa6fc/pr_source.png/{w}x{h}bb.jpg",
+      "width": 1778
+     },
+     "storeFlowcase": {
+      "bgColor": "15151f",
+      "hasP3": false,
+      "height": 1080,
+      "textColor1": "c7cbd2",
+      "textColor2": "97c4d1",
+      "textColor3": "a3a6ae",
+      "textColor4": "7da1ad",
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Features60/v4/83/22/fd/8322fd2f-9e6e-7737-bf2f-fe6a47d0b647/pr_source.png/{w}x{h}bb.jpg",
+      "width": 4320
+     },
+     "subscriptionHero": {
+      "bgColor": "252321",
+      "hasP3": false,
+      "height": 1080,
+      "textColor1": "f3f1ef",
+      "textColor2": "d7d6d6",
+      "textColor3": "c9c7c5",
+      "textColor4": "b4b2b2",
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Features62/v4/d4/be/6c/d4be6c95-935b-ebb7-08c5-536ff79f5005/pr_source.png/{w}x{h}sr.jpg",
+      "width": 4320
+     }
+    },
+    "editorialVideo": {
+     "motionArtistFullscreen16x9": {
+      "previewFrame": {
+       "bgColor": "070709",
+       "hasP3": false,
+       "height": 2160,
+       "textColor1": "c0ccc6",
+       "textColor2": "c7b3a0",
+       "textColor3": "9ba4a0",
+       "textColor4": "a19182",
+       "url": "https://is1-ssl.mzstatic.com/image/thumb/Video126/v4/64/ed/92/64ed9205-11a1-0947-1540-65b13ee43d73/Jobcf3e0457-a47e-4e6b-abab-f6060213d143-157150531-PreviewImage_preview_image_nonvideo_sdr-Time1697220031316.png/{w}x{h}bb.jpg",
+       "width": 3840
+      },
+      "video": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic116/v4/f3/f1/9a/f3f19abd-6e9c-d700-dc42-0c223c6e483e/P633404207_default.m3u8"
+     },
+     "motionArtistSquare1x1": {
+      "previewFrame": {
+       "bgColor": "08080b",
+       "hasP3": false,
+       "height": 3840,
+       "textColor1": "c6d0ca",
+       "textColor2": "bac6c0",
+       "textColor3": "a0a8a4",
+       "textColor4": "96a09b",
+       "url": "https://is1-ssl.mzstatic.com/image/thumb/Video126/v4/0a/51/61/0a5161eb-fe94-7950-c1e2-edc0fb8adfd4/Job453ad630-3bc5-48dc-a34b-5758ed1acbde-157150532-PreviewImage_preview_image_nonvideo_sdr-Time1697220042859.png/{w}x{h}bb.jpg",
+       "width": 3840
+      },
+      "video": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic116/v4/85/94/02/8594029e-168e-818e-2431-938de56f845a/P633407077_default.m3u8"
+     },
+     "motionArtistWide16x9": {
+      "previewFrame": {
+       "bgColor": "070709",
+       "hasP3": false,
+       "height": 2160,
+       "textColor1": "c0ccc6",
+       "textColor2": "c7b3a0",
+       "textColor3": "9ba4a0",
+       "textColor4": "a19182",
+       "url": "https://is1-ssl.mzstatic.com/image/thumb/Video126/v4/64/ed/92/64ed9205-11a1-0947-1540-65b13ee43d73/Jobcf3e0457-a47e-4e6b-abab-f6060213d143-157150531-PreviewImage_preview_image_nonvideo_sdr-Time1697220031316.png/{w}x{h}bb.jpg",
+       "width": 3840
+      },
+      "video": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic116/v4/f3/f1/9a/f3f19abd-6e9c-d700-dc42-0c223c6e483e/P633404207_default.m3u8"
+     }
+    },
+    "genreNames": [
+     "Hip-Hop/Rap"
+    ],
+    "hero": [
+     {
+      "content": [
+       {
+        "artwork": {
+         "bgColor": "fafafa",
+         "hasP3": false,
+         "height": 1825,
+         "textColor1": "040404",
+         "textColor2": "161616",
+         "textColor3": "353535",
+         "textColor4": "444444",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages112/v4/1b/71/65/1b716513-b0c1-9c6b-45aa-cbb9198248cc/01607cf1-1d52-43d2-84ce-d6fc1f4a3475_ami-identity-7665599cc626d803af7956b3691905e7-2022-11-30T21-07-19.526Z_cropped.png/{w}x{h}bb.jpg",
+         "width": 1825
+        }
+       }
+      ]
+     }
+    ],
+    "isGroup": false,
+    "name": "Drake",
+    "origin": "Toronto, Ontario, Canada",
+    "plainEditorialNotes": {
+     "short": "One of the most innovative hip-hop artists in the business."
+    },
+    "url": "https://music.apple.com/us/artist/drake/271256"
+   },
+   "relationships": {
+    "albums": {
+     "href": "/v1/catalog/us/artists/271256/albums?l=en-US",
+     "next": "/v1/catalog/us/artists/271256/albums?l=en-US&offset=25",
+     "data": [
+      {
+       "id": "1418213110",
+       "type": "albums",
+       "href": "/v1/catalog/us/albums/1418213110?l=en-US"
+      },
+      {
+       "id": "1652998965",
+       "type": "albums",
+       "href": "/v1/catalog/us/albums/1652998965?l=en-US"
+      },
+      {
+       "id": "1584281467",
+       "type": "albums",
+       "href": "/v1/catalog/us/albums/1584281467?l=en-US"
+      }
+     ]
+    },
+    "genres": {
+     "href": "/v1/catalog/us/artists/271256/genres?l=en-US",
+     "data": [
+      {
+       "id": "18",
+       "type": "genres",
+       "href": "/v1/catalog/us/genres/18?l=en-US",
+       "attributes": {
+        "name": "Hip-Hop/Rap",
+        "parentId": "34",
+        "parentName": "Music",
+        "url": "https://itunes.apple.com/us/genre/id18"
+       }
+      }
+     ]
+    },
+    "station": {
+     "href": "/v1/catalog/us/artists/271256/station?l=en-US",
+     "data": [
+      {
+       "id": "ra.271256",
+       "type": "stations",
+       "href": "/v1/catalog/us/stations/ra.271256?l=en-US",
+       "attributes": {
+        "artwork": {
+         "bgColor": "fafafa",
+         "hasP3": false,
+         "height": 1825,
+         "textColor1": "040404",
+         "textColor2": "161616",
+         "textColor3": "353535",
+         "textColor4": "444444",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages112/v4/1b/71/65/1b716513-b0c1-9c6b-45aa-cbb9198248cc/01607cf1-1d52-43d2-84ce-d6fc1f4a3475_ami-identity-7665599cc626d803af7956b3691905e7-2022-11-30T21-07-19.526Z_cropped.png/{w}x{h}AM.RSMA03.jpg?imgLeft=AMCArtistImages211%2Fv4%2F87%2Fc5%2F5b%2F87c55bb0-3f15-acb3-fcca-84aa67242c75%2Fami-identity-1ec7047ad438e6af95952f6cd8ec7e2b-2026-04-14T19-48-21.103Z_cropped.png&imgRight=AMCArtistImages211%2Fv4%2Fa0%2F03%2Fba%2Fa003ba04-c69b-5ac9-db08-326c23aa5b82%2Fami-identity-9301504ae26ebbedb9d8d3cf6c9dafdb-2026-06-26T04-06-47.222Z_cropped.png",
+         "width": 1825
+        },
+        "editorialArtwork": {},
+        "isLive": false,
+        "kind": "artistSeeded",
+        "mediaKind": "audio",
+        "name": "Drake & Similar Artists Station",
+        "playParams": {
+         "format": "tracks",
+         "hasDrm": false,
+         "id": "ra.271256",
+         "kind": "radioStation",
+         "mediaType": 0,
+         "stationHash": "CgcIARoDmMcQEAE"
+        },
+        "radioUrl": "itsradio://music.apple.com/us/station/ra.271256",
+        "requiresSubscription": true,
+        "url": "https://music.apple.com/us/station/drake-similar-artists-station/ra.271256"
+       }
+      }
+     ]
+    }
+   },
+   "views": {
+    "appears-on-albums": {
+     "href": "/v1/catalog/us/artists/271256/view/appears-on-albums?l=en-US",
+     "next": "/v1/catalog/us/artists/271256/view/appears-on-albums?l=en-US&offset=10",
+     "attributes": {
+      "title": "Appears On"
+     },
+     "data": [
+      {
+       "id": "6803712483",
+       "type": "albums",
+       "href": "/v1/catalog/us/albums/6803712483?l=en-US",
+       "attributes": {
+        "artistName": "The Game",
+        "artwork": {
+         "bgColor": "a7a6a4",
+         "hasP3": false,
+         "height": 3000,
+         "textColor1": "110b09",
+         "textColor2": "171512",
+         "textColor3": "2f2a28",
+         "textColor4": "34322f",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/dc/6b/75/dc6b75a6-3fa5-841a-8d19-53a6b04f6e4d/1200214914073.jpg/{w}x{h}bb.jpg",
+         "width": 3000
+        },
+        "audioTraits": [
+         "lossless",
+         "lossy-stereo"
+        ],
+        "contentRating": "explicit",
+        "copyright": "℗ 2026 Numinati/FTS Global Management LLC",
+        "editorialArtwork": {
+         "superHeroTall": {
+          "bgColor": "a7a6a4",
+          "gradient": {},
+          "hasP3": false,
+          "height": 2240,
+          "textColor1": "110b09",
+          "textColor2": "171512",
+          "textColor3": "2f2a28",
+          "textColor4": "34322f",
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/dc/6b/75/dc6b75a6-3fa5-841a-8d19-53a6b04f6e4d/1200214914073.jpg/{w}x{h}SHT.AMTPPS01.jpg?l=en-US",
+          "width": 1680
+         }
+        },
+        "genreNames": [
+         "Hip-Hop/Rap",
+         "Music"
+        ],
+        "isCompilation": false,
+        "isComplete": true,
+        "isMasteredForItunes": false,
+        "isPrerelease": false,
+        "isSingle": true,
+        "name": "No Brakes (feat. Drake) - Single",
+        "playParams": {
+         "id": "6803712483",
+         "kind": "album"
+        },
+        "recordLabel": "Numinati",
+        "releaseDate": "2026-08-20",
+        "trackCount": 1,
+        "upc": "1200214914073",
+        "url": "https://music.apple.com/us/album/no-brakes-feat-drake-single/6803712483"
+       }
+      },
+      {
+       "id": "1857541700",
+       "type": "albums",
+       "href": "/v1/catalog/us/albums/1857541700?l=en-US",
+       "attributes": {
+        "artistName": "Babylon",
+        "artwork": {
+         "bgColor": "463230",
+         "hasP3": false,
+         "height": 3000,
+         "textColor1": "f8c8a1",
+         "textColor2": "f6b485",
+         "textColor3": "d4aa8a",
+         "textColor4": "d29a74",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/80/45/58/8045588f-675f-3115-8420-16995d159720/196873893372.jpg/{w}x{h}bb.jpg",
+         "width": 3000
+        },
+        "audioTraits": [
+         "lossless",
+         "lossy-stereo"
+        ],
+        "copyright": "℗ 2025 Babylon Records",
+        "editorialArtwork": {
+         "subscriptionHero": {
+          "bgColor": "aaaaaa",
+          "hasP3": true,
+          "height": 1080,
+          "textColor1": "050505",
+          "textColor2": "100f0e",
+          "textColor3": "262626",
+          "textColor4": "2e2e2d",
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/8b/90/11/8b90114f-42e9-fb1f-6207-3e0cbf9c5208/7c862a17-92a0-4732-a4fa-8dac304dd5f3.png/{w}x{h}sr.jpg",
+          "width": 4320
+         },
+         "superHeroTall": {
+          "bgColor": "463230",
+          "gradient": {},
+          "hasP3": false,
+          "height": 2240,
+          "textColor1": "f8c8a1",
+          "textColor2": "f6b485",
+          "textColor3": "d4aa8a",
+          "textColor4": "d29a74",
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/80/45/58/8045588f-675f-3115-8420-16995d159720/196873893372.jpg/{w}x{h}SHT.AMTPPS01.jpg?l=en-US",
+          "width": 1680
+         }
+        },
+        "genreNames": [
+         "R&B/Soul",
+         "Music"
+        ],
+        "isCompilation": false,
+        "isComplete": true,
+        "isMasteredForItunes": false,
+        "isPrerelease": false,
+        "isSingle": false,
+        "name": "Gift (feat. Drake) - Single",
+        "playParams": {
+         "id": "1857541700",
+         "kind": "album"
+        },
+        "recordLabel": "Babylon Records",
+        "releaseDate": "2025-12-18",
+        "trackCount": 2,
+        "upc": "196873893372",
+        "url": "https://music.apple.com/us/album/gift-feat-drake-single/1857541700"
+       }
+      },
+      {
+       "id": "1700748234",
+       "type": "albums",
+       "href": "/v1/catalog/us/albums/1700748234?l=en-US",
+       "attributes": {
+        "artistName": "Travis Scott",
+        "artwork": {
+         "bgColor": "080609",
+         "hasP3": false,
+         "height": 3000,
+         "textColor1": "f1e3e8",
+         "textColor2": "f3d0cf",
+         "textColor3": "c2b7bb",
+         "textColor4": "c4a8a7",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/1d/5f/7b/1d5f7b7a-d944-d23b-c640-d928b79d8baf/196871357012.jpg/{w}x{h}bb.jpg",
+         "width": 3000
+        },
+        "audioTraits": [
+         "lossless",
+         "lossy-stereo"
+        ],
+        "contentRating": "explicit",
+        "copyright": "℗ 2023 Cactus Jack Records under exclusive license to Epic Records, a division of Sony Music Entertainment",
+        "editorialArtwork": {
+         "superHeroTall": {
+          "bgColor": "080609",
+          "gradient": {},
+          "hasP3": false,
+          "height": 2240,
+          "textColor1": "f1e3e8",
+          "textColor2": "f3d0cf",
+          "textColor3": "c2b7bb",
+          "textColor4": "c4a8a7",
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/1d/5f/7b/1d5f7b7a-d944-d23b-c640-d928b79d8baf/196871357012.jpg/{w}x{h}SHT.AMTPPS01.jpg?l=en-US",
+          "width": 1680
+         }
+        },
+        "genreNames": [
+         "Hip-Hop/Rap",
+         "Music"
+        ],
+        "isCompilation": false,
+        "isComplete": true,
+        "isMasteredForItunes": false,
+        "isPrerelease": false,
+        "isSingle": true,
+        "name": "MELTDOWN (feat. Drake) - Single",
+        "playParams": {
+         "id": "1700748234",
+         "kind": "album"
+        },
+        "recordLabel": "Cactus Jack/Epic",
+        "releaseDate": "2023-07-26",
+        "trackCount": 1,
+        "upc": "196871357012",
+        "url": "https://music.apple.com/us/album/meltdown-feat-drake-single/1700748234"
+       }
+      }
+     ]
+    },
+    "compilation-albums": {
+     "href": "/v1/catalog/us/artists/271256/view/compilation-albums?l=en-US",
+     "attributes": {
+      "title": "Compilations"
+     },
+     "data": [
+      {
+       "id": "1475177816",
+       "type": "albums",
+       "href": "/v1/catalog/us/albums/1475177816?l=en-US",
+       "attributes": {
+        "artistName": "Drake",
+        "artwork": {
+         "bgColor": "121212",
+         "hasP3": false,
+         "height": 3000,
+         "textColor1": "bbc3d0",
+         "textColor2": "acb6c6",
+         "textColor3": "99a0aa",
+         "textColor4": "8d95a2",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/6f/e4/7f/6fe47f12-0fc3-dd2d-d401-f56df61e509c/19UMGIM71793.rgb.jpg/{w}x{h}bb.jpg",
+         "width": 3000
+        },
+        "audioTraits": [
+         "lossless",
+         "lossy-stereo"
+        ],
+        "contentRating": "explicit",
+        "copyright": "℗ 2019 OVO",
+        "editorialArtwork": {
+         "storeFlowcase": {
+          "bgColor": "020203",
+          "hasP3": false,
+          "height": 1080,
+          "textColor1": "cfdae8",
+          "textColor2": "b0bbc9",
+          "textColor3": "a6afba",
+          "textColor4": "8d96a2",
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Features123/v4/39/02/48/390248c0-93be-dda8-1a91-b30dea3f9b00/pr_source.png/{w}x{h}bb.jpg",
+          "width": 4320
+         },
+         "subscriptionHero": {
+          "bgColor": "222a37",
+          "hasP3": false,
+          "height": 1080,
+          "textColor1": "f4bd91",
+          "textColor2": "e4ae84",
+          "textColor3": "caa07f",
+          "textColor4": "bd9374",
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Features113/v4/89/50/23/89502375-962e-d963-8dff-9affdd38c9a9/mza_121486581338349575.png/{w}x{h}sr.jpg",
+          "width": 4320
+         },
+         "superHeroTall": {
+          "bgColor": "121212",
+          "gradient": {},
+          "hasP3": false,
+          "height": 2240,
+          "textColor1": "bbc3d0",
+          "textColor2": "acb6c6",
+          "textColor3": "99a0aa",
+          "textColor4": "8d95a2",
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/6f/e4/7f/6fe47f12-0fc3-dd2d-d401-f56df61e509c/19UMGIM71793.rgb.jpg/{w}x{h}SHT.AMTPPS01.jpg?l=en-US",
+          "width": 1680
+         }
+        },
+        "genreNames": [
+         "Hip-Hop/Rap",
+         "Music",
+         "Rap"
+        ],
+        "isCompilation": true,
+        "isComplete": true,
+        "isMasteredForItunes": true,
+        "isPrerelease": false,
+        "isSingle": false,
+        "name": "Care Package",
+        "plainEditorialNotes": {
+         "short": "A collection of choice cuts from the rapper’s early days.",
+         "standard": "An amalgamation of fan-favorite loosies from 2010 through 2016, Drake’s 2019 compilation album, Care Package, serves as an introspective time capsule for new and enduring listeners alike. For those who remember Drake’s early days, the album unearths a series of near-decade-old cuts, including “I Get Lonely” and “Dreams Money Can Buy.” For newer fans, the tracklist serves as a peek into Drake’s sonic and personal past—of a period when he was still just Aubrey Graham, a striving young musician who was about to single-handedly reshape the rap genre.\n\n“I got car money, fresh-start money/I want Saudi money, I want art money,” Drake raps on “Dreams Money Can Buy,” reminding fans of a foregone time when the iconic entertainer wasn’t yet a household name. The track embodies the quintessential dark and moody late-night soundtrack that defined Drake’s sound, shaped by the rapper himself, as well as a team of early producers, including Noah “40” Shebib. Arriving one year following his pop- and rap-heavy Scorpion, the re-release of Care Package’s 17 tracks was a fan-driven reminder of the “old Drake” who captured a generation of listeners, and came up with his own definition of what it meant to be a rap superstar."
+        },
+        "playParams": {
+         "id": "1475177816",
+         "kind": "album"
+        },
+        "recordLabel": "OVO",
+        "releaseDate": "2019-08-02",
+        "trackCount": 17,
+        "upc": "00602508182952",
+        "url": "https://music.apple.com/us/album/care-package/1475177816"
+       }
+      }
+     ]
+    },
+    "featured-albums": {
+     "href": "/v1/catalog/us/artists/271256/view/featured-albums?l=en-US",
+     "attributes": {
+      "title": "Essential Albums"
+     },
+     "data": [
+      {
+       "id": "1440841363",
+       "type": "albums",
+       "href": "/v1/catalog/us/albums/1440841363?l=en-US",
+       "attributes": {
+        "artistName": "Drake",
+        "artwork": {
+         "bgColor": "46535d",
+         "hasP3": false,
+         "height": 3000,
+         "textColor1": "e9f6f9",
+         "textColor2": "dfeef7",
+         "textColor3": "c8d5d9",
+         "textColor4": "c0cfd8",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f2/0d/8b/f20d8bff-a927-ae98-6784-20a1f51cb23e/16UMGIM27642.rgb.jpg/{w}x{h}bb.jpg",
+         "width": 3000
+        },
+        "audioTraits": [
+         "lossless",
+         "lossy-stereo"
+        ],
+        "contentRating": "explicit",
+        "copyright": "℗ 2016 Young Money Entertainment/Cash Money Records",
+        "editorialArtwork": {
+         "bannerUber": {
+          "bgColor": "1e1e1e",
+          "hasP3": false,
+          "height": 1080,
+          "textColor1": "e5e5e5",
+          "textColor2": "cccccc",
+          "textColor3": "bdbdbd",
+          "textColor4": "a9a9a9",
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Features20/v4/23/ce/7f/23ce7f25-d3b4-461f-e0b1-cc9ccdeeb50d/pr_source.png/{w}x{h}sr.jpg",
+          "width": 4320
+         },
+         "emailFeature": {
+          "bgColor": "15151f",
+          "hasP3": false,
+          "height": 1080,
+          "textColor1": "c7cbd2",
+          "textColor2": "97c4d1",
+          "textColor3": "a3a6ae",
+          "textColor4": "7da1ad",
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Features18/v4/c6/b4/0d/c6b40d01-b10e-ef35-6a73-824c1051dfeb/temp..ucqteyrd.png/{w}x{h}bb.jpg",
+          "width": 4320
+         },
+         "staticDetailSquare": {
+          "bgColor": "3d474f",
+          "hasP3": false,
+          "height": 3840,
+          "textColor1": "dff1f7",
+          "textColor2": "bde1f6",
+          "textColor3": "bbcbd2",
+          "textColor4": "a1bfd1",
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/d0/6c/4e/d06c4efa-1b1b-b829-e60e-17f297788529/U0RTIERyYWtlLnBuZw.png/{w}x{h}bb.jpg",
+          "width": 3840
+         },
+         "staticDetailTall": {
+          "bgColor": "384148",
+          "hasP3": false,
+          "height": 2732,
+          "textColor1": "ffffff",
+          "textColor2": "ffffff",
+          "textColor3": "b9c9d0",
+          "textColor4": "acc0ce",
+          "textGradient": [
+           "ffffff",
+           "ffffff"
+          ],
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/90/51/52/905152ef-304b-0066-3b90-44549e464659/U0RUIERyYWtlLnBuZw.png/{w}x{h}bb.jpg",
+          "width": 2048
+         },
+         "storeFlowcase": {
+          "bgColor": "000000",
+          "hasP3": false,
+          "height": 1080,
+          "textColor1": "c9d0d1",
+          "textColor2": "d6cabf",
+          "textColor3": "a1a6a7",
+          "textColor4": "aba298",
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/a5/58/c1/a558c11e-ef37-829b-85f8-6996fded954d/pr_source.png/{w}x{h}bb.jpg",
+          "width": 4320
+         },
+         "subscriptionHero": {
+          "bgColor": "a7b5c0",
+          "hasP3": false,
+          "height": 1080,
+          "textColor1": "0c0c0e",
+          "textColor2": "252524",
+          "textColor3": "2b2e32",
+          "textColor4": "3f4243",
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/7a/7a/34/7a7a3466-9120-6ae0-ab9a-553d92639b77/pr_source.png/{w}x{h}sr.jpg",
+          "width": 4320
+         },
+         "superHeroTall": {
+          "bgColor": "46535d",
+          "gradient": {},
+          "hasP3": false,
+          "height": 2240,
+          "textColor1": "e9f6f9",
+          "textColor2": "dfeef7",
+          "textColor3": "c8d5d9",
+          "textColor4": "c0cfd8",
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f2/0d/8b/f20d8bff-a927-ae98-6784-20a1f51cb23e/16UMGIM27642.rgb.jpg/{w}x{h}SHT.AMTPPS01.jpg?l=en-US",
+          "width": 1680
+         }
+        },
+        "editorialVideo": {
+         "motionDetailSquare": {
+          "previewFrame": {
+           "bgColor": "4f5a62",
+           "hasP3": false,
+           "height": 3840,
+           "textColor1": "e6f3f8",
+           "textColor2": "c1e5f8",
+           "textColor3": "c8d4da",
+           "textColor4": "aac9da",
+           "url": "https://is1-ssl.mzstatic.com/image/thumb/Video125/v4/44/53/30/44533084-baab-3980-38be-fbf076bf868c/Job49a2e3a2-fee1-48d2-a435-2d448390c6ec-112368966-PreviewImage_PreviewImageIntermediate_preview_image_nonvideo_vfcs132588481-Time1619642569296.png/{w}x{h}bb.jpg",
+           "width": 3840
+          },
+          "video": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic126/v4/16/45/20/16452040-e2c6-f354-0671-04536e2db0f6/P359423782_default.m3u8"
+         },
+         "motionDetailTall": {
+          "previewFrame": {
+           "bgColor": "47535a",
+           "hasP3": false,
+           "height": 2732,
+           "textColor1": "e4f3f8",
+           "textColor2": "d6e9f6",
+           "textColor3": "c5d3d8",
+           "textColor4": "bacbd6",
+           "url": "https://is1-ssl.mzstatic.com/image/thumb/Video125/v4/57/65/34/57653444-fb9e-9c69-a4fb-21927780767f/Job318acfd4-edf3-4cf2-bebf-cbf7670210a1-112368743-PreviewImage_preview_image_nonvideo_sdr-Time1619642497317.png/{w}x{h}bb.jpg",
+           "width": 2048
+          },
+          "video": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic116/v4/74/d9/57/74d95708-a0f9-6254-2bb0-c231d03e9bc7/P359424003_default.m3u8"
+         },
+         "motionSquareVideo1x1": {
+          "previewFrame": {
+           "bgColor": "4f5a62",
+           "hasP3": false,
+           "height": 3840,
+           "textColor1": "e6f3f8",
+           "textColor2": "c1e5f8",
+           "textColor3": "c8d4da",
+           "textColor4": "aac9da",
+           "url": "https://is1-ssl.mzstatic.com/image/thumb/Video125/v4/90/e9/ee/90e9eee2-1a89-afe5-07af-00bb7f9e8c65/Jobbb1a603a-6961-49ab-9cc4-db6aecac35ba-112368744-PreviewImage_preview_image_nonvideo_sdr-Time1619642546149.png/{w}x{h}bb.jpg",
+           "width": 3840
+          },
+          "video": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic116/v4/50/d3/8e/50d38ee5-1919-1c48-1543-d1f85194408f/P359423748_default.m3u8"
+         },
+         "motionTallVideo3x4": {
+          "previewFrame": {
+           "bgColor": "47535a",
+           "hasP3": false,
+           "height": 2732,
+           "textColor1": "e4f3f8",
+           "textColor2": "d6e9f6",
+           "textColor3": "c5d3d8",
+           "textColor4": "bacbd6",
+           "url": "https://is1-ssl.mzstatic.com/image/thumb/Video125/v4/57/65/34/57653444-fb9e-9c69-a4fb-21927780767f/Job318acfd4-edf3-4cf2-bebf-cbf7670210a1-112368743-PreviewImage_preview_image_nonvideo_sdr-Time1619642497317.png/{w}x{h}bb.jpg",
+           "width": 2048
+          },
+          "video": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic116/v4/74/d9/57/74d95708-a0f9-6254-2bb0-c231d03e9bc7/P359424003_default.m3u8"
+         }
+        },
+        "genreNames": [
+         "Hip-Hop/Rap",
+         "Music"
+        ],
+        "isCompilation": false,
+        "isComplete": true,
+        "isMasteredForItunes": true,
+        "isPrerelease": false,
+        "isSingle": false,
+        "name": "Views",
+        "plainEditorialNotes": {
+         "short": "“Views already a classic.” He knew before he even delivered it.",
+         "standard": "On the cover of his fourth studio album Views, Drake looks down from atop Toronto’s CN Tower, paying homage to the city’s notoriously frigid winter temperatures in a heavyweight shearling coat and high-cut boots. He looks less like the superhero he’d made himself into over the course of a roughly six-year rise as singer-songwriter extraordinaire and more like a troubled monarch. Views, which followed two wildly successful projects in 2015 that he’d branded as mixtapes—If You’re Reading This It’s Too Late and the Future collab What a Time to Be Alive—would confirm him as both, his penchant for immaculate songwriting still fully intact and the pressures of existing as the most popular voice in rap, as well as his hometown’s most successful export, weighing heavy on his mind.\n\n“I made a decision last night that I would die for it,” Drake raps on “9.” “Just to show the city what it takes to be alive for it.” Drake’s presence eclipsed Toronto just about as soon as So Far Gone dropped, but the city—and what it thinks of him—was never far from his mind. There are references here to specific people (“Redemption”), places (“Weston Road Flows”), and experiences (“Views”), along with nods to the influence of the city’s Caribbean population on “With You,” “Controlla,” and “Too Good” (which just happens to feature Rihanna).\n\nHe isn’t too much for the world, though, ruminating on his position as one of music’s biggest names—and those who’d rather he wasn’t—on songs like “Still Here,” “Hype,” and “Grammys.” Maybe the the most affecting acknowledgment to this end is the fact that “Hotline Bling,” a strong contender for 2015 song of the summer, was such an afterthought by the time Views was released that it appears here as a bonus track. For all intents and purposes, the Drake of Views is the same one we got on If You’re Reading This and What a Time, but if his previous proper album (Nothing Was the Same) foretold anything, it’s that the man peering down from CN Tower sees things differently than the rest of us."
+        },
+        "playParams": {
+         "id": "1440841363",
+         "kind": "album"
+        },
+        "recordLabel": "Cash Money Records/Young Money Ent./Universal Rec.",
+        "releaseDate": "2016-04-29",
+        "trackCount": 20,
+        "upc": "00602547943491",
+        "url": "https://music.apple.com/us/album/views/1440841363"
+       }
+      },
+      {
+       "id": "1440839718",
+       "type": "albums",
+       "href": "/v1/catalog/us/albums/1440839718?l=en-US",
+       "attributes": {
+        "artistName": "Drake",
+        "artwork": {
+         "bgColor": "ffffff",
+         "hasP3": false,
+         "height": 1500,
+         "textColor1": "0c0c0c",
+         "textColor2": "101010",
+         "textColor3": "3c3c3c",
+         "textColor4": "3f4040",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/27/9a/8c/279a8c66-9914-add2-9c7f-912f2946fb8a/15UMGIM08570.rgb.jpg/{w}x{h}bb.jpg",
+         "width": 1500
+        },
+        "audioTraits": [
+         "lossless",
+         "lossy-stereo"
+        ],
+        "contentRating": "explicit",
+        "copyright": "℗ 2015 Cash Money Records Inc.",
+        "editorialArtwork": {
+         "originalFlowcaseBrick": {
+          "bgColor": "ffffff",
+          "hasP3": false,
+          "height": 600,
+          "textColor1": "101010",
+          "textColor2": "101010",
+          "textColor3": "404040",
+          "textColor4": "404040",
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Features1/v4/a9/20/a4/a920a419-be8e-cc6c-2336-cbbbfdcaa66f/pr_source.png/{w}x{h}bb.jpg",
+          "width": 1778
+         },
+         "storeFlowcase": {
+          "bgColor": "ffffff",
+          "hasP3": false,
+          "height": 1080,
+          "textColor1": "0c0c0c",
+          "textColor2": "191919",
+          "textColor3": "3d3d3d",
+          "textColor4": "474747",
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Features69/v4/79/ed/7b/79ed7b15-640e-561c-6dad-79a8d48211d6/mza_5155423963196579006.png/{w}x{h}bb.jpg",
+          "width": 4320
+         },
+         "subscriptionHero": {
+          "bgColor": "373633",
+          "hasP3": true,
+          "height": 1080,
+          "textColor1": "d7cec7",
+          "textColor2": "ccc3bc",
+          "textColor3": "b7afaa",
+          "textColor4": "aea7a0",
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/ba/9d/68/ba9d688d-1ca3-2d59-3e67-4dd904852264/e9d42c99-7a83-4847-94f4-d83631005eec.png/{w}x{h}sr.jpg",
+          "width": 4320
+         },
+         "superHeroTall": {
+          "bgColor": "ffffff",
+          "gradient": {},
+          "hasP3": false,
+          "height": 2240,
+          "textColor1": "0c0c0c",
+          "textColor2": "101010",
+          "textColor3": "3c3c3c",
+          "textColor4": "3f4040",
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/27/9a/8c/279a8c66-9914-add2-9c7f-912f2946fb8a/15UMGIM08570.rgb.jpg/{w}x{h}SHT.AMTPPS01.jpg?l=en-US",
+          "width": 1680
+         }
+        },
+        "genreNames": [
+         "Hip-Hop/Rap",
+         "Music",
+         "Rap"
+        ],
+        "isCompilation": false,
+        "isComplete": true,
+        "isMasteredForItunes": true,
+        "isPrerelease": false,
+        "isSingle": false,
+        "name": "If You're Reading This It's Too Late",
+        "plainEditorialNotes": {
+         "short": "Drizzy impresses with a release that's both contemplative and confrontational. ",
+         "standard": "Drake surprised everyone at the beginning of 2015 when he dropped If You’re Reading This It’s Too Late, an impressive 17-track release that combines the contemplative and confrontational with plenty of cavernous production from longtime collaborator Noah “40” Shebib. While Drizzy joins mentor Lil Wayne in questioning the loyalty of old friends on the woozy, Wondagurl-produced “Used To,” “Energy” is the cold-blooded highlight—on which he snarls, “I got enemies.” Later, amid the electrifying barbs of “6PM in New York,” Drake considers his own mortality and legacy: “28 at midnight. I wonder what’s next for me.” "
+        },
+        "playParams": {
+         "id": "1440839718",
+         "kind": "album"
+        },
+        "recordLabel": "Cash Money Records/Young Money Ent./Universal Rec.",
+        "releaseDate": "2015-02-12",
+        "trackCount": 17,
+        "upc": "00602547261892",
+        "url": "https://music.apple.com/us/album/if-youre-reading-this-its-too-late/1440839718"
+       }
+      },
+      {
+       "id": "1440829462",
+       "type": "albums",
+       "href": "/v1/catalog/us/albums/1440829462?l=en-US",
+       "attributes": {
+        "artistName": "Drake",
+        "artwork": {
+         "bgColor": "005a95",
+         "hasP3": false,
+         "height": 1500,
+         "textColor1": "acdcfc",
+         "textColor2": "90d1fc",
+         "textColor3": "8ac2e8",
+         "textColor4": "73b9e8",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/51/61/f3/5161f3c4-2292-f035-eb68-6f95bbc9edd6/00602537542338.rgb.jpg/{w}x{h}bb.jpg",
+         "width": 1500
+        },
+        "audioTraits": [
+         "lossless",
+         "lossy-stereo"
+        ],
+        "contentRating": "explicit",
+        "copyright": "℗ 2013 Cash Money Records Inc.",
+        "editorialArtwork": {
+         "originalFlowcaseBrick": {
+          "bgColor": "000000",
+          "hasP3": false,
+          "height": 600,
+          "textColor1": "f0e1cd",
+          "textColor2": "d6d4d4",
+          "textColor3": "c0b4a4",
+          "textColor4": "aba9a9",
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Features6/v4/73/01/c8/7301c867-0269-4814-0f96-ace78ca1bd42/mza_1374939832832755862.png/{w}x{h}bb.jpg",
+          "width": 1778
+         },
+         "subscriptionHero": {
+          "bgColor": "070707",
+          "hasP3": false,
+          "height": 1080,
+          "textColor1": "eee8e2",
+          "textColor2": "cbc7c4",
+          "textColor3": "b5b1ad",
+          "textColor4": "9c9896",
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Features122/v4/40/6f/00/406f00d6-15f9-6c64-1478-7779ec70b094/5ca41d94-ae24-4166-860c-1da1937e8aae.png/{w}x{h}sr.jpg",
+          "width": 4320
+         },
+         "superHeroTall": {
+          "bgColor": "005a95",
+          "gradient": {},
+          "hasP3": false,
+          "height": 2240,
+          "textColor1": "acdcfc",
+          "textColor2": "90d1fc",
+          "textColor3": "8ac2e8",
+          "textColor4": "73b9e8",
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/51/61/f3/5161f3c4-2292-f035-eb68-6f95bbc9edd6/00602537542338.rgb.jpg/{w}x{h}SHT.AMTPPS01.jpg?l=en-US",
+          "width": 1680
+         }
+        },
+        "genreNames": [
+         "Hip-Hop/Rap",
+         "Music",
+         "R&B/Soul"
+        ],
+        "isCompilation": false,
+        "isComplete": true,
+        "isMasteredForItunes": true,
+        "isPrerelease": false,
+        "isSingle": false,
+        "name": "Nothing Was the Same (Deluxe)",
+        "plainEditorialNotes": {
+         "short": "A singular fusion of sensuality, revelry, and tantalizing darkness.",
+         "standard": "Nothing Was the Same intensified Drake's sensitivity even as it deepened the ominous undercurrent in his music. These are songs about success and celebration, but more importantly, they address the inescapable fear and danger inherent in any conquest. Working primarily with his longtime collaborator Noah “40” Shebib and a host of invited sonic masterminds, Drake makes songs that say as much through atmosphere as they do with lyrics. Rather than adhere to the conventions of beats and rhymes, his tracks embrace the slippery tension between singing and rapping, between tight rhythms and free-floating passages, between choruses and stream-of-consciousness confessions. Nothing Was the Same is a remarkably unified piece of work, with each song partaking in a singular fusion of sensuality, revelry, and tantalizing darkness."
+        },
+        "playParams": {
+         "id": "1440829462",
+         "kind": "album"
+        },
+        "recordLabel": "Aspire Music Group, LLC",
+        "releaseDate": "2013-09-24",
+        "trackCount": 15,
+        "upc": "00602537542338",
+        "url": "https://music.apple.com/us/album/nothing-was-the-same-deluxe/1440829462"
+       }
+      }
+     ]
+    },
+    "featured-playlists": {
+     "href": "/v1/catalog/us/artists/271256/view/featured-playlists?l=en-US",
+     "next": "/v1/catalog/us/artists/271256/view/featured-playlists?l=en-US&offset=10",
+     "attributes": {
+      "title": "Artist Playlists"
+     },
+     "data": [
+      {
+       "id": "pl.b8afd0ec852542f785a5f7a4a9a80d6a",
+       "type": "playlists",
+       "href": "/v1/catalog/us/playlists/pl.b8afd0ec852542f785a5f7a4a9a80d6a?l=en-US",
+       "attributes": {
+        "artwork": {
+         "bgColor": "fafafa",
+         "hasP3": false,
+         "height": 1080,
+         "textColor1": "040404",
+         "textColor2": "161616",
+         "textColor3": "353535",
+         "textColor4": "444444",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages112/v4/1b/71/65/1b716513-b0c1-9c6b-45aa-cbb9198248cc/01607cf1-1d52-43d2-84ce-d6fc1f4a3475_ami-identity-7665599cc626d803af7956b3691905e7-2022-11-30T21-07-19.526Z_cropped.png/{w}x{h}SC.FPESS04.jpg?l=en-US",
+         "width": 1080
+        },
+        "audioTraits": [],
+        "curatorName": "Apple Music Hip-Hop",
+        "description": {
+         "short": "The era-defining rapper isn’t done showing us what he can do.",
+         "standard": "Drake officially became the voice of a generation with 2011’s sumptuous <i>Take Care</i>, a career-defining magnum opus that earned a prized slot in Apple Music’s 100 Best Albums list. Was he an R&B singer who rapped or a rapper who sang? Was he really that sad, or just exploiting a cultural preference for male vulnerability? Adding to the slipperiness of it all, any given Drake project might incorporate dreamy house and club music into his comfort zone of rap, pop, and R&B with equal conviction. Even after cementing his prowess as an MC many times over, Drake still retains the capacity to surprise. His 2015 earworm “Hotline Bling” radiated universal cool without breaking a sweat, while 2024’s “Push Ups” arrived during his fleeting beef with Kendrick Lamar yet applies lasting heat to its minimalistic prowl. Drake is now such a part of the firmament that his slightest move can trigger aftershocks far beyond his immediate reach."
+        },
+        "editorialArtwork": {
+         "storeFlowcase": {
+          "bgColor": "e4e4e4",
+          "gradient": {},
+          "hasP3": false,
+          "height": 1080,
+          "textColor1": "000206",
+          "textColor2": "151a1d",
+          "textColor3": "2e2f33",
+          "textColor4": "3e4344",
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/61/75/1e/61751eab-1b12-2928-3d6b-a23c6d4448db/mza_8931369584710252108.png/{w}x{h}bb.jpg",
+          "width": 4320
+         },
+         "subscriptionCover": {
+          "bgColor": "fafafa",
+          "hasP3": false,
+          "height": 1080,
+          "textColor1": "040404",
+          "textColor2": "161616",
+          "textColor3": "353535",
+          "textColor4": "444444",
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages112/v4/1b/71/65/1b716513-b0c1-9c6b-45aa-cbb9198248cc/01607cf1-1d52-43d2-84ce-d6fc1f4a3475_ami-identity-7665599cc626d803af7956b3691905e7-2022-11-30T21-07-19.526Z_cropped.png/{w}x{h}SC.FPESS04.jpg?l=en-US",
+          "width": 1080
+         },
+         "subscriptionHero": {
+          "bgColor": "fafafa",
+          "hasP3": false,
+          "height": 1080,
+          "textColor1": "040404",
+          "textColor2": "161616",
+          "textColor3": "353535",
+          "textColor4": "444444",
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages112/v4/1b/71/65/1b716513-b0c1-9c6b-45aa-cbb9198248cc/01607cf1-1d52-43d2-84ce-d6fc1f4a3475_ami-identity-7665599cc626d803af7956b3691905e7-2022-11-30T21-07-19.526Z_cropped.png/{w}x{h}SH.FPESS04.jpg?l=en-US",
+          "width": 4320
+         }
+        },
+        "editorialPlaylistKind": "artist-franchise",
+        "editorialVideo": {
+         "motionDetailSquare": {
+          "previewFrame": {
+           "bgColor": "bdbdbd",
+           "hasP3": false,
+           "height": 3840,
+           "textColor1": "070707",
+           "textColor2": "121212",
+           "textColor3": "313131",
+           "textColor4": "3a3a3a",
+           "url": "https://is1-ssl.mzstatic.com/image/thumb/9coKFPoaFTnX9bJwf8B_kw/{w}x{h}bb.jpg",
+           "width": 3840
+          },
+          "video": "https://mvod.itunes.apple.com/itunes-assets/PurpleVideo221/v4/01/82/98/01829866-943d-847d-b4b5-57fa12b997d4/multi-variant-playlist_724b1c15bebf4a44947cb64d2c23fc01.m3u8"
+         },
+         "motionDetailTall": {
+          "previewFrame": {
+           "bgColor": "bdbdbd",
+           "hasP3": false,
+           "height": 2732,
+           "textColor1": "0b0b0b",
+           "textColor2": "2d2d2d",
+           "textColor3": "353535",
+           "textColor4": "4d4d4d",
+           "url": "https://is1-ssl.mzstatic.com/image/thumb/QVCSy7G25uxa9Vjaqn7bkA/{w}x{h}bb.jpg",
+           "width": 2048
+          },
+          "video": "https://mvod.itunes.apple.com/itunes-assets/PurpleVideo221/v4/c9/78/24/c97824a3-401c-a433-865f-3c7b1f09e57e/multi-variant-playlist_980d72b9a72f4be8bac6288602beef6f.m3u8"
+         },
+         "motionSquareVideo1x1": {
+          "previewFrame": {
+           "bgColor": "bdbdbd",
+           "hasP3": false,
+           "height": 3840,
+           "textColor1": "070707",
+           "textColor2": "121212",
+           "textColor3": "313131",
+           "textColor4": "3a3a3a",
+           "url": "https://is1-ssl.mzstatic.com/image/thumb/9coKFPoaFTnX9bJwf8B_kw/{w}x{h}bb.jpg",
+           "width": 3840
+          },
+          "video": "https://mvod.itunes.apple.com/itunes-assets/PurpleVideo221/v4/01/82/98/01829866-943d-847d-b4b5-57fa12b997d4/multi-variant-playlist_724b1c15bebf4a44947cb64d2c23fc01.m3u8"
+         },
+         "motionWideVideo21x9": {
+          "previewFrame": {
+           "bgColor": "bdbdbd",
+           "hasP3": false,
+           "height": 1646,
+           "textColor1": "000000",
+           "textColor2": "242424",
+           "textColor3": "292929",
+           "textColor4": "474747",
+           "url": "https://is1-ssl.mzstatic.com/image/thumb/_HNBixIrR8--LSOCe5nKaQ/{w}x{h}bb.jpg",
+           "width": 3840
+          },
+          "video": "https://mvod.itunes.apple.com/itunes-assets/PurpleVideo221/v4/72/db/3b/72db3b08-7eab-7549-1c18-008af7bbcfb3/multi-variant-playlist_1ef88d6d41c24578862102cf333451de.m3u8"
+         }
+        },
+        "hasCollaboration": false,
+        "isChart": false,
+        "lastModifiedDate": "2026-05-21T19:31:30Z",
+        "name": "Drake Essentials",
+        "plainEditorialNotes": {
+         "name": "Drake Essentials",
+         "short": "The era-defining rapper isn’t done showing us what he can do.",
+         "standard": "Drake officially became the voice of a generation with 2011’s sumptuous Take Care, a career-defining magnum opus that earned a prized slot in Apple Music’s 100 Best Albums list. Was he an R&B singer who rapped or a rapper who sang? Was he really that sad, or just exploiting a cultural preference for male vulnerability? Adding to the slipperiness of it all, any given Drake project might incorporate dreamy house and club music into his comfort zone of rap, pop, and R&B with equal conviction. Even after cementing his prowess as an MC many times over, Drake still retains the capacity to surprise. His 2015 earworm “Hotline Bling” radiated universal cool without breaking a sweat, while 2024’s “Push Ups” arrived during his fleeting beef with Kendrick Lamar yet applies lasting heat to its minimalistic prowl. Drake is now such a part of the firmament that his slightest move can trigger aftershocks far beyond his immediate reach."
+        },
+        "playParams": {
+         "id": "pl.b8afd0ec852542f785a5f7a4a9a80d6a",
+         "kind": "playlist",
+         "versionHash": "afc91b1ae56e34211054238d5479215d5a0d99393aa2132344c7037dc37b6705"
+        },
+        "playlistType": "editorial",
+        "supportsSing": false,
+        "url": "https://music.apple.com/us/playlist/drake-essentials/pl.b8afd0ec852542f785a5f7a4a9a80d6a"
+       }
+      },
+      {
+       "id": "pl.5a5265a6f2df4e0ab30de9490b5dca43",
+       "type": "playlists",
+       "href": "/v1/catalog/us/playlists/pl.5a5265a6f2df4e0ab30de9490b5dca43?l=en-US",
+       "attributes": {
+        "artwork": {
+         "bgColor": "b5b5b5",
+         "hasP3": false,
+         "height": 1080,
+         "textColor1": "000000",
+         "textColor2": "000000",
+         "textColor3": "352f31",
+         "textColor4": "3d3538",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/dd/90/7e/dd907e4f-1154-c103-59c5-5124b695d7b7/9510c506-4f06-453a-9de6-559410b3a3c0.png/{w}x{h}cc.jpg",
+         "width": 4320
+        },
+        "audioTraits": [],
+        "curatorName": "Apple Music Hip-Hop",
+        "description": {
+         "short": "The man who launched a thousand memes.",
+         "standard": "Drake's best videos reliably make for milestone moments in the pop-culture zeitgeist—striking, stunning, destined to become memes. Whether he's being bar mitzvahed (“HYFR”), channeling ‘80s Miami (“Hold On We're Going Home”), donning turtlenecks (“Hotline Bling”), or reuniting with his <i>Degrassi</i> castmates (\"I'm Upset\"), he's nothing if not of-the-moment."
+        },
+        "editorialArtwork": {
+         "subscriptionCover": {
+          "bgColor": "b5b5b5",
+          "hasP3": true,
+          "height": 1080,
+          "textColor1": "000000",
+          "textColor2": "000000",
+          "textColor3": "352f31",
+          "textColor4": "3d3538",
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/dd/90/7e/dd907e4f-1154-c103-59c5-5124b695d7b7/9510c506-4f06-453a-9de6-559410b3a3c0.png/{w}x{h}sr.jpg",
+          "width": 4320
+         },
+         "subscriptionHero": {
+          "bgColor": "b5b5b5",
+          "hasP3": true,
+          "height": 1080,
+          "textColor1": "070909",
+          "textColor2": "192322",
+          "textColor3": "2a2b2b",
+          "textColor4": "38403f",
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/6c/a6/ad/6ca6ad20-7587-3a78-beb5-dcf9948052c4/6bf48e2d-0066-4bb9-af31-28915852d2f1.png/{w}x{h}sr.jpg",
+          "width": 4320
+         },
+         "superHeroTall": {
+          "bgColor": "b5b5b5",
+          "gradient": {},
+          "hasP3": true,
+          "height": 2240,
+          "textColor1": "110608",
+          "textColor2": "261411",
+          "textColor3": "32292b",
+          "textColor4": "423431",
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/b3/4c/d0/b34cd08c-1634-d317-e25c-6c1026e001da/bd39fd03-09a5-44e2-a1ff-3498d2974f22.png/{w}x{h}sr.jpg",
+          "width": 1680
+         },
+         "superHeroWide": {
+          "bgColor": "b5b5b5",
+          "hasP3": true,
+          "height": 1800,
+          "textColor1": "0e0407",
+          "textColor2": "241410",
+          "textColor3": "2f272a",
+          "textColor4": "413431",
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/dd/85/dd/dd85ddd1-d88d-4a06-9875-5667c15f2196/6a700639-5cc1-4563-b021-c6863efe02d0.png/{w}x{h}sr.jpg",
+          "width": 4320
+         }
+        },
+        "hasCollaboration": false,
+        "isChart": false,
+        "lastModifiedDate": "2026-05-19T16:45:10Z",
+        "name": "Drake Video Essentials",
+        "plainEditorialNotes": {
+         "name": "Drake Video Essentials",
+         "short": "The man who launched a thousand memes.",
+         "standard": "Drake's best videos reliably make for milestone moments in the pop-culture zeitgeist—striking, stunning, destined to become memes. Whether he's being bar mitzvahed (“HYFR”), channeling ‘80s Miami (“Hold On We're Going Home”), donning turtlenecks (“Hotline Bling”), or reuniting with his Degrassi castmates (\"I'm Upset\"), he's nothing if not of-the-moment."
+        },
+        "playParams": {
+         "id": "pl.5a5265a6f2df4e0ab30de9490b5dca43",
+         "kind": "playlist",
+         "versionHash": "f9f228acc2e16f5c4e7f175d0cd1975c93c9fe50f62de75f1aa06a3c5005498d"
+        },
+        "playlistType": "editorial",
+        "supportsSing": false,
+        "url": "https://music.apple.com/us/playlist/drake-video-essentials/pl.5a5265a6f2df4e0ab30de9490b5dca43"
+       }
+      },
+      {
+       "id": "pl.e5bc0180234b40639b5fb6aeb3c6ff68",
+       "type": "playlists",
+       "href": "/v1/catalog/us/playlists/pl.e5bc0180234b40639b5fb6aeb3c6ff68?l=en-US",
+       "attributes": {
+        "artwork": {
+         "bgColor": "fafafa",
+         "hasP3": false,
+         "height": 1080,
+         "textColor1": "040404",
+         "textColor2": "161616",
+         "textColor3": "353535",
+         "textColor4": "444444",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages112/v4/1b/71/65/1b716513-b0c1-9c6b-45aa-cbb9198248cc/01607cf1-1d52-43d2-84ce-d6fc1f4a3475_ami-identity-7665599cc626d803af7956b3691905e7-2022-11-30T21-07-19.526Z_cropped.png/{w}x{h}SC.FPCHL02.jpg?l=en-US",
+         "width": 1080
+        },
+        "audioTraits": [],
+        "curatorName": "Apple Music Hip-Hop",
+        "editorialArtwork": {
+         "subscriptionCover": {
+          "bgColor": "fafafa",
+          "hasP3": false,
+          "height": 1080,
+          "textColor1": "040404",
+          "textColor2": "161616",
+          "textColor3": "353535",
+          "textColor4": "444444",
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages112/v4/1b/71/65/1b716513-b0c1-9c6b-45aa-cbb9198248cc/01607cf1-1d52-43d2-84ce-d6fc1f4a3475_ami-identity-7665599cc626d803af7956b3691905e7-2022-11-30T21-07-19.526Z_cropped.png/{w}x{h}SC.FPCHL02.jpg?l=en-US",
+          "width": 1080
+         },
+         "subscriptionHero": {
+          "bgColor": "fafafa",
+          "hasP3": false,
+          "height": 1080,
+          "textColor1": "040404",
+          "textColor2": "161616",
+          "textColor3": "353535",
+          "textColor4": "444444",
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages112/v4/1b/71/65/1b716513-b0c1-9c6b-45aa-cbb9198248cc/01607cf1-1d52-43d2-84ce-d6fc1f4a3475_ami-identity-7665599cc626d803af7956b3691905e7-2022-11-30T21-07-19.526Z_cropped.png/{w}x{h}SH.FPCHL02.jpg?l=en-US",
+          "width": 4320
+         }
+        },
+        "editorialPlaylistKind": "artist-franchise",
+        "editorialVideo": {
+         "motionDetailSquare": {
+          "previewFrame": {
+           "bgColor": "bdbdbd",
+           "hasP3": false,
+           "height": 3840,
+           "textColor1": "070707",
+           "textColor2": "111111",
+           "textColor3": "313131",
+           "textColor4": "3a3a3a",
+           "url": "https://is1-ssl.mzstatic.com/image/thumb/1CLZnFSqcyAzWiMPI55loQ/{w}x{h}bb.jpg",
+           "width": 3840
+          },
+          "video": "https://mvod.itunes.apple.com/itunes-assets/PurpleVideo211/v4/ea/5f/29/ea5f2912-f54f-51a4-2109-296e57354bb7/multi-variant-playlist_442cffc30ea74fedb6a425e6944b9e50.m3u8"
+         },
+         "motionDetailTall": {
+          "previewFrame": {
+           "bgColor": "bdbdbd",
+           "hasP3": false,
+           "height": 2732,
+           "textColor1": "0b0b0b",
+           "textColor2": "2d2d2d",
+           "textColor3": "353535",
+           "textColor4": "4d4d4d",
+           "url": "https://is1-ssl.mzstatic.com/image/thumb/uEk1Miz5k5eXaMHjvUI7oQ/{w}x{h}bb.jpg",
+           "width": 2048
+          },
+          "video": "https://mvod.itunes.apple.com/itunes-assets/PurpleVideo221/v4/74/d5/88/74d58832-efb7-bd48-9612-dcb55643c009/multi-variant-playlist_f338e17cb44143fba187fb392eab334f.m3u8"
+         },
+         "motionSquareVideo1x1": {
+          "previewFrame": {
+           "bgColor": "bdbdbd",
+           "hasP3": false,
+           "height": 3840,
+           "textColor1": "070707",
+           "textColor2": "111111",
+           "textColor3": "313131",
+           "textColor4": "3a3a3a",
+           "url": "https://is1-ssl.mzstatic.com/image/thumb/1CLZnFSqcyAzWiMPI55loQ/{w}x{h}bb.jpg",
+           "width": 3840
+          },
+          "video": "https://mvod.itunes.apple.com/itunes-assets/PurpleVideo211/v4/ea/5f/29/ea5f2912-f54f-51a4-2109-296e57354bb7/multi-variant-playlist_442cffc30ea74fedb6a425e6944b9e50.m3u8"
+         },
+         "motionWideVideo21x9": {
+          "previewFrame": {
+           "bgColor": "bdbdbd",
+           "hasP3": false,
+           "height": 1646,
+           "textColor1": "000000",
+           "textColor2": "242424",
+           "textColor3": "292929",
+           "textColor4": "474747",
+           "url": "https://is1-ssl.mzstatic.com/image/thumb/VHGM_Vhc_MTeJNeEQXI2Ew/{w}x{h}bb.jpg",
+           "width": 3840
+          },
+          "video": "https://mvod.itunes.apple.com/itunes-assets/PurpleVideo221/v4/1c/4c/10/1c4c103a-d631-e419-b9ad-0fd566999909/multi-variant-playlist_b53642b6f636432b9d6ce45393fb3473.m3u8"
+         }
+        },
+        "hasCollaboration": false,
+        "isChart": false,
+        "lastModifiedDate": "2023-01-31T23:08:56Z",
+        "name": "Drake: Chill",
+        "plainEditorialNotes": {
+         "name": "Drake: Chill",
+         "short": "Lean back and relax with some of the mellowest cuts."
+        },
+        "playParams": {
+         "id": "pl.e5bc0180234b40639b5fb6aeb3c6ff68",
+         "kind": "playlist",
+         "versionHash": "44f86ce259a804687f999513d392e730df1f6c9c8a1ad553d2fbb95f0e8912b7"
+        },
+        "playlistType": "editorial",
+        "supportsSing": false,
+        "url": "https://music.apple.com/us/playlist/drake-chill/pl.e5bc0180234b40639b5fb6aeb3c6ff68"
+       }
+      }
+     ]
+    },
+    "full-albums": {
+     "href": "/v1/catalog/us/artists/271256/view/full-albums?l=en-US",
+     "next": "/v1/catalog/us/artists/271256/view/full-albums?l=en-US&offset=10",
+     "attributes": {
+      "title": "Albums"
+     },
+     "data": [
+      {
+       "id": "6769551464",
+       "type": "albums",
+       "href": "/v1/catalog/us/albums/6769551464?l=en-US",
+       "attributes": {
+        "artistName": "Drake",
+        "artwork": {
+         "bgColor": "d2bfa7",
+         "hasP3": false,
+         "height": 4500,
+         "textColor1": "272120",
+         "textColor2": "322c2a",
+         "textColor3": "49413b",
+         "textColor4": "524943",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c4/3b/89/c43b8964-a24e-b396-bd65-e5b45cabe039/26UMGIM63616.rgb.jpg/{w}x{h}bb.jpg",
+         "width": 4500
+        },
+        "audioTraits": [
+         "lossless",
+         "lossy-stereo"
+        ],
+        "contentRating": "explicit",
+        "copyright": "℗ 2026 OVO, under exclusive license to Republic Records, a division of UMG Recordings, Inc.",
+        "editorialArtwork": {
+         "storeFlowcase": {
+          "bgColor": "cbbca5",
+          "hasP3": true,
+          "height": 1080,
+          "textColor1": "090808",
+          "textColor2": "090807",
+          "textColor3": "302c27",
+          "textColor4": "302c27",
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/23/16/66/231666d3-dc92-20cd-021c-f1116e678583/e6717380-b538-49a9-92d5-0cc75a9d6f87.png/{w}x{h}bb.jpg",
+          "width": 4320
+         },
+         "subscriptionHero": {
+          "bgColor": "010303",
+          "hasP3": true,
+          "height": 1080,
+          "textColor1": "f1eee5",
+          "textColor2": "f1d3a0",
+          "textColor3": "c1bfb8",
+          "textColor4": "c1aa80",
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/27/d4/cc/27d4ccca-61fd-b397-cdf6-3858e91af865/f4232aa0-de33-48e2-9695-4b0d5815f7bd.png/{w}x{h}sr.jpg",
+          "width": 4320
+         },
+         "superHeroTall": {
+          "bgColor": "d2bfa7",
+          "gradient": {},
+          "hasP3": false,
+          "height": 2240,
+          "textColor1": "272120",
+          "textColor2": "322c2a",
+          "textColor3": "49413b",
+          "textColor4": "524943",
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c4/3b/89/c43b8964-a24e-b396-bd65-e5b45cabe039/26UMGIM63616.rgb.jpg/{w}x{h}SHT.AMTPPS01.jpg?l=en-US",
+          "width": 1680
+         }
+        },
+        "genreNames": [
+         "R&B/Soul",
+         "Music"
+        ],
+        "isCompilation": false,
+        "isComplete": true,
+        "isMasteredForItunes": true,
+        "isPrerelease": false,
+        "isSingle": false,
+        "name": "HABIBTI",
+        "plainEditorialNotes": {
+         "short": "The hitmaker still has plenty of love in his heart.",
+         "standard": "& other nicknames I call my dear city",
+         "tagline": "New Album"
+        },
+        "playParams": {
+         "id": "6769551464",
+         "kind": "album"
+        },
+        "recordLabel": "OVO/Republic",
+        "releaseDate": "2026-05-15",
+        "trackCount": 11,
+        "upc": "00600574207029",
+        "url": "https://music.apple.com/us/album/habibti/6769551464"
+       }
+      },
+      {
+       "id": "6769568449",
+       "type": "albums",
+       "href": "/v1/catalog/us/albums/6769568449?l=en-US",
+       "attributes": {
+        "artistName": "Drake",
+        "artwork": {
+         "bgColor": "000000",
+         "hasP3": false,
+         "height": 4500,
+         "textColor1": "e5dcdd",
+         "textColor2": "d0c2c2",
+         "textColor3": "b7b0b1",
+         "textColor4": "a69b9b",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/b9/06/35b90629-a873-14f8-4789-ffc324960038/26UMGIM63614.rgb.jpg/{w}x{h}bb.jpg",
+         "width": 4500
+        },
+        "audioTraits": [
+         "lossless",
+         "lossy-stereo"
+        ],
+        "contentRating": "explicit",
+        "copyright": "℗ 2026 OVO, under exclusive license to Republic Records, a division of UMG Recordings, Inc.",
+        "editorialArtwork": {
+         "storeFlowcase": {
+          "bgColor": "000000",
+          "hasP3": true,
+          "height": 1080,
+          "textColor1": "f2f2f2",
+          "textColor2": "c2c2c2",
+          "textColor3": "c2c2c2",
+          "textColor4": "9b9b9b",
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/c3/86/9a/c3869af0-2ff7-ded3-50e6-fd3b575d82cd/59bb9275-5e6c-4ead-8f25-226b436c3e1d.png/{w}x{h}bb.jpg",
+          "width": 4320
+         },
+         "subscriptionHero": {
+          "bgColor": "0c0600",
+          "hasP3": true,
+          "height": 1080,
+          "textColor1": "ccf1f1",
+          "textColor2": "aee1e6",
+          "textColor3": "a5c2c1",
+          "textColor4": "8eb5b8",
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/23/bb/bb/23bbbbf1-0c52-addf-a3e3-f8974bd6838a/453b74f0-04f8-4952-bc7b-3cc93fc4f0de.png/{w}x{h}sr.jpg",
+          "width": 4320
+         },
+         "superHeroTall": {
+          "bgColor": "000000",
+          "gradient": {},
+          "hasP3": false,
+          "height": 2240,
+          "textColor1": "e5dcdd",
+          "textColor2": "d0c2c2",
+          "textColor3": "b7b0b1",
+          "textColor4": "a69b9b",
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/b9/06/35b90629-a873-14f8-4789-ffc324960038/26UMGIM63614.rgb.jpg/{w}x{h}SHT.AMTPPS01.jpg?l=en-US",
+          "width": 1680
+         }
+        },
+        "genreNames": [
+         "Hip-Hop/Rap",
+         "Music"
+        ],
+        "isCompilation": false,
+        "isComplete": true,
+        "isMasteredForItunes": true,
+        "isPrerelease": false,
+        "isSingle": false,
+        "name": "ICEMAN",
+        "plainEditorialNotes": {
+         "short": "The multifaceted MC breaks the ice.",
+         "standard": "above you, below zero.",
+         "tagline": "New Album"
+        },
+        "playParams": {
+         "id": "6769568449",
+         "kind": "album"
+        },
+        "recordLabel": "OVO/Republic",
+        "releaseDate": "2026-05-15",
+        "trackCount": 18,
+        "upc": "00600574206930",
+        "url": "https://music.apple.com/us/album/iceman/6769568449"
+       }
+      },
+      {
+       "id": "6769556940",
+       "type": "albums",
+       "href": "/v1/catalog/us/albums/6769556940?l=en-US",
+       "attributes": {
+        "artistName": "Drake",
+        "artwork": {
+         "bgColor": "a39291",
+         "hasP3": false,
+         "height": 4500,
+         "textColor1": "050404",
+         "textColor2": "080606",
+         "textColor3": "242020",
+         "textColor4": "272222",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/25/c0/e6/25c0e60b-5e99-58b2-6a52-821602141cce/26UMGIM63615.rgb.jpg/{w}x{h}bb.jpg",
+         "width": 4500
+        },
+        "audioTraits": [
+         "lossless",
+         "lossy-stereo"
+        ],
+        "contentRating": "explicit",
+        "copyright": "℗ 2026 OVO, under exclusive license to Republic Records, a division of UMG Recordings, Inc.",
+        "editorialArtwork": {
+         "storeFlowcase": {
+          "bgColor": "d9d9d9",
+          "hasP3": true,
+          "height": 1080,
+          "textColor1": "0f0f0f",
+          "textColor2": "1f1f1f",
+          "textColor3": "383838",
+          "textColor4": "444444",
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/48/8f/80/488f8084-d741-921c-7293-e57dd6a8f4b3/57fb8648-2c1a-40e1-9373-d6245d089a3f.png/{w}x{h}bb.jpg",
+          "width": 4320
+         },
+         "subscriptionHero": {
+          "bgColor": "d9d9d9",
+          "hasP3": true,
+          "height": 1080,
+          "textColor1": "020202",
+          "textColor2": "191919",
+          "textColor3": "2d2d2d",
+          "textColor4": "3f3f3f",
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/84/51/99/845199fd-014b-33f6-5068-178bb034a32d/5b387eaf-0ce3-4d30-a6d7-854bf72f0bb2.png/{w}x{h}sr.jpg",
+          "width": 4320
+         },
+         "superHeroTall": {
+          "bgColor": "a39291",
+          "gradient": {},
+          "hasP3": false,
+          "height": 2240,
+          "textColor1": "050404",
+          "textColor2": "080606",
+          "textColor3": "242020",
+          "textColor4": "272222",
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/25/c0/e6/25c0e60b-5e99-58b2-6a52-821602141cce/26UMGIM63615.rgb.jpg/{w}x{h}SHT.AMTPPS01.jpg?l=en-US",
+          "width": 1680
+         }
+        },
+        "genreNames": [
+         "Hip-Hop/Rap",
+         "Music"
+        ],
+        "isCompilation": false,
+        "isComplete": true,
+        "isMasteredForItunes": true,
+        "isPrerelease": false,
+        "isSingle": false,
+        "name": "MAID OF HONOUR",
+        "plainEditorialNotes": {
+         "short": "Nearly two decades in, a superstar finds new pockets and tempos to conquer.",
+         "standard": "Texted you that we’ll be great for each other one day\nYou replied “does that come before or after Monday?”\nCause you got plans with what’s his face\n& you’d rather not let a good outfit go to waste",
+         "tagline": "New Album"
+        },
+        "playParams": {
+         "id": "6769556940",
+         "kind": "album"
+        },
+        "recordLabel": "OVO/Republic",
+        "releaseDate": "2026-05-15",
+        "trackCount": 14,
+        "upc": "00600574207074",
+        "url": "https://music.apple.com/us/album/maid-of-honour/6769556940"
+       }
+      }
+     ]
+    },
+    "latest-release": {
+     "href": "/v1/catalog/us/artists/271256/view/latest-release?l=en-US",
+     "attributes": {
+      "title": "Latest Release"
+     },
+     "data": [
+      {
+       "id": "6769551464",
+       "type": "albums",
+       "href": "/v1/catalog/us/albums/6769551464?l=en-US",
+       "attributes": {
+        "artistName": "Drake",
+        "artwork": {
+         "bgColor": "d2bfa7",
+         "hasP3": false,
+         "height": 4500,
+         "textColor1": "272120",
+         "textColor2": "322c2a",
+         "textColor3": "49413b",
+         "textColor4": "524943",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c4/3b/89/c43b8964-a24e-b396-bd65-e5b45cabe039/26UMGIM63616.rgb.jpg/{w}x{h}bb.jpg",
+         "width": 4500
+        },
+        "audioTraits": [
+         "lossless",
+         "lossy-stereo"
+        ],
+        "contentRating": "explicit",
+        "copyright": "℗ 2026 OVO, under exclusive license to Republic Records, a division of UMG Recordings, Inc.",
+        "editorialArtwork": {
+         "storeFlowcase": {
+          "bgColor": "cbbca5",
+          "hasP3": true,
+          "height": 1080,
+          "textColor1": "090808",
+          "textColor2": "090807",
+          "textColor3": "302c27",
+          "textColor4": "302c27",
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/23/16/66/231666d3-dc92-20cd-021c-f1116e678583/e6717380-b538-49a9-92d5-0cc75a9d6f87.png/{w}x{h}bb.jpg",
+          "width": 4320
+         },
+         "subscriptionHero": {
+          "bgColor": "010303",
+          "hasP3": true,
+          "height": 1080,
+          "textColor1": "f1eee5",
+          "textColor2": "f1d3a0",
+          "textColor3": "c1bfb8",
+          "textColor4": "c1aa80",
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/27/d4/cc/27d4ccca-61fd-b397-cdf6-3858e91af865/f4232aa0-de33-48e2-9695-4b0d5815f7bd.png/{w}x{h}sr.jpg",
+          "width": 4320
+         },
+         "superHeroTall": {
+          "bgColor": "d2bfa7",
+          "gradient": {},
+          "hasP3": false,
+          "height": 2240,
+          "textColor1": "272120",
+          "textColor2": "322c2a",
+          "textColor3": "49413b",
+          "textColor4": "524943",
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c4/3b/89/c43b8964-a24e-b396-bd65-e5b45cabe039/26UMGIM63616.rgb.jpg/{w}x{h}SHT.AMTPPS01.jpg?l=en-US",
+          "width": 1680
+         }
+        },
+        "genreNames": [
+         "R&B/Soul",
+         "Music"
+        ],
+        "isCompilation": false,
+        "isComplete": true,
+        "isMasteredForItunes": true,
+        "isPrerelease": false,
+        "isSingle": false,
+        "name": "HABIBTI",
+        "plainEditorialNotes": {
+         "short": "The hitmaker still has plenty of love in his heart.",
+         "standard": "& other nicknames I call my dear city",
+         "tagline": "New Album"
+        },
+        "playParams": {
+         "id": "6769551464",
+         "kind": "album"
+        },
+        "recordLabel": "OVO/Republic",
+        "releaseDate": "2026-05-15",
+        "trackCount": 11,
+        "upc": "00600574207029",
+        "url": "https://music.apple.com/us/album/habibti/6769551464"
+       }
+      }
+     ]
+    },
+    "live-albums": {
+     "href": "/v1/catalog/us/artists/271256/view/live-albums?l=en-US",
+     "attributes": {
+      "title": "Live Albums"
+     },
+     "data": []
+    },
+    "more-to-hear": {
+     "href": "/v1/catalog/us/artists/271256/view/more-to-hear?l=en-US",
+     "next": "/v1/catalog/us/artists/271256/view/more-to-hear?l=en-US&offset=15",
+     "attributes": {
+      "title": "More To Hear"
+     },
+     "data": [
+      {
+       "id": "ra.1896572448",
+       "type": "stations",
+       "href": "/v1/catalog/us/stations/ra.1896572448?l=en-US",
+       "attributes": {
+        "airTime": {
+         "end": "2026-05-15T07:00:00Z",
+         "start": "2026-05-15T07:00:00Z"
+        },
+        "artwork": {
+         "bgColor": "bbb7b5",
+         "hasP3": false,
+         "height": 1080,
+         "textColor1": "000000",
+         "textColor2": "111010",
+         "textColor3": "252323",
+         "textColor4": "2b2a2a",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/5f/46/4b/5f464b1a-3cde-057f-4a36-9226ef75e531/412e99b4-f958-4b31-9fa8-b6f4618afdf5.png/{w}x{h}sr.jpg",
+         "width": 4320
+        },
+        "contentRating": "explicit",
+        "durationInMillis": 357000,
+        "editorialArtwork": {
+         "subscriptionCover": {
+          "bgColor": "bbb7b5",
+          "hasP3": true,
+          "height": 1080,
+          "textColor1": "000000",
+          "textColor2": "111010",
+          "textColor3": "252323",
+          "textColor4": "2b2a2a",
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/5f/46/4b/5f464b1a-3cde-057f-4a36-9226ef75e531/412e99b4-f958-4b31-9fa8-b6f4618afdf5.png/{w}x{h}sr.jpg",
+          "width": 4320
+         },
+         "subscriptionHero": {
+          "bgColor": "c7c4c2",
+          "hasP3": true,
+          "height": 1080,
+          "textColor1": "000000",
+          "textColor2": "191818",
+          "textColor3": "272726",
+          "textColor4": "3b3a3a",
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/5f/82/94/5f829482-7f25-6d3a-8b10-55c91db6dfad/cfdb553e-526c-484a-8ce7-c739865dd2e2.png/{w}x{h}sr.jpg",
+          "width": 4320
+         },
+         "superHeroTall": {
+          "bgColor": "bbb7b5",
+          "gradient": {},
+          "hasP3": true,
+          "height": 2240,
+          "textColor1": "000000",
+          "textColor2": "111010",
+          "textColor3": "252323",
+          "textColor4": "2b2a2a",
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/5f/46/4b/5f464b1a-3cde-057f-4a36-9226ef75e531/412e99b4-f958-4b31-9fa8-b6f4618afdf5.png/{w}x{h}SHT.AMTPPS01.jpg?l=en-US",
+          "width": 1680
+         }
+        },
+        "isLive": false,
+        "kind": "streaming",
+        "mediaKind": "audio",
+        "name": "Drake: How We Got Here",
+        "plainEditorialNotes": {
+         "name": "Drake: How We Got Here",
+         "short": "Nadeska breaks down the buildup to his new album. ",
+         "standard": "How We Got Here"
+        },
+        "playParams": {
+         "format": "stream",
+         "hasDrm": true,
+         "id": "ra.1896572448",
+         "kind": "radioStation",
+         "mediaType": 0,
+         "stationHash": "CgkIBRoFoMytiAcQBA",
+         "streamingKind": 1
+        },
+        "radioUrl": "itsradio://music.apple.com/us/station/ra.1896572448",
+        "requiresSubscription": true,
+        "streamingRadioSubType": "Episode",
+        "supportedDrms": [
+         "fairplay",
+         "playready",
+         "widevine"
+        ],
+        "url": "https://music.apple.com/us/station/drake-how-we-got-here/ra.1896572448"
+       }
+      },
+      {
+       "id": "ra.1745193269",
+       "type": "stations",
+       "href": "/v1/catalog/us/stations/ra.1745193269?l=en-US",
+       "attributes": {
+        "airTime": {
+         "end": "2024-05-17T18:00:00Z",
+         "start": "2024-05-17T17:00:00Z"
+        },
+        "artwork": {
+         "bgColor": "87321f",
+         "hasP3": false,
+         "height": 1080,
+         "textColor1": "ffffff",
+         "textColor2": "b4e6d4",
+         "textColor3": "dbbfb6",
+         "textColor4": "abbdaa",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/2c/53/f8/2c53f8c3-b252-8376-f723-1e4b70276189/f1326231-fc7e-4215-9624-bd9083f8144d.png/{w}x{h}sr.jpg",
+         "width": 4320
+        },
+        "durationInMillis": 167000,
+        "editorialArtwork": {
+         "subscriptionCover": {
+          "bgColor": "87321f",
+          "hasP3": true,
+          "height": 1080,
+          "textColor1": "ffffff",
+          "textColor2": "b4e6d4",
+          "textColor3": "dbbfb6",
+          "textColor4": "abbdaa",
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/2c/53/f8/2c53f8c3-b252-8376-f723-1e4b70276189/f1326231-fc7e-4215-9624-bd9083f8144d.png/{w}x{h}sr.jpg",
+          "width": 4320
+         },
+         "superHeroTall": {
+          "bgColor": "87321f",
+          "gradient": {},
+          "hasP3": true,
+          "height": 2240,
+          "textColor1": "ffffff",
+          "textColor2": "b4e6d4",
+          "textColor3": "dbbfb6",
+          "textColor4": "abbdaa",
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/2c/53/f8/2c53f8c3-b252-8376-f723-1e4b70276189/f1326231-fc7e-4215-9624-bd9083f8144d.png/{w}x{h}SHT.AMTPPS01.jpg?l=en-US",
+          "width": 1680
+         }
+        },
+        "episodeNumber": "47",
+        "isLive": false,
+        "kind": "streaming",
+        "mediaKind": "audio",
+        "name": "No. 47: Drake’s Take Care",
+        "plainEditorialNotes": {
+         "name": "No. 47: Drake’s Take Care",
+         "short": "A decade-plus of rap and pop dominance takes off.",
+         "standard": "100 Best Albums Radio"
+        },
+        "playParams": {
+         "format": "stream",
+         "hasDrm": true,
+         "id": "ra.1745193269",
+         "kind": "radioStation",
+         "mediaType": 0,
+         "stationHash": "CgkIBRoFtZKWwAYQBA",
+         "streamingKind": 1
+        },
+        "radioUrl": "itsradio://music.apple.com/us/station/ra.1745193269",
+        "requiresSubscription": true,
+        "streamingRadioSubType": "Episode",
+        "supportedDrms": [
+         "fairplay",
+         "playready",
+         "widevine"
+        ],
+        "url": "https://music.apple.com/us/station/no-47-drakes-take-care/ra.1745193269"
+       }
+      },
+      {
+       "id": "ra.1647233066",
+       "type": "stations",
+       "href": "/v1/catalog/us/stations/ra.1647233066?l=en-US",
+       "attributes": {
+        "airTime": {
+         "end": "2022-10-24T08:00:00Z",
+         "start": "2022-10-24T08:00:00Z"
+        },
+        "artwork": {
+         "bgColor": "7b5fcc",
+         "hasP3": false,
+         "height": 1080,
+         "textColor1": "ffffff",
+         "textColor2": "070402",
+         "textColor3": "181421",
+         "textColor4": "191421",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Features116/v4/24/17/0b/24170bba-d295-2cad-c9f3-3e235f2fa007/a073d628-3e4d-495f-aa3f-09af9faa2026.png/{w}x{h}sr.jpg",
+         "width": 4320
+        },
+        "contentRating": "explicit",
+        "durationInMillis": 265000,
+        "editorialArtwork": {
+         "subscriptionCover": {
+          "bgColor": "7b5fcc",
+          "hasP3": true,
+          "height": 1080,
+          "textColor1": "ffffff",
+          "textColor2": "070402",
+          "textColor3": "181421",
+          "textColor4": "191421",
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Features116/v4/24/17/0b/24170bba-d295-2cad-c9f3-3e235f2fa007/a073d628-3e4d-495f-aa3f-09af9faa2026.png/{w}x{h}sr.jpg",
+          "width": 4320
+         },
+         "subscriptionHero": {
+          "bgColor": "8e78d6",
+          "hasP3": true,
+          "height": 1080,
+          "textColor1": "0e0c13",
+          "textColor2": "111014",
+          "textColor3": "27223a",
+          "textColor4": "2a253b",
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Features126/v4/ba/e0/ff/bae0ffde-4a61-6426-bca7-629651e4e9f6/6aaa85aa-3977-497b-a9ae-169a4511303f.png/{w}x{h}sr.jpg",
+          "width": 4320
+         },
+         "superHeroTall": {
+          "bgColor": "6450a7",
+          "hasP3": true,
+          "height": 2240,
+          "imageTraits": [
+           "hasTitle"
+          ],
+          "textColor1": "f8e4b4",
+          "textColor2": "c9b9fc",
+          "textColor3": "dac7b1",
+          "textColor4": "b5a4eb",
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Features116/v4/38/a6/ba/38a6badf-5e8f-2cd9-9d92-6314ca6e8ca5/2a366ffe-006a-4e76-8f7c-16df15ba86d6.png/{w}x{h}sr.jpg",
+          "width": 1680
+         },
+         "superHeroWide": {
+          "bgColor": "856fd2",
+          "hasP3": true,
+          "height": 1800,
+          "textColor1": "040200",
+          "textColor2": "040201",
+          "textColor3": "1e182a",
+          "textColor4": "1d182b",
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Features126/v4/e8/71/af/e871af40-13dc-bde6-0b48-bda6d33e2f8c/c45c6468-38fc-4c47-ade5-ecd886fa91d1.png/{w}x{h}sr.jpg",
+          "width": 4320
+         }
+        },
+        "editorialVideo": {
+         "motionSquareVideo1x1": {
+          "previewFrame": {
+           "bgColor": "684fac",
+           "hasP3": false,
+           "height": 3840,
+           "textColor1": "cbe874",
+           "textColor2": "ccbafd",
+           "textColor3": "b7ca7f",
+           "textColor4": "b8a5ec",
+           "url": "https://is1-ssl.mzstatic.com/image/thumb/Video126/v4/79/dd/56/79dd5684-3f83-77ff-4ca9-5d7b0496a00b/Job6ccf46ec-dec2-4c0a-9c9f-377b413d514f-156651745-PreviewImage_preview_image_nonvideo_sdr-Time1696444086651.png/{w}x{h}bb.jpg",
+           "width": 3840
+          },
+          "video": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic126/v4/6c/4c/84/6c4c84a0-2a62-2e8c-a83b-e8f30d81d0d0/P630290361_default.m3u8"
+         },
+         "motionTallVideo3x4": {
+          "previewFrame": {
+           "bgColor": "896ed8",
+           "hasP3": false,
+           "height": 2732,
+           "imageTraits": [
+            "hasTitle"
+           ],
+           "textColor1": "040101",
+           "textColor2": "040101",
+           "textColor3": "1f172c",
+           "textColor4": "1f172c",
+           "url": "https://is1-ssl.mzstatic.com/image/thumb/Video116/v4/10/58/86/1058866f-23b3-2b9b-06bf-0ecc88c2dd38/Job3ec77e0d-204b-4f0c-b609-f88f21d5e209-156651722-PreviewImage_preview_image_nonvideo_sdr-Time1696444043803.png/{w}x{h}bb.jpg",
+           "width": 2048
+          },
+          "video": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic116/v4/8f/6d/26/8f6d26ec-ff4f-78c1-801e-90b5b2270b9c/P630290809_default.m3u8"
+         },
+         "motionWideVideo21x9": {
+          "previewFrame": {
+           "bgColor": "896ed8",
+           "hasP3": false,
+           "height": 1646,
+           "textColor1": "040100",
+           "textColor2": "040302",
+           "textColor3": "1e172b",
+           "textColor4": "1e182d",
+           "url": "https://is1-ssl.mzstatic.com/image/thumb/Video126/v4/d0/3f/6b/d03f6b2a-2f2e-da38-dcc9-c6b534454fb4/Job59337645-d8ec-440e-8ebd-2d3a16cace50-156651634-PreviewImage_preview_image_nonvideo_sdr-Time1696444032211.png/{w}x{h}bb.jpg",
+           "width": 3840
+          },
+          "video": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic116/v4/4b/71/b4/4b71b473-ccc9-5ef2-c4df-d5df665cf938/P630291350_default.m3u8"
+         }
+        },
+        "isLive": false,
+        "kind": "streaming",
+        "mediaKind": "audio",
+        "name": "Oct. 24: Drake",
+        "plainEditorialNotes": {
+         "name": "Oct. 24: Drake",
+         "short": "How OVO lived up to everything Drake believed it would.",
+         "standard": "Apple Music Today"
+        },
+        "playParams": {
+         "format": "stream",
+         "hasDrm": true,
+         "id": "ra.1647233066",
+         "kind": "radioStation",
+         "mediaType": 0,
+         "stationHash": "CgkIBRoFqpC7kQYQBA",
+         "streamingKind": 1
+        },
+        "radioUrl": "itsradio://music.apple.com/us/station/ra.1647233066",
+        "requiresSubscription": true,
+        "streamingRadioSubType": "Episode",
+        "supportedDrms": [
+         "fairplay",
+         "playready",
+         "widevine"
+        ],
+        "url": "https://music.apple.com/us/station/oct-24-drake/ra.1647233066"
+       }
+      }
+     ]
+    },
+    "more-to-see": {
+     "href": "/v1/catalog/us/artists/271256/view/more-to-see?l=en-US",
+     "attributes": {
+      "title": "More To See"
+     },
+     "data": [
+      {
+       "id": "1511649315",
+       "type": "uploaded-videos",
+       "href": "/v1/catalog/us/uploaded-videos/1511649315?l=en-US",
+       "attributes": {
+        "artistName": "Drake",
+        "artwork": {
+         "bgColor": "1d0407",
+         "hasP3": false,
+         "height": 1080,
+         "textColor1": "ffffff",
+         "textColor2": "ff0a32",
+         "textColor3": "d1cccd",
+         "textColor4": "d1092a",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/FuseSocial113/v4/d9/de/1e/d9de1eec-0cbe-7cec-1b68-20d8c4bffba2/Jobf11896a7-f307-42ae-b9c1-44f676fab5a1-106402855-PreviewImage_preview_image_nonvideo_sdr-Time1588644528264.png/{w}x{h}bb.jpg",
+         "width": 1920
+        },
+        "assetTokens": {
+         "1080pHdVideo": "https://aodp-ssl.itunes.apple.com/itunes-assets/FuseSocial113/v4/ac/dd/1d/acdd1d79-cb75-a846-3abe-c5406ed44f87/mzvf_9555949599760863856.1920w.h264lc.U.f.m4v?accessKey=1792397004_883847122365547429_4ZhlA6RApEvYFQojSS7%2B0LoacOoRFqHnG04G1BGU5mXm0m99m9cjVVAezysZCH0oombkX3wcKvV1GBS2N0ST7u0HEnT7%2FXwoiqQj1CNLs11nUPma8aykVSHdhfgY%2Fv6itaMg7dcAPAahdwXfXaK2JqAD%2FhKoojsvynGugOBbX26Qrs%2FH1%2BGAidrqKY4hDZ8JxgAL6E1yNO2wqgWD%2FYMKWg%3D%3D",
+         "sd480pVideo": "https://aodp-ssl.itunes.apple.com/itunes-assets/FuseSocial113/v4/1f/1e/1a/1f1e1a0a-67ae-f285-b48b-72e56b05673a/mzvf_11015475616090512201.720w.h264lc.U.f.m4v?accessKey=1792397004_7562743030281596633_uZsPOlyK7gaGwwYdauokkYMpT8SbNqsqGK3tvIrvAOeQHNCwlfdc5lnA03G2Mnbn%2FfO%2FZdVwG9XLIq63Rf%2FukOVQXp1r0e6KogI0sZcWdT%2FuRw6SlQfzYOroLVecsjYyUD5CZDMBikm3HReB694Tybyy9mnSqaqVivBm%2F53pBWIhkXtWWJkU66YDgKjKKYf18CIcZoV5vVssWBhsV2trKw%3D%3D",
+         "sdVideo": "https://aodp-ssl.itunes.apple.com/itunes-assets/FuseSocial123/v4/0a/c8/86/0ac88670-0d52-5f2b-214b-9d61a7d60742/mzvf_14991344565074612845.640x480.h264lc.U.f.m4v?accessKey=1792397004_7007771158277090730_6HTUekiplN01TzVFQDhgTG2WnuMVPykXyFwItSu6%2FsMl1Z3FM4UNjWg6kWM8ZOzn5hblPstZv5nPKkQvkLQAR5wnnmlt6qMyqu3Ewxzg%2B1POCvTu7jR18FY7B%2BPzJSIcmHOO0k%2FvclXivqkitiGmmE8wNGPlp3L84FhUFP1CtIYEFkqvV6NBv3kXxYeXZsi%2FhyuI9C%2BgDplPpsxVE1jTuQ%3D%3D",
+         "sdVideoWithPlusAudio": "https://aodp-ssl.itunes.apple.com/itunes-assets/FuseSocial123/v4/43/94/96/439496b4-71cc-d4e0-21e0-a03838c4ee35/mzvf_5305075156383425863.640x480.h264lc.U.f.m4v?accessKey=1792397004_2111578556899658705_lJ74aJ3W52ot9W69WViJHwJ0KuCz1P5cbyj9HpD6usXt5NuQOIMfbWYraez%2FKtdzrp5AqBGGGwlhRhnPOREVPE%2BBMy17P1%2FiktGpaubUyOMN67TsOhmS%2BkH4W%2BMAL0%2BibT0uoLi0Jip1Jz5H8NppPkxJL4lsDxPClry3efPnKVSxS9D2kiK6%2BWq1BwEkBeBtAnbbEdW5olTwCiMly1ejYg%3D%3D"
+        },
+        "contentRatingsBySystem": {
+         "riaa": {
+          "name": "Explicit",
+          "rank": 2,
+          "value": 500
+         }
+        },
+        "durationInMilliseconds": 467560,
+        "editorialArtwork": {},
+        "editorialVideo": {},
+        "name": "Drake and Lil Wayne Connect on Young Money Radio",
+        "playParams": {
+         "id": "1511649315",
+         "kind": "uploadedVideo"
+        },
+        "postUrl": "https://music.apple.com/us/post/1511649315",
+        "uploadDate": "2020-05-04",
+        "uploadingArtistName": "Drake"
+       }
+      },
+      {
+       "id": "1238972240",
+       "type": "music-movies",
+       "href": "/v1/catalog/us/music-movies/1238972240?l=en-US",
+       "attributes": {
+        "artistName": "Drake",
+        "artwork": {
+         "bgColor": "151f1b",
+         "hasP3": false,
+         "height": 3000,
+         "textColor1": "ffffff",
+         "textColor2": "d1a569",
+         "textColor3": "d0d2d1",
+         "textColor4": "ab8a59",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Video117/v4/7b/0b/eb/7b0bebc4-c05a-d615-9f8c-1141323c89d6/USY2D1700049-WW.lsr/{w}x{h}bb.jpg",
+         "width": 2000
+        },
+        "contentRatingsBySystem": {
+         "mpaa": {
+          "name": "R",
+          "rank": 6,
+          "value": 400
+         }
+        },
+        "copyright": "© 2016 Dirty Hit under exclusive license to Interscope Records",
+        "description": {
+         "standard": "2016 Young Money Entertainment/Cash Money Records"
+        },
+        "editorialArtwork": {
+         "brandLogo": {
+          "bgColor": "131f1a",
+          "hasP3": false,
+          "height": 1080,
+          "textColor1": "d6dbd6",
+          "textColor2": "daaa6e",
+          "textColor3": "afb6b1",
+          "textColor4": "b28e5d",
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Features128/v4/b3/8c/4c/b38c4c87-fa60-26ca-8779-15d70a75c468/pr_source.png/{w}x{h}bb.jpg",
+          "width": 1080
+         },
+         "browseCover": {
+          "bgColor": "081715",
+          "hasP3": false,
+          "height": 2160,
+          "textColor1": "f4c382",
+          "textColor2": "d7aa68",
+          "textColor3": "c4a06c",
+          "textColor4": "ad8c57",
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Features127/v4/e9/61/68/e961689d-7a67-f40e-caa9-4366cc4adaba/pr_source.png/{w}x{h}bb.jpg",
+          "width": 4320
+         },
+         "contentLogo": {
+          "bgColor": "fbfbfb",
+          "hasP3": false,
+          "height": 390,
+          "textColor1": "0c0c0c",
+          "textColor2": "191919",
+          "textColor3": "3c3c3c",
+          "textColor4": "464646",
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Features127/v4/ea/3e/f4/ea3ef434-0960-fc60-e5ef-f08dadaed16a/pr_source.png/{w}x{h}bb.jpg",
+          "width": 2400
+         },
+         "fullscreenBackground": {
+          "bgColor": "071115",
+          "hasP3": false,
+          "height": 2160,
+          "textColor1": "efcd94",
+          "textColor2": "f4c58b",
+          "textColor3": "c1a77a",
+          "textColor4": "c4a173",
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Features117/v4/0e/61/4b/0e614b27-a2f6-59e0-42c6-b09b509cad9b/pr_source.png/{w}x{h}bb.jpg",
+          "width": 4320
+         },
+         "storeFlowcase": {
+          "bgColor": "091a17",
+          "hasP3": false,
+          "height": 1080,
+          "textColor1": "f5c578",
+          "textColor2": "cabeaf",
+          "textColor3": "c5a364",
+          "textColor4": "a39d91",
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Features117/v4/78/54/f0/7854f035-b0bb-c754-7ae4-6a752dde8da0/pr_source.png/{w}x{h}bb.jpg",
+          "width": 4320
+         },
+         "subscriptionCover": {
+          "bgColor": "091a17",
+          "hasP3": false,
+          "height": 1080,
+          "textColor1": "f4c475",
+          "textColor2": "d6a863",
+          "textColor3": "c5a262",
+          "textColor4": "ad8b53",
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Features127/v4/3c/d8/60/3cd86024-42ad-6376-9e14-ed16aee0b66c/pr_source.png/{w}x{h}sr.jpg",
+          "width": 4320
+         },
+         "subscriptionHero": {
+          "bgColor": "040d0b",
+          "hasP3": false,
+          "height": 1080,
+          "textColor1": "e8b770",
+          "textColor2": "d9b069",
+          "textColor3": "ba955c",
+          "textColor4": "ae8f56",
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Features127/v4/d4/96/a0/d496a0d9-e3db-d19a-b694-7f5172bcc5f9/pr_source.lsr/{w}x{h}sr.jpg",
+          "width": 4320
+         }
+        },
+        "genreNames": [
+         "Short Films"
+        ],
+        "movieClips": [
+         {
+          "durationInMilliseconds": 31368,
+          "hlsUrl": "https://play-edge.itunes.apple.com/WebObjects/MZPlayLocal.woa/hls/playlist.m3u8?cc=US&a=1238972240&id=67509193&aec=HD&l=en",
+          "previewArtwork": {
+           "bgColor": "181812",
+           "hasP3": false,
+           "height": 792,
+           "textColor1": "e4e7c1",
+           "textColor2": "d0dbb2",
+           "textColor3": "bbbe9e",
+           "textColor4": "abb492",
+           "url": "https://is1-ssl.mzstatic.com/image/thumb/Video123/v4/d6/34/77/d634770a-99c5-e829-d7bd-6db00e6a6e4c/Jobee5d2c49-b3cf-402d-a617-62d5cba24bdf-106779189-PreviewImage_preview_image_video_sdr-Time1593107840918.png/{w}x{h}bb.jpg",
+           "width": 1912
+          },
+          "title": "Trailer"
+         }
+        ],
+        "name": "Please Forgive Me",
+        "offers": [
+         {
+          "buyParams": "productType=V&price=0&salableAdamId=1238972240&pricingParameters=SUBS&pg=default",
+          "capabilities": [
+           "closedCaptioned",
+           "audioDescription",
+           "SDH"
+          ],
+          "durationInMilliseconds": 1288754,
+          "hlsUrl": "https://play-edge.itunes.apple.com/WebObjects/MZPlayLocal.woa/hls/playlist.m3u8?cc=US&a=1238972240&id=1360702496&aec=SD&l=en",
+          "kind": "subscription",
+          "variant": "SD"
+         }
+        ],
+        "plainEditorialNotes": {
+         "short": "The explosive visual companion to Views.",
+         "tagline": "Drake"
+        },
+        "releaseDate": "2017-01-01",
+        "studioName": "Apple Music",
+        "supportedLocales": {
+         "additional": [
+          {
+           "hasAudioDescription": false,
+           "hasClosedCaptioning": false,
+           "hasDolby": false,
+           "hasDolby71": false,
+           "hasDolbyAtmos": false,
+           "hasSDH": true,
+           "hasStereo": false,
+           "hasSubtitles": true,
+           "name": "Turkish",
+           "tag": "tr"
+          },
+          {
+           "hasAudioDescription": false,
+           "hasClosedCaptioning": false,
+           "hasDolby": false,
+           "hasDolby71": false,
+           "hasDolbyAtmos": false,
+           "hasSDH": false,
+           "hasStereo": false,
+           "hasSubtitles": true,
+           "name": "Dutch",
+           "tag": "nl"
+          },
+          {
+           "hasAudioDescription": false,
+           "hasClosedCaptioning": false,
+           "hasDolby": false,
+           "hasDolby71": false,
+           "hasDolbyAtmos": false,
+           "hasSDH": false,
+           "hasStereo": false,
+           "hasSubtitles": true,
+           "name": "Romanian",
+           "tag": "ro"
+          }
+         ],
+         "primary": {
+          "hasAudioDescription": true,
+          "hasClosedCaptioning": true,
+          "hasDolby": false,
+          "hasDolby71": false,
+          "hasDolbyAtmos": false,
+          "hasSDH": true,
+          "hasStereo": true,
+          "hasSubtitles": false,
+          "name": "English (United States)",
+          "tag": "en-US"
+         }
+        },
+        "url": "https://music.apple.com/us/music-movie/please-forgive-me/1238972240",
+        "videoTraits": []
+       }
+      }
+     ]
+    },
+    "music-videos": {
+     "href": "/v1/catalog/us/artists/271256/view/music-videos?l=en-US",
+     "next": "/v1/catalog/us/artists/271256/view/music-videos?l=en-US&offset=10",
+     "attributes": {
+      "title": "Music Videos"
+     },
+     "data": [
+      {
+       "id": "1896761455",
+       "type": "music-videos",
+       "href": "/v1/catalog/us/music-videos/1896761455?l=en-US",
+       "attributes": {
+        "artistName": "Drake",
+        "artwork": {
+         "bgColor": "859b93",
+         "hasP3": false,
+         "height": 2138,
+         "textColor1": "050402",
+         "textColor2": "040404",
+         "textColor3": "1f221f",
+         "textColor4": "1e2220",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/a7/e5/8a/a7e58acd-799f-cb2c-0972-d7408aa66ce6/26UMGIM64090.crop.jpg/{w}x{h}mv.jpg",
+         "width": 3802
+        },
+        "contentRating": "explicit",
+        "durationInMillis": 126400,
+        "editorialArtwork": {},
+        "genreNames": [
+         "Hip-Hop/Rap"
+        ],
+        "has4K": true,
+        "hasHDR": false,
+        "isrc": "USUMV2601357",
+        "name": "High Fives",
+        "playParams": {
+         "id": "1896761455",
+         "kind": "musicVideo"
+        },
+        "previews": [
+         {
+          "artwork": {
+           "bgColor": "99dcff",
+           "hasP3": false,
+           "height": 2160,
+           "textColor1": "00060d",
+           "textColor2": "01070e",
+           "textColor3": "1f3848",
+           "textColor4": "213a48",
+           "url": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/5c/a0/94/5ca09430-ed5a-5133-a46d-67fc42fa6758/Job9f8068ae-a5c0-4797-b9fc-5c697ab55311-228765020-PreviewImage_preview_image_45000_video_sdr-Time1779148237332.png/{w}x{h}bb.jpg",
+           "width": 3840
+          },
+          "hlsUrl": "https://play-edge.itunes.apple.com/WebObjects/MZPlayLocal.woa/hls/playlist.m3u8?cc=US&a=1896761455&id=1380068895&aec=HD&l=en",
+          "url": "https://video-ssl.itunes.apple.com/itunes-assets/Video221/v4/b9/db/89/b9db890c-802d-7525-8438-5c256fb1b114/mzvf_1883582807741095761.720w.h264lc.U.p.m4v"
+         }
+        ],
+        "releaseDate": "2026-05-18",
+        "url": "https://music.apple.com/us/music-video/high-fives/1896761455",
+        "videoTraits": [
+         "4K"
+        ]
+       }
+      },
+      {
+       "id": "1896704496",
+       "type": "music-videos",
+       "href": "/v1/catalog/us/music-videos/1896704496?l=en-US",
+       "attributes": {
+        "artistName": "Drake & 21 Savage",
+        "artwork": {
+         "bgColor": "303431",
+         "hasP3": false,
+         "height": 1598,
+         "textColor1": "cedae0",
+         "textColor2": "b7cad2",
+         "textColor3": "aeb9bd",
+         "textColor4": "9cacb2",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/06/3e/13/063e1303-9042-af04-323b-5031a4e398f1/26UMGIM64073.crop.jpg/{w}x{h}mv.jpg",
+         "width": 3832
+        },
+        "contentRating": "explicit",
+        "durationInMillis": 168640,
+        "editorialArtwork": {},
+        "genreNames": [
+         "Hip-Hop/Rap"
+        ],
+        "has4K": true,
+        "hasHDR": false,
+        "isrc": "USUMV2601352",
+        "name": "B’s On The Table",
+        "playParams": {
+         "id": "1896704496",
+         "kind": "musicVideo"
+        },
+        "previews": [
+         {
+          "artwork": {
+           "bgColor": "09090a",
+           "hasP3": false,
+           "height": 1604,
+           "textColor1": "e4ecf0",
+           "textColor2": "afc3d3",
+           "textColor3": "bdc5c8",
+           "textColor4": "92a2b0",
+           "url": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/53/de/80/53de80f2-365f-2118-6aaf-bc0860ed5f40/Jobde791040-0b79-457d-b32b-4b2188ac719e-228650654-PreviewImage_preview_image_45000_video_sdr-Time1779067425005.png/{w}x{h}bb.jpg",
+           "width": 3840
+          },
+          "hlsUrl": "https://play-edge.itunes.apple.com/WebObjects/MZPlayLocal.woa/hls/playlist.m3u8?cc=US&a=1896704496&id=1378649224&aec=HD&l=en",
+          "url": "https://video-ssl.itunes.apple.com/itunes-assets/Video211/v4/4e/da/bf/4edabf41-5734-e11c-1be8-7cc8ffe35c59/mzvf_12996215687121174038.720w.h264lc.U.p.m4v"
+         }
+        ],
+        "releaseDate": "2026-05-15",
+        "url": "https://music.apple.com/us/music-video/bs-on-the-table/1896704496",
+        "videoTraits": [
+         "4K"
+        ]
+       }
+      },
+      {
+       "id": "1896679294",
+       "type": "music-videos",
+       "href": "/v1/catalog/us/music-videos/1896679294?l=en-US",
+       "attributes": {
+        "artistName": "Drake",
+        "artwork": {
+         "bgColor": "100b10",
+         "hasP3": false,
+         "height": 2152,
+         "textColor1": "c6bf69",
+         "textColor2": "c7b352",
+         "textColor3": "a29b57",
+         "textColor4": "a29144",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/f9/6f/61/f96f61c4-eed7-7163-27fe-a2c4b7e0a3e1/26UMGIM64074.crop.jpg/{w}x{h}mv.jpg",
+         "width": 3832
+        },
+        "contentRating": "explicit",
+        "durationInMillis": 232064,
+        "editorialArtwork": {},
+        "genreNames": [
+         "Hip-Hop/Rap"
+        ],
+        "has4K": true,
+        "hasHDR": false,
+        "isrc": "USUMV2601353",
+        "name": "Burning Bridges",
+        "playParams": {
+         "id": "1896679294",
+         "kind": "musicVideo"
+        },
+        "previews": [
+         {
+          "artwork": {
+           "bgColor": "30332b",
+           "hasP3": false,
+           "height": 2160,
+           "textColor1": "e9f4da",
+           "textColor2": "def4e9",
+           "textColor3": "c7d1ba",
+           "textColor4": "bed1c7",
+           "url": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/b8/31/15/b8311591-6c23-6bb7-022e-2839ed385cf5/Job04f4045c-d0ff-4335-a8cd-3a29a1d94a37-228650281-PreviewImage_preview_image_45000_video_sdr-Time1779067317824.png/{w}x{h}bb.jpg",
+           "width": 3840
+          },
+          "hlsUrl": "https://play-edge.itunes.apple.com/WebObjects/MZPlayLocal.woa/hls/playlist.m3u8?cc=US&a=1896679294&id=1378656077&aec=HD&l=en",
+          "url": "https://video-ssl.itunes.apple.com/itunes-assets/Video211/v4/16/8b/e2/168be2be-30ab-c267-527e-27faf84e5e15/mzvf_8156866828406064263.720w.h264lc.U.p.m4v"
+         }
+        ],
+        "releaseDate": "2026-05-15",
+        "url": "https://music.apple.com/us/music-video/burning-bridges/1896679294",
+        "videoTraits": [
+         "4K"
+        ]
+       }
+      }
+     ]
+    },
+    "playlists": {
+     "href": "/v1/catalog/us/artists/271256/view/playlists?l=en-US",
+     "next": "/v1/catalog/us/artists/271256/view/playlists?l=en-US&offset=10",
+     "attributes": {
+      "title": "Artist Playlists"
+     },
+     "data": [
+      {
+       "id": "pl.b8afd0ec852542f785a5f7a4a9a80d6a",
+       "type": "playlists",
+       "href": "/v1/catalog/us/playlists/pl.b8afd0ec852542f785a5f7a4a9a80d6a?l=en-US",
+       "attributes": {
+        "artwork": {
+         "bgColor": "fafafa",
+         "hasP3": false,
+         "height": 1080,
+         "textColor1": "040404",
+         "textColor2": "161616",
+         "textColor3": "353535",
+         "textColor4": "444444",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages112/v4/1b/71/65/1b716513-b0c1-9c6b-45aa-cbb9198248cc/01607cf1-1d52-43d2-84ce-d6fc1f4a3475_ami-identity-7665599cc626d803af7956b3691905e7-2022-11-30T21-07-19.526Z_cropped.png/{w}x{h}SC.FPESS04.jpg?l=en-US",
+         "width": 1080
+        },
+        "audioTraits": [],
+        "curatorName": "Apple Music Hip-Hop",
+        "description": {
+         "short": "The era-defining rapper isn’t done showing us what he can do.",
+         "standard": "Drake officially became the voice of a generation with 2011’s sumptuous <i>Take Care</i>, a career-defining magnum opus that earned a prized slot in Apple Music’s 100 Best Albums list. Was he an R&B singer who rapped or a rapper who sang? Was he really that sad, or just exploiting a cultural preference for male vulnerability? Adding to the slipperiness of it all, any given Drake project might incorporate dreamy house and club music into his comfort zone of rap, pop, and R&B with equal conviction. Even after cementing his prowess as an MC many times over, Drake still retains the capacity to surprise. His 2015 earworm “Hotline Bling” radiated universal cool without breaking a sweat, while 2024’s “Push Ups” arrived during his fleeting beef with Kendrick Lamar yet applies lasting heat to its minimalistic prowl. Drake is now such a part of the firmament that his slightest move can trigger aftershocks far beyond his immediate reach."
+        },
+        "editorialArtwork": {
+         "storeFlowcase": {
+          "bgColor": "e4e4e4",
+          "gradient": {},
+          "hasP3": false,
+          "height": 1080,
+          "textColor1": "000206",
+          "textColor2": "151a1d",
+          "textColor3": "2e2f33",
+          "textColor4": "3e4344",
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/61/75/1e/61751eab-1b12-2928-3d6b-a23c6d4448db/mza_8931369584710252108.png/{w}x{h}bb.jpg",
+          "width": 4320
+         },
+         "subscriptionCover": {
+          "bgColor": "fafafa",
+          "hasP3": false,
+          "height": 1080,
+          "textColor1": "040404",
+          "textColor2": "161616",
+          "textColor3": "353535",
+          "textColor4": "444444",
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages112/v4/1b/71/65/1b716513-b0c1-9c6b-45aa-cbb9198248cc/01607cf1-1d52-43d2-84ce-d6fc1f4a3475_ami-identity-7665599cc626d803af7956b3691905e7-2022-11-30T21-07-19.526Z_cropped.png/{w}x{h}SC.FPESS04.jpg?l=en-US",
+          "width": 1080
+         },
+         "subscriptionHero": {
+          "bgColor": "fafafa",
+          "hasP3": false,
+          "height": 1080,
+          "textColor1": "040404",
+          "textColor2": "161616",
+          "textColor3": "353535",
+          "textColor4": "444444",
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages112/v4/1b/71/65/1b716513-b0c1-9c6b-45aa-cbb9198248cc/01607cf1-1d52-43d2-84ce-d6fc1f4a3475_ami-identity-7665599cc626d803af7956b3691905e7-2022-11-30T21-07-19.526Z_cropped.png/{w}x{h}SH.FPESS04.jpg?l=en-US",
+          "width": 4320
+         }
+        },
+        "editorialPlaylistKind": "artist-franchise",
+        "editorialVideo": {
+         "motionDetailSquare": {
+          "previewFrame": {
+           "bgColor": "bdbdbd",
+           "hasP3": false,
+           "height": 3840,
+           "textColor1": "070707",
+           "textColor2": "121212",
+           "textColor3": "313131",
+           "textColor4": "3a3a3a",
+           "url": "https://is1-ssl.mzstatic.com/image/thumb/9coKFPoaFTnX9bJwf8B_kw/{w}x{h}bb.jpg",
+           "width": 3840
+          },
+          "video": "https://mvod.itunes.apple.com/itunes-assets/PurpleVideo221/v4/01/82/98/01829866-943d-847d-b4b5-57fa12b997d4/multi-variant-playlist_724b1c15bebf4a44947cb64d2c23fc01.m3u8"
+         },
+         "motionDetailTall": {
+          "previewFrame": {
+           "bgColor": "bdbdbd",
+           "hasP3": false,
+           "height": 2732,
+           "textColor1": "0b0b0b",
+           "textColor2": "2d2d2d",
+           "textColor3": "353535",
+           "textColor4": "4d4d4d",
+           "url": "https://is1-ssl.mzstatic.com/image/thumb/QVCSy7G25uxa9Vjaqn7bkA/{w}x{h}bb.jpg",
+           "width": 2048
+          },
+          "video": "https://mvod.itunes.apple.com/itunes-assets/PurpleVideo221/v4/c9/78/24/c97824a3-401c-a433-865f-3c7b1f09e57e/multi-variant-playlist_980d72b9a72f4be8bac6288602beef6f.m3u8"
+         },
+         "motionSquareVideo1x1": {
+          "previewFrame": {
+           "bgColor": "bdbdbd",
+           "hasP3": false,
+           "height": 3840,
+           "textColor1": "070707",
+           "textColor2": "121212",
+           "textColor3": "313131",
+           "textColor4": "3a3a3a",
+           "url": "https://is1-ssl.mzstatic.com/image/thumb/9coKFPoaFTnX9bJwf8B_kw/{w}x{h}bb.jpg",
+           "width": 3840
+          },
+          "video": "https://mvod.itunes.apple.com/itunes-assets/PurpleVideo221/v4/01/82/98/01829866-943d-847d-b4b5-57fa12b997d4/multi-variant-playlist_724b1c15bebf4a44947cb64d2c23fc01.m3u8"
+         },
+         "motionWideVideo21x9": {
+          "previewFrame": {
+           "bgColor": "bdbdbd",
+           "hasP3": false,
+           "height": 1646,
+           "textColor1": "000000",
+           "textColor2": "242424",
+           "textColor3": "292929",
+           "textColor4": "474747",
+           "url": "https://is1-ssl.mzstatic.com/image/thumb/_HNBixIrR8--LSOCe5nKaQ/{w}x{h}bb.jpg",
+           "width": 3840
+          },
+          "video": "https://mvod.itunes.apple.com/itunes-assets/PurpleVideo221/v4/72/db/3b/72db3b08-7eab-7549-1c18-008af7bbcfb3/multi-variant-playlist_1ef88d6d41c24578862102cf333451de.m3u8"
+         }
+        },
+        "hasCollaboration": false,
+        "isChart": false,
+        "lastModifiedDate": "2026-05-21T19:31:30Z",
+        "name": "Drake Essentials",
+        "plainEditorialNotes": {
+         "name": "Drake Essentials",
+         "short": "The era-defining rapper isn’t done showing us what he can do.",
+         "standard": "Drake officially became the voice of a generation with 2011’s sumptuous Take Care, a career-defining magnum opus that earned a prized slot in Apple Music’s 100 Best Albums list. Was he an R&B singer who rapped or a rapper who sang? Was he really that sad, or just exploiting a cultural preference for male vulnerability? Adding to the slipperiness of it all, any given Drake project might incorporate dreamy house and club music into his comfort zone of rap, pop, and R&B with equal conviction. Even after cementing his prowess as an MC many times over, Drake still retains the capacity to surprise. His 2015 earworm “Hotline Bling” radiated universal cool without breaking a sweat, while 2024’s “Push Ups” arrived during his fleeting beef with Kendrick Lamar yet applies lasting heat to its minimalistic prowl. Drake is now such a part of the firmament that his slightest move can trigger aftershocks far beyond his immediate reach."
+        },
+        "playParams": {
+         "id": "pl.b8afd0ec852542f785a5f7a4a9a80d6a",
+         "kind": "playlist",
+         "versionHash": "afc91b1ae56e34211054238d5479215d5a0d99393aa2132344c7037dc37b6705"
+        },
+        "playlistType": "editorial",
+        "supportsSing": false,
+        "url": "https://music.apple.com/us/playlist/drake-essentials/pl.b8afd0ec852542f785a5f7a4a9a80d6a"
+       }
+      },
+      {
+       "id": "pl.5a5265a6f2df4e0ab30de9490b5dca43",
+       "type": "playlists",
+       "href": "/v1/catalog/us/playlists/pl.5a5265a6f2df4e0ab30de9490b5dca43?l=en-US",
+       "attributes": {
+        "artwork": {
+         "bgColor": "b5b5b5",
+         "hasP3": false,
+         "height": 1080,
+         "textColor1": "000000",
+         "textColor2": "000000",
+         "textColor3": "352f31",
+         "textColor4": "3d3538",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/dd/90/7e/dd907e4f-1154-c103-59c5-5124b695d7b7/9510c506-4f06-453a-9de6-559410b3a3c0.png/{w}x{h}cc.jpg",
+         "width": 4320
+        },
+        "audioTraits": [],
+        "curatorName": "Apple Music Hip-Hop",
+        "description": {
+         "short": "The man who launched a thousand memes.",
+         "standard": "Drake's best videos reliably make for milestone moments in the pop-culture zeitgeist—striking, stunning, destined to become memes. Whether he's being bar mitzvahed (“HYFR”), channeling ‘80s Miami (“Hold On We're Going Home”), donning turtlenecks (“Hotline Bling”), or reuniting with his <i>Degrassi</i> castmates (\"I'm Upset\"), he's nothing if not of-the-moment."
+        },
+        "editorialArtwork": {
+         "subscriptionCover": {
+          "bgColor": "b5b5b5",
+          "hasP3": true,
+          "height": 1080,
+          "textColor1": "000000",
+          "textColor2": "000000",
+          "textColor3": "352f31",
+          "textColor4": "3d3538",
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/dd/90/7e/dd907e4f-1154-c103-59c5-5124b695d7b7/9510c506-4f06-453a-9de6-559410b3a3c0.png/{w}x{h}sr.jpg",
+          "width": 4320
+         },
+         "subscriptionHero": {
+          "bgColor": "b5b5b5",
+          "hasP3": true,
+          "height": 1080,
+          "textColor1": "070909",
+          "textColor2": "192322",
+          "textColor3": "2a2b2b",
+          "textColor4": "38403f",
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/6c/a6/ad/6ca6ad20-7587-3a78-beb5-dcf9948052c4/6bf48e2d-0066-4bb9-af31-28915852d2f1.png/{w}x{h}sr.jpg",
+          "width": 4320
+         },
+         "superHeroTall": {
+          "bgColor": "b5b5b5",
+          "gradient": {},
+          "hasP3": true,
+          "height": 2240,
+          "textColor1": "110608",
+          "textColor2": "261411",
+          "textColor3": "32292b",
+          "textColor4": "423431",
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/b3/4c/d0/b34cd08c-1634-d317-e25c-6c1026e001da/bd39fd03-09a5-44e2-a1ff-3498d2974f22.png/{w}x{h}sr.jpg",
+          "width": 1680
+         },
+         "superHeroWide": {
+          "bgColor": "b5b5b5",
+          "hasP3": true,
+          "height": 1800,
+          "textColor1": "0e0407",
+          "textColor2": "241410",
+          "textColor3": "2f272a",
+          "textColor4": "413431",
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/dd/85/dd/dd85ddd1-d88d-4a06-9875-5667c15f2196/6a700639-5cc1-4563-b021-c6863efe02d0.png/{w}x{h}sr.jpg",
+          "width": 4320
+         }
+        },
+        "hasCollaboration": false,
+        "isChart": false,
+        "lastModifiedDate": "2026-05-19T16:45:10Z",
+        "name": "Drake Video Essentials",
+        "plainEditorialNotes": {
+         "name": "Drake Video Essentials",
+         "short": "The man who launched a thousand memes.",
+         "standard": "Drake's best videos reliably make for milestone moments in the pop-culture zeitgeist—striking, stunning, destined to become memes. Whether he's being bar mitzvahed (“HYFR”), channeling ‘80s Miami (“Hold On We're Going Home”), donning turtlenecks (“Hotline Bling”), or reuniting with his Degrassi castmates (\"I'm Upset\"), he's nothing if not of-the-moment."
+        },
+        "playParams": {
+         "id": "pl.5a5265a6f2df4e0ab30de9490b5dca43",
+         "kind": "playlist",
+         "versionHash": "f9f228acc2e16f5c4e7f175d0cd1975c93c9fe50f62de75f1aa06a3c5005498d"
+        },
+        "playlistType": "editorial",
+        "supportsSing": false,
+        "url": "https://music.apple.com/us/playlist/drake-video-essentials/pl.5a5265a6f2df4e0ab30de9490b5dca43"
+       }
+      },
+      {
+       "id": "pl.e5bc0180234b40639b5fb6aeb3c6ff68",
+       "type": "playlists",
+       "href": "/v1/catalog/us/playlists/pl.e5bc0180234b40639b5fb6aeb3c6ff68?l=en-US",
+       "attributes": {
+        "artwork": {
+         "bgColor": "fafafa",
+         "hasP3": false,
+         "height": 1080,
+         "textColor1": "040404",
+         "textColor2": "161616",
+         "textColor3": "353535",
+         "textColor4": "444444",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages112/v4/1b/71/65/1b716513-b0c1-9c6b-45aa-cbb9198248cc/01607cf1-1d52-43d2-84ce-d6fc1f4a3475_ami-identity-7665599cc626d803af7956b3691905e7-2022-11-30T21-07-19.526Z_cropped.png/{w}x{h}SC.FPCHL02.jpg?l=en-US",
+         "width": 1080
+        },
+        "audioTraits": [],
+        "curatorName": "Apple Music Hip-Hop",
+        "editorialArtwork": {
+         "subscriptionCover": {
+          "bgColor": "fafafa",
+          "hasP3": false,
+          "height": 1080,
+          "textColor1": "040404",
+          "textColor2": "161616",
+          "textColor3": "353535",
+          "textColor4": "444444",
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages112/v4/1b/71/65/1b716513-b0c1-9c6b-45aa-cbb9198248cc/01607cf1-1d52-43d2-84ce-d6fc1f4a3475_ami-identity-7665599cc626d803af7956b3691905e7-2022-11-30T21-07-19.526Z_cropped.png/{w}x{h}SC.FPCHL02.jpg?l=en-US",
+          "width": 1080
+         },
+         "subscriptionHero": {
+          "bgColor": "fafafa",
+          "hasP3": false,
+          "height": 1080,
+          "textColor1": "040404",
+          "textColor2": "161616",
+          "textColor3": "353535",
+          "textColor4": "444444",
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages112/v4/1b/71/65/1b716513-b0c1-9c6b-45aa-cbb9198248cc/01607cf1-1d52-43d2-84ce-d6fc1f4a3475_ami-identity-7665599cc626d803af7956b3691905e7-2022-11-30T21-07-19.526Z_cropped.png/{w}x{h}SH.FPCHL02.jpg?l=en-US",
+          "width": 4320
+         }
+        },
+        "editorialPlaylistKind": "artist-franchise",
+        "editorialVideo": {
+         "motionDetailSquare": {
+          "previewFrame": {
+           "bgColor": "bdbdbd",
+           "hasP3": false,
+           "height": 3840,
+           "textColor1": "070707",
+           "textColor2": "111111",
+           "textColor3": "313131",
+           "textColor4": "3a3a3a",
+           "url": "https://is1-ssl.mzstatic.com/image/thumb/1CLZnFSqcyAzWiMPI55loQ/{w}x{h}bb.jpg",
+           "width": 3840
+          },
+          "video": "https://mvod.itunes.apple.com/itunes-assets/PurpleVideo211/v4/ea/5f/29/ea5f2912-f54f-51a4-2109-296e57354bb7/multi-variant-playlist_442cffc30ea74fedb6a425e6944b9e50.m3u8"
+         },
+         "motionDetailTall": {
+          "previewFrame": {
+           "bgColor": "bdbdbd",
+           "hasP3": false,
+           "height": 2732,
+           "textColor1": "0b0b0b",
+           "textColor2": "2d2d2d",
+           "textColor3": "353535",
+           "textColor4": "4d4d4d",
+           "url": "https://is1-ssl.mzstatic.com/image/thumb/uEk1Miz5k5eXaMHjvUI7oQ/{w}x{h}bb.jpg",
+           "width": 2048
+          },
+          "video": "https://mvod.itunes.apple.com/itunes-assets/PurpleVideo221/v4/74/d5/88/74d58832-efb7-bd48-9612-dcb55643c009/multi-variant-playlist_f338e17cb44143fba187fb392eab334f.m3u8"
+         },
+         "motionSquareVideo1x1": {
+          "previewFrame": {
+           "bgColor": "bdbdbd",
+           "hasP3": false,
+           "height": 3840,
+           "textColor1": "070707",
+           "textColor2": "111111",
+           "textColor3": "313131",
+           "textColor4": "3a3a3a",
+           "url": "https://is1-ssl.mzstatic.com/image/thumb/1CLZnFSqcyAzWiMPI55loQ/{w}x{h}bb.jpg",
+           "width": 3840
+          },
+          "video": "https://mvod.itunes.apple.com/itunes-assets/PurpleVideo211/v4/ea/5f/29/ea5f2912-f54f-51a4-2109-296e57354bb7/multi-variant-playlist_442cffc30ea74fedb6a425e6944b9e50.m3u8"
+         },
+         "motionWideVideo21x9": {
+          "previewFrame": {
+           "bgColor": "bdbdbd",
+           "hasP3": false,
+           "height": 1646,
+           "textColor1": "000000",
+           "textColor2": "242424",
+           "textColor3": "292929",
+           "textColor4": "474747",
+           "url": "https://is1-ssl.mzstatic.com/image/thumb/VHGM_Vhc_MTeJNeEQXI2Ew/{w}x{h}bb.jpg",
+           "width": 3840
+          },
+          "video": "https://mvod.itunes.apple.com/itunes-assets/PurpleVideo221/v4/1c/4c/10/1c4c103a-d631-e419-b9ad-0fd566999909/multi-variant-playlist_b53642b6f636432b9d6ce45393fb3473.m3u8"
+         }
+        },
+        "hasCollaboration": false,
+        "isChart": false,
+        "lastModifiedDate": "2023-01-31T23:08:56Z",
+        "name": "Drake: Chill",
+        "plainEditorialNotes": {
+         "name": "Drake: Chill",
+         "short": "Lean back and relax with some of the mellowest cuts."
+        },
+        "playParams": {
+         "id": "pl.e5bc0180234b40639b5fb6aeb3c6ff68",
+         "kind": "playlist",
+         "versionHash": "44f86ce259a804687f999513d392e730df1f6c9c8a1ad553d2fbb95f0e8912b7"
+        },
+        "playlistType": "editorial",
+        "supportsSing": false,
+        "url": "https://music.apple.com/us/playlist/drake-chill/pl.e5bc0180234b40639b5fb6aeb3c6ff68"
+       }
+      }
+     ]
+    },
+    "radio-shows": {
+     "href": "/v1/catalog/us/artists/271256/view/radio-shows?l=en-US",
+     "attributes": {
+      "title": "Radio Shows"
+     },
+     "data": [
+      {
+       "id": "993270827",
+       "type": "apple-curators",
+       "href": "/v1/catalog/us/apple-curators/993270827?l=en-US",
+       "attributes": {
+        "artwork": {
+         "bgColor": "e5e8ec",
+         "hasP3": false,
+         "height": 1080,
+         "textColor1": "070604",
+         "textColor2": "340200",
+         "textColor3": "333332",
+         "textColor4": "57302f",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Features49/v4/82/3a/19/823a19cb-1572-c33f-adb3-098ecf99b2ee/pr_source.png/{w}x{h}bb.jpg",
+         "width": 1080
+        },
+        "editorialArtwork": {
+         "brandLogo": {
+          "bgColor": "e5e8ec",
+          "hasP3": false,
+          "height": 1080,
+          "textColor1": "070604",
+          "textColor2": "340200",
+          "textColor3": "333332",
+          "textColor4": "57302f",
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Features49/v4/82/3a/19/823a19cb-1572-c33f-adb3-098ecf99b2ee/pr_source.png/{w}x{h}bb.jpg",
+          "width": 1080
+         },
+         "epicStageWide": {
+          "bgColor": "e4e8eb",
+          "hasP3": false,
+          "height": 2160,
+          "textColor1": "0e0d09",
+          "textColor2": "0f0e0c",
+          "textColor3": "383836",
+          "textColor4": "3a3a38",
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Features126/v4/bd/79/eb/bd79eb5b-0395-3713-c013-f36eb7c36c2c/f6a43dc5-938f-4c63-b141-fb85ed0e9a23.png/{w}x{h}bb.jpg",
+          "width": 3840
+         },
+         "musicFullscreenStatic16x9": {
+          "bgColor": "e4e8eb",
+          "hasP3": false,
+          "height": 2160,
+          "textColor1": "0e0d09",
+          "textColor2": "0f0e0c",
+          "textColor3": "383836",
+          "textColor4": "3a3a38",
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Features116/v4/d1/cf/f9/d1cff91b-47d9-a0c2-a9fb-88472cd078cc/8f7309c6-c996-4a84-ae5e-a5742ee905cf.png/{w}x{h}bb.jpg",
+          "width": 3840
+         },
+         "storeFlowcase": {
+          "bgColor": "e5e8eb",
+          "hasP3": false,
+          "height": 1080,
+          "textColor1": "211410",
+          "textColor2": "35130f",
+          "textColor3": "483e3c",
+          "textColor4": "583e3b",
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Features118/v4/98/b2/32/98b23264-c0c5-7f70-2fb3-9153cd5414fc/pr_source.png/{w}x{h}bb.jpg",
+          "width": 4320
+         },
+         "subscriptionCover": {
+          "bgColor": "e3e6ea",
+          "hasP3": false,
+          "height": 1080,
+          "textColor1": "310503",
+          "textColor2": "22221d",
+          "textColor3": "553231",
+          "textColor4": "494946",
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Features49/v4/7f/4a/dd/7f4addfc-e719-5c4a-1644-dac941b66f8e/pr_source.png/{w}x{h}sr.jpg",
+          "width": 4320
+         },
+         "subscriptionHero": {
+          "bgColor": "e3e6ea",
+          "hasP3": false,
+          "height": 1080,
+          "textColor1": "310503",
+          "textColor2": "22221d",
+          "textColor3": "553231",
+          "textColor4": "494946",
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Features49/v4/7f/58/6b/7f586b34-1318-0f03-0017-abc62ff726c0/pr_source.png/{w}x{h}sr.jpg",
+          "width": 4320
+         }
+        },
+        "kind": "Show",
+        "name": "OVO SOUND RADIO",
+        "plainEditorialNotes": {
+         "short": "Mixes from the Toronto collective, hosted by Oliver El-Khatib.",
+         "standard": "OVO is a Toronto-based collective led by Drake, Noah \"40” Shebib, and Oliver El-Khatib. Tune into OVO SOUND RADIO, hosted and curated by Oliver El-Khatib. ",
+         "tagline": "October's Very Own"
+        },
+        "shortName": "OVO SOUND RADIO",
+        "showHostName": "Drake",
+        "url": "https://music.apple.com/us/curator/ovo-sound-radio/993270827"
+       }
+      }
+     ]
+    },
+    "similar-artists": {
+     "href": "/v1/catalog/us/artists/271256/view/similar-artists?l=en-US",
+     "next": "/v1/catalog/us/artists/271256/view/similar-artists?l=en-US&offset=10",
+     "attributes": {
+      "title": "Similar Artists"
+     },
+     "data": [
+      {
+       "id": "157749142",
+       "type": "artists",
+       "href": "/v1/catalog/us/artists/157749142?l=en-US",
+       "attributes": {
+        "artistBio": "Mogul, entrepreneur, DJ, producer, “the hip-hop Quincy Jones”—DJ Khaled has no shortage of ways to describe himself. And he has consistently demonstrated his knack for connecting the right superstar talent with the right tracks, matching his ambition with equal amounts of hustle, swagger, and exuberance. Born Khaled Mohamed Khaled to Palestinian immigrant parents in New Orleans in 1975, Khaled started out as a radio DJ in Miami before forging fortuitous early connections with the hip-hop scene and releasing a string of guest-packed albums beginning in 2006. But while those early efforts gained him growing respect in the rap world, it was 2016’s <i>Major Key</i> that made him a force on the pop charts. The following year’s <i>Grateful</i> hit even bigger, pairing the likes of Beyoncé and JAY-Z; Rihanna and Bryson Tiller; and Justin Bieber, Quavo, Chance the Rapper, and Lil Wayne.\n\nYet, Khaled is more than just a savvy matchmaker who revels in laidback vibes, a luxury lifestyle, and siren-like announcements of intent. He is capable of surprising range, including more hard-hitting club joints along the way. He has also made sure to pay his dues to his faith, naming his 2022 album <i>GOD DID</i> while pulling off mind-boggling feats like pairing Eminem and Kanye West on a track produced by Dr. Dre. “Some of these things that came in, it’s a gift,” he tells Apple Music. “It’s a gift from God, and the gods.” And Khaled continues to do the very best work with those gifts.",
+        "artwork": {
+         "bgColor": "000000",
+         "defaultCropCode": "bb",
+         "hasP3": true,
+         "height": 2467,
+         "textColor1": "e4ddd3",
+         "textColor2": "ccad95",
+         "textColor3": "b7b1a9",
+         "textColor4": "a38b77",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/87/c5/5b/87c55bb0-3f15-acb3-fcca-84aa67242c75/ami-identity-1ec7047ad438e6af95952f6cd8ec7e2b-2026-04-14T19-48-21.103Z_cropped.png/{w}x{h}bb.jpg",
+         "width": 2467
+        },
+        "bornOrFormed": "November 26, 1975",
+        "editorialArtwork": {
+         "originalFlowcaseBrick": {
+          "bgColor": "000000",
+          "hasP3": false,
+          "height": 600,
+          "textColor1": "e4a678",
+          "textColor2": "d98860",
+          "textColor3": "b68460",
+          "textColor4": "ae6d4c",
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/e0/1b/42/e01b4221-3351-e777-15b1-70ff06fd3ace/mza_3354361779722528391.png/{w}x{h}bb.jpg",
+          "width": 1778
+         },
+         "storeFlowcase": {
+          "bgColor": "6e543d",
+          "hasP3": false,
+          "height": 1080,
+          "textColor1": "c8e92c",
+          "textColor2": "f9d1af",
+          "textColor3": "b6cc30",
+          "textColor4": "ddb898",
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Features30/v4/ae/7d/83/ae7d832a-473f-9a12-c163-81375f9b3c27/pr_source.png/{w}x{h}bb.jpg",
+          "width": 4320
+         }
+        },
+        "editorialVideo": {
+         "motionArtistFullscreen16x9": {
+          "previewFrame": {
+           "bgColor": "161412",
+           "hasP3": false,
+           "height": 2160,
+           "textColor1": "d5e0db",
+           "textColor2": "cfdbdb",
+           "textColor3": "b3bcb7",
+           "textColor4": "aeb8b8",
+           "url": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/68/5a/47/685a4706-4f5a-b1e1-1eb2-406b22cbbb49/c67858e40864ea5b8aa4f1fd747ae1e9_Preview_Image_Intermediate_nonvideo_438983628_2659585213.png/{w}x{h}bb.jpg",
+           "width": 3840
+          },
+          "video": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/d4/4d/55/d44d5513-7b63-e98c-d0d2-5f3e7311d7eb/P1335915332_default.m3u8"
+         },
+         "motionArtistSquare1x1": {
+          "previewFrame": {
+           "bgColor": "040607",
+           "hasP3": false,
+           "height": 3840,
+           "textColor1": "d9e5df",
+           "textColor2": "d2dfdf",
+           "textColor3": "b4beb9",
+           "textColor4": "aeb9b9",
+           "url": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/fb/77/cc/fb77cc94-cfd5-9475-5dc9-49086fb59bef/f21d928945da83931f093ff87a56c861_Preview_Image_Intermediate_nonvideo_438983652_2659584752.png/{w}x{h}bb.jpg",
+           "width": 3840
+          },
+          "video": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic211/v4/5f/e1/93/5fe193b8-c694-f178-d90f-87ca09cfb5ce/P1335908583_default.m3u8"
+         },
+         "motionArtistWide16x9": {
+          "previewFrame": {
+           "bgColor": "161412",
+           "hasP3": false,
+           "height": 2160,
+           "textColor1": "d5e0db",
+           "textColor2": "cfdbdb",
+           "textColor3": "b3bcb7",
+           "textColor4": "aeb8b8",
+           "url": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/68/5a/47/685a4706-4f5a-b1e1-1eb2-406b22cbbb49/c67858e40864ea5b8aa4f1fd747ae1e9_Preview_Image_Intermediate_nonvideo_438983628_2659585213.png/{w}x{h}bb.jpg",
+           "width": 3840
+          },
+          "video": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/d4/4d/55/d44d5513-7b63-e98c-d0d2-5f3e7311d7eb/P1335915332_default.m3u8"
+         }
+        },
+        "genreNames": [
+         "Hip-Hop/Rap"
+        ],
+        "hero": [
+         {
+          "content": [
+           {
+            "artwork": {
+             "bgColor": "000000",
+             "hasP3": true,
+             "height": 2467,
+             "recommendedCropCodes": [
+              "va",
+              "vb",
+              "vc"
+             ],
+             "textColor1": "e4ddd3",
+             "textColor2": "ccad95",
+             "textColor3": "b7b1a9",
+             "textColor4": "a38b77",
+             "url": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/87/c5/5b/87c55bb0-3f15-acb3-fcca-84aa67242c75/ami-identity-1ec7047ad438e6af95952f6cd8ec7e2b-2026-04-14T19-48-21.103Z_cropped.png/{w}x{h}bb.jpg",
+             "width": 2467
+            }
+           }
+          ]
+         }
+        ],
+        "isGroup": false,
+        "name": "DJ Khaled",
+        "origin": "New Orleans, LA, United States",
+        "url": "https://music.apple.com/us/artist/dj-khaled/157749142"
+       },
+       "relationships": {
+        "albums": {
+         "href": "/v1/catalog/us/artists/157749142/albums?l=en-US",
+         "next": "/v1/catalog/us/artists/157749142/albums?l=en-US&offset=25",
+         "data": [
+          {
+           "id": "1523923810",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1523923810?l=en-US"
+          },
+          {
+           "id": "1464024147",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1464024147?l=en-US"
+          },
+          {
+           "id": "1523923474",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1523923474?l=en-US"
+          }
+         ]
+        },
+        "station": {
+         "href": "/v1/catalog/us/artists/157749142/station?l=en-US",
+         "data": [
+          {
+           "id": "ra.157749142",
+           "type": "stations",
+           "href": "/v1/catalog/us/stations/ra.157749142?l=en-US",
+           "attributes": {
+            "artwork": {
+             "bgColor": "000000",
+             "hasP3": false,
+             "height": 2467,
+             "textColor1": "e4ddd3",
+             "textColor2": "ccad95",
+             "textColor3": "b7b1a9",
+             "textColor4": "a38b77",
+             "url": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/87/c5/5b/87c55bb0-3f15-acb3-fcca-84aa67242c75/ami-identity-1ec7047ad438e6af95952f6cd8ec7e2b-2026-04-14T19-48-21.103Z_cropped.png/{w}x{h}AM.RSMA03.jpg?imgLeft=AMCArtistImages112%2Fv4%2Fbf%2F04%2F8e%2Fbf048ec7-37bb-bef7-dc45-bbe3ccadc034%2F1834d498-a730-45b1-b963-e7e7eb2bbfba_ami-identity-7dbfc14554ecbbc85d67857f83a1d381-2024-02-29T07-01-12.721Z_cropped.png&imgRight=AMCArtistImages112%2Fv4%2F1b%2F71%2F65%2F1b716513-b0c1-9c6b-45aa-cbb9198248cc%2F01607cf1-1d52-43d2-84ce-d6fc1f4a3475_ami-identity-7665599cc626d803af7956b3691905e7-2022-11-30T21-07-19.526Z_cropped.png",
+             "width": 2467
+            },
+            "editorialArtwork": {},
+            "isLive": false,
+            "kind": "artistSeeded",
+            "mediaKind": "audio",
+            "name": "DJ Khaled & Similar Artists Station",
+            "playParams": {
+             "format": "tracks",
+             "hasDrm": false,
+             "id": "ra.157749142",
+             "kind": "radioStation",
+             "mediaType": 0,
+             "stationHash": "CggIARoElp-cSxAB"
+            },
+            "radioUrl": "itsradio://music.apple.com/us/station/ra.157749142",
+            "requiresSubscription": true,
+            "url": "https://music.apple.com/us/station/dj-khaled-similar-artists-station/ra.157749142"
+           }
+          }
+         ]
+        }
+       }
+      },
+      {
+       "id": "128050210",
+       "type": "artists",
+       "href": "/v1/catalog/us/artists/128050210?l=en-US",
+       "attributes": {
+        "artistBio": "\"Barely a season goes by without new music from the rapper born Nayvadius Wilburn in 1983—whether it’s a mixtape, a solo album, or a collab with Drake, Gucci Mane, or Metro Boomin. But <i>prolific</i> isn’t the half of it. Druggy, raw, slick, and surreal, Future’s sound—crystallized on highlights like 2014’s <i>Honest</i>, 2015’s <i>DS2</i>, and 2017’s <i>HNDRXX</i>—helped to redefine 2010s street rap as something strange and almost avant-garde. Imagine trap as modern psychedelia, though still naggingly melodic. As with fellow Atlantan and collaborator Young Thug, Future has a way of bending his voice (often using Auto-Tune) into soulful, often sad shapes, half-rapped and half-sung—the sound of a crooner stuck in space. \n\n“The biggest thing is just being yourself all the time,” he told Apple Music’s Zane Lowe in early 2017. That unwavering self-assurance continues to define his work as he settles into middle age: Rather than mellowing with the years, he remains outspoken and unapologetic about his rock-star lifestyle. Observe 2022’s <i>I NEVER LIKED YOU</i>, which takes us on a guided tour of his high-drama adventures as a bachelor. And the fact that Future can still command cameos from Kendrick Lamar, The Weeknd, and Travis Scott means that he has lost none of his heavyweight status in the years since his groggy, grandiose breakthrough.\"",
+        "artwork": {
+         "bgColor": "322423",
+         "defaultCropCode": "bb",
+         "hasP3": true,
+         "height": 8640,
+         "textColor1": "eeebcc",
+         "textColor2": "e99880",
+         "textColor3": "c8c3aa",
+         "textColor4": "c5806d",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/a0/03/ba/a003ba04-c69b-5ac9-db08-326c23aa5b82/ami-identity-9301504ae26ebbedb9d8d3cf6c9dafdb-2026-06-26T04-06-47.222Z_cropped.png/{w}x{h}bb.jpg",
+         "width": 8640
+        },
+        "bornOrFormed": "November 20, 1983",
+        "editorialArtwork": {
+         "bannerUber": {
+          "bgColor": "020202",
+          "hasP3": false,
+          "height": 1080,
+          "textColor1": "f2b296",
+          "textColor2": "eea288",
+          "textColor3": "c28f78",
+          "textColor4": "bf826d",
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Features49/v4/b4/43/4f/b4434fc6-e6a2-8445-3091-a775b9006824/dj.njefsydc.png/{w}x{h}sr.jpg",
+          "width": 4320
+         },
+         "centeredFullscreenBackground": {
+          "bgColor": "020101",
+          "hasP3": false,
+          "height": 2160,
+          "textColor1": "f93541",
+          "textColor2": "f7323d",
+          "textColor3": "c82a34",
+          "textColor4": "c62831",
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Features128/v4/71/dd/fb/71ddfb97-9ff6-d7c6-d3ef-ccd3ea6dcc3d/pr_source.png/{w}x{h}bb.jpg",
+          "width": 4320
+         },
+         "musicContentColorLogoTrimmed": {
+          "bgColor": "ffffff",
+          "hasP3": true,
+          "height": 866,
+          "textColor1": "0c0c0c",
+          "textColor2": "191919",
+          "textColor3": "3d3d3d",
+          "textColor4": "474747",
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/b6/51/68/b65168e8-fe64-212b-5248-14b88e36392b/4021ba02-fab5-4206-a449-9243419745fa.png/{w}x{h}bb.jpg",
+          "width": 2851
+         },
+         "originalFlowcaseBrick": {
+          "bgColor": "adadad",
+          "hasP3": false,
+          "height": 600,
+          "textColor1": "1f162a",
+          "textColor2": "162a36",
+          "textColor3": "3b3444",
+          "textColor4": "34444e",
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Features7/v4/b4/3a/2b/b43a2b43-9028-df84-de59-0599f4836278/pr_source.png/{w}x{h}bb.jpg",
+          "width": 1778
+         },
+         "storeFlowcase": {
+          "bgColor": "020202",
+          "hasP3": false,
+          "height": 1080,
+          "textColor1": "f4ae8f",
+          "textColor2": "f1a586",
+          "textColor3": "c38c73",
+          "textColor4": "c1846c",
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Features49/v4/09/48/e8/0948e8df-5e26-865f-cfc1-8857af9d0641/pr_source.png/{w}x{h}bb.jpg",
+          "width": 4320
+         },
+         "subscriptionHero": {
+          "bgColor": "12100e",
+          "hasP3": false,
+          "height": 1080,
+          "textColor1": "f0d5b0",
+          "textColor2": "f2bfa7",
+          "textColor3": "c3ae90",
+          "textColor4": "c59c88",
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Features111/v4/69/72/4c/69724c4f-2ba4-41d8-ba96-86b813e7afb3/mza_1359336402684495801.png/{w}x{h}sr.jpg",
+          "width": 4320
+         }
+        },
+        "editorialVideo": {
+         "motionArtistFullscreen16x9": {
+          "previewFrame": {
+           "bgColor": "151415",
+           "hasP3": false,
+           "height": 2160,
+           "textColor1": "eff5d6",
+           "textColor2": "e7d4b9",
+           "textColor3": "c4c8af",
+           "textColor4": "bdae98",
+           "url": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/87/ce/bf/87cebfb5-e309-cc19-86a8-c5c9f3b9231c/Jobd3dadfc8-f791-4a53-915e-e2aa9b9bf5ed-177004984-PreviewImage_preview_image_nonvideo_sdr-Time1728420590602.png/{w}x{h}bb.jpg",
+           "width": 3840
+          },
+          "video": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/6d/5c/78/6d5c7894-8e88-72de-882e-7a4d1e813e9a/P919974391_default.m3u8"
+         },
+         "motionArtistSquare1x1": {
+          "previewFrame": {
+           "bgColor": "101012",
+           "hasP3": false,
+           "height": 3840,
+           "textColor1": "e1cbb3",
+           "textColor2": "deb198",
+           "textColor3": "b7a593",
+           "textColor4": "b5917d",
+           "url": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/e3/79/8c/e3798c22-68c0-2daa-7fae-b3077b93297c/Job2f04349e-88b1-4605-bbac-d03c5f1c9aa6-177004981-PreviewImage_preview_image_nonvideo_sdr-Time1728420557225.png/{w}x{h}bb.jpg",
+           "width": 3840
+          },
+          "video": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic211/v4/45/23/cd/4523cde8-1950-85be-5715-d46fdda8fbe2/P919970236_default.m3u8"
+         },
+         "motionArtistWide16x9": {
+          "previewFrame": {
+           "bgColor": "171616",
+           "hasP3": false,
+           "height": 2160,
+           "textColor1": "e8d5ba",
+           "textColor2": "d2c599",
+           "textColor3": "beaf99",
+           "textColor4": "aca27e",
+           "url": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/ad/42/56/ad4256be-e220-410c-68e1-a93471f252b0/Job84dd704f-9dd8-4631-acf6-22194c2363d1-177004764-PreviewImage_preview_image_nonvideo_sdr-Time1728420603095.png/{w}x{h}bb.jpg",
+           "width": 3840
+          },
+          "video": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic211/v4/9e/67/cb/9e67cbe8-f476-87e7-5c41-c3a0eb504e17/P919973080_default.m3u8"
+         }
+        },
+        "genreNames": [
+         "Hip-Hop/Rap"
+        ],
+        "hero": [
+         {
+          "content": [
+           {
+            "artwork": {
+             "bgColor": "322423",
+             "hasP3": true,
+             "height": 8640,
+             "recommendedCropCodes": [
+              "va",
+              "vb",
+              "vc"
+             ],
+             "textColor1": "eeebcc",
+             "textColor2": "e99880",
+             "textColor3": "c8c3aa",
+             "textColor4": "c5806d",
+             "url": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/a0/03/ba/a003ba04-c69b-5ac9-db08-326c23aa5b82/ami-identity-9301504ae26ebbedb9d8d3cf6c9dafdb-2026-06-26T04-06-47.222Z_cropped.png/{w}x{h}bb.jpg",
+             "width": 8640
+            }
+           }
+          ]
+         }
+        ],
+        "isGroup": false,
+        "name": "Future",
+        "url": "https://music.apple.com/us/artist/future/128050210"
+       },
+       "relationships": {
+        "albums": {
+         "href": "/v1/catalog/us/artists/128050210/albums?l=en-US",
+         "next": "/v1/catalog/us/artists/128050210/albums?l=en-US&offset=25",
+         "data": [
+          {
+           "id": "1493864494",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1493864494?l=en-US"
+          },
+          {
+           "id": "1621119097",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1621119097?l=en-US"
+          },
+          {
+           "id": "1737149923",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1737149923?l=en-US"
+          }
+         ]
+        },
+        "station": {
+         "href": "/v1/catalog/us/artists/128050210/station?l=en-US",
+         "data": [
+          {
+           "id": "ra.128050210",
+           "type": "stations",
+           "href": "/v1/catalog/us/stations/ra.128050210?l=en-US",
+           "attributes": {
+            "artwork": {
+             "bgColor": "322423",
+             "hasP3": false,
+             "height": 8640,
+             "textColor1": "eeebcc",
+             "textColor2": "e99880",
+             "textColor3": "c8c3aa",
+             "textColor4": "c5806d",
+             "url": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/a0/03/ba/a003ba04-c69b-5ac9-db08-326c23aa5b82/ami-identity-9301504ae26ebbedb9d8d3cf6c9dafdb-2026-06-26T04-06-47.222Z_cropped.png/{w}x{h}AM.RSMA03.jpg?imgLeft=AMCArtistImages211%2Fv4%2Fc4%2Ff4%2Fe9%2Fc4f4e944-63dd-63fe-79e9-6dbc23a827b4%2Ffile_cropped.png&imgRight=Features124%2Fv4%2F2d%2F4b%2F72%2F2d4b7271-a229-965a-4721-e7d4437b5576%2Fmzl.wqezphpq.jpg",
+             "width": 8640
+            },
+            "editorialArtwork": {},
+            "isLive": false,
+            "kind": "artistSeeded",
+            "mediaKind": "audio",
+            "name": "Future & Similar Artists Station",
+            "playParams": {
+             "format": "tracks",
+             "hasDrm": false,
+             "id": "ra.128050210",
+             "kind": "radioStation",
+             "mediaType": 0,
+             "stationHash": "CggIARoEosiHPRAB"
+            },
+            "radioUrl": "itsradio://music.apple.com/us/station/ra.128050210",
+            "requiresSubscription": true,
+            "url": "https://music.apple.com/us/station/future-similar-artists-station/ra.128050210"
+           }
+          }
+         ]
+        }
+       }
+      },
+      {
+       "id": "302533564",
+       "type": "artists",
+       "href": "/v1/catalog/us/artists/302533564?l=en-US",
+       "attributes": {
+        "artistBio": "On the eve of releasing his fourth album, 2017’s <i>I Decided.</i>, Big Sean told Apple Music something that might as well be his mantra: “Manifest what you want in the universe.” That mindset has defined the Detroit rapper’s rise from self-released mixtapes to multiplatinum success. Born Sean Anderson, he began writing poetry as a kid and was selling CDs by high school. His break came in 2005 when he freestyled for Kanye West in a radio station parking lot—an encounter that led to a deal with West’s GOOD Music label. After a trio of mixtapes, Sean debuted in 2011 with <i>Finally Famous</i>, an album that balanced wit, introspection, and swagger. He quickly became one of the most versatile rappers of the 2010s, delivering bangers, heartbreak ballads, and all sorts in between. His chemistry with singer Jhené Aiko shined on their 2016 collaborative project <i>TWENTY88</i>, and with Metro Boomin on the following year’s <i>Double Or Nothing</i>. By the time Sean released his sixth album, 2024’s <i>Better Me Than You</i>, it was less manifestation and more opening himself up to the world. Of its release he said, “I’m at a point in my life where I just let things happen.”",
+        "artwork": {
+         "bgColor": "be891d",
+         "defaultCropCode": "bb",
+         "hasP3": false,
+         "height": 4535,
+         "textColor1": "160c09",
+         "textColor2": "15110f",
+         "textColor3": "37250d",
+         "textColor4": "362912",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/45/53/bb/4553bbe8-7f5b-92d1-15e9-a8cf2c438b6d/e04d4684-6cad-461c-8418-ad89f8106195_file_cropped.png/{w}x{h}bb.jpg",
+         "width": 4535
+        },
+        "bornOrFormed": "March 25, 1988",
+        "editorialArtwork": {
+         "bannerUber": {
+          "bgColor": "ffffff",
+          "hasP3": false,
+          "height": 1080,
+          "textColor1": "161616",
+          "textColor2": "303030",
+          "textColor3": "444444",
+          "textColor4": "595959",
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Features118/v4/c9/19/94/c9199456-b7b2-412f-4eb8-ecc1ca0c5f30/pr_source.png/{w}x{h}sr.jpg",
+          "width": 4320
+         },
+         "centeredFullscreenBackground": {
+          "bgColor": "ffffff",
+          "hasP3": false,
+          "height": 2160,
+          "textColor1": "050505",
+          "textColor2": "1d1d1d",
+          "textColor3": "373737",
+          "textColor4": "4a4a4a",
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Features128/v4/64/74/c8/6474c805-c897-760e-a267-08fe39e3f225/pr_source.png/{w}x{h}bb.jpg",
+          "width": 4320
+         },
+         "originalFlowcaseBrick": {
+          "bgColor": "005e3e",
+          "hasP3": false,
+          "height": 600,
+          "textColor1": "b1f7db",
+          "textColor2": "86f6d1",
+          "textColor3": "8ed8bc",
+          "textColor4": "6bd7b3",
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Features4/v4/9b/69/39/9b69398f-5727-514b-789d-f23ed8aad650/mza_144408256955164491.png/{w}x{h}bb.jpg",
+          "width": 1778
+         }
+        },
+        "editorialVideo": {
+         "motionArtistFullscreen16x9": {
+          "previewFrame": {
+           "bgColor": "070a0e",
+           "hasP3": false,
+           "height": 2160,
+           "textColor1": "e3dac5",
+           "textColor2": "aeb8c6",
+           "textColor3": "b7b1a0",
+           "textColor4": "8c95a1",
+           "url": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/b8/68/e8/b868e832-8a52-9d99-773e-d6d7042d2825/Jobd78f31a0-7cb4-49d5-990e-22522b750795-165225809-PreviewImage_preview_image_nonvideo_sdr-Time1711404823137.png/{w}x{h}bb.jpg",
+           "width": 3840
+          },
+          "video": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/92/b0/f2/92b0f2a3-0ec6-e64f-6f49-c7123524ea4d/P841823713_default.m3u8"
+         },
+         "motionArtistSquare1x1": {
+          "previewFrame": {
+           "bgColor": "606159",
+           "hasP3": false,
+           "height": 3840,
+           "textColor1": "fbf1db",
+           "textColor2": "fce6b9",
+           "textColor3": "dcd4c1",
+           "textColor4": "ddcba6",
+           "url": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/a2/fc/82/a2fc8212-39a2-5ac2-6435-936df947eae2/Jobb352f1fd-cfdc-43da-9740-f66922f25257-165225757-PreviewImage_preview_image_nonvideo_sdr-Time1711404830183.png/{w}x{h}bb.jpg",
+           "width": 3840
+          },
+          "video": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/9e/fb/54/9efb54e8-1c1f-c5c3-c4f4-66b67ed8d432/P841822173_default.m3u8"
+         },
+         "motionArtistWide16x9": {
+          "previewFrame": {
+           "bgColor": "070a0f",
+           "hasP3": false,
+           "height": 2160,
+           "textColor1": "e3dac5",
+           "textColor2": "77b7d6",
+           "textColor3": "b7b1a1",
+           "textColor4": "6194ae",
+           "url": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/95/21/ea/9521ea62-4f24-3f16-c7b4-c5e14f25b883/Joba1468aea-3028-411a-82ec-6ffe440fd2df-165225703-PreviewImage_preview_image_nonvideo_sdr-Time1711404884449.png/{w}x{h}bb.jpg",
+           "width": 3840
+          },
+          "video": "https://mvod.itunes.apple.com/itunes-assets/HLSMusic221/v4/e1/36/67/e136673a-35e3-9e75-800e-a146354fe879/P841823569_default.m3u8"
+         }
+        },
+        "genreNames": [
+         "Hip-Hop/Rap"
+        ],
+        "hero": [
+         {
+          "content": [
+           {
+            "artwork": {
+             "bgColor": "be891d",
+             "hasP3": false,
+             "height": 4535,
+             "recommendedCropCodes": [
+              "va",
+              "vb",
+              "vc"
+             ],
+             "textColor1": "160c09",
+             "textColor2": "15110f",
+             "textColor3": "37250d",
+             "textColor4": "362912",
+             "url": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/45/53/bb/4553bbe8-7f5b-92d1-15e9-a8cf2c438b6d/e04d4684-6cad-461c-8418-ad89f8106195_file_cropped.png/{w}x{h}bb.jpg",
+             "width": 4535
+            }
+           }
+          ]
+         }
+        ],
+        "isGroup": false,
+        "name": "Big Sean",
+        "origin": "Detroit, MI, United States",
+        "url": "https://music.apple.com/us/artist/big-sean/302533564"
+       },
+       "relationships": {
+        "albums": {
+         "href": "/v1/catalog/us/artists/302533564/albums?l=en-US",
+         "next": "/v1/catalog/us/artists/302533564/albums?l=en-US&offset=25",
+         "data": [
+          {
+           "id": "1440882217",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1440882217?l=en-US"
+          },
+          {
+           "id": "1486963526",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1486963526?l=en-US"
+          },
+          {
+           "id": "1442996956",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1442996956?l=en-US"
+          }
+         ]
+        },
+        "station": {
+         "href": "/v1/catalog/us/artists/302533564/station?l=en-US",
+         "data": [
+          {
+           "id": "ra.302533564",
+           "type": "stations",
+           "href": "/v1/catalog/us/stations/ra.302533564?l=en-US",
+           "attributes": {
+            "artwork": {
+             "bgColor": "be891d",
+             "hasP3": false,
+             "height": 4535,
+             "textColor1": "160c09",
+             "textColor2": "15110f",
+             "textColor3": "37250d",
+             "textColor4": "362912",
+             "url": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/45/53/bb/4553bbe8-7f5b-92d1-15e9-a8cf2c438b6d/e04d4684-6cad-461c-8418-ad89f8106195_file_cropped.png/{w}x{h}AM.RSMA03.jpg?imgLeft=AMCArtistImages221%2Fv4%2Fe0%2Fcb%2F8d%2Fe0cb8db4-8d56-cc92-cae6-ee8f09c3a3bb%2Fami-identity-253b8334df60cfdb9573dabcfa4820c4-2026-02-05T22-58-24.229Z_cropped.png&imgRight=AMCArtistImages112%2Fv4%2F1b%2F71%2F65%2F1b716513-b0c1-9c6b-45aa-cbb9198248cc%2F01607cf1-1d52-43d2-84ce-d6fc1f4a3475_ami-identity-7665599cc626d803af7956b3691905e7-2022-11-30T21-07-19.526Z_cropped.png",
+             "width": 4535
+            },
+            "editorialArtwork": {},
+            "isLive": false,
+            "kind": "artistSeeded",
+            "mediaKind": "audio",
+            "name": "Big Sean & Similar Artists Station",
+            "playParams": {
+             "format": "tracks",
+             "hasDrm": false,
+             "id": "ra.302533564",
+             "kind": "radioStation",
+             "mediaType": 0,
+             "stationHash": "CgkIARoFvJehkAEQAQ"
+            },
+            "radioUrl": "itsradio://music.apple.com/us/station/ra.302533564",
+            "requiresSubscription": true,
+            "url": "https://music.apple.com/us/station/big-sean-similar-artists-station/ra.302533564"
+           }
+          }
+         ]
+        }
+       }
+      }
+     ]
+    },
+    "singles": {
+     "href": "/v1/catalog/us/artists/271256/view/singles?l=en-US",
+     "next": "/v1/catalog/us/artists/271256/view/singles?l=en-US&offset=10",
+     "attributes": {
+      "title": "Singles & EPs"
+     },
+     "data": [
+      {
+       "id": "1838368565",
+       "type": "albums",
+       "href": "/v1/catalog/us/albums/1838368565?l=en-US",
+       "attributes": {
+        "artistName": "Drake, Julia Wolf & Yeat",
+        "artwork": {
+         "bgColor": "3b3b3b",
+         "hasP3": false,
+         "height": 4000,
+         "textColor1": "f5f5f5",
+         "textColor2": "ffdcef",
+         "textColor3": "d0d0d0",
+         "textColor4": "d7bbca",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/76/c8/aa/76c8aa7a-85b0-91ba-3699-ef4a5147d8db/25UM1IM36997.rgb.jpg/{w}x{h}bb.jpg",
+         "width": 4000
+        },
+        "audioTraits": [
+         "lossless",
+         "lossy-stereo"
+        ],
+        "contentRating": "explicit",
+        "copyright": "℗ 2025 OVO, under exclusive license to Republic Records, a division of UMG Recordings, Inc.",
+        "editorialArtwork": {
+         "superHeroTall": {
+          "bgColor": "3b3b3b",
+          "gradient": {},
+          "hasP3": false,
+          "height": 2240,
+          "textColor1": "f5f5f5",
+          "textColor2": "ffdcef",
+          "textColor3": "d0d0d0",
+          "textColor4": "d7bbca",
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/76/c8/aa/76c8aa7a-85b0-91ba-3699-ef4a5147d8db/25UM1IM36997.rgb.jpg/{w}x{h}SHT.AMTPPS01.jpg?l=en-US",
+          "width": 1680
+         }
+        },
+        "genreNames": [
+         "Hip-Hop/Rap",
+         "Music"
+        ],
+        "isCompilation": false,
+        "isComplete": true,
+        "isMasteredForItunes": true,
+        "isPrerelease": false,
+        "isSingle": true,
+        "name": "DOG HOUSE - Single",
+        "playParams": {
+         "id": "1838368565",
+         "kind": "album"
+        },
+        "recordLabel": "OVO/Republic",
+        "releaseDate": "2025-09-09",
+        "trackCount": 1,
+        "upc": "00602488050036",
+        "url": "https://music.apple.com/us/album/dog-house-single/1838368565"
+       }
+      },
+      {
+       "id": "1837743029",
+       "type": "albums",
+       "href": "/v1/catalog/us/albums/1837743029?l=en-US",
+       "attributes": {
+        "artistName": "PARTYNEXTDOOR, Drake & Cash Cobain",
+        "artwork": {
+         "bgColor": "ffffff",
+         "hasP3": false,
+         "height": 3000,
+         "textColor1": "1b3517",
+         "textColor2": "193814",
+         "textColor3": "485e46",
+         "textColor4": "476043",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5e/ac/2f/5eac2faa-d16f-9795-ab56-05b23e6259aa/57290.jpg/{w}x{h}bb.jpg",
+         "width": 3000
+        },
+        "audioTraits": [
+         "atmos",
+         "lossless",
+         "lossy-stereo"
+        ],
+        "contentRating": "explicit",
+        "copyright": "℗ 2025 OVO Sound under exclusive license to Santa Anna Label Group and OVO under exclusive license to Republic Records, a division of UMG Recordings",
+        "editorialArtwork": {
+         "staticDetailSquare": {
+          "bgColor": "ffffff",
+          "hasP3": false,
+          "height": 3840,
+          "textColor1": "1c371a",
+          "textColor2": "183813",
+          "textColor3": "4a5f47",
+          "textColor4": "465f42",
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/ae/e1/f5/aee1f556-7779-8b0e-15a8-e43fad288755/Jobb8e480a7-6a18-437a-823f-bb161e195f70-202167468-PreviewImage_Preview_Image_Intermediate_nonvideo_sdr_395525363_2324542772-Time1757043420140.png/{w}x{h}bb.jpg",
+          "width": 3840
+         },
+         "staticDetailTall": {
+          "bgColor": "ffffff",
+          "gradient": {
+           "color": "ffffff",
+           "y2": 0.29
+          },
+          "hasP3": false,
+          "height": 2732,
+          "textColor1": "000000",
+          "textColor2": "2c3728",
+          "textColor3": "5d5d5d",
+          "textColor4": "565f53",
+          "textGradient": [
+           "000000",
+           "2c3728"
+          ],
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/68/6e/b4/686eb40e-d5e6-f26a-66eb-2e58718a0cb9/Jobb0e51e54-9e54-4e90-8112-51d9443c3935-202167467-PreviewImage_Preview_Image_Intermediate_nonvideo_sdr_395525364_2324542771-Time1757041870008.png/{w}x{h}bb.jpg",
+          "width": 2048
+         },
+         "superHeroTall": {
+          "bgColor": "ffffff",
+          "gradient": {},
+          "hasP3": false,
+          "height": 2240,
+          "textColor1": "1b3517",
+          "textColor2": "193814",
+          "textColor3": "485e46",
+          "textColor4": "476043",
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5e/ac/2f/5eac2faa-d16f-9795-ab56-05b23e6259aa/57290.jpg/{w}x{h}SHT.AMTPPS01.jpg?l=en-US",
+          "width": 1680
+         }
+        },
+        "editorialVideo": {
+         "motionDetailSquare": {
+          "previewFrame": {
+           "bgColor": "ffffff",
+           "hasP3": false,
+           "height": 3840,
+           "textColor1": "1c371a",
+           "textColor2": "183813",
+           "textColor3": "4a5f47",
+           "textColor4": "465f42",
+           "url": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/ae/e1/f5/aee1f556-7779-8b0e-15a8-e43fad288755/Jobb8e480a7-6a18-437a-823f-bb161e195f70-202167468-PreviewImage_Preview_Image_Intermediate_nonvideo_sdr_395525363_2324542772-Time1757043420140.png/{w}x{h}bb.jpg",
+           "width": 3840
+          },
+          "video": "https://mvod.itunes.apple.com/itunes-assets/HLSVideo211/v4/4f/5c/58/4f5c5835-719e-6ca8-971b-7444da684a92/P1177932384_default.m3u8"
+         },
+         "motionDetailTall": {
+          "previewFrame": {
+           "bgColor": "ffffff",
+           "gradient": {
+            "color": "ffffff",
+            "y2": 0.29
+           },
+           "hasP3": false,
+           "height": 2732,
+           "textColor1": "000000",
+           "textColor2": "2c3728",
+           "textColor3": "5d5d5d",
+           "textColor4": "565f53",
+           "textGradient": [
+            "000000",
+            "2c3728"
+           ],
+           "url": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/68/6e/b4/686eb40e-d5e6-f26a-66eb-2e58718a0cb9/Jobb0e51e54-9e54-4e90-8112-51d9443c3935-202167467-PreviewImage_Preview_Image_Intermediate_nonvideo_sdr_395525364_2324542771-Time1757041870008.png/{w}x{h}bb.jpg",
+           "width": 2048
+          },
+          "video": "https://mvod.itunes.apple.com/itunes-assets/HLSVideo211/v4/c2/db/cf/c2dbcf6a-da46-9db4-56f3-2a3153c190bf/P1177927183_default.m3u8"
+         },
+         "motionSquareVideo1x1": {
+          "previewFrame": {
+           "bgColor": "ffffff",
+           "hasP3": false,
+           "height": 3840,
+           "textColor1": "1c371a",
+           "textColor2": "183813",
+           "textColor3": "4a5f47",
+           "textColor4": "465f42",
+           "url": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/ae/e1/f5/aee1f556-7779-8b0e-15a8-e43fad288755/Jobb8e480a7-6a18-437a-823f-bb161e195f70-202167468-PreviewImage_Preview_Image_Intermediate_nonvideo_sdr_395525363_2324542772-Time1757043420140.png/{w}x{h}bb.jpg",
+           "width": 3840
+          },
+          "video": "https://mvod.itunes.apple.com/itunes-assets/HLSVideo211/v4/4f/5c/58/4f5c5835-719e-6ca8-971b-7444da684a92/P1177932384_default.m3u8"
+         },
+         "motionTallVideo3x4": {
+          "previewFrame": {
+           "bgColor": "ffffff",
+           "gradient": {
+            "color": "ffffff",
+            "y2": 0.29
+           },
+           "hasP3": false,
+           "height": 2732,
+           "textColor1": "000000",
+           "textColor2": "2c3728",
+           "textColor3": "5d5d5d",
+           "textColor4": "565f53",
+           "textGradient": [
+            "000000",
+            "2c3728"
+           ],
+           "url": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/68/6e/b4/686eb40e-d5e6-f26a-66eb-2e58718a0cb9/Jobb0e51e54-9e54-4e90-8112-51d9443c3935-202167467-PreviewImage_Preview_Image_Intermediate_nonvideo_sdr_395525364_2324542771-Time1757041870008.png/{w}x{h}bb.jpg",
+           "width": 2048
+          },
+          "video": "https://mvod.itunes.apple.com/itunes-assets/HLSVideo211/v4/c2/db/cf/c2dbcf6a-da46-9db4-56f3-2a3153c190bf/P1177927183_default.m3u8"
+         }
+        },
+        "genreNames": [
+         "R&B/Soul",
+         "Music"
+        ],
+        "isCompilation": false,
+        "isComplete": true,
+        "isMasteredForItunes": false,
+        "isPrerelease": false,
+        "isSingle": true,
+        "name": "SOMEBODY LOVES ME PT. 2 - Single",
+        "playParams": {
+         "id": "1837743029",
+         "kind": "album"
+        },
+        "recordLabel": "OVO Sound",
+        "releaseDate": "2025-09-05",
+        "trackCount": 1,
+        "upc": "808391328808",
+        "url": "https://music.apple.com/us/album/somebody-loves-me-pt-2-single/1837743029"
+       }
+      },
+      {
+       "id": "1828770371",
+       "type": "albums",
+       "href": "/v1/catalog/us/albums/1828770371?l=en-US",
+       "attributes": {
+        "artistName": "Drake & Central Cee",
+        "artwork": {
+         "bgColor": "52b5d0",
+         "hasP3": false,
+         "height": 5000,
+         "textColor1": "0d1415",
+         "textColor2": "101414",
+         "textColor3": "1b343a",
+         "textColor4": "1d353a",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cd/9d/8d/cd9d8d9b-f6bd-bac1-28d3-d7d4c672f497/25UM1IM00974.rgb.jpg/{w}x{h}bb.jpg",
+         "width": 5000
+        },
+        "audioTraits": [
+         "lossless",
+         "lossy-stereo"
+        ],
+        "contentRating": "explicit",
+        "copyright": "℗ 2025 OVO, under exclusive license to Republic Records, a division of UMG Recordings, Inc.",
+        "editorialArtwork": {
+         "superHeroTall": {
+          "bgColor": "52b5d0",
+          "gradient": {},
+          "hasP3": false,
+          "height": 2240,
+          "textColor1": "0d1415",
+          "textColor2": "101414",
+          "textColor3": "1b343a",
+          "textColor4": "1d353a",
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cd/9d/8d/cd9d8d9b-f6bd-bac1-28d3-d7d4c672f497/25UM1IM00974.rgb.jpg/{w}x{h}SHT.AMTPPS01.jpg?l=en-US",
+          "width": 1680
+         }
+        },
+        "genreNames": [
+         "Hip-Hop/Rap",
+         "Music"
+        ],
+        "isCompilation": false,
+        "isComplete": true,
+        "isMasteredForItunes": true,
+        "isPrerelease": false,
+        "isSingle": true,
+        "name": "Which One - Single",
+        "playParams": {
+         "id": "1828770371",
+         "kind": "album"
+        },
+        "recordLabel": "OVO/Republic",
+        "releaseDate": "2025-07-25",
+        "trackCount": 1,
+        "upc": "00602478820663",
+        "url": "https://music.apple.com/us/album/which-one-single/1828770371"
+       }
+      }
+     ]
+    },
+    "top-music-videos": {
+     "href": "/v1/catalog/us/artists/271256/view/top-music-videos?l=en-US",
+     "next": "/v1/catalog/us/artists/271256/view/top-music-videos?l=en-US&offset=10",
+     "attributes": {
+      "title": "Top Videos"
+     },
+     "data": [
+      {
+       "id": "1494080093",
+       "type": "music-videos",
+       "href": "/v1/catalog/us/music-videos/1494080093?l=en-US",
+       "attributes": {
+        "artistName": "Future",
+        "artwork": {
+         "bgColor": "000000",
+         "hasP3": false,
+         "height": 816,
+         "textColor1": "ffe9ab",
+         "textColor2": "eab8aa",
+         "textColor3": "cbba88",
+         "textColor4": "bb9388",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Video123/v4/8d/b5/54/8db55441-53ae-f67e-b399-2b0c6a9958b7/8864482223780101.jpg/{w}x{h}mv.jpg",
+         "width": 1920
+        },
+        "contentRating": "explicit",
+        "durationInMillis": 335635,
+        "editorialArtwork": {
+         "subscriptionHero": {
+          "bgColor": "020027",
+          "hasP3": false,
+          "height": 1080,
+          "textColor1": "a2a5db",
+          "textColor2": "6b9ce7",
+          "textColor3": "8284b7",
+          "textColor4": "567dc1",
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Features123/v4/5f/a1/81/5fa181e1-d37a-8af9-dcdc-d21f3b2def0c/pr_source.png/{w}x{h}sr.jpg",
+          "width": 4320
+         }
+        },
+        "genreNames": [
+         "Hip-Hop/Rap"
+        ],
+        "has4K": false,
+        "hasHDR": false,
+        "isrc": "USSM21902296",
+        "name": "Life Is Good (feat. Drake)",
+        "playParams": {
+         "id": "1494080093",
+         "kind": "musicVideo"
+        },
+        "previews": [
+         {
+          "artwork": {
+           "bgColor": "1a1603",
+           "hasP3": false,
+           "height": 816,
+           "textColor1": "cebb95",
+           "textColor2": "ceb484",
+           "textColor3": "aa9a78",
+           "textColor4": "aa946a",
+           "url": "https://is1-ssl.mzstatic.com/image/thumb/Video113/v4/54/df/84/54df84c4-f0f0-55c0-c82c-52dcc8b79ae9/Job0b9783d7-c64e-4e5e-92d8-134e556a14d5-105003199-PreviewImage_preview_image_103000_video_sdr-Time1578651539012.png/{w}x{h}bb.jpg",
+           "width": 1920
+          },
+          "hlsUrl": "https://play-edge.itunes.apple.com/WebObjects/MZPlayLocal.woa/hls/playlist.m3u8?cc=US&a=1494080093&id=63712012&aec=HD&l=en",
+          "url": "https://video-ssl.itunes.apple.com/itunes-assets/Video123/v4/43/68/b5/4368b589-9bf1-7e5f-716c-052543fea229/mzvf_7797661527518865223.720w.h264lc.U.p.m4v"
+         }
+        ],
+        "releaseDate": "2020-01-09",
+        "url": "https://music.apple.com/us/music-video/life-is-good-feat-drake/1494080093",
+        "videoTraits": []
+       }
+      },
+      {
+       "id": "1527924863",
+       "type": "music-videos",
+       "href": "/v1/catalog/us/music-videos/1527924863?l=en-US",
+       "attributes": {
+        "albumArtistName": "Drake",
+        "albumName": "Laugh Now Cry Later (feat. Lil Durk) - Single",
+        "artistName": "Drake",
+        "artwork": {
+         "bgColor": "060f12",
+         "hasP3": false,
+         "height": 1072,
+         "textColor1": "94cfcf",
+         "textColor2": "c9af93",
+         "textColor3": "77a9a9",
+         "textColor4": "a18f79",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Video114/v4/5d/bc/16/5dbc160b-a920-b2c5-7252-9f9cd194667e/20UMGIM71043.crop.jpg/{w}x{h}mv.jpg",
+         "width": 1912
+        },
+        "contentRating": "explicit",
+        "discNumber": 1,
+        "durationInMillis": 301310,
+        "editorialArtwork": {},
+        "genreNames": [
+         "Hip-Hop/Rap"
+        ],
+        "has4K": false,
+        "hasHDR": false,
+        "isrc": "USUMV2001616",
+        "name": "Laugh Now Cry Later (feat. Lil Durk)",
+        "playParams": {
+         "id": "1527924863",
+         "kind": "musicVideo"
+        },
+        "previews": [
+         {
+          "artwork": {
+           "bgColor": "0c2330",
+           "hasP3": false,
+           "height": 1072,
+           "textColor1": "b3d4c2",
+           "textColor2": "d0af82",
+           "textColor3": "92b1a4",
+           "textColor4": "a89372",
+           "url": "https://is1-ssl.mzstatic.com/image/thumb/Video124/v4/d7/5b/dc/d75bdcea-1f52-1a79-37cd-9dabbf6aeb5c/Job181f6dae-fc82-4c00-a28b-01e623eb4f56-107229257-PreviewImage_preview_image_45000_video_sdr-Time1597715921125.png/{w}x{h}bb.jpg",
+           "width": 1912
+          },
+          "hlsUrl": "https://play-edge.itunes.apple.com/WebObjects/MZPlayLocal.woa/hls/playlist.m3u8?cc=US&a=1527924863&id=68406064&aec=HD&l=en",
+          "url": "https://video-ssl.itunes.apple.com/itunes-assets/Video114/v4/e5/31/61/e53161d3-d8ad-5c56-1d05-cedd1938104b/mzvf_3440074270627081199.720w.h264lc.U.p.m4v"
+         }
+        ],
+        "releaseDate": "2020-08-17",
+        "trackNumber": 2,
+        "url": "https://music.apple.com/us/music-video/laugh-now-cry-later-feat-lil-durk/1527924863",
+        "videoTraits": []
+       }
+      },
+      {
+       "id": "1439553903",
+       "type": "music-videos",
+       "href": "/v1/catalog/us/music-videos/1439553903?l=en-US",
+       "attributes": {
+        "artistName": "Travis Scott",
+        "artwork": {
+         "bgColor": "020e0e",
+         "hasP3": false,
+         "height": 1080,
+         "textColor1": "f8fad1",
+         "textColor2": "fccc81",
+         "textColor3": "c7cbaa",
+         "textColor4": "caa66a",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Video124/v4/45/13/27/451327ea-4a78-6f1d-ebe3-6d656c9cee5f/dj.jioikrmx.jpg/{w}x{h}mv.jpg",
+         "width": 1920
+        },
+        "contentRating": "explicit",
+        "durationInMillis": 323198,
+        "editorialArtwork": {
+         "subscriptionHero": {
+          "bgColor": "101205",
+          "hasP3": false,
+          "height": 1080,
+          "textColor1": "e8e5df",
+          "textColor2": "dad3c5",
+          "textColor3": "bdbab3",
+          "textColor4": "b2ac9e",
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Features128/v4/0e/7f/d1/0e7fd1f2-7af1-dd71-867f-a893192e0c6c/mza_9211647952670434389.png/{w}x{h}sr.jpg",
+          "width": 4320
+         }
+        },
+        "genreNames": [
+         "Hip-Hop/Rap"
+        ],
+        "has4K": false,
+        "hasHDR": false,
+        "isrc": "USSM21801390",
+        "name": "Sicko Mode (feat. Drake)",
+        "playParams": {
+         "id": "1439553903",
+         "kind": "musicVideo"
+        },
+        "previews": [
+         {
+          "artwork": {
+           "bgColor": "250807",
+           "hasP3": false,
+           "height": 1080,
+           "textColor1": "f35641",
+           "textColor2": "f5291a",
+           "textColor3": "c94735",
+           "textColor4": "cb2316",
+           "url": "https://is1-ssl.mzstatic.com/image/thumb/Video114/v4/92/1b/03/921b0382-99cd-1177-4afb-f158ebdea3fb/Jobbb7388a9-e166-49b3-b8b2-06f7312af651-109053486-PreviewImage_preview_image_60000_video_sdr-Time1612044074845.png/{w}x{h}bb.jpg",
+           "width": 1920
+          },
+          "hlsUrl": "https://play-edge.itunes.apple.com/WebObjects/MZPlayLocal.woa/hls/playlist.m3u8?cc=US&a=1439553903&id=229137056&aec=HD&l=en",
+          "url": "https://video-ssl.itunes.apple.com/itunes-assets/Video124/v4/77/c0/57/77c0575a-ae98-8151-c7bc-89b9d6b0c7c4/mzvf_10080307982142291153.720w.h264lc.U.p.m4v"
+         }
+        ],
+        "releaseDate": "2018-10-19",
+        "url": "https://music.apple.com/us/music-video/sicko-mode-feat-drake/1439553903",
+        "videoTraits": []
+       }
+      }
+     ]
+    },
+    "top-songs": {
+     "href": "/v1/catalog/us/artists/271256/view/top-songs?l=en-US",
+     "next": "/v1/catalog/us/artists/271256/view/top-songs?l=en-US&offset=10",
+     "attributes": {
+      "title": "Top Songs"
+     },
+     "data": [
+      {
+       "id": "1621119447",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/1621119447?l=en-US",
+       "attributes": {
+        "albumArtistName": "Future",
+        "albumName": "I NEVER LIKED YOU",
+        "artistName": "Future",
+        "artwork": {
+         "bgColor": "311911",
+         "hasP3": false,
+         "height": 3600,
+         "textColor1": "f3d796",
+         "textColor2": "d68b5b",
+         "textColor3": "ccb17b",
+         "textColor4": "b5744c",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/65/f2/06/65f2067b-a8ea-239c-c219-8e0f0282dcea/196589073693.jpg/{w}x{h}bb.jpg",
+         "width": 3600
+        },
+        "audioLocale": "en-US",
+        "audioTraits": [
+         "atmos",
+         "hi-res-lossless",
+         "lossless"
+        ],
+        "composerName": "Tejiri Akpoghene, Floyd E. Bentley III, Nayvadius Wilburn, Aubrey Drake Graham, Temilade Openiyi, Jacob Canady, Michael Mule, Isaac De Boni, Oluwatoroti Oke & Israel Ayomide Fowobaje",
+        "contentRating": "explicit",
+        "discNumber": 1,
+        "durationInMillis": 189893,
+        "editorialArtwork": {},
+        "genreNames": [
+         "Hip-Hop/Rap",
+         "Music"
+        ],
+        "hasLyrics": true,
+        "hasTimeSyncedLyrics": true,
+        "isAppleDigitalMaster": false,
+        "isMasteredForItunes": false,
+        "isVocalAttenuationAllowed": true,
+        "isrc": "USSM12203789",
+        "name": "WAIT FOR U (feat. Drake & Tems)",
+        "playParams": {
+         "id": "1621119447",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/77/67/90/77679025-8a80-42a2-bbcd-335dd083295b/mzaf_7314791168777766376.plus.aac.ep.m4a"
+         }
+        ],
+        "releaseDate": "2022-04-29",
+        "trackNumber": 7,
+        "url": "https://music.apple.com/us/album/wait-for-u-feat-drake-tems/1621119097?i=1621119447"
+       },
+       "relationships": {
+        "station": {
+         "href": "/v1/catalog/us/songs/1621119447/station?l=en-US",
+         "data": [
+          {
+           "id": "ra.1621119447",
+           "type": "stations",
+           "href": "/v1/catalog/us/stations/ra.1621119447?l=en-US",
+           "attributes": {
+            "artwork": {
+             "bgColor": "311911",
+             "hasP3": false,
+             "height": 3600,
+             "textColor1": "f3d796",
+             "textColor2": "d68b5b",
+             "textColor3": "ccb17b",
+             "textColor4": "b5744c",
+             "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/65/f2/06/65f2067b-a8ea-239c-c219-8e0f0282dcea/196589073693.jpg/{w}x{h}AM.RSSB03.jpg",
+             "width": 3600
+            },
+            "editorialArtwork": {},
+            "isLive": false,
+            "kind": "songSeeded",
+            "mediaKind": "audio",
+            "name": "WAIT FOR U (feat. Drake & Tems) Station",
+            "playParams": {
+             "format": "tracks",
+             "hasDrm": false,
+             "id": "ra.1621119447",
+             "kind": "radioStation",
+             "mediaType": 0,
+             "stationHash": "CgkIARoF16OBhQYQAQ"
+            },
+            "radioUrl": "itsradio://music.apple.com/us/station/ra.1621119447",
+            "requiresSubscription": true,
+            "url": "https://music.apple.com/us/station/wait-for-u-feat-drake-tems-station/ra.1621119447"
+           }
+          }
+         ]
+        }
+       }
+      },
+      {
+       "id": "1452017954",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/1452017954?l=en-US",
+       "attributes": {
+        "albumArtistName": "Drake",
+        "albumName": "So Far Gone",
+        "artistName": "Drake",
+        "artwork": {
+         "bgColor": "000000",
+         "hasP3": false,
+         "height": 3000,
+         "textColor1": "e5e5e5",
+         "textColor2": "c9c9c9",
+         "textColor3": "b7b7b7",
+         "textColor4": "a1a1a1",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/7e/b0/35/7eb0353b-8f25-32dd-5f5e-71d9ed700247/00602577524004.rgb.jpg/{w}x{h}bb.jpg",
+         "width": 3000
+        },
+        "audioLocale": "en-US",
+        "audioTraits": [
+         "lossless",
+         "lossy-stereo"
+        ],
+        "composerName": "Matthew Jehu Samuels & Aubrey Drake Graham",
+        "contentRating": "explicit",
+        "discNumber": 1,
+        "durationInMillis": 257690,
+        "editorialArtwork": {},
+        "genreNames": [
+         "Hip-Hop/Rap",
+         "Music"
+        ],
+        "hasLyrics": true,
+        "hasTimeSyncedLyrics": true,
+        "isAppleDigitalMaster": true,
+        "isMasteredForItunes": true,
+        "isVocalAttenuationAllowed": true,
+        "isrc": "USCM51900161",
+        "name": "Best I Ever Had",
+        "playParams": {
+         "id": "1452017954",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/00/dd/f3/00ddf3d1-073d-dfbe-b7d5-b41280fc9d07/mzaf_13308763546930604098.plus.aac.ep.m4a"
+         }
+        ],
+        "releaseDate": "2009-02-13",
+        "trackNumber": 10,
+        "url": "https://music.apple.com/us/album/best-i-ever-had/1452017773?i=1452017954"
+       },
+       "relationships": {
+        "station": {
+         "href": "/v1/catalog/us/songs/1452017954/station?l=en-US",
+         "data": [
+          {
+           "id": "ra.1452017954",
+           "type": "stations",
+           "href": "/v1/catalog/us/stations/ra.1452017954?l=en-US",
+           "attributes": {
+            "artwork": {
+             "bgColor": "000000",
+             "hasP3": false,
+             "height": 3000,
+             "textColor1": "e5e5e5",
+             "textColor2": "c9c9c9",
+             "textColor3": "b7b7b7",
+             "textColor4": "a1a1a1",
+             "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/7e/b0/35/7eb0353b-8f25-32dd-5f5e-71d9ed700247/00602577524004.rgb.jpg/{w}x{h}AM.RSSB03.jpg",
+             "width": 3000
+            },
+            "editorialArtwork": {},
+            "isLive": false,
+            "kind": "songSeeded",
+            "mediaKind": "audio",
+            "name": "Best I Ever Had Station",
+            "playParams": {
+             "format": "tracks",
+             "hasDrm": false,
+             "id": "ra.1452017954",
+             "kind": "radioStation",
+             "mediaType": 0,
+             "stationHash": "CgkIARoFopKwtAUQAQ"
+            },
+            "radioUrl": "itsradio://music.apple.com/us/station/ra.1452017954",
+            "requiresSubscription": true,
+            "url": "https://music.apple.com/us/station/best-i-ever-had-station/ra.1452017954"
+           }
+          }
+         ]
+        }
+       }
+      },
+      {
+       "id": "1556670532",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/1556670532?l=en-US",
+       "attributes": {
+        "albumArtistName": "Drake",
+        "albumName": "Scary Hours 2",
+        "artistName": "Drake",
+        "artwork": {
+         "bgColor": "10162e",
+         "hasP3": false,
+         "height": 3000,
+         "textColor1": "86b1f4",
+         "textColor2": "6da3f4",
+         "textColor3": "6e92cc",
+         "textColor4": "5a86cc",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/63/2a/34/632a3488-d104-3ff1-dc02-4ed86f58ed05/21UMGIM18577.rgb.jpg/{w}x{h}bb.jpg",
+         "width": 3000
+        },
+        "audioLocale": "en-US",
+        "audioTraits": [
+         "lossless",
+         "lossy-stereo"
+        ],
+        "composerName": "Aubrey Drake Graham, Dominique' Jones, Ronald LaTour, Dylan Cleary-Krell & Noah \"40\" Shebib",
+        "contentRating": "explicit",
+        "discNumber": 1,
+        "durationInMillis": 192956,
+        "editorialArtwork": {},
+        "genreNames": [
+         "Hip-Hop/Rap",
+         "Music"
+        ],
+        "hasLyrics": true,
+        "hasTimeSyncedLyrics": true,
+        "isAppleDigitalMaster": true,
+        "isMasteredForItunes": true,
+        "isVocalAttenuationAllowed": true,
+        "isrc": "USUG12101042",
+        "name": "Wants and Needs (feat. Lil Baby)",
+        "playParams": {
+         "id": "1556670532",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8f/f5/f3/8ff5f38f-5803-212f-2edf-29865316646b/mzaf_17955789529557057386.plus.aac.ep.m4a"
+         }
+        ],
+        "releaseDate": "2021-03-05",
+        "trackNumber": 2,
+        "url": "https://music.apple.com/us/album/wants-and-needs-feat-lil-baby/1556669854?i=1556670532"
+       },
+       "relationships": {
+        "station": {
+         "href": "/v1/catalog/us/songs/1556670532/station?l=en-US",
+         "data": [
+          {
+           "id": "ra.1556670532",
+           "type": "stations",
+           "href": "/v1/catalog/us/stations/ra.1556670532?l=en-US",
+           "attributes": {
+            "artwork": {
+             "bgColor": "10162e",
+             "hasP3": false,
+             "height": 3000,
+             "textColor1": "86b1f4",
+             "textColor2": "6da3f4",
+             "textColor3": "6e92cc",
+             "textColor4": "5a86cc",
+             "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/63/2a/34/632a3488-d104-3ff1-dc02-4ed86f58ed05/21UMGIM18577.rgb.jpg/{w}x{h}AM.RSSB03.jpg",
+             "width": 3000
+            },
+            "editorialArtwork": {},
+            "isLive": false,
+            "kind": "songSeeded",
+            "mediaKind": "audio",
+            "name": "Wants and Needs (feat. Lil Baby) Station",
+            "playParams": {
+             "format": "tracks",
+             "hasDrm": false,
+             "id": "ra.1556670532",
+             "kind": "radioStation",
+             "mediaType": 0,
+             "stationHash": "CgkIARoFxNCj5gUQAQ"
+            },
+            "radioUrl": "itsradio://music.apple.com/us/station/ra.1556670532",
+            "requiresSubscription": true,
+            "url": "https://music.apple.com/us/station/wants-and-needs-feat-lil-baby-station/ra.1556670532"
+           }
+          }
+         ]
+        }
+       }
+      }
+     ]
+    }
+   },
+   "meta": {
+    "views": {
+     "order": [
+      "latest-release",
+      "top-songs",
+      "featured-albums"
+     ]
+    }
+   }
+  }
+ ]
+}

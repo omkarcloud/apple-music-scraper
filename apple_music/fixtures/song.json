@@ -1,0 +1,662 @@
+{
+ "data": [
+  {
+   "id": "1440841367",
+   "type": "songs",
+   "href": "/v1/catalog/us/songs/1440841367?l=en-US",
+   "attributes": {
+    "albumArtistName": "Drake",
+    "albumName": "Views",
+    "artistName": "Drake",
+    "artwork": {
+     "bgColor": "46535d",
+     "hasP3": false,
+     "height": 3000,
+     "textColor1": "e9f6f9",
+     "textColor2": "dfeef7",
+     "textColor3": "c8d5d9",
+     "textColor4": "c0cfd8",
+     "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f2/0d/8b/f20d8bff-a927-ae98-6784-20a1f51cb23e/16UMGIM27642.rgb.jpg/{w}x{h}bb.jpg",
+     "width": 3000
+    },
+    "audioLocale": "en-US",
+    "audioTraits": [
+     "lossless",
+     "lossy-stereo"
+    ],
+    "composerName": "Aubrey Drake Graham & Maneesh Bidaye",
+    "contentRating": "explicit",
+    "discNumber": 1,
+    "durationInMillis": 328910,
+    "extendedAssetUrls": {
+     "enhancedHls": "https://aod.itunes.apple.com/itunes-assets/HLSMusic221/v4/80/01/21/800121bf-1709-0221-aba3-22981a6d2982/P1489503390_lossless.m3u8",
+     "lightweight": "https://streamingaudio.itunes.apple.com/itunes-assets/Music221/v4/25/d7/5d/25d75def-3a6b-ca72-48f4-5dd9496dc1cf/mzaf_582048455667422633.lw.aac.a.m4p?accessKey=1792397002_6727474426831648067_3f52K%2FjJzqkdRg9HCATAeLATqENrfBuT1rMqw7SxPz7%2FVwO2RI567eCQ5bYsWmX6R3oUIjmMPSj3N3nnmaa4aEbxfPIhvNLVsk9IB0wEpDZUJESnce0q9yIoTyAYInj7PAey6vI5HxCMiggIsmyzq%2FRKXCgU66JvkOtqnRWqHodvvhtC5HF%2BGxupCs9jJAtY",
+     "lightweightPlus": "https://streamingaudio.itunes.apple.com/itunes-assets/Music221/v4/25/d7/5d/25d75def-3a6b-ca72-48f4-5dd9496dc1cf/mzaf_14916652142895705004.lwhq.aac.a.m4p?accessKey=1792397002_8970775051366891347_u461xam%2B9Evr9MHztk6nTa%2BoB%2FPWCC%2FtMCMMJAj%2FtHo%2BERC2wKEMmSMlTaC0PMNt5dlJMFJFJewU1XGMn4U0o6ZMnYEA1K%2BGSP4%2FNKeUX%2Bn3DfzerhMP3ZLpV7zVq8y4Eq%2Bidq3lDIVtURGw5wNIgCfKNrcwnQu5SjMnB7Dy3ZPiE0TOMt8oJTFzBhurblnJ",
+     "plus": "https://streamingaudio.itunes.apple.com/itunes-assets/Music221/v4/25/d7/5d/25d75def-3a6b-ca72-48f4-5dd9496dc1cf/mzaf_17007648379959483636.plus.aac.a.m4p?accessKey=1792397002_8351672354876823299_rj1qXaa1Z1qfkOocFPU7nI76RztL0RwM9dtOEcaIiwfKgtbS85lZLUjlXFyuov0KgCi1betubtbpChsFN2UIQ2Mc1RFpm5x92fDuCeQx2Ed5gFACavAPqHLWNZdm1HT6ham7k16pgtwi9oeWreFNexp3CeppQwDc6oag9f9cHiXbH%2BFDAKY5iMuo3nU8V2Di",
+     "superLightweight": "https://streamingaudio.itunes.apple.com/itunes-assets/Music221/v4/25/d7/5d/25d75def-3a6b-ca72-48f4-5dd9496dc1cf/mzaf_830140621586324678.slw.aac.a.m4p?accessKey=1792397002_6457929101025280865_1TT5udqYXP9NnIG4BO58%2FDDTV91Iy9wbS7806u9dgpGDYd7caRV9RKRcJq6YGLK8gQESelYOweDCi0a7Yty2cV4SXpvr50g%2Bcckcbs2GDLZvq75ZdQUl1eMnSsMvQpN06V30HBzne8v%2F%2B%2FRptIFZ%2BZ2bEiPrkf3JV4ZFAh7XYqCDIgQ3alR9i%2FIdNGo2cSm4"
+    },
+    "genreNames": [
+     "Hip-Hop/Rap",
+     "Music"
+    ],
+    "hasLyrics": true,
+    "hasTimeSyncedLyrics": true,
+    "isAppleDigitalMaster": true,
+    "isMasteredForItunes": true,
+    "isVocalAttenuationAllowed": true,
+    "isrc": "USCM51600061",
+    "lyricsExcerpt": "It's a little chilly out there\nHow they standin' out there is beyond me",
+    "name": "Keep the Family Close",
+    "playParams": {
+     "id": "1440841367",
+     "kind": "song"
+    },
+    "previews": [
+     {
+      "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/67/ff/a6/67ffa612-3d40-9fb5-aff9-2b4ef1845f76/mzaf_9376529871734784038.plus.aac.ep.m4a"
+     }
+    ],
+    "releaseDate": "2016-04-29",
+    "trackNumber": 1,
+    "url": "https://music.apple.com/us/album/keep-the-family-close/1440841363?i=1440841367"
+   },
+   "relationships": {
+    "albums": {
+     "href": "/v1/catalog/us/songs/1440841367/albums?l=en-US",
+     "data": [
+      {
+       "id": "1440841363",
+       "type": "albums",
+       "href": "/v1/catalog/us/albums/1440841363?l=en-US",
+       "attributes": {
+        "artistName": "Drake",
+        "artwork": {
+         "bgColor": "46535d",
+         "hasP3": false,
+         "height": 3000,
+         "textColor1": "e9f6f9",
+         "textColor2": "dfeef7",
+         "textColor3": "c8d5d9",
+         "textColor4": "c0cfd8",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f2/0d/8b/f20d8bff-a927-ae98-6784-20a1f51cb23e/16UMGIM27642.rgb.jpg/{w}x{h}bb.jpg",
+         "width": 3000
+        },
+        "audioTraits": [
+         "lossless",
+         "lossy-stereo"
+        ],
+        "contentRating": "explicit",
+        "copyright": "℗ 2016 Young Money Entertainment/Cash Money Records",
+        "editorialNotes": {
+         "short": "“Views already a classic.” He knew before he even delivered it.",
+         "standard": "On the cover of his fourth studio album <i>Views</i>, Drake looks down from atop Toronto’s CN Tower, paying homage to the city’s notoriously frigid winter temperatures in a heavyweight shearling coat and high-cut boots. He looks less like the superhero he’d made himself into over the course of a roughly six-year rise as singer-songwriter extraordinaire and more like a troubled monarch. <i>Views</i>, which followed two wildly successful projects in 2015 that he’d branded as mixtapes—<i>If You’re Reading This It’s Too Late</i> and the Future collab <i>What a Time to Be Alive</i>—would confirm him as both, his penchant for immaculate songwriting still fully intact and the pressures of existing as the most popular voice in rap, as well as his hometown’s most successful export, weighing heavy on his mind.\n\n“I made a decision last night that I would die for it,” Drake raps on “9.” “Just to show the city what it takes to be alive for it.” Drake’s presence eclipsed Toronto just about as soon as <i>So Far Gone</i> dropped, but the city—and what it thinks of him—was never far from his mind. There are references here to specific people (“Redemption”), places (“Weston Road Flows”), and experiences (“Views”), along with nods to the influence of the city’s Caribbean population on “With You,” “Controlla,” and “Too Good” (which just happens to feature Rihanna).\n\nHe isn’t too much for the world, though, ruminating on his position as one of music’s biggest names—and those who’d rather he wasn’t—on songs like “Still Here,” “Hype,” and “Grammys.” Maybe the the most affecting acknowledgment to this end is the fact that “Hotline Bling,” a strong contender for 2015 song of the summer, was such an afterthought by the time <i>Views</i> was released that it appears here as a bonus track. For all intents and purposes, the Drake of <i>Views</i> is the same one we got on <i>If You’re Reading This</i> and <i>What a Time</i>, but if his previous proper album (<i>Nothing Was the Same</i>) foretold anything, it’s that the man peering down from CN Tower sees things differently than the rest of us."
+        },
+        "genreNames": [
+         "Hip-Hop/Rap",
+         "Music"
+        ],
+        "isCompilation": false,
+        "isComplete": true,
+        "isMasteredForItunes": true,
+        "isPrerelease": false,
+        "isSingle": false,
+        "name": "Views",
+        "playParams": {
+         "id": "1440841363",
+         "kind": "album"
+        },
+        "recordLabel": "Cash Money Records/Young Money Ent./Universal Rec.",
+        "releaseDate": "2016-04-29",
+        "trackCount": 20,
+        "upc": "00602547943491",
+        "url": "https://music.apple.com/us/album/views/1440841363"
+       }
+      }
+     ]
+    },
+    "artists": {
+     "href": "/v1/catalog/us/songs/1440841367/artists?l=en-US",
+     "data": [
+      {
+       "id": "271256",
+       "type": "artists",
+       "href": "/v1/catalog/us/artists/271256?l=en-US",
+       "attributes": {
+        "artwork": {
+         "bgColor": "fafafa",
+         "defaultCropCode": "bb",
+         "hasP3": false,
+         "height": 1825,
+         "textColor1": "040404",
+         "textColor2": "161616",
+         "textColor3": "353535",
+         "textColor4": "444444",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages112/v4/1b/71/65/1b716513-b0c1-9c6b-45aa-cbb9198248cc/01607cf1-1d52-43d2-84ce-d6fc1f4a3475_ami-identity-7665599cc626d803af7956b3691905e7-2022-11-30T21-07-19.526Z_cropped.png/{w}x{h}bb.jpg",
+         "width": 1825
+        },
+        "editorialNotes": {
+         "short": "One of the most innovative hip-hop artists in the business."
+        },
+        "genreNames": [
+         "Hip-Hop/Rap"
+        ],
+        "name": "Drake",
+        "url": "https://music.apple.com/us/artist/drake/271256"
+       },
+       "relationships": {
+        "albums": {
+         "href": "/v1/catalog/us/artists/271256/albums?l=en-US",
+         "next": "/v1/catalog/us/artists/271256/albums?l=en-US&offset=25",
+         "data": [
+          {
+           "id": "1418213110",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1418213110?l=en-US",
+           "attributes": {
+            "artistName": "Drake",
+            "artwork": {
+             "bgColor": "2f2f2f",
+             "hasP3": false,
+             "height": 3000,
+             "textColor1": "fdfdfd",
+             "textColor2": "e4e4e4",
+             "textColor3": "d4d4d4",
+             "textColor4": "c0c0c0",
+             "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/1f/37/43/1f374304-2e04-2be3-53ea-41dd6f0b6fb8/00602567892410.rgb.jpg/{w}x{h}bb.jpg",
+             "width": 3000
+            },
+            "audioTraits": [
+             "lossless",
+             "lossy-stereo"
+            ],
+            "contentRating": "explicit",
+            "copyright": "℗ 2018 Young Money/Cash Money Records",
+            "editorialNotes": {
+             "short": "Two sides of a story the OVO boss was born to tell.",
+             "standard": "I HATE WHEN DRAKE RAPS<br />DRAKE SINGS TOO MUCH<br />DRAKE IS A POP ARTIST<br />DRAKE DOESN’T EVEN WRITE HIS OWN SONGS<br />DRAKE TOOK AN L<br />DRAKE DIDN’T START FROM THE BOTTOM<br />DRAKE IS FINISHED<br />I LIKE DRAKE'S OLDER STUFF<br />DRAKE MAKES MUSIC FOR GIRLS<br />DRAKE THINKS HE’S JAMAICAN<br />DRAKE IS AN ACTOR<br />DRAKE CHANGED<br />ANYBODY ELSE > DRAKE …<br /><br />YEAH YEAH WE KNOW"
+            },
+            "genreNames": [
+             "Hip-Hop/Rap",
+             "Music",
+             "Rap"
+            ],
+            "isCompilation": false,
+            "isComplete": true,
+            "isMasteredForItunes": false,
+            "isPrerelease": false,
+            "isSingle": false,
+            "name": "Scorpion",
+            "playParams": {
+             "id": "1418213110",
+             "kind": "album"
+            },
+            "recordLabel": "Cash Money/Drake LP6",
+            "releaseDate": "2018-06-29",
+            "trackCount": 25,
+            "upc": "00602567892410",
+            "url": "https://music.apple.com/us/album/scorpion/1418213110"
+           }
+          },
+          {
+           "id": "1652998965",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1652998965?l=en-US",
+           "attributes": {
+            "artistName": "Drake & 21 Savage",
+            "artwork": {
+             "bgColor": "b198a9",
+             "hasP3": false,
+             "height": 3000,
+             "textColor1": "0c0a12",
+             "textColor2": "1b141f",
+             "textColor3": "2d2630",
+             "textColor4": "392e3b",
+             "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/c7/00/3f/c7003f83-3a43-1201-4aec-41be71ba64c5/22UM1IM29131.rgb.jpg/{w}x{h}bb.jpg",
+             "width": 3000
+            },
+            "audioTraits": [
+             "lossless",
+             "lossy-stereo"
+            ],
+            "contentRating": "explicit",
+            "copyright": "℗ 2022 OVO, under exclusive license to Republic Records, a division of UMG Recordings, Inc",
+            "editorialNotes": {
+             "short": "Her Loss is our gain. The “Jimmy Cooks” duo show up big for each other.",
+             "standard": "Drake and 21 Savage’s <i>Her Loss</i> is the culmination of a relationship that dates at least as far back as 2016, when the pair linked up for “Sneakin’.” Back then, 21 was a burgeoning Atlanta rapper with a lot of promise (and an association with producer of the moment Metro Boomin), while Drake was arguably the most impactful singer and MC in the world and the guy whose co-sign could be counted on to usher bubbling talents into proper rap stardom. Some eight years and three additional collaborations later, 21 Savage is most assuredly a bona fide rap star and Drake is still arguably the most impactful singer and MC in the world, but the 16 tracks that make up <i>Her Loss</i> reveal the pairing as somehow larger than the sum of its parts. \n\nIt was likely <i>Honestly, Nevermind</i> standout “Jimmy Cooks” that inspired, or at the very least prioritized, <i>Her Loss</i>. The song was a stylistic outlier from that album’s house and techno-adjacent dance music thread, allowing Drake and Savage the chance to do what they’ve always enjoyed doing together: rail against entitled love interests, revel in the lifestyle they’ve earned, and, for 21 Savage specifically, remind listeners that his guns still do go off. <i>Her Loss</i> is much of the same, with the pair leaning into a shared disdain for less-accomplished artists (“On BS,” “Privileged Rappers,” “Broke Boys”), sharing their views on contemporary courtship (“Spin Bout U,” “Hours in Silence”), detailing what life as a superstar rapper entails (“Circo Loco,” “Pussy & Millions”), and, in one instance, rapping about how much they appreciate one another (“Treacherous Twins”). The love they profess for one another might at first play as eyebrow-raising, but to question it would be to willfully ignore the notion that laying down raps, like nearly anything else, is just that much more fun with your bestie in tow. ",
+             "tagline": "Recommended Album"
+            },
+            "genreNames": [
+             "Hip-Hop/Rap",
+             "Music"
+            ],
+            "isCompilation": false,
+            "isComplete": true,
+            "isMasteredForItunes": true,
+            "isPrerelease": false,
+            "isSingle": false,
+            "name": "Her Loss",
+            "playParams": {
+             "id": "1652998965",
+             "kind": "album"
+            },
+            "recordLabel": "OVO / Republic Records",
+            "releaseDate": "2022-11-04",
+            "trackCount": 16,
+            "upc": "00602448926067",
+            "url": "https://music.apple.com/us/album/her-loss/1652998965"
+           }
+          },
+          {
+           "id": "1584281467",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1584281467?l=en-US",
+           "attributes": {
+            "artistName": "Drake",
+            "artwork": {
+             "bgColor": "ffffff",
+             "hasP3": false,
+             "height": 3000,
+             "textColor1": "3a2a1e",
+             "textColor2": "39322a",
+             "textColor3": "62544b",
+             "textColor4": "605b55",
+             "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/11/36/38/1136384a-eebc-697a-c005-d890e41c0854/21UM1IM07518.rgb.jpg/{w}x{h}bb.jpg",
+             "width": 3000
+            },
+            "audioTraits": [
+             "lossless",
+             "lossy-stereo"
+            ],
+            "contentRating": "explicit",
+            "copyright": "℗ 2021 OVO, under exclusive license to Republic Records, a division of UMG Recordings, Inc.",
+            "editorialNotes": {
+             "short": "The 6’s favorite son drops LP 6.",
+             "standard": "A combination of toxic masculinity and acceptance of truth which is inevitably heartbreaking. Executive produced by me, Noah “40” Shebib, Oliver El-Khatib, and Noel Cadastre. Dedicated to Nadia Ntuli and Mercedes Morr. RIP 💖 —Drake"
+            },
+            "genreNames": [
+             "Hip-Hop/Rap",
+             "Music"
+            ],
+            "isCompilation": false,
+            "isComplete": true,
+            "isMasteredForItunes": true,
+            "isPrerelease": false,
+            "isSingle": false,
+            "name": "Certified Lover Boy",
+            "playParams": {
+             "id": "1584281467",
+             "kind": "album"
+            },
+            "recordLabel": "OVO",
+            "releaseDate": "2021-09-03",
+            "trackCount": 21,
+            "upc": "00602438865680",
+            "url": "https://music.apple.com/us/album/certified-lover-boy/1584281467"
+           }
+          }
+         ]
+        },
+        "station": {
+         "href": "/v1/catalog/us/artists/271256/station?l=en-US",
+         "data": [
+          {
+           "id": "ra.271256",
+           "type": "stations",
+           "href": "/v1/catalog/us/stations/ra.271256?l=en-US",
+           "attributes": {
+            "artwork": {
+             "bgColor": "fafafa",
+             "hasP3": false,
+             "height": 1825,
+             "textColor1": "040404",
+             "textColor2": "161616",
+             "textColor3": "353535",
+             "textColor4": "444444",
+             "url": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages112/v4/1b/71/65/1b716513-b0c1-9c6b-45aa-cbb9198248cc/01607cf1-1d52-43d2-84ce-d6fc1f4a3475_ami-identity-7665599cc626d803af7956b3691905e7-2022-11-30T21-07-19.526Z_cropped.png/{w}x{h}AM.RSMA03.jpg?imgLeft=AMCArtistImages211%2Fv4%2F87%2Fc5%2F5b%2F87c55bb0-3f15-acb3-fcca-84aa67242c75%2Fami-identity-1ec7047ad438e6af95952f6cd8ec7e2b-2026-04-14T19-48-21.103Z_cropped.png&imgRight=AMCArtistImages211%2Fv4%2Fa0%2F03%2Fba%2Fa003ba04-c69b-5ac9-db08-326c23aa5b82%2Fami-identity-9301504ae26ebbedb9d8d3cf6c9dafdb-2026-06-26T04-06-47.222Z_cropped.png",
+             "width": 1825
+            },
+            "isLive": false,
+            "kind": "artistSeeded",
+            "mediaKind": "audio",
+            "name": "Drake & Similar Artists Station",
+            "playParams": {
+             "format": "tracks",
+             "hasDrm": false,
+             "id": "ra.271256",
+             "kind": "radioStation",
+             "mediaType": 0,
+             "stationHash": "CgcIARoDmMcQEAE"
+            },
+            "radioUrl": "itsradio://music.apple.com/us/station/ra.271256",
+            "requiresSubscription": true,
+            "url": "https://music.apple.com/us/station/drake-similar-artists-station/ra.271256"
+           }
+          }
+         ]
+        }
+       }
+      }
+     ]
+    },
+    "composers": {
+     "href": "/v1/catalog/us/songs/1440841367/composers?l=en-US",
+     "data": [
+      {
+       "id": "296887979",
+       "type": "artists",
+       "href": "/v1/catalog/us/artists/296887979?l=en-US",
+       "attributes": {
+        "artwork": {
+         "bgColor": "fffeff",
+         "defaultCropCode": "ac",
+         "hasP3": false,
+         "height": 3000,
+         "textColor1": "130f0d",
+         "textColor2": "150f0d",
+         "textColor3": "423f3d",
+         "textColor4": "443f3d",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/af/c6/96/afc6969f-5bef-bda8-12ec-2ab3220b2517/733436.jpg/{w}x{h}ac.jpg",
+         "width": 3000
+        },
+        "genreNames": [
+         "Hip-Hop/Rap"
+        ],
+        "name": "Aubrey Drake Graham",
+        "url": "https://music.apple.com/us/artist/aubrey-drake-graham/296887979"
+       },
+       "relationships": {
+        "albums": {
+         "href": "/v1/catalog/us/artists/296887979/albums?l=en-US",
+         "data": [
+          {
+           "id": "1753807202",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1753807202?l=en-US",
+           "attributes": {
+            "artistName": "Dior Carter",
+            "artwork": {
+             "bgColor": "bfc2c1",
+             "hasP3": false,
+             "height": 3000,
+             "textColor1": "050505",
+             "textColor2": "1f201f",
+             "textColor3": "2a2b2a",
+             "textColor4": "3f4040",
+             "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8e/f5/1c/8ef51c77-2d69-0e0e-c51f-7d4f6aa1de12/313411.jpg/{w}x{h}bb.jpg",
+             "width": 3000
+            },
+            "audioTraits": [
+             "lossless",
+             "lossy-stereo"
+            ],
+            "contentRating": "explicit",
+            "copyright": "℗ 2024 Dior Carter",
+            "genreNames": [
+             "Hip-Hop/Rap",
+             "Music"
+            ],
+            "isCompilation": false,
+            "isComplete": true,
+            "isMasteredForItunes": false,
+            "isPrerelease": false,
+            "isSingle": true,
+            "name": "Money To Blow (On One) [feat. Andre Showers & Aubrey Drake Graham] - Single",
+            "playParams": {
+             "id": "1753807202",
+             "kind": "album"
+            },
+            "recordLabel": "Muzik Junky",
+            "releaseDate": "2024-05-14",
+            "trackCount": 1,
+            "upc": "797885167989",
+            "url": "https://music.apple.com/us/album/money-to-blow-on-one-feat-andre-showers-aubrey-drake/1753807202"
+           }
+          },
+          {
+           "id": "1797484460",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1797484460?l=en-US",
+           "attributes": {
+            "artistName": "Kingcoby",
+            "artwork": {
+             "bgColor": "3a023a",
+             "hasP3": false,
+             "height": 3000,
+             "textColor1": "c2bedf",
+             "textColor2": "dd74f3",
+             "textColor3": "a799be",
+             "textColor4": "bc5dce",
+             "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/26/c0/9d/26c09de5-8ad5-cdd0-5385-2f73435c7116/artwork.jpg/{w}x{h}bb.jpg",
+             "width": 3000
+            },
+            "audioTraits": [
+             "lossless",
+             "lossy-stereo"
+            ],
+            "copyright": "2025 Kingcoby713 ℗ / Stay Vibez © release. Under exclusive license to Kingcoby713 / Stay Vibes LLC ©• 2025 KINGCOBY",
+            "genreNames": [
+             "R&B/Soul",
+             "Music",
+             "Hip-Hop/Rap"
+            ],
+            "isCompilation": false,
+            "isComplete": true,
+            "isMasteredForItunes": false,
+            "isPrerelease": false,
+            "isSingle": true,
+            "name": "FINDING MYSELF (feat. Aubrey Drake Graham) - Single",
+            "playParams": {
+             "id": "1797484460",
+             "kind": "album"
+            },
+            "recordLabel": "Kingcoby713 ℗ / Stay Vibez © release. Under exclusive license to Kingcoby713 / Stay Vibes LLC ©• 2025 KINGCOBY",
+            "releaseDate": "2025-02-17",
+            "trackCount": 1,
+            "upc": "199081673231",
+            "url": "https://music.apple.com/us/album/finding-myself-feat-aubrey-drake-graham-single/1797484460"
+           }
+          },
+          {
+           "id": "1813998223",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1813998223?l=en-US",
+           "attributes": {
+            "artistName": "J. Prince",
+            "artwork": {
+             "bgColor": "ffffff",
+             "hasP3": false,
+             "height": 1400,
+             "textColor1": "171717",
+             "textColor2": "2b2b2b",
+             "textColor3": "464646",
+             "textColor4": "555555",
+             "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/58/24/df/5824df75-fb93-5c83-7b3b-b832eca2a800/192562632727_Cover.jpg/{w}x{h}bb.jpg",
+             "width": 1400
+            },
+            "audioTraits": [
+             "lossless",
+             "lossy-stereo"
+            ],
+            "copyright": "℗ 2018 Rap-A-Lot Records",
+            "genreNames": [
+             "Hip-Hop/Rap",
+             "Music"
+            ],
+            "isCompilation": false,
+            "isComplete": true,
+            "isMasteredForItunes": false,
+            "isPrerelease": false,
+            "isSingle": true,
+            "name": "Foreword by Aubrey Drake Graham (feat. Aubrey Drake Graham) - Single",
+            "playParams": {
+             "id": "1813998223",
+             "kind": "album"
+            },
+            "recordLabel": "Rap-A-Lot",
+            "releaseDate": "2018-06-01",
+            "trackCount": 1,
+            "upc": "192562632727",
+            "url": "https://music.apple.com/us/album/foreword-by-aubrey-drake-graham-feat-aubrey-drake-graham/1813998223"
+           }
+          }
+         ]
+        },
+        "station": {
+         "href": "/v1/catalog/us/artists/296887979/station?l=en-US",
+         "data": [
+          {
+           "id": "ra.296887979",
+           "type": "stations",
+           "href": "/v1/catalog/us/stations/ra.296887979?l=en-US",
+           "attributes": {
+            "artwork": {
+             "bgColor": "fffeff",
+             "hasP3": false,
+             "height": 3000,
+             "textColor1": "130f0d",
+             "textColor2": "150f0d",
+             "textColor3": "423f3d",
+             "textColor4": "443f3d",
+             "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/af/c6/96/afc6969f-5bef-bda8-12ec-2ab3220b2517/733436.jpg/{w}x{h}AM.RSMA03.jpg?albumFallback=true&imgLeft=AMCArtistImages112%2Fv4%2F1b%2F71%2F65%2F1b716513-b0c1-9c6b-45aa-cbb9198248cc%2F01607cf1-1d52-43d2-84ce-d6fc1f4a3475_ami-identity-7665599cc626d803af7956b3691905e7-2022-11-30T21-07-19.526Z_cropped.png&imgRight=AMCArtistImages211%2Fv4%2F9f%2F41%2F53%2F9f415374-582c-7267-3721-c88fddcada1f%2Fami-identity-0f94873438d7aebb32d07a70980d903c-2026-01-13T09-16-36.874Z_cropped.png",
+             "width": 3000
+            },
+            "isLive": false,
+            "kind": "artistSeeded",
+            "mediaKind": "audio",
+            "name": "Aubrey Drake Graham & Similar Artists Station",
+            "playParams": {
+             "format": "tracks",
+             "hasDrm": false,
+             "id": "ra.296887979",
+             "kind": "radioStation",
+             "mediaType": 0,
+             "stationHash": "CgkIARoFq83IjQEQAQ"
+            },
+            "radioUrl": "itsradio://music.apple.com/us/station/ra.296887979",
+            "requiresSubscription": true,
+            "url": "https://music.apple.com/us/station/aubrey-drake-graham-similar-artists-station/ra.296887979"
+           }
+          }
+         ]
+        }
+       }
+      },
+      {
+       "id": "973315843",
+       "type": "artists",
+       "href": "/v1/catalog/us/artists/973315843?l=en-US",
+       "attributes": {
+        "artwork": {
+         "bgColor": "272b2f",
+         "defaultCropCode": "bb",
+         "hasP3": true,
+         "height": 3840,
+         "textColor1": "f6f8f9",
+         "textColor2": "d2cdc9",
+         "textColor3": "cdcfd1",
+         "textColor4": "afadaa",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/54/4d/30/544d30fd-6476-64df-345a-f9cbce3e1946/mza_510039854560269668.png/{w}x{h}bb.jpg",
+         "width": 3840
+        },
+        "genreNames": [
+         "Hip-Hop/Rap"
+        ],
+        "name": "Maneesh Bidaye",
+        "url": "https://music.apple.com/us/artist/maneesh-bidaye/973315843"
+       },
+       "relationships": {
+        "albums": {
+         "href": "/v1/catalog/us/artists/973315843/albums?l=en-US",
+         "data": []
+        },
+        "station": {
+         "href": "/v1/catalog/us/artists/973315843/station?l=en-US",
+         "data": [
+          {
+           "id": "ra.973315843",
+           "type": "stations",
+           "href": "/v1/catalog/us/stations/ra.973315843?l=en-US"
+          }
+         ]
+        }
+       }
+      }
+     ]
+    },
+    "genres": {
+     "href": "/v1/catalog/us/songs/1440841367/genres?l=en-US",
+     "data": [
+      {
+       "id": "18",
+       "type": "genres",
+       "href": "/v1/catalog/us/genres/18?l=en-US",
+       "attributes": {
+        "name": "Hip-Hop/Rap",
+        "parentId": "34",
+        "parentName": "Music",
+        "url": "https://itunes.apple.com/us/genre/id18"
+       }
+      },
+      {
+       "id": "34",
+       "type": "genres",
+       "href": "/v1/catalog/us/genres/34?l=en-US",
+       "attributes": {
+        "name": "Music",
+        "url": "https://itunes.apple.com/us/genre/id34"
+       }
+      }
+     ]
+    },
+    "music-videos": {
+     "href": "/v1/catalog/us/songs/1440841367/music-videos?l=en-US",
+     "data": []
+    },
+    "station": {
+     "href": "/v1/catalog/us/songs/1440841367/station?l=en-US",
+     "data": [
+      {
+       "id": "ra.1440841367",
+       "type": "stations",
+       "href": "/v1/catalog/us/stations/ra.1440841367?l=en-US",
+       "attributes": {
+        "artwork": {
+         "bgColor": "46535d",
+         "hasP3": false,
+         "height": 3000,
+         "textColor1": "e9f6f9",
+         "textColor2": "dfeef7",
+         "textColor3": "c8d5d9",
+         "textColor4": "c0cfd8",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f2/0d/8b/f20d8bff-a927-ae98-6784-20a1f51cb23e/16UMGIM27642.rgb.jpg/{w}x{h}AM.RSSB03.jpg",
+         "width": 3000
+        },
+        "isLive": false,
+        "kind": "songSeeded",
+        "mediaKind": "audio",
+        "name": "Keep the Family Close Station",
+        "playParams": {
+         "format": "tracks",
+         "hasDrm": false,
+         "id": "ra.1440841367",
+         "kind": "radioStation",
+         "mediaType": 0,
+         "stationHash": "CgkIARoFl_2FrwUQAQ"
+        },
+        "radioUrl": "itsradio://music.apple.com/us/station/ra.1440841367",
+        "requiresSubscription": true,
+        "url": "https://music.apple.com/us/station/keep-the-family-close-station/ra.1440841367"
+       }
+      }
+     ]
+    }
+   },
+   "meta": {
+    "formerIds": [
+     "1108737253",
+     "1108742598"
+    ]
+   }
+  }
+ ]
+}

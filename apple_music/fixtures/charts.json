@@ -1,0 +1,669 @@
+{
+ "results": {
+  "albums": [
+   {
+    "chart": "most-played",
+    "data": [
+     {
+      "id": "6810715695",
+      "type": "albums",
+      "href": "/v1/catalog/us/albums/6810715695?l=en-US",
+      "attributes": {
+       "artistName": "Jhené Aiko",
+       "artwork": {
+        "bgColor": "131721",
+        "hasP3": false,
+        "height": 3000,
+        "textColor1": "46c8dc",
+        "textColor2": "42c2d1",
+        "textColor3": "3ca5b6",
+        "textColor4": "39a0ae",
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5f/51/9f/5f519f49-44c1-6aeb-f289-5b14c677abb1/26UM1IM17017.rgb.jpg/{w}x{h}bb.jpg",
+        "width": 3000
+       },
+       "audioTraits": [
+        "atmos",
+        "lossless",
+        "lossy-stereo"
+       ],
+       "contentRating": "explicit",
+       "copyright": "℗ 2026 Def Jam Recordings, a division of UMG Recordings, Inc.",
+       "editorialNotes": {
+        "short": "The R&B singer celebrates SoCal living on her first album in six years.",
+        "standard": "“You guys, so much has happened in the last six years,” <b>Jhené Aiko</b> wrote on social media when she announced her first full-length since 2020’s <i>Chilombo</i>. An hour-long journey around the R&B singer-songwriter’s Southern California homeland—complete with guest appearances by locals like <b>Kendrick Lamar</b> and <b>Ab-Soul</b>—<i>Westside Whimsy</i> is full of luxuriant textures that update quiet storm for the bedroom-pop generation.\n\nAt times, those plush synths serve as a landing spot for anxieties: “I can’t escape the heartbreak,” she muses over fuzz-covered pianos and strings on <b>“Break,”</b> while <b>“Don’t Be That Guy”</b> pairs a striding beat with Aiko gently, kindly affirming her boundaries.\n\nAiko lets the sunshine in on cuts like <b>“Beach Boy,”</b> a gently swaying love song where her voice curls around her wonder at the “good vibrations” she’s feeling, and <b>“So Good,”</b> where she and Lamar steal admiring glances at each other over synths.",
+        "tagline": "New Album"
+       },
+       "genreNames": [
+        "R&B/Soul",
+        "Music"
+       ],
+       "isCompilation": false,
+       "isComplete": true,
+       "isMasteredForItunes": true,
+       "isPrerelease": false,
+       "isSingle": false,
+       "name": "Westside Whimsy",
+       "playParams": {
+        "id": "6810715695",
+        "kind": "album"
+       },
+       "recordLabel": "Def Jam Recordings",
+       "releaseDate": "2026-09-11",
+       "trackCount": 20,
+       "upc": "00881061588689",
+       "url": "https://music.apple.com/us/album/westside-whimsy/6810715695"
+      }
+     },
+     {
+      "id": "6781873059",
+      "type": "albums",
+      "href": "/v1/catalog/us/albums/6781873059?l=en-US",
+      "attributes": {
+       "artistName": "Rod Wave",
+       "artwork": {
+        "bgColor": "1e1c21",
+        "hasP3": false,
+        "height": 3000,
+        "textColor1": "e0b17e",
+        "textColor2": "d6a072",
+        "textColor3": "b9936c",
+        "textColor4": "b18662",
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/16/67/4d/16674d50-a339-71bf-0aea-dc93b7dd8570/196874541357.jpg/{w}x{h}bb.jpg",
+        "width": 3000
+       },
+       "audioTraits": [
+        "lossless",
+        "lossy-stereo"
+       ],
+       "contentRating": "explicit",
+       "copyright": "℗ 2026 Alamo Records, LLC/Sony Music Entertainment",
+       "editorialNotes": {
+        "short": "The Florida rapper/singer takes stock on his seventh LP: “We done healed.”",
+        "standard": "When he broke through in 2019 with his viral single “Heart on Ice,” Rod Wave shot to the forefront of the growing genre of “pain music”—intimate street rap ballads on the subject of inner demons. On albums like <i>Ghetto Gospel</i>, the Florida rapper/singer delivered stories about trauma and heartbreak in a voice with more range than most R&B singers. Seven years later, Rod marvels at how much has changed—including himself. “Ain’t gonna lie—sometimes I listen to [my old music] and be like, ‘Damn. I was a little dramatic,’” he tells Apple Music. “But I feel like that’s just a part of growing.”\n\nGrowth is the prevailing theme across the 24 tracks of his seventh album, <i>Don’t Look Down</i>. Where early hits found the rapper running from love, songs like <b>“Piece of Your Love”</b> and <b>“Mainstay”</b> showcase the 28-year-old at his most open-hearted. (Rod describes the latter as “my favorite song I ever did.”)\n\nPart of that perspective comes from being a father; his twin daughters were born in 2020. “Like, wow, I was a kid, and now I’m a parent,” he says of his evolution since first entering the spotlight, highlighting <b>“Look at Me Momma”</b> as a monument to that maturity. “Finally, I’m a grown man. Even though I was grown at 21, I wasn’t really grown. My frontal lobe hadn’t developed. We done healed.”\n\n<i>Don’t Look Down</i> abounds with expensive-sounding samples and slick interpolations, from the dreamy Selena flip on <b>“One More Time”</b> to the pair of Kanye West “Last Call” interpolations that bookend the album. But the soulful vulnerability is entirely Rod’s own—a testament to his journey of self-improvement.\n\n“That’s just the way I live life,” he explains. “How can I be a better son, a better friend, a better CEO, a better husband, a better dad, a better artist? How can I be better for my fans? How can I take what I already got and make it the best that it is?”",
+        "tagline": "New Album"
+       },
+       "genreNames": [
+        "Rap",
+        "Music",
+        "Hip-Hop/Rap"
+       ],
+       "isCompilation": false,
+       "isComplete": true,
+       "isMasteredForItunes": false,
+       "isPrerelease": false,
+       "isSingle": false,
+       "name": "Don't Look Down",
+       "playParams": {
+        "id": "6781873059",
+        "kind": "album"
+       },
+       "recordLabel": "Alamo",
+       "releaseDate": "2026-08-28",
+       "trackCount": 27,
+       "upc": "196874541357",
+       "url": "https://music.apple.com/us/album/dont-look-down/6781873059"
+      }
+     },
+     {
+      "id": "6769568449",
+      "type": "albums",
+      "href": "/v1/catalog/us/albums/6769568449?l=en-US",
+      "attributes": {
+       "artistName": "Drake",
+       "artwork": {
+        "bgColor": "000000",
+        "hasP3": false,
+        "height": 4500,
+        "textColor1": "e5dcdd",
+        "textColor2": "d0c2c2",
+        "textColor3": "b7b0b1",
+        "textColor4": "a69b9b",
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/b9/06/35b90629-a873-14f8-4789-ffc324960038/26UMGIM63614.rgb.jpg/{w}x{h}bb.jpg",
+        "width": 4500
+       },
+       "audioTraits": [
+        "lossless",
+        "lossy-stereo"
+       ],
+       "contentRating": "explicit",
+       "copyright": "℗ 2026 OVO, under exclusive license to Republic Records, a division of UMG Recordings, Inc.",
+       "editorialNotes": {
+        "short": "The multifaceted MC breaks the ice.",
+        "standard": "above you, below zero.",
+        "tagline": "New Album"
+       },
+       "genreNames": [
+        "Hip-Hop/Rap",
+        "Music"
+       ],
+       "isCompilation": false,
+       "isComplete": true,
+       "isMasteredForItunes": true,
+       "isPrerelease": false,
+       "isSingle": false,
+       "name": "ICEMAN",
+       "playParams": {
+        "id": "6769568449",
+        "kind": "album"
+       },
+       "recordLabel": "OVO/Republic",
+       "releaseDate": "2026-05-15",
+       "trackCount": 18,
+       "upc": "00600574206930",
+       "url": "https://music.apple.com/us/album/iceman/6769568449"
+      }
+     }
+    ],
+    "href": "/v1/catalog/us/charts?chart=most-played&l=en-US&limit=3&types=albums",
+    "name": "Top Albums",
+    "shortName": "Top Albums",
+    "next": "/v1/catalog/us/charts?chart=most-played&l=en-US&limit=3&offset=3&types=albums",
+    "orderId": "most-played:albums"
+   }
+  ],
+  "music-videos": [
+   {
+    "chart": "most-played",
+    "data": [
+     {
+      "id": "6781873414",
+      "type": "music-videos",
+      "href": "/v1/catalog/us/music-videos/6781873414?l=en-US",
+      "attributes": {
+       "albumArtistName": "Rod Wave",
+       "albumName": "Don't Look Down",
+       "artistName": "Rod Wave",
+       "artwork": {
+        "bgColor": "c0b29c",
+        "hasP3": false,
+        "height": 2160,
+        "textColor1": "0d0a08",
+        "textColor2": "2f1a07",
+        "textColor3": "302b25",
+        "textColor4": "4c3824",
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/39/24/69/39246901-a9c5-3ad2-43b0-647fa835d39f/1968745413570125.jpg/{w}x{h}mv.jpg",
+        "width": 3840
+       },
+       "contentRating": "explicit",
+       "discNumber": 1,
+       "durationInMillis": 384598,
+       "genreNames": [
+        "Rap"
+       ],
+       "has4K": true,
+       "hasHDR": false,
+       "isrc": "USQX92603564",
+       "name": "Piece Of Your Love",
+       "playParams": {
+        "id": "6781873414",
+        "kind": "musicVideo"
+       },
+       "previews": [
+        {
+         "artwork": {
+          "bgColor": "000000",
+          "hasP3": false,
+          "height": 1440,
+          "textColor1": "f3f3f3",
+          "textColor2": "e8e8e8",
+          "textColor3": "c8c8c8",
+          "textColor4": "bfbfbf",
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/29/55/b4/2955b4c2-58c4-a9aa-8cfd-4556601427fe/Jobcce2adf1-81a2-4b74-a8ac-58b02c14968b-241781330-PreviewImage_preview_image_0_video_sdr-Time1788227836303.png/{w}x{h}bb.jpg",
+          "width": 3840
+         },
+         "hlsUrl": "https://play-edge.itunes.apple.com/WebObjects/MZPlayLocal.woa/hls/playlist.m3u8?cc=US&a=6781873414&id=1482644676&aec=HD&l=en",
+         "url": "https://video-ssl.itunes.apple.com/itunes-assets/Video221/v4/d4/b6/76/d4b67622-0cfc-0dc0-e10a-479af727d5a9/mzvf_10863292891889582584.720w.h264lc.U.p.m4v"
+        }
+       ],
+       "releaseDate": "2026-06-25",
+       "trackNumber": 25,
+       "url": "https://music.apple.com/us/music-video/piece-of-your-love/6781873414",
+       "videoTraits": [
+        "4K"
+       ]
+      }
+     },
+     {
+      "id": "6781873415",
+      "type": "music-videos",
+      "href": "/v1/catalog/us/music-videos/6781873415?l=en-US",
+      "attributes": {
+       "albumArtistName": "Rod Wave",
+       "albumName": "Don't Look Down",
+       "artistName": "Rod Wave",
+       "artwork": {
+        "bgColor": "131e1e",
+        "hasP3": false,
+        "height": 2160,
+        "textColor1": "c1dba8",
+        "textColor2": "bbcb96",
+        "textColor3": "9eb58d",
+        "textColor4": "9aa87e",
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/c5/bd/ab/c5bdab48-ee3c-9baa-5c42-c485644dea49/1968745413570126.jpg/{w}x{h}mv.jpg",
+        "width": 3840
+       },
+       "contentRating": "explicit",
+       "discNumber": 1,
+       "durationInMillis": 148118,
+       "genreNames": [
+        "Rap"
+       ],
+       "has4K": true,
+       "hasHDR": false,
+       "isrc": "USQX92603565",
+       "name": "Hustle",
+       "playParams": {
+        "id": "6781873415",
+        "kind": "musicVideo"
+       },
+       "previews": [
+        {
+         "artwork": {
+          "bgColor": "000000",
+          "hasP3": false,
+          "height": 2160,
+          "textColor1": "f3f3f3",
+          "textColor2": "e8e8e8",
+          "textColor3": "c8c8c8",
+          "textColor4": "bfbfbf",
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/64/9a/6d/649a6d5c-3c7a-e255-df9d-61618adb7b86/Job4a3dc660-e503-478f-ba77-ed5e683e1376-241781338-PreviewImage_preview_image_0_video_sdr-Time1788227702761.png/{w}x{h}bb.jpg",
+          "width": 3840
+         },
+         "hlsUrl": "https://play-edge.itunes.apple.com/WebObjects/MZPlayLocal.woa/hls/playlist.m3u8?cc=US&a=6781873415&id=1482642404&aec=HD&l=en",
+         "url": "https://video-ssl.itunes.apple.com/itunes-assets/Video221/v4/25/8d/6a/258d6a33-23f6-29d6-1a40-1f874bd8b223/mzvf_7962218079266298241.720w.h264lc.U.p.m4v"
+        }
+       ],
+       "releaseDate": "2026-08-28",
+       "trackNumber": 26,
+       "url": "https://music.apple.com/us/music-video/hustle/6781873415",
+       "videoTraits": [
+        "4K"
+       ]
+      }
+     },
+     {
+      "id": "6781873417",
+      "type": "music-videos",
+      "href": "/v1/catalog/us/music-videos/6781873417?l=en-US",
+      "attributes": {
+       "albumArtistName": "Rod Wave",
+       "albumName": "Don't Look Down",
+       "artistName": "Rod Wave",
+       "artwork": {
+        "bgColor": "01000b",
+        "hasP3": false,
+        "height": 2160,
+        "textColor1": "f2a29a",
+        "textColor2": "f62808",
+        "textColor3": "c2817d",
+        "textColor4": "c52009",
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/ce/84/c2/ce84c2e0-2109-9dd8-9c2a-e442b7d57517/1968745413570127.jpg/{w}x{h}mv.jpg",
+        "width": 3840
+       },
+       "discNumber": 1,
+       "durationInMillis": 183872,
+       "genreNames": [
+        "Rap"
+       ],
+       "has4K": true,
+       "hasHDR": false,
+       "isrc": "USQX92603666",
+       "name": "Feed The Streets",
+       "playParams": {
+        "id": "6781873417",
+        "kind": "musicVideo"
+       },
+       "previews": [
+        {
+         "artwork": {
+          "bgColor": "000000",
+          "hasP3": false,
+          "height": 1728,
+          "textColor1": "f3f3f3",
+          "textColor2": "e8e8e8",
+          "textColor3": "c8c8c8",
+          "textColor4": "bfbfbf",
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/76/a0/92/76a0928c-f84e-57a2-202f-e8d72a5880c5/Job718e621e-12b1-4a36-a36e-973bd0e76569-241781302-PreviewImage_preview_image_0_video_sdr-Time1788227698104.png/{w}x{h}bb.jpg",
+          "width": 3840
+         },
+         "hlsUrl": "https://play-edge.itunes.apple.com/WebObjects/MZPlayLocal.woa/hls/playlist.m3u8?cc=US&a=6781873417&id=1482643347&aec=HD&l=en",
+         "url": "https://video-ssl.itunes.apple.com/itunes-assets/Video221/v4/29/71/d3/2971d3fe-c4ed-73c6-581d-ca71371c9365/mzvf_14472886157998785615.720w.h264lc.U.p.m4v"
+        }
+       ],
+       "releaseDate": "2026-08-28",
+       "trackNumber": 27,
+       "url": "https://music.apple.com/us/music-video/feed-the-streets/6781873417",
+       "videoTraits": [
+        "4K"
+       ]
+      }
+     }
+    ],
+    "href": "/v1/catalog/us/charts?chart=most-played&l=en-US&limit=3&types=music-videos",
+    "name": "Top Videos",
+    "shortName": "Top Videos",
+    "next": "/v1/catalog/us/charts?chart=most-played&l=en-US&limit=3&offset=3&types=music-videos",
+    "orderId": "most-played:music-videos"
+   }
+  ],
+  "playlists": [
+   {
+    "chart": "most-played",
+    "data": [
+     {
+      "id": "pl.87bb5b36a9bd49db8c975607452bfa2b",
+      "type": "playlists",
+      "href": "/v1/catalog/us/playlists/pl.87bb5b36a9bd49db8c975607452bfa2b?l=en-US",
+      "attributes": {
+       "artwork": {
+        "bgColor": "f4f2ee",
+        "hasP3": false,
+        "height": 1080,
+        "textColor1": "000000",
+        "textColor2": "000000",
+        "textColor3": "5b3148",
+        "textColor4": "6b475c",
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/e6/89/d5/e689d513-7b44-34d2-2a36-ab92271b96eb/075fb3a2-922a-44e9-acea-397e0345e6e6.png/{w}x{h}SC.DN01.jpg?l=en-US",
+        "width": 1080
+       },
+       "audioTraits": [],
+       "curatorName": "Apple Music Country",
+       "description": {
+        "short": "Riley Green and Hannah McFarland team up to “Go Again.”",
+        "standard": "This playlist tracks what’s happening from the heart of the country scene to its outer edges. Find fan favorites you already love next to breakout stars and emerging voices. Topping the list this week is <b>Riley Green</b> with the <b>Hannah McFarland</b>collaboration “Go Again,” off Green’s just-released new album <i>That’s Just Me</i>. The duet is slow, sweet, and a little sexy, as Green and McFarland play new lovers saying goodbye the morning after a one-night stand.\n\nGreen made an effort to include a wide range of sounds on his new album. “I grew up in the era of burnt CDs and it would have 2pac and then Tim McGraw and then Merle Haggard,” he tells Apple Music. “I think that’s the way I like to do records.” Check back here early and often for updates, and if you hear something you like, add it to your library."
+       },
+       "editorialNotes": {
+        "name": "Today’s Country",
+        "short": "Riley Green and Hannah McFarland team up to “Go Again.”",
+        "standard": "This playlist tracks what’s happening from the heart of the country scene to its outer edges. Find fan favorites you already love next to breakout stars and emerging voices. Topping the list this week is <b>Riley Green</b> with the <b>Hannah McFarland</b>collaboration “Go Again,” off Green’s just-released new album <i>That’s Just Me</i>. The duet is slow, sweet, and a little sexy, as Green and McFarland play new lovers saying goodbye the morning after a one-night stand.\n\nGreen made an effort to include a wide range of sounds on his new album. “I grew up in the era of burnt CDs and it would have 2pac and then Tim McGraw and then Merle Haggard,” he tells Apple Music. “I think that’s the way I like to do records.” Check back here early and often for updates, and if you hear something you like, add it to your library.",
+        "tagline": "The Songs That Matter"
+       },
+       "hasCollaboration": false,
+       "isChart": false,
+       "lastModifiedDate": "2026-09-18T05:08:52Z",
+       "name": "Today’s Country",
+       "playParams": {
+        "id": "pl.87bb5b36a9bd49db8c975607452bfa2b",
+        "kind": "playlist",
+        "versionHash": "f1f6f75008fe9154984473f79f9f6f26fae871c1075a4f6f196769f7e8c9357e"
+       },
+       "playlistType": "editorial",
+       "supportsSing": false,
+       "url": "https://music.apple.com/us/playlist/todays-country/pl.87bb5b36a9bd49db8c975607452bfa2b"
+      }
+     },
+     {
+      "id": "pl.abe8ba42278f4ef490e3a9fc5ec8e8c5",
+      "type": "playlists",
+      "href": "/v1/catalog/us/playlists/pl.abe8ba42278f4ef490e3a9fc5ec8e8c5?l=en-US",
+      "attributes": {
+       "artwork": {
+        "bgColor": "19191a",
+        "hasP3": false,
+        "height": 1080,
+        "textColor1": "ffffff",
+        "textColor2": "ffffff",
+        "textColor3": "cecece",
+        "textColor4": "b9b8ba",
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/d2/8c/e0/d28ce038-0c95-7c36-3669-7e385ea125d4/e44893bf-5301-45d1-9ed5-10358e024915.png/{w}x{h}SC.DN01.jpg?l=en-US",
+        "width": 1080
+       },
+       "audioTraits": [],
+       "curatorName": "Apple Music Hip-Hop",
+       "description": {
+        "short": "Drake’s “Janice STFU” is still going up.",
+        "standard": "Rap Life is home to hip-hop’s heavy hitters and its vanguard—the songs that speak to the moment and define the culture today. At the top of the playlist this week is the latest testament to <b>Drake</b>’s invincibility as a hitmaker, <b>“Janice STFU.”</b> Listen to it on Rap Life now and if you hear something you like, add it to your library."
+       },
+       "editorialNotes": {
+        "name": "Rap Life",
+        "short": "Drake’s “Janice STFU” is still going up.",
+        "standard": "Rap Life is home to hip-hop’s heavy hitters and its vanguard—the songs that speak to the moment and define the culture today. At the top of the playlist this week is the latest testament to <b>Drake</b>’s invincibility as a hitmaker, <b>“Janice STFU.”</b> Listen to it on Rap Life now and if you hear something you like, add it to your library.",
+        "tagline": "The Songs That Matter"
+       },
+       "hasCollaboration": false,
+       "isChart": false,
+       "lastModifiedDate": "2026-09-18T16:41:18Z",
+       "name": "Rap Life",
+       "playParams": {
+        "id": "pl.abe8ba42278f4ef490e3a9fc5ec8e8c5",
+        "kind": "playlist",
+        "versionHash": "bc980c8bcabc1b9001a77fe13cf6053df32b2b5022a7422c6de4461cfed62f26"
+       },
+       "playlistType": "editorial",
+       "supportsSing": false,
+       "url": "https://music.apple.com/us/playlist/rap-life/pl.abe8ba42278f4ef490e3a9fc5ec8e8c5"
+      }
+     },
+     {
+      "id": "pl.b7ae3e0a28e84c5c96c4284b6a6c70af",
+      "type": "playlists",
+      "href": "/v1/catalog/us/playlists/pl.b7ae3e0a28e84c5c96c4284b6a6c70af?l=en-US",
+      "attributes": {
+       "artwork": {
+        "bgColor": "070c11",
+        "hasP3": false,
+        "height": 1080,
+        "textColor1": "ffffff",
+        "textColor2": "ffffff",
+        "textColor3": "7387b9",
+        "textColor4": "6480b1",
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/0b/27/bc/0b27bcad-ea2c-325e-ef28-aafca8472581/89792913-9f1b-4cff-9e12-749a72cbf932.png/{w}x{h}SC.DN01.jpg?l=en-US",
+        "width": 1080
+       },
+       "audioTraits": [],
+       "curatorName": "Apple Music R&B",
+       "description": {
+        "short": "Jhené Aiko and Kendrick Lamar reunite on “So Good.”",
+        "standard": "R&B is one of the most dynamic, adventurous sounds in modern music, a place where art both personal and provocative meets the mainstream. From the alt vanguard to modern vets, straightforward to left-field, these tracks capture where R&B is now and point the way to where it’s going. This week, <b>Jhené Aiko</b> and <b>Kendrick Lamar</b> are at the top of the playlist with <b>“So Good.”</b> The flirtatious track off Jhené’s latest album, <i>Westside Whimsy</i>, finds the duo trading verses about their chemistry and desire for each other on a deeper level. We update this playlist regularly. If you like a track, add it to your library."
+       },
+       "editorialNotes": {
+        "name": "R&B Now",
+        "short": "Jhené Aiko and Kendrick Lamar reunite on “So Good.”",
+        "standard": "R&B is one of the most dynamic, adventurous sounds in modern music, a place where art both personal and provocative meets the mainstream. From the alt vanguard to modern vets, straightforward to left-field, these tracks capture where R&B is now and point the way to where it’s going. This week, <b>Jhené Aiko</b> and <b>Kendrick Lamar</b> are at the top of the playlist with <b>“So Good.”</b> The flirtatious track off Jhené’s latest album, <i>Westside Whimsy</i>, finds the duo trading verses about their chemistry and desire for each other on a deeper level. We update this playlist regularly. If you like a track, add it to your library.",
+        "tagline": "The Songs That Matter"
+       },
+       "hasCollaboration": false,
+       "isChart": false,
+       "lastModifiedDate": "2026-09-18T05:32:10Z",
+       "name": "R&B Now",
+       "playParams": {
+        "id": "pl.b7ae3e0a28e84c5c96c4284b6a6c70af",
+        "kind": "playlist",
+        "versionHash": "f0b16cc5c53206bcc6e2ea175cd38d61b472ffc454e23c2c50e56bc1a38a74ae"
+       },
+       "playlistType": "editorial",
+       "supportsSing": false,
+       "url": "https://music.apple.com/us/playlist/r-b-now/pl.b7ae3e0a28e84c5c96c4284b6a6c70af"
+      }
+     }
+    ],
+    "href": "/v1/catalog/us/charts?chart=most-played&l=en-US&limit=3&types=playlists",
+    "name": "Top Playlists",
+    "shortName": "Top Playlists",
+    "next": "/v1/catalog/us/charts?chart=most-played&l=en-US&limit=3&offset=3&types=playlists",
+    "orderId": "most-played:playlists"
+   }
+  ],
+  "songs": [
+   {
+    "chart": "most-played",
+    "data": [
+     {
+      "id": "6812477131",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/6812477131?l=en-US",
+      "attributes": {
+       "albumArtistName": "Morgan Wallen",
+       "albumName": "Last Thing You Need (from GTAVI: The Album) - Single",
+       "artistName": "Morgan Wallen",
+       "artwork": {
+        "bgColor": "7e8db8",
+        "hasP3": false,
+        "height": 1425,
+        "textColor1": "130d1b",
+        "textColor2": "1c162b",
+        "textColor3": "28273a",
+        "textColor4": "2f2e47",
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a2/ab/6b/a2ab6b7e-7da3-e05f-b53a-885a4f64b0e1/075679559340.jpg/{w}x{h}bb.jpg",
+        "width": 1425
+       },
+       "audioLocale": "en-US",
+       "audioTraits": [
+        "lossless",
+        "lossy-stereo"
+       ],
+       "composerName": "Blake Pendergrass, Chase McGill, John Byron, Morgan Wallen & Ryan Vojtesak",
+       "discNumber": 1,
+       "durationInMillis": 196000,
+       "genreNames": [
+        "Country",
+        "Music",
+        "Soundtrack"
+       ],
+       "hasLyrics": true,
+       "hasTimeSyncedLyrics": true,
+       "isAppleDigitalMaster": true,
+       "isMasteredForItunes": true,
+       "isVocalAttenuationAllowed": false,
+       "isrc": "USAT22606602",
+       "name": "Last Thing You Need (from GTAVI: The Album)",
+       "playParams": {
+        "id": "6812477131",
+        "kind": "song"
+       },
+       "previews": [
+        {
+         "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/56/6f/a2/566fa2f9-28d5-e1a6-bbb9-687bebdf7784/mzaf_16817543354011232345.plus.aac.ep.m4a"
+        }
+       ],
+       "releaseDate": "2026-09-17",
+       "trackNumber": 1,
+       "url": "https://music.apple.com/us/album/last-thing-you-need-from-gtavi-the-album/6812477129?i=6812477131"
+      }
+     },
+     {
+      "id": "6796864754",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/6796864754?l=en-US",
+      "attributes": {
+       "albumArtistName": "KAROL G",
+       "albumName": "NO ME ARREPIENTO DE SENTIR TANTO",
+       "artistName": "KAROL G, Judeline & rusowsky",
+       "artwork": {
+        "bgColor": "bfdae6",
+        "hasP3": false,
+        "height": 3000,
+        "textColor1": "030d12",
+        "textColor2": "0e2831",
+        "textColor3": "29363c",
+        "textColor4": "324c55",
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2b/66/b2/2b66b26c-ab23-faa1-c4ee-06fa2cce8f76/26UM1IM00558.rgb.jpg/{w}x{h}bb.jpg",
+        "width": 3000
+       },
+       "audioLocale": "es-ES",
+       "audioTraits": [
+        "atmos",
+        "lossless",
+        "lossy-stereo"
+       ],
+       "composerName": "Carolina Giraldo Navarro, Marco Masis, Omer Fedi, Lara Fernández Castrelo, Andres Jael Correa Rios & Ruslán Mediavilla",
+       "discNumber": 1,
+       "durationInMillis": 225835,
+       "genreNames": [
+        "Urbano latino",
+        "Music",
+        "Latin"
+       ],
+       "hasLyrics": true,
+       "hasTimeSyncedLyrics": true,
+       "isAppleDigitalMaster": true,
+       "isMasteredForItunes": true,
+       "isVocalAttenuationAllowed": true,
+       "isrc": "USUG12607940",
+       "name": "BbY WOW",
+       "playParams": {
+        "id": "6796864754",
+        "kind": "song"
+       },
+       "previews": [
+        {
+         "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f3/08/da/f308da3d-00cc-7682-7be9-87cb882f4ea5/mzaf_14078178240008272749.plus.aac.ep.m4a"
+        }
+       ],
+       "releaseDate": "2026-08-07",
+       "trackNumber": 11,
+       "url": "https://music.apple.com/us/album/bby-wow/6796864741?i=6796864754"
+      }
+     },
+     {
+      "id": "1844932150",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1844932150?l=en-US",
+      "attributes": {
+       "albumArtistName": "Ella Langley",
+       "albumName": "Choosin' Texas - Single",
+       "artistName": "Ella Langley",
+       "artwork": {
+        "bgColor": "284c8e",
+        "hasP3": false,
+        "height": 3000,
+        "textColor1": "e9e8e9",
+        "textColor2": "f5e2b6",
+        "textColor3": "c2c9d7",
+        "textColor4": "ccc4ae",
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/{w}x{h}bb.jpg",
+        "width": 3000
+       },
+       "audioLocale": "en-US",
+       "audioTraits": [
+        "atmos",
+        "lossless",
+        "lossy-stereo"
+       ],
+       "composerName": "Ella Langley, Luke Dick, Miranda Lambert & Joybeth Taylor",
+       "discNumber": 1,
+       "durationInMillis": 232226,
+       "genreNames": [
+        "Country",
+        "Music"
+       ],
+       "hasLyrics": true,
+       "hasTimeSyncedLyrics": true,
+       "isAppleDigitalMaster": false,
+       "isMasteredForItunes": false,
+       "isVocalAttenuationAllowed": true,
+       "isrc": "USSM12504190",
+       "name": "Choosin' Texas",
+       "playParams": {
+        "id": "1844932150",
+        "kind": "song"
+       },
+       "previews": [
+        {
+         "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/38/49/4c/38494cb4-f9e0-1db4-0b84-8c478cb55390/mzaf_14015374052766148372.plus.aac.ep.m4a"
+        }
+       ],
+       "releaseDate": "2025-10-17",
+       "trackNumber": 1,
+       "url": "https://music.apple.com/us/album/choosin-texas/1844932149?i=1844932150"
+      }
+     }
+    ],
+    "href": "/v1/catalog/us/charts?chart=most-played&l=en-US&limit=3&types=songs",
+    "name": "Top Songs",
+    "shortName": "Top Songs",
+    "next": "/v1/catalog/us/charts?chart=most-played&l=en-US&limit=3&offset=3&types=songs",
+    "orderId": "most-played:songs"
+   }
+  ]
+ },
+ "meta": {
+  "results": {
+   "order": [
+    "most-played:songs",
+    "most-played:playlists",
+    "most-played:albums"
+   ]
+  }
+ }
+}

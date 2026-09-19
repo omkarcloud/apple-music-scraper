@@ -1,0 +1,854 @@
+{
+ "data": [
+  {
+   "id": "990050553",
+   "type": "apple-curators",
+   "href": "/v1/catalog/us/apple-curators/990050553?l=en-US",
+   "attributes": {
+    "artwork": {
+     "bgColor": "dadada",
+     "hasP3": true,
+     "height": 1080,
+     "textColor1": "0c0a09",
+     "textColor2": "151417",
+     "textColor3": "353433",
+     "textColor4": "3c3c3e",
+     "url": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/42/20/6b/42206b5c-d801-926d-eefa-e3e30028ae7b/9aefa312-6a70-42cd-8ee2-8d2ff90a3028.png/{w}x{h}bb.jpg",
+     "width": 1080
+    },
+    "editorialNotes": {
+     "short": "Headline interviews, breaking news, and the best emerging music.",
+     "standard": "On his namesake show and New Music Daily, Apple Music 1’s flagship shows, host Zane Lowe brings users unparalleled music knowledge with headline interviews, breaking news, and emerging music from around the globe every day. The Zane Lowe Show has become the world’s go-to for the best brand-new music, sure, but it’s also popular music’s premier confessional booth: Day after day, Zane—who’s also Apple Music’s global creative director—gets the biggest, most elusive superstars to let their guards down. Laughs, tears, and news-making quotes are the norm.\n\n“I’m a curious person, I ask questions, and I guess if I’m passionate about something, I’ll talk about it and engage people about it. I want to start a conversation and learn,” Zane explains of his approach. “Because the more you share, the more you learn, and vice versa. It’s just a circle that keeps spinning.”\n\nZane earns guests’ trust with a music obsessive’s curiosity and enthusiasm, compassionate questioning, and firsthand knowledge of life as an artist. He started his music career recording and performing, and continues to write, produce, and record.\n\n“The artist side of it, that really drives what I do,” he explains. “I’m not a conventional media-type personality. I’m no good at being a host, really. I’m not a journalist. I don’t write; I’m not a writer. What I do is feel and translate.”\n\nCheck out Zane on The Zane Lowe Show every Monday through Thursday on Apple Music 1 at 9 am LA, 12 pm NYC, and 5 pm LDN and New Music Daily every Friday at 9 am LA, 12 pm NYC, and 5 pm LDN.",
+     "tagline": "Apple Music"
+    },
+    "kind": "Show",
+    "name": "The Zane Lowe Show",
+    "shortName": "The Zane Lowe Show",
+    "showHostName": "Zane Lowe",
+    "url": "https://music.apple.com/us/curator/the-zane-lowe-show/990050553"
+   },
+   "relationships": {
+    "grouping": {
+     "href": "/v1/catalog/us/apple-curators/990050553/grouping?l=en-US",
+     "data": [
+      {
+       "id": "170437",
+       "type": "groupings",
+       "href": "/v1/editorial/us/groupings/170437?l=en-US",
+       "attributes": {
+        "genreNames": [],
+        "name": "Zane Lowe on Beats 1"
+       },
+       "relationships": {
+        "tabs": {
+         "href": "/v1/editorial/us/groupings/170437/tabs?l=en-US",
+         "data": [
+          {
+           "id": "default",
+           "type": "editorial-elements",
+           "attributes": {
+            "doNotFilter": false,
+            "editorialElementKind": "382"
+           },
+           "relationships": {
+            "children": {
+             "data": [
+              {
+               "id": "6503372230",
+               "type": "editorial-elements",
+               "attributes": {
+                "collectionId": "6443262346",
+                "displayStyle": "compact",
+                "doNotFilter": false,
+                "editorialElementKind": "326",
+                "emphasize": false,
+                "featureFirstElement": false,
+                "lastModifiedDate": "2026-09-18T21:29:48Z",
+                "name": "The Interview Series",
+                "resourceTypes": [
+                 "uploaded-videos",
+                 "music-videos"
+                ],
+                "supportedSorts": [],
+                "type": "normal"
+               },
+               "relationships": {
+                "contents": {
+                 "data": [
+                  {
+                   "id": "6812922716",
+                   "type": "music-videos",
+                   "href": "/v1/catalog/us/music-videos/6812922716?l=en-US",
+                   "attributes": {
+                    "artistName": "Miley Cyrus & Zane Lowe",
+                    "artwork": {
+                     "bgColor": "1f1e29",
+                     "hasP3": false,
+                     "height": 1080,
+                     "textColor1": "c1b6ea",
+                     "textColor2": "9f9de7",
+                     "textColor3": "a097c4",
+                     "textColor4": "8684c1",
+                     "url": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/68/e1/18/68e1186c-55eb-8fba-2083-01db24407357/TN-MS-WW-Zane_MileyCyrus_20160914-AUC_Episode0.png/{w}x{h}mv.jpg",
+                     "width": 1920
+                    },
+                    "contentRating": "explicit",
+                    "durationInMillis": 4185856,
+                    "genreNames": [
+                     "Pop"
+                    ],
+                    "has4K": false,
+                    "hasHDR": false,
+                    "isrc": "US23A8250718",
+                    "name": "Miley: The Zane Lowe Interview",
+                    "playParams": {
+                     "id": "6812922716",
+                     "kind": "musicVideo"
+                    },
+                    "previews": [
+                     {
+                      "artwork": {
+                       "bgColor": "221f25",
+                       "hasP3": false,
+                       "height": 1080,
+                       "textColor1": "e1dae1",
+                       "textColor2": "c4c5cc",
+                       "textColor3": "bfb9bf",
+                       "textColor4": "a7a7ae",
+                       "url": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/a1/af/a1/a1afa19c-0640-9dc7-3828-ba604b5a61a0/Jobd1d95261-80a7-4e0f-aef7-048dab847648-244132414-PreviewImage_preview_image_45000_video_sdr-Time1789609837560.png/{w}x{h}bb.jpg",
+                       "width": 1920
+                      },
+                      "hlsUrl": "https://play-edge.itunes.apple.com/WebObjects/MZPlayLocal.woa/hls/playlist.m3u8?cc=US&a=6812922716&id=1498051962&aec=HD&l=en",
+                      "url": "https://video-ssl.itunes.apple.com/itunes-assets/Video221/v4/16/96/fa/1696fa3d-f34d-76b1-bb57-0d42153566f6/mzvf_3488588650349423622.720w.h264lc.U.p.m4v"
+                     }
+                    ],
+                    "releaseDate": "2026-09-17",
+                    "url": "https://music.apple.com/us/music-video/miley-the-zane-lowe-interview/6812922716",
+                    "videoTraits": []
+                   }
+                  },
+                  {
+                   "id": "6810739699",
+                   "type": "music-videos",
+                   "href": "/v1/catalog/us/music-videos/6810739699?l=en-US",
+                   "attributes": {
+                    "artistName": "Tove Lo & Zane Lowe",
+                    "artwork": {
+                     "bgColor": "03091f",
+                     "hasP3": false,
+                     "height": 1080,
+                     "textColor1": "c0bccd",
+                     "textColor2": "da947f",
+                     "textColor3": "9a98aa",
+                     "textColor4": "af786c",
+                     "url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/12/d5/9a/12d59aad-e219-675b-00ae-5ce8c1d99c7f/mza_14815258924110108094.png/{w}x{h}mv.jpg",
+                     "width": 1920
+                    },
+                    "contentRating": "explicit",
+                    "durationInMillis": 3282176,
+                    "genreNames": [
+                     "Alternative"
+                    ],
+                    "has4K": false,
+                    "hasHDR": false,
+                    "isrc": "US23A8450983",
+                    "name": "Tove Lo: The Zane Lowe Interview",
+                    "playParams": {
+                     "id": "6810739699",
+                     "kind": "musicVideo"
+                    },
+                    "previews": [
+                     {
+                      "artwork": {
+                       "bgColor": "504651",
+                       "hasP3": false,
+                       "height": 1080,
+                       "textColor1": "edf9fa",
+                       "textColor2": "c5eafd",
+                       "textColor3": "d0d8db",
+                       "textColor4": "afccde",
+                       "url": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/30/1b/15/301b152e-6706-6ef0-6c17-470350258356/Job2038164a-d4d0-4c3e-a1e8-1b5184d53040-244111188-PreviewImage_preview_image_45000_video_sdr-Time1789597733559.png/{w}x{h}bb.jpg",
+                       "width": 1920
+                      },
+                      "hlsUrl": "https://play-edge.itunes.apple.com/WebObjects/MZPlayLocal.woa/hls/playlist.m3u8?cc=US&a=6810739699&id=1498010830&aec=HD&l=en",
+                      "url": "https://video-ssl.itunes.apple.com/itunes-assets/Video221/v4/0f/d1/11/0fd111ad-6a37-e254-f6e7-5f3d57d303ee/mzvf_15492395169444510213.720w.h264lc.U.p.m4v"
+                     }
+                    ],
+                    "releaseDate": "2026-09-15",
+                    "url": "https://music.apple.com/us/music-video/tove-lo-the-zane-lowe-interview/6810739699",
+                    "videoTraits": []
+                   }
+                  },
+                  {
+                   "id": "6809943878",
+                   "type": "music-videos",
+                   "href": "/v1/catalog/us/music-videos/6809943878?l=en-US",
+                   "attributes": {
+                    "artistName": "Quicksand & Zane Lowe",
+                    "artwork": {
+                     "bgColor": "040414",
+                     "hasP3": false,
+                     "height": 1080,
+                     "textColor1": "cccdd7",
+                     "textColor2": "b9bac8",
+                     "textColor3": "a4a5b0",
+                     "textColor4": "9495a4",
+                     "url": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/45/da/ab/45daab19-9ec7-612f-e108-88f5a635671a/TN-MS-WW-20260813_Zane_Quicksand-AUC_Episode.png/{w}x{h}mv.jpg",
+                     "width": 1920
+                    },
+                    "contentRating": "explicit",
+                    "durationInMillis": 3730816,
+                    "genreNames": [
+                     "Hard Rock"
+                    ],
+                    "has4K": false,
+                    "hasHDR": false,
+                    "isrc": "US23A9172802",
+                    "name": "Quicksand: The Zane Lowe Interview",
+                    "playParams": {
+                     "id": "6809943878",
+                     "kind": "musicVideo"
+                    },
+                    "previews": [
+                     {
+                      "artwork": {
+                       "bgColor": "000000",
+                       "hasP3": false,
+                       "height": 1080,
+                       "textColor1": "b4c9e3",
+                       "textColor2": "d7b2d1",
+                       "textColor3": "93a5bb",
+                       "textColor4": "b192ac",
+                       "url": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/df/56/f7/df56f74b-6f01-9533-f75f-5f044bcf5f8d/Jobf74eacb0-2f1b-4bd7-bb77-5e90ecde64dc-244110422-PreviewImage_preview_image_45000_video_sdr-Time1789597470215.png/{w}x{h}bb.jpg",
+                       "width": 1920
+                      },
+                      "hlsUrl": "https://play-edge.itunes.apple.com/WebObjects/MZPlayLocal.woa/hls/playlist.m3u8?cc=US&a=6809943878&id=1498012954&aec=HD&l=en",
+                      "url": "https://video-ssl.itunes.apple.com/itunes-assets/Video211/v4/eb/4c/28/eb4c28f9-256c-c4a4-5967-318a86c0c86a/mzvf_6623090033682203252.720w.h264lc.U.p.m4v"
+                     }
+                    ],
+                    "releaseDate": "2026-09-10",
+                    "url": "https://music.apple.com/us/music-video/quicksand-the-zane-lowe-interview/6809943878",
+                    "videoTraits": []
+                   }
+                  }
+                 ]
+                },
+                "room": {
+                 "data": [
+                  {
+                   "id": "6503372230",
+                   "type": "rooms",
+                   "href": "/v1/editorial/us/rooms/6503372230?l=en-US"
+                  }
+                 ]
+                }
+               }
+              },
+              {
+               "id": "6503372236",
+               "type": "editorial-elements",
+               "attributes": {
+                "collectionId": "6443262317",
+                "displayStyle": "expanded",
+                "doNotFilter": false,
+                "editorialElementKind": "326",
+                "emphasize": false,
+                "featureFirstElement": false,
+                "lastModifiedDate": "2026-09-18T21:29:48Z",
+                "name": "Episodes",
+                "resourceTypes": [
+                 "stations"
+                ],
+                "supportedSorts": [],
+                "type": "normal"
+               },
+               "relationships": {
+                "contents": {
+                 "data": [
+                  {
+                   "id": "ra.6810824216",
+                   "type": "stations",
+                   "href": "/v1/catalog/us/stations/ra.6810824216?l=en-US",
+                   "attributes": {
+                    "airTime": {
+                     "end": "2026-09-17T17:00:00Z",
+                     "start": "2026-09-17T16:00:00Z"
+                    },
+                    "artwork": {
+                     "bgColor": "000000",
+                     "hasP3": false,
+                     "height": 1080,
+                     "textColor1": "000000",
+                     "textColor2": "d2a09b",
+                     "textColor3": "b08d8d",
+                     "textColor4": "9f7a76",
+                     "url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/54/b3/35/54b335f5-17dd-da67-55e7-96ed6f6ef85e/c3d9d61c-d87a-402b-911e-488f8fe24870.png/{w}x{h}sr.jpg",
+                     "width": 4320
+                    },
+                    "contentRating": "explicit",
+                    "durationInMillis": 4783000,
+                    "editorialNotes": {
+                     "name": "ROSÉ and Lizzy McAlpine",
+                     "short": "ROSÉ has a “New Trick”; Lizzy McAlpine is in studio.",
+                     "standard": "The Zane Lowe Show"
+                    },
+                    "isLive": false,
+                    "kind": "streaming",
+                    "mediaKind": "audio",
+                    "name": "ROSÉ and Lizzy McAlpine",
+                    "playParams": {
+                     "format": "stream",
+                     "hasDrm": true,
+                     "id": "ra.6810824216",
+                     "kind": "radioStation",
+                     "mediaType": 0,
+                     "stationHash": "CgkIBRoFmNzTrxkQBA",
+                     "streamingKind": 1
+                    },
+                    "radioUrl": "itsradio://music.apple.com/us/station/ra.6810824216",
+                    "requiresSubscription": true,
+                    "streamingRadioSubType": "Episode",
+                    "supportedDrms": [
+                     "fairplay",
+                     "playready",
+                     "widevine"
+                    ],
+                    "url": "https://music.apple.com/us/station/ros%C3%A9-and-lizzy-mcalpine/ra.6810824216"
+                   }
+                  },
+                  {
+                   "id": "ra.6810824671",
+                   "type": "stations",
+                   "href": "/v1/catalog/us/stations/ra.6810824671?l=en-US",
+                   "attributes": {
+                    "airTime": {
+                     "end": "2026-09-16T17:00:00Z",
+                     "start": "2026-09-16T16:00:00Z"
+                    },
+                    "artwork": {
+                     "bgColor": "f2f2f2",
+                     "hasP3": false,
+                     "height": 1080,
+                     "textColor1": "000000",
+                     "textColor2": "1b1b1b",
+                     "textColor3": "2b2a2a",
+                     "textColor4": "3d3d3d",
+                     "url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/89/27/f2/8927f298-e486-f985-5c33-3842e16a70a2/8000260e-e414-4c8a-927f-b68f75626032.png/{w}x{h}sr.jpg",
+                     "width": 4320
+                    },
+                    "contentRating": "explicit",
+                    "durationInMillis": 3625000,
+                    "editorialNotes": {
+                     "name": "Royal Blood",
+                     "short": "The UK power duo talks “Swallow the Bomb.”",
+                     "standard": "The Zane Lowe Show"
+                    },
+                    "isLive": false,
+                    "kind": "streaming",
+                    "mediaKind": "audio",
+                    "name": "Royal Blood",
+                    "playParams": {
+                     "format": "stream",
+                     "hasDrm": true,
+                     "id": "ra.6810824671",
+                     "kind": "radioStation",
+                     "mediaType": 0,
+                     "stationHash": "CgkIBRoF39_TrxkQBA",
+                     "streamingKind": 1
+                    },
+                    "radioUrl": "itsradio://music.apple.com/us/station/ra.6810824671",
+                    "requiresSubscription": true,
+                    "streamingRadioSubType": "Episode",
+                    "supportedDrms": [
+                     "fairplay",
+                     "playready",
+                     "widevine"
+                    ],
+                    "url": "https://music.apple.com/us/station/royal-blood/ra.6810824671"
+                   }
+                  },
+                  {
+                   "id": "ra.6810824498",
+                   "type": "stations",
+                   "href": "/v1/catalog/us/stations/ra.6810824498?l=en-US",
+                   "attributes": {
+                    "airTime": {
+                     "end": "2026-09-14T17:00:00Z",
+                     "start": "2026-09-14T16:00:00Z"
+                    },
+                    "artwork": {
+                     "bgColor": "f2f2f2",
+                     "hasP3": false,
+                     "height": 1080,
+                     "textColor1": "000000",
+                     "textColor2": "2d231e",
+                     "textColor3": "443e3d",
+                     "textColor4": "4e453f",
+                     "url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/97/44/9a/97449a2c-220e-1e37-e9d3-bc44af3dcb82/8ae2f114-4240-4654-b3a5-a723951ba094.png/{w}x{h}sr.jpg",
+                     "width": 4320
+                    },
+                    "contentRating": "explicit",
+                    "durationInMillis": 3891000,
+                    "editorialNotes": {
+                     "name": "Gus Dapperton",
+                     "short": "The singer debuts his single “Queen.”",
+                     "standard": "The Zane Lowe Show"
+                    },
+                    "isLive": false,
+                    "kind": "streaming",
+                    "mediaKind": "audio",
+                    "name": "Gus Dapperton",
+                    "playParams": {
+                     "format": "stream",
+                     "hasDrm": true,
+                     "id": "ra.6810824498",
+                     "kind": "radioStation",
+                     "mediaType": 0,
+                     "stationHash": "CgkIBRoFst7TrxkQBA",
+                     "streamingKind": 1
+                    },
+                    "radioUrl": "itsradio://music.apple.com/us/station/ra.6810824498",
+                    "requiresSubscription": true,
+                    "streamingRadioSubType": "Episode",
+                    "supportedDrms": [
+                     "fairplay",
+                     "playready",
+                     "widevine"
+                    ],
+                    "url": "https://music.apple.com/us/station/gus-dapperton/ra.6810824498"
+                   }
+                  }
+                 ]
+                },
+                "room": {
+                 "data": [
+                  {
+                   "id": "6503372236",
+                   "type": "rooms",
+                   "href": "/v1/editorial/us/rooms/6503372236?l=en-US"
+                  }
+                 ]
+                }
+               }
+              },
+              {
+               "id": "6503372233",
+               "type": "editorial-elements",
+               "attributes": {
+                "collectionId": "6443262291",
+                "displayStyle": "compact",
+                "doNotFilter": false,
+                "editorialElementKind": "326",
+                "emphasize": false,
+                "featureFirstElement": false,
+                "lastModifiedDate": "2026-09-18T21:29:48Z",
+                "name": "Video Highlights",
+                "resourceTypes": [
+                 "uploaded-videos",
+                 "music-videos"
+                ],
+                "supportedSorts": [],
+                "type": "normal"
+               },
+               "relationships": {
+                "contents": {
+                 "data": [
+                  {
+                   "id": "6813599152",
+                   "type": "uploaded-videos",
+                   "href": "/v1/catalog/us/uploaded-videos/6813599152?l=en-US",
+                   "attributes": {
+                    "artistName": "ROSÉ",
+                    "artwork": {
+                     "bgColor": "71451a",
+                     "hasP3": false,
+                     "height": 1080,
+                     "textColor1": "f0e6d8",
+                     "textColor2": "fbddc3",
+                     "textColor3": "d7c6b2",
+                     "textColor4": "e0bfa2",
+                     "url": "https://is1-ssl.mzstatic.com/image/thumb/FuseSocial211/v4/e2/68/75/e2687529-182b-faf9-7f08-20e03ca5f5ae/TN_MS_WW_Zane_Rose_20260914_AUC_Episode.png/{w}x{h}bb.jpg",
+                     "width": 1920
+                    },
+                    "assetTokens": {
+                     "1080pHdVideo": "https://aodp-ssl.itunes.apple.com/itunes-assets/FuseSocial211/v4/ac/91/c4/ac91c49d-dd13-0995-d011-f49c0ca165e8/mzvf_4230162522054160939.1920w.h264lc.U.f.m4v?accessKey=1792397476_1055317384885400921_5GecJOu2dRt8wCQP4e2LQ9HywiImmdKiQrMPSBBx6ffk%2BrhAiMZTPUd0zbd%2BZtqQhAx7OG4%2BJcN5a0wMB8dNEYHlR4C%2Bg46bUcXd5P1f2lHuvRogg5tZreXMZ5ZqxGPHZqqnp3AEihxfbiVPK1CAcxbbtCObmIPgFS671KwZtZ4kvmQkOZ8WeMv7dKAghZe%2BrnhuG28erzij6pedZS1DmQ%3D%3D",
+                     "sd480pVideo": "https://aodp-ssl.itunes.apple.com/itunes-assets/FuseSocial211/v4/3c/40/82/3c4082ab-3938-22d1-02dc-1b6bb9dadd6d/mzvf_5421895108486895860.720w.h264lc.U.f.m4v?accessKey=1792397476_1364877435494337019_GUmdaR%2BuAdsS73UvbKVvCaxtutrM1dFKIySI7yny1n8CFym0ttCBN%2F%2Fe2dAfvkN32QAjioKwv4fv7vObOESwAT9uuqJ6mcbI2QtWPLqV5qhq%2B2ys7%2BCWXeH0MQSUCYMh%2FJS7%2FNX8JpwiH2LAzzwN3C3fC3arVXQ2xUaOnGztChY1SIJ0uWJMISRpacbOR5sqKNmDaxJ1TW7UfhlAShbjiA%3D%3D",
+                     "sdVideo": "https://aodp-ssl.itunes.apple.com/itunes-assets/FuseSocial211/v4/d0/40/8f/d0408f9b-0be7-9c01-cdb1-bddbb7624d97/mzvf_11250466451678897210.640x480.h264lc.U.f.m4v?accessKey=1792397476_5557811278856972804_HbxyOrbzpc58brUkxenRPlFL%2Bc4CzNIHzS9HFyRUWctRkw8CjaesxMYBqr491VVSI7MbopZsZrb4qwWhcOk9nclVf%2FkxxQc%2BxZuWplvRNPZib16MjCOk%2B%2Bd7cXVF%2Bdeo%2FjHKv5Qj8wCwOnmx%2F%2BiR6MH4TSNGsyi53ouVbQfpWMOeUfjuFT9WK7CE2nhrKoasnZOSPZHD8%2B9EtHc7oFyO%2Fw%3D%3D",
+                     "sdVideoWithPlusAudio": "https://aodp-ssl.itunes.apple.com/itunes-assets/FuseSocial211/v4/c4/a8/98/c4a89838-3ccc-7c2e-84a6-595384ee3327/mzvf_15364239954768289806.640x480.h264lc.U.f.m4v?accessKey=1792397476_4204598777837095621_ZLhGAuOWBDHifQyDmxVoI06JBERuNoy7f89vBEVCMVk2yqu9cBn0y%2FYG7vEyLem%2BZUXkFrzmFhN3YXsjkttLMSD9aBvHXvNS34YLukL2xtx9cuCd0CvIoSGbOo3E9OPqgoXLWjGWMa4Ft3b3qe%2F8SThq75kEsBzXS4EcKTdQ6h47%2BTcD%2FnmH%2Bkh5oEA4LrpqMhltK9te7DRfC2Gz%2BNlt5Q%3D%3D"
+                    },
+                    "contentRatingsBySystem": {},
+                    "durationInMilliseconds": 788331,
+                    "name": "ROSÉ teaches us her new trick!",
+                    "playParams": {
+                     "id": "6813599152",
+                     "kind": "uploadedVideo"
+                    },
+                    "postUrl": "https://music.apple.com/us/post/6813599152",
+                    "uploadDate": "2026-09-18",
+                    "uploadingArtistName": "ROSÉ"
+                   }
+                  },
+                  {
+                   "id": "6810856587",
+                   "type": "uploaded-videos",
+                   "href": "/v1/catalog/us/uploaded-videos/6810856587?l=en-US",
+                   "attributes": {
+                    "artistName": "ADÉLA",
+                    "artwork": {
+                     "bgColor": "030613",
+                     "hasP3": false,
+                     "height": 1080,
+                     "textColor1": "eb908d",
+                     "textColor2": "9291d5",
+                     "textColor3": "bc7474",
+                     "textColor4": "7575ae",
+                     "url": "https://is1-ssl.mzstatic.com/image/thumb/FuseSocial221/v4/0e/c9/72/0ec9728e-30d2-bc4e-a919-9c1c2137df16/TN_MS_WW_Zane_Adela_20260902_AUC_Episode.png/{w}x{h}bb.jpg",
+                     "width": 1920
+                    },
+                    "assetTokens": {
+                     "1080pHdVideo": "https://aodp-ssl.itunes.apple.com/itunes-assets/FuseSocial221/v4/0c/18/a9/0c18a962-c880-0ea5-f9e9-fce5c5550e76/mzvf_3040282455158245749.1920w.h264lc.U.f.m4v?accessKey=1792397476_32699542806392656_IoOk2dk%2B4Ny48Il487rQUVXTJEGgC%2F09ATskA3iTnYDc7xHRt2IosNyQkuK6sTSX%2B8u4RjxP%2BCRvuor1%2F0mbpZ0f%2FHtgweQCgRTx%2BhRItesWNkPzj049%2Fwsrg5hbv6DKblBU6WRSS6tt%2Fhsu%2F7pX3LzHscPgPKw78x7m%2Fri9PEKJSCOICEAUpJhaRaKweFaP9xTMKTntWOHbjk76%2BroftQ%3D%3D",
+                     "sd480pVideo": "https://aodp-ssl.itunes.apple.com/itunes-assets/FuseSocial221/v4/c1/ac/8c/c1ac8cce-debc-7a53-158f-f8fecc677562/mzvf_8617476556041375032.720w.h264lc.U.f.m4v?accessKey=1792397476_7476236444027805088_%2BRDatc7Fx1g2mPUPUecS%2F3EhQI676kYntSE5CmoI2qN2WmFm6hwEVQq1vFdrnLyPQ%2FdJBBK5kZqdm350IYul2BipBdzcA176uSWiWsyRmIUJRDf7n0Lg7stwFL%2Ft2hLovYGI2%2BHL3srWSyF9FpLxVgoJtw%2FaYfagP3fJtJwyjS9vHGpwgZ1nodkP%2BSOBRDEFTE7dOr1Qc5AurzarTuSwjA%3D%3D",
+                     "sdVideo": "https://aodp-ssl.itunes.apple.com/itunes-assets/FuseSocial211/v4/98/72/ee/9872ee4d-52d9-2c65-f137-e8f6ec391fa0/mzvf_921889842343806270.640x480.h264lc.U.f.m4v?accessKey=1792397476_1317309698392530543_9YQr%2Fmb2hrJKsLWuw3BItclSKyEkhUX1y4XtdrgSRbb6%2FOXvOi8d5bbAfHQKhy7xc6hJJYQvWEvy%2FRPJvmHN7pcN1XkGzX0%2By2DDlEOTDdSSdE0K3RH6GvN1uUXtNvt4CGGg2J7UO70xB28JifwxiEPAutJwiPMvI8u39rnzz2RIzC9u%2BHxDem8RZtWzv2osXoW8vxGC5raYgFpsZCZcSQ%3D%3D",
+                     "sdVideoWithPlusAudio": "https://aodp-ssl.itunes.apple.com/itunes-assets/FuseSocial221/v4/8e/7a/13/8e7a1388-98f1-f122-7e6f-19ba3e725851/mzvf_9282301806054109741.640x480.h264lc.U.f.m4v?accessKey=1792397476_1684692604505361792_yMacDnVS4wAwJC7dZ3UCg9HFJkmdM%2FgJ1SafuFhDle906qToWGplwYuwIKr18uxeM8IRniKqz3%2FXX%2BE55rAQyIYVwfUjVAUyW3nNUpZyI5laueOtJms1hkbx90yoUzC6WLWU9Y2W2xjMKrdS9o2I6xg605suhXCWho3ni8lOwm8u2n8yD9kAVNsUEMDuOM8NpXWoGixfi8sUBLTipy9Pzw%3D%3D"
+                    },
+                    "contentRatingsBySystem": {},
+                    "durationInMilliseconds": 1840619,
+                    "name": "ADELÁ on debut album, Nicole Kidman and origin story",
+                    "playParams": {
+                     "id": "6810856587",
+                     "kind": "uploadedVideo"
+                    },
+                    "postUrl": "https://music.apple.com/us/post/6810856587",
+                    "uploadDate": "2026-09-10"
+                   }
+                  },
+                  {
+                   "id": "6808718363",
+                   "type": "uploaded-videos",
+                   "href": "/v1/catalog/us/uploaded-videos/6808718363?l=en-US",
+                   "attributes": {
+                    "artistName": "Kelela",
+                    "artwork": {
+                     "bgColor": "1a1c49",
+                     "hasP3": false,
+                     "height": 1080,
+                     "textColor1": "e0d6e2",
+                     "textColor2": "d6b4ac",
+                     "textColor3": "b8b1c4",
+                     "textColor4": "b19598",
+                     "url": "https://is1-ssl.mzstatic.com/image/thumb/FuseSocial211/v4/5a/2d/35/5a2d3524-e987-f66d-151e-7e93580b4fa2/TN_MS_WW_Zane_Kelela_202608211_AUC_Episode.png/{w}x{h}bb.jpg",
+                     "width": 1920
+                    },
+                    "assetTokens": {
+                     "1080pHdVideo": "https://aodp-ssl.itunes.apple.com/itunes-assets/FuseSocial211/v4/57/e7/c4/57e7c480-5b3f-2640-ee66-2eaf08c7e35d/mzvf_2602986405825166267.1920w.h264lc.U.f.m4v?accessKey=1792397476_6766658758857434364_nwgm%2FMBpK6%2BrkyGK4HyH8ctQ1bL3LCMNQAMGBs%2BTYqgio0jxgpCXM9T52RhkKzVau%2Bo0uSivw1NHQM%2B8Tqiw0HVFPU8fAGLckp0BJc%2Bey2olxa7%2F4i9GVgbGm%2FhAfxF3aGzzhbx6aibNplfvAdHyCqCE57nbH2t2uY5%2BUrsLSitcMh7qsno4lwlmcGwfkautrWCCEXkAhWRAZkze4i%2FizQ%3D%3D",
+                     "sd480pVideo": "https://aodp-ssl.itunes.apple.com/itunes-assets/FuseSocial221/v4/2d/4c/53/2d4c5382-b014-93f8-4f0a-fe1abc04670c/mzvf_13246863246840564225.720w.h264lc.U.f.m4v?accessKey=1792397476_2887547591755796064_8Y4046RZMALdBXNh57NxfY%2Fv%2FyEUsPcODiEsWCwZK7hvZX%2BeM2SoxMHGNFJoHRPB4q6%2BmIOA3UVvuNy%2FcxIyDf%2B%2BMeNcOCuYJgZAzFWyJfnMFyndUnZmxwzcWJsAcSBbLx4O%2BYOb51ys%2BTDNgARAndAZgKjYsua%2BIzn3D%2FFNvQW9UHnE1%2FfLcan3EVVVXXKTkj3pQo4Pz5fTezz3MV1VHA%3D%3D",
+                     "sdVideo": "https://aodp-ssl.itunes.apple.com/itunes-assets/FuseSocial211/v4/8a/d5/86/8ad58617-87ee-9530-3c63-b4678fdb86da/mzvf_15366086876992449886.640x480.h264lc.U.f.m4v?accessKey=1792397476_3361393776833425891_82FvEsX9ElP%2FBHlKLnh47kf5DKIcxhyMqbq%2BNS7Z9Am4fkcaMqs7N0T8SY%2F8vRaNOpjHBs%2FiPeEHWIWfJZxJo1GsAXlYyRfqXBTZA61NNkZ7KrFl9moNmJc7C8ahIZmfRJ0%2FuGoEvJ4EgvlnAMYx7fmbfZy3cIXWvVGjfRPLZqvjxSJmw0Zdj3ebM%2FMCafTUimc3q06rtuenqjSBd9wxow%3D%3D",
+                     "sdVideoWithPlusAudio": "https://aodp-ssl.itunes.apple.com/itunes-assets/FuseSocial221/v4/0a/32/1c/0a321ced-5a8c-fa67-952d-455f94e1cb42/mzvf_11012593018840938413.640x480.h264lc.U.f.m4v?accessKey=1792397476_5134394109516198654_%2BxgDroDzbozJw4keB0dlTWki8nU8%2Ftv6Yt0e3GDV8F%2FxMicEisUP2O%2BXnZV67OHDc5sKQyW7sidHa6WCkMjxkEFKEFyQHt9oT4Hf6jpJeju7wYCeriJD3xnQaOypsjyqNH43qF1w33AxTLyOP6Ps0i3%2FK0GuSjTq%2BSJbK1C3XSqAXXFrLoUKnOUYvtFlxQshmPq4g9DZ6wFtYTCHvpEUbA%3D%3D"
+                    },
+                    "contentRatingsBySystem": {},
+                    "durationInMilliseconds": 1013035,
+                    "name": "Kelela on new avatar",
+                    "playParams": {
+                     "id": "6808718363",
+                     "kind": "uploadedVideo"
+                    },
+                    "postUrl": "https://music.apple.com/us/post/6808718363",
+                    "uploadDate": "2026-09-04",
+                    "uploadingArtistName": "Kelela"
+                   }
+                  }
+                 ]
+                },
+                "room": {
+                 "data": [
+                  {
+                   "id": "6503372233",
+                   "type": "rooms",
+                   "href": "/v1/editorial/us/rooms/6503372233?l=en-US"
+                  }
+                 ]
+                }
+               }
+              },
+              {
+               "id": "6751207782",
+               "type": "editorial-elements",
+               "attributes": {
+                "collectionId": "6752427859",
+                "displayStyle": "compact",
+                "doNotFilter": false,
+                "editorialElementKind": "326",
+                "emphasize": false,
+                "featureFirstElement": false,
+                "lastModifiedDate": "2026-09-18T21:29:48Z",
+                "name": "Live Performances",
+                "resourceTypes": [
+                 "albums"
+                ],
+                "supportedSorts": [],
+                "type": "normal"
+               },
+               "relationships": {
+                "contents": {
+                 "data": [
+                  {
+                   "id": "6801494081",
+                   "type": "albums",
+                   "href": "/v1/catalog/us/albums/6801494081?l=en-US",
+                   "attributes": {
+                    "artistName": "FLO",
+                    "artwork": {
+                     "bgColor": "1e1b3c",
+                     "hasP3": false,
+                     "height": 3000,
+                     "textColor1": "f9e3f7",
+                     "textColor2": "d7c6cd",
+                     "textColor3": "cdbbd2",
+                     "textColor4": "b2a4b0",
+                     "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3e/aa/5f/3eaa5ff3-9d1e-d7ff-7de6-0e75ecf1a6c5/26UM1IM04777.rgb.jpg/{w}x{h}bb.jpg",
+                     "width": 3000
+                    },
+                    "audioTraits": [
+                     "lossless",
+                     "lossy-stereo"
+                    ],
+                    "contentRating": "explicit",
+                    "copyright": "An EMI release; ℗ 2026 Universal Music Operations Limited",
+                    "editorialNotes": {
+                     "name": "Live at Apple Music Radio",
+                     "short": "The London R&B trio performs live on The Zane Lowe Show in LA.",
+                     "tagline": "Live at Apple Music Radio"
+                    },
+                    "genreNames": [
+                     "Pop",
+                     "Music"
+                    ],
+                    "isCompilation": false,
+                    "isComplete": false,
+                    "isMasteredForItunes": true,
+                    "isPrerelease": false,
+                    "isSingle": false,
+                    "name": "Live at Apple Music Radio",
+                    "playParams": {
+                     "id": "6801494081",
+                     "kind": "album"
+                    },
+                    "recordLabel": "EMI",
+                    "releaseDate": "2026-08-17",
+                    "trackCount": 4,
+                    "upc": "00881061436225",
+                    "url": "https://music.apple.com/us/album/live-at-apple-music-radio/6801494081"
+                   }
+                  },
+                  {
+                   "id": "6789557106",
+                   "type": "albums",
+                   "href": "/v1/catalog/us/albums/6789557106?l=en-US",
+                   "attributes": {
+                    "artistName": "Saint Harison",
+                    "artwork": {
+                     "bgColor": "161414",
+                     "hasP3": false,
+                     "height": 3840,
+                     "textColor1": "edc7bd",
+                     "textColor2": "cf997c",
+                     "textColor3": "c2a39b",
+                     "textColor4": "aa7f67",
+                     "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/98/05/67/980567aa-1ead-bcb1-d342-cdaf1836207b/5059449391748.png/{w}x{h}bb.jpg",
+                     "width": 3840
+                    },
+                    "audioTraits": [
+                     "lossless",
+                     "lossy-stereo"
+                    ],
+                    "contentRating": "explicit",
+                    "copyright": "℗ 2026 Tell Your Friends",
+                    "editorialNotes": {
+                     "name": "Live at Apple Music Radio",
+                     "short": "The R&B artist performs live from The Zane Lowe Show in LA.",
+                     "tagline": "Live at Apple Music Radio"
+                    },
+                    "genreNames": [
+                     "R&B/Soul",
+                     "Music"
+                    ],
+                    "isCompilation": false,
+                    "isComplete": false,
+                    "isMasteredForItunes": false,
+                    "isPrerelease": false,
+                    "isSingle": false,
+                    "name": "Live at Apple Music Radio",
+                    "playParams": {
+                     "id": "6789557106",
+                     "kind": "album"
+                    },
+                    "recordLabel": "Platoon",
+                    "releaseDate": "2026-07-14",
+                    "trackCount": 6,
+                    "upc": "5059449391748",
+                    "url": "https://music.apple.com/us/album/live-at-apple-music-radio/6789557106"
+                   }
+                  },
+                  {
+                   "id": "6786828388",
+                   "type": "albums",
+                   "href": "/v1/catalog/us/albums/6786828388?l=en-US",
+                   "attributes": {
+                    "artistName": "MUNA",
+                    "artwork": {
+                     "bgColor": "191317",
+                     "hasP3": false,
+                     "height": 3000,
+                     "textColor1": "ebb3b1",
+                     "textColor2": "d7a8a7",
+                     "textColor3": "c19392",
+                     "textColor4": "b18a8a",
+                     "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/84/82/48/8482484e-391c-0b49-f859-039c311136f2/67176.jpg/{w}x{h}bb.jpg",
+                     "width": 3000
+                    },
+                    "audioTraits": [
+                     "lossless",
+                     "lossy-stereo"
+                    ],
+                    "copyright": "℗ 2026 Dead Oceans",
+                    "editorialNotes": {
+                     "name": "Live at Apple Music Radio",
+                     "short": "The LA electro-pop trio performs live from The Zane Lowe Show.",
+                     "tagline": "Live at Apple Music Radio"
+                    },
+                    "genreNames": [
+                     "Alternative",
+                     "Music"
+                    ],
+                    "isCompilation": false,
+                    "isComplete": true,
+                    "isMasteredForItunes": false,
+                    "isPrerelease": false,
+                    "isSingle": false,
+                    "name": "Live at Apple Music Radio",
+                    "playParams": {
+                     "id": "6786828388",
+                     "kind": "album"
+                    },
+                    "recordLabel": "Saddest Factory",
+                    "releaseDate": "2026-07-07",
+                    "trackCount": 4,
+                    "upc": "617308063967",
+                    "url": "https://music.apple.com/us/album/live-at-apple-music-radio/6786828388"
+                   }
+                  }
+                 ]
+                },
+                "room": {
+                 "data": [
+                  {
+                   "id": "6751207782",
+                   "type": "rooms",
+                   "href": "/v1/editorial/us/rooms/6751207782?l=en-US"
+                  }
+                 ]
+                }
+               }
+              }
+             ]
+            }
+           }
+          }
+         ]
+        }
+       }
+      }
+     ]
+    },
+    "playlists": {
+     "href": "/v1/catalog/us/apple-curators/990050553/playlists?l=en-US",
+     "next": "/v1/catalog/us/apple-curators/990050553/playlists?l=en-US&offset=10",
+     "data": [
+      {
+       "id": "pl.5e717ce9f9204dcdb08d076dfcc46ba6",
+       "type": "playlists",
+       "href": "/v1/catalog/us/playlists/pl.5e717ce9f9204dcdb08d076dfcc46ba6?l=en-US",
+       "attributes": {
+        "artwork": {
+         "bgColor": "cecece",
+         "hasP3": false,
+         "height": 1080,
+         "textColor1": "000000",
+         "textColor2": "1b1a26",
+         "textColor3": "402f29",
+         "textColor4": "373642",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/bc/b4/a3/bcb4a39a-58ea-f541-5449-62864a7576ee/8902aa52-1d8f-48b7-b63e-f42462d601ac.png/{w}x{h}cc.jpg",
+         "width": 4320
+        },
+        "audioTraits": [],
+        "curatorName": "The Zane Lowe Show",
+        "description": {
+         "short": "Zane and his team place their bets on 26 artists who’ll define the year.",
+         "standard": "Every year, Zane Lowe and show producer Jeremy Degan spotlight the emerging artists poised to make their mark—and 2026 is no exception. “This is an incredible list of artists who have already put in the work to establish a unique and exciting space to build from,” says Zane. “They are 26 fearless creatives who are pushing themselves and their peers into new territory, reminding us that the future of music always belongs to those brave enough to redefine it.”"
+        },
+        "editorialNotes": {
+         "name": "Zane Lowe’s 26 for ’26",
+         "short": "Zane and his team place their bets on 26 artists who’ll define the year.",
+         "standard": "Every year, Zane Lowe and show producer Jeremy Degan spotlight the emerging artists poised to make their mark—and 2026 is no exception. “This is an incredible list of artists who have already put in the work to establish a unique and exciting space to build from,” says Zane. “They are 26 fearless creatives who are pushing themselves and their peers into new territory, reminding us that the future of music always belongs to those brave enough to redefine it.”"
+        },
+        "hasCollaboration": false,
+        "isChart": false,
+        "lastModifiedDate": "2026-01-29T18:59:36Z",
+        "name": "Zane Lowe’s 26 for ’26",
+        "playParams": {
+         "id": "pl.5e717ce9f9204dcdb08d076dfcc46ba6",
+         "kind": "playlist",
+         "versionHash": "65d693097e34959c792cbf537100544d3ab2fcb07b9c59a9958f5d9873a03540"
+        },
+        "playlistType": "editorial",
+        "supportsSing": false,
+        "url": "https://music.apple.com/us/playlist/zane-lowes-26-for-26/pl.5e717ce9f9204dcdb08d076dfcc46ba6"
+       }
+      },
+      {
+       "id": "pl.e87c5a988c7b49229ecad9ac9c225a15",
+       "type": "playlists",
+       "href": "/v1/catalog/us/playlists/pl.e87c5a988c7b49229ecad9ac9c225a15?l=en-US",
+       "attributes": {
+        "artwork": {
+         "bgColor": "f0f0f0",
+         "hasP3": false,
+         "height": 1080,
+         "textColor1": "2c2620",
+         "textColor2": "37312d",
+         "textColor3": "534e4a",
+         "textColor4": "5c5754",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/5e/b9/51/5eb951d7-18ee-3668-955b-aa9547dda0fe/77482340-0bc2-43e2-9796-f4eba17e9bf1.png/{w}x{h}cc.jpg",
+         "width": 4320
+        },
+        "audioTraits": [],
+        "curatorName": "The Zane Lowe Show",
+        "description": {
+         "short": "Music to restore calm within your private universe.",
+         "standard": "Zane created this playlist for those moments when you feel overwhelmed or out of control—especially in these hectic times. It’s an hour of music to restore calm within your own private universe, featuring songs from George Benson, Thundercat, Jackson Browne, Bob Dylan, Sun Ra, and more."
+        },
+        "editorialNotes": {
+         "name": "Hold On to Yourself: Zane Needs to Chill",
+         "short": "Music to restore calm within your private universe.",
+         "standard": "Zane created this playlist for those moments when you feel overwhelmed or out of control—especially in these hectic times. It’s an hour of music to restore calm within your own private universe, featuring songs from George Benson, Thundercat, Jackson Browne, Bob Dylan, Sun Ra, and more."
+        },
+        "hasCollaboration": false,
+        "isChart": false,
+        "lastModifiedDate": "2025-03-13T16:39:30Z",
+        "name": "Hold On to Yourself: Zane Needs to Chill",
+        "playParams": {
+         "id": "pl.e87c5a988c7b49229ecad9ac9c225a15",
+         "kind": "playlist",
+         "versionHash": "0325f8077d5c43354762a444ce1788f31b8628f8db5aee6b48406db546ac1aa2"
+        },
+        "playlistType": "editorial",
+        "supportsSing": false,
+        "url": "https://music.apple.com/us/playlist/hold-on-to-yourself-zane-needs-to-chill/pl.e87c5a988c7b49229ecad9ac9c225a15"
+       }
+      }
+     ]
+    }
+   }
+  }
+ ]
+}

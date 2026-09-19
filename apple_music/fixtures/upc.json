@@ -1,0 +1,759 @@
+{
+ "data": [
+  {
+   "id": "1109766593",
+   "type": "albums",
+   "href": "/v1/catalog/us/albums/1109766593?l=en-US",
+   "attributes": {
+    "artistName": "Drake",
+    "artwork": {
+     "bgColor": "46535d",
+     "hasP3": false,
+     "height": 3000,
+     "textColor1": "e9f6f9",
+     "textColor2": "deeef7",
+     "textColor3": "c8d5d9",
+     "textColor4": "bfcfd8",
+     "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/95/f5/87/95f587f7-21c3-d5f9-d81a-4350f9caa020/16UMGIM27643.rgb.jpg/{w}x{h}bb.jpg",
+     "width": 3000
+    },
+    "audioTraits": [
+     "lossless",
+     "lossy-stereo"
+    ],
+    "contentRating": "clean",
+    "copyright": "℗ 2016 Young Money Entertainment/Cash Money Records",
+    "editorialNotes": {
+     "short": "“Views already a classic.” He knew before he even delivered it.",
+     "standard": "On the cover of his fourth studio album <i>Views</i>, Drake looks down from atop Toronto’s CN Tower, paying homage to the city’s notoriously frigid winter temperatures in a heavyweight shearling coat and high-cut boots. He looks less like the superhero he’d made himself into over the course of a roughly six-year rise as singer-songwriter extraordinaire and more like a troubled monarch. <i>Views</i>, which followed two wildly successful projects in 2015 that he’d branded as mixtapes—<i>If You’re Reading This It’s Too Late</i> and the Future collab <i>What a Time to Be Alive</i>—would confirm him as both, his penchant for immaculate songwriting still fully intact and the pressures of existing as the most popular voice in rap, as well as his hometown’s most successful export, weighing heavy on his mind.\n\n“I made a decision last night that I would die for it,” Drake raps on “9.” “Just to show the city what it takes to be alive for it.” Drake’s presence eclipsed Toronto just about as soon as <i>So Far Gone</i> dropped, but the city—and what it thinks of him—was never far from his mind. There are references here to specific people (“Redemption”), places (“Weston Road Flows”), and experiences (“Views”), along with nods to the influence of the city’s Caribbean population on “With You,” “Controlla,” and “Too Good” (which just happens to feature Rihanna).\n\nHe isn’t too much for the world, though, ruminating on his position as one of music’s biggest names—and those who’d rather he wasn’t—on songs like “Still Here,” “Hype,” and “Grammys.” Maybe the the most affecting acknowledgment to this end is the fact that “Hotline Bling,” a strong contender for 2015 song of the summer, was such an afterthought by the time <i>Views</i> was released that it appears here as a bonus track. For all intents and purposes, the Drake of <i>Views</i> is the same one we got on <i>If You’re Reading This</i> and <i>What a Time</i>, but if his previous proper album (<i>Nothing Was the Same</i>) foretold anything, it’s that the man peering down from CN Tower sees things differently than the rest of us."
+    },
+    "genreNames": [
+     "Hip-Hop/Rap",
+     "Music"
+    ],
+    "isCompilation": false,
+    "isComplete": true,
+    "isMasteredForItunes": true,
+    "isPrerelease": false,
+    "isSingle": false,
+    "name": "Views",
+    "playParams": {
+     "id": "1109766593",
+     "kind": "album"
+    },
+    "recordLabel": "Cash Money Records/Young Money Ent./Universal Rec.",
+    "releaseDate": "2016-04-29",
+    "trackCount": 20,
+    "upc": "00602547943507",
+    "url": "https://music.apple.com/us/album/views/1440842556"
+   },
+   "relationships": {
+    "artists": {
+     "href": "/v1/catalog/us/albums/1109766593/artists?l=en-US",
+     "data": [
+      {
+       "id": "271256",
+       "type": "artists",
+       "href": "/v1/catalog/us/artists/271256?l=en-US"
+      }
+     ]
+    },
+    "tracks": {
+     "href": "/v1/catalog/us/albums/1109766593/tracks?l=en-US",
+     "data": [
+      {
+       "id": "1440842690",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/1440842690?l=en-US",
+       "attributes": {
+        "albumArtistName": "Drake",
+        "albumName": "Views",
+        "artistName": "Drake",
+        "artwork": {
+         "bgColor": "46535d",
+         "hasP3": false,
+         "height": 3000,
+         "textColor1": "e9f6f9",
+         "textColor2": "deeef7",
+         "textColor3": "c8d5d9",
+         "textColor4": "bfcfd8",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/95/f5/87/95f587f7-21c3-d5f9-d81a-4350f9caa020/16UMGIM27643.rgb.jpg/{w}x{h}bb.jpg",
+         "width": 3000
+        },
+        "audioLocale": "en-US",
+        "audioTraits": [
+         "lossless",
+         "lossy-stereo"
+        ],
+        "composerName": "Aubrey Drake Graham & Maneesh Bidaye",
+        "contentRating": "clean",
+        "discNumber": 1,
+        "durationInMillis": 328910,
+        "genreNames": [
+         "Hip-Hop/Rap",
+         "Music"
+        ],
+        "hasLyrics": true,
+        "hasTimeSyncedLyrics": true,
+        "isAppleDigitalMaster": true,
+        "isMasteredForItunes": true,
+        "isVocalAttenuationAllowed": true,
+        "isrc": "USCM51600062",
+        "name": "Keep the Family Close",
+        "playParams": {
+         "id": "1440842690",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/01/cc/af/01ccafa1-4604-53ed-a4a1-f7e87346e9d4/mzaf_8044395409142863898.plus.aac.ep.m4a"
+         }
+        ],
+        "releaseDate": "2016-04-29",
+        "trackNumber": 1,
+        "url": "https://music.apple.com/us/album/keep-the-family-close/1440842556?i=1440842690"
+       },
+       "meta": {
+        "formerIds": [
+         "1109772161",
+         "1109766600"
+        ]
+       }
+      },
+      {
+       "id": "1440842700",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/1440842700?l=en-US",
+       "attributes": {
+        "albumArtistName": "Drake",
+        "albumName": "Views",
+        "artistName": "Drake",
+        "artwork": {
+         "bgColor": "46535d",
+         "hasP3": false,
+         "height": 3000,
+         "textColor1": "e9f6f9",
+         "textColor2": "deeef7",
+         "textColor3": "c8d5d9",
+         "textColor4": "bfcfd8",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/95/f5/87/95f587f7-21c3-d5f9-d81a-4350f9caa020/16UMGIM27643.rgb.jpg/{w}x{h}bb.jpg",
+         "width": 3000
+        },
+        "audioLocale": "en-US",
+        "audioTraits": [
+         "lossless",
+         "lossy-stereo"
+        ],
+        "composerName": "Noah \"40\" Shebib, Craig Harrisingh, David Harrisingh, Brian Morgan, David Brooks, Matthew Jehu Samuels, Aubrey Drake Graham & Craig Marsh",
+        "contentRating": "clean",
+        "discNumber": 1,
+        "durationInMillis": 255794,
+        "genreNames": [
+         "Hip-Hop/Rap",
+         "Music"
+        ],
+        "hasLyrics": true,
+        "hasTimeSyncedLyrics": true,
+        "isAppleDigitalMaster": true,
+        "isMasteredForItunes": true,
+        "isVocalAttenuationAllowed": true,
+        "isrc": "USCM51600064",
+        "name": "9",
+        "playParams": {
+         "id": "1440842700",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/4c/8c/3a/4c8c3a8f-1b29-5338-1763-4a518fbb6c44/mzaf_2973229233662218654.plus.aac.ep.m4a"
+         }
+        ],
+        "releaseDate": "2016-04-29",
+        "trackNumber": 2,
+        "url": "https://music.apple.com/us/album/9/1440842556?i=1440842700"
+       },
+       "meta": {
+        "formerIds": [
+         "1109772162",
+         "1109766601"
+        ]
+       }
+      },
+      {
+       "id": "1440842980",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/1440842980?l=en-US",
+       "attributes": {
+        "albumArtistName": "Drake",
+        "albumName": "Views",
+        "artistName": "Drake",
+        "artwork": {
+         "bgColor": "46535d",
+         "hasP3": false,
+         "height": 3000,
+         "textColor1": "e9f6f9",
+         "textColor2": "deeef7",
+         "textColor3": "c8d5d9",
+         "textColor4": "bfcfd8",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/95/f5/87/95f587f7-21c3-d5f9-d81a-4350f9caa020/16UMGIM27643.rgb.jpg/{w}x{h}bb.jpg",
+         "width": 3000
+        },
+        "audioLocale": "en-US",
+        "audioTraits": [
+         "lossless",
+         "lossy-stereo"
+        ],
+        "composerName": "Aubrey Drake Graham, Noah \"40\" Shebib, K. West, D. Natche, R Riera, Axel Morgan, J. Brathwaite, A. Hernandez, Ozan Yildirim, Devin Goode, Mark Andrews, Tamir Ruffin, Earl Simmons, Phillip Weatherspoon & Anthony Fields",
+        "contentRating": "clean",
+        "discNumber": 1,
+        "durationInMillis": 297371,
+        "genreNames": [
+         "Hip-Hop/Rap",
+         "Music"
+        ],
+        "hasLyrics": true,
+        "hasTimeSyncedLyrics": true,
+        "isAppleDigitalMaster": true,
+        "isMasteredForItunes": true,
+        "isVocalAttenuationAllowed": true,
+        "isrc": "USCM51600066",
+        "name": "U With Me?",
+        "playParams": {
+         "id": "1440842980",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/5b/7f/54/5b7f5425-ce7c-6f03-4687-f35ac7dccd92/mzaf_4221814557002018395.plus.aac.ep.m4a"
+         }
+        ],
+        "releaseDate": "2016-04-29",
+        "trackNumber": 3,
+        "url": "https://music.apple.com/us/album/u-with-me/1440842556?i=1440842980"
+       },
+       "meta": {
+        "formerIds": [
+         "1109772163",
+         "1109766602"
+        ]
+       }
+      }
+     ]
+    }
+   },
+   "meta": {
+    "redeliveryId": "1440842556"
+   }
+  },
+  {
+   "id": "1440842556",
+   "type": "albums",
+   "href": "/v1/catalog/us/albums/1440842556?l=en-US",
+   "attributes": {
+    "artistName": "Drake",
+    "artwork": {
+     "bgColor": "46535d",
+     "hasP3": false,
+     "height": 3000,
+     "textColor1": "e9f6f9",
+     "textColor2": "deeef7",
+     "textColor3": "c8d5d9",
+     "textColor4": "bfcfd8",
+     "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/95/f5/87/95f587f7-21c3-d5f9-d81a-4350f9caa020/16UMGIM27643.rgb.jpg/{w}x{h}bb.jpg",
+     "width": 3000
+    },
+    "audioTraits": [
+     "lossless",
+     "lossy-stereo"
+    ],
+    "contentRating": "clean",
+    "copyright": "℗ 2016 Young Money Entertainment/Cash Money Records",
+    "editorialNotes": {
+     "short": "“Views already a classic.” He knew before he even delivered it.",
+     "standard": "On the cover of his fourth studio album <i>Views</i>, Drake looks down from atop Toronto’s CN Tower, paying homage to the city’s notoriously frigid winter temperatures in a heavyweight shearling coat and high-cut boots. He looks less like the superhero he’d made himself into over the course of a roughly six-year rise as singer-songwriter extraordinaire and more like a troubled monarch. <i>Views</i>, which followed two wildly successful projects in 2015 that he’d branded as mixtapes—<i>If You’re Reading This It’s Too Late</i> and the Future collab <i>What a Time to Be Alive</i>—would confirm him as both, his penchant for immaculate songwriting still fully intact and the pressures of existing as the most popular voice in rap, as well as his hometown’s most successful export, weighing heavy on his mind.\n\n“I made a decision last night that I would die for it,” Drake raps on “9.” “Just to show the city what it takes to be alive for it.” Drake’s presence eclipsed Toronto just about as soon as <i>So Far Gone</i> dropped, but the city—and what it thinks of him—was never far from his mind. There are references here to specific people (“Redemption”), places (“Weston Road Flows”), and experiences (“Views”), along with nods to the influence of the city’s Caribbean population on “With You,” “Controlla,” and “Too Good” (which just happens to feature Rihanna).\n\nHe isn’t too much for the world, though, ruminating on his position as one of music’s biggest names—and those who’d rather he wasn’t—on songs like “Still Here,” “Hype,” and “Grammys.” Maybe the the most affecting acknowledgment to this end is the fact that “Hotline Bling,” a strong contender for 2015 song of the summer, was such an afterthought by the time <i>Views</i> was released that it appears here as a bonus track. For all intents and purposes, the Drake of <i>Views</i> is the same one we got on <i>If You’re Reading This</i> and <i>What a Time</i>, but if his previous proper album (<i>Nothing Was the Same</i>) foretold anything, it’s that the man peering down from CN Tower sees things differently than the rest of us."
+    },
+    "genreNames": [
+     "Hip-Hop/Rap",
+     "Music"
+    ],
+    "isCompilation": false,
+    "isComplete": true,
+    "isMasteredForItunes": true,
+    "isPrerelease": false,
+    "isSingle": false,
+    "name": "Views",
+    "playParams": {
+     "id": "1440842556",
+     "kind": "album"
+    },
+    "recordLabel": "Cash Money Records/Young Money Ent./Universal Rec.",
+    "releaseDate": "2016-04-29",
+    "trackCount": 20,
+    "upc": "00602547943507",
+    "url": "https://music.apple.com/us/album/views/1440842556"
+   },
+   "relationships": {
+    "artists": {
+     "href": "/v1/catalog/us/albums/1440842556/artists?l=en-US",
+     "data": [
+      {
+       "id": "271256",
+       "type": "artists",
+       "href": "/v1/catalog/us/artists/271256?l=en-US"
+      }
+     ]
+    },
+    "tracks": {
+     "href": "/v1/catalog/us/albums/1440842556/tracks?l=en-US",
+     "data": [
+      {
+       "id": "1440842690",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/1440842690?l=en-US",
+       "attributes": {
+        "albumArtistName": "Drake",
+        "albumName": "Views",
+        "artistName": "Drake",
+        "artwork": {
+         "bgColor": "46535d",
+         "hasP3": false,
+         "height": 3000,
+         "textColor1": "e9f6f9",
+         "textColor2": "deeef7",
+         "textColor3": "c8d5d9",
+         "textColor4": "bfcfd8",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/95/f5/87/95f587f7-21c3-d5f9-d81a-4350f9caa020/16UMGIM27643.rgb.jpg/{w}x{h}bb.jpg",
+         "width": 3000
+        },
+        "audioLocale": "en-US",
+        "audioTraits": [
+         "lossless",
+         "lossy-stereo"
+        ],
+        "composerName": "Aubrey Drake Graham & Maneesh Bidaye",
+        "contentRating": "clean",
+        "discNumber": 1,
+        "durationInMillis": 328910,
+        "genreNames": [
+         "Hip-Hop/Rap",
+         "Music"
+        ],
+        "hasLyrics": true,
+        "hasTimeSyncedLyrics": true,
+        "isAppleDigitalMaster": true,
+        "isMasteredForItunes": true,
+        "isVocalAttenuationAllowed": true,
+        "isrc": "USCM51600062",
+        "name": "Keep the Family Close",
+        "playParams": {
+         "id": "1440842690",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/01/cc/af/01ccafa1-4604-53ed-a4a1-f7e87346e9d4/mzaf_8044395409142863898.plus.aac.ep.m4a"
+         }
+        ],
+        "releaseDate": "2016-04-29",
+        "trackNumber": 1,
+        "url": "https://music.apple.com/us/album/keep-the-family-close/1440842556?i=1440842690"
+       },
+       "meta": {
+        "formerIds": [
+         "1109772161",
+         "1109766600"
+        ]
+       }
+      },
+      {
+       "id": "1440842700",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/1440842700?l=en-US",
+       "attributes": {
+        "albumArtistName": "Drake",
+        "albumName": "Views",
+        "artistName": "Drake",
+        "artwork": {
+         "bgColor": "46535d",
+         "hasP3": false,
+         "height": 3000,
+         "textColor1": "e9f6f9",
+         "textColor2": "deeef7",
+         "textColor3": "c8d5d9",
+         "textColor4": "bfcfd8",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/95/f5/87/95f587f7-21c3-d5f9-d81a-4350f9caa020/16UMGIM27643.rgb.jpg/{w}x{h}bb.jpg",
+         "width": 3000
+        },
+        "audioLocale": "en-US",
+        "audioTraits": [
+         "lossless",
+         "lossy-stereo"
+        ],
+        "composerName": "Noah \"40\" Shebib, Craig Harrisingh, David Harrisingh, Brian Morgan, David Brooks, Matthew Jehu Samuels, Aubrey Drake Graham & Craig Marsh",
+        "contentRating": "clean",
+        "discNumber": 1,
+        "durationInMillis": 255794,
+        "genreNames": [
+         "Hip-Hop/Rap",
+         "Music"
+        ],
+        "hasLyrics": true,
+        "hasTimeSyncedLyrics": true,
+        "isAppleDigitalMaster": true,
+        "isMasteredForItunes": true,
+        "isVocalAttenuationAllowed": true,
+        "isrc": "USCM51600064",
+        "name": "9",
+        "playParams": {
+         "id": "1440842700",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/4c/8c/3a/4c8c3a8f-1b29-5338-1763-4a518fbb6c44/mzaf_2973229233662218654.plus.aac.ep.m4a"
+         }
+        ],
+        "releaseDate": "2016-04-29",
+        "trackNumber": 2,
+        "url": "https://music.apple.com/us/album/9/1440842556?i=1440842700"
+       },
+       "meta": {
+        "formerIds": [
+         "1109772162",
+         "1109766601"
+        ]
+       }
+      },
+      {
+       "id": "1440842980",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/1440842980?l=en-US",
+       "attributes": {
+        "albumArtistName": "Drake",
+        "albumName": "Views",
+        "artistName": "Drake",
+        "artwork": {
+         "bgColor": "46535d",
+         "hasP3": false,
+         "height": 3000,
+         "textColor1": "e9f6f9",
+         "textColor2": "deeef7",
+         "textColor3": "c8d5d9",
+         "textColor4": "bfcfd8",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/95/f5/87/95f587f7-21c3-d5f9-d81a-4350f9caa020/16UMGIM27643.rgb.jpg/{w}x{h}bb.jpg",
+         "width": 3000
+        },
+        "audioLocale": "en-US",
+        "audioTraits": [
+         "lossless",
+         "lossy-stereo"
+        ],
+        "composerName": "Aubrey Drake Graham, Noah \"40\" Shebib, K. West, D. Natche, R Riera, Axel Morgan, J. Brathwaite, A. Hernandez, Ozan Yildirim, Devin Goode, Mark Andrews, Tamir Ruffin, Earl Simmons, Phillip Weatherspoon & Anthony Fields",
+        "contentRating": "clean",
+        "discNumber": 1,
+        "durationInMillis": 297371,
+        "genreNames": [
+         "Hip-Hop/Rap",
+         "Music"
+        ],
+        "hasLyrics": true,
+        "hasTimeSyncedLyrics": true,
+        "isAppleDigitalMaster": true,
+        "isMasteredForItunes": true,
+        "isVocalAttenuationAllowed": true,
+        "isrc": "USCM51600066",
+        "name": "U With Me?",
+        "playParams": {
+         "id": "1440842980",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/5b/7f/54/5b7f5425-ce7c-6f03-4687-f35ac7dccd92/mzaf_4221814557002018395.plus.aac.ep.m4a"
+         }
+        ],
+        "releaseDate": "2016-04-29",
+        "trackNumber": 3,
+        "url": "https://music.apple.com/us/album/u-with-me/1440842556?i=1440842980"
+       },
+       "meta": {
+        "formerIds": [
+         "1109772163",
+         "1109766602"
+        ]
+       }
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": "1108737195",
+   "type": "albums",
+   "href": "/v1/catalog/us/albums/1108737195?l=en-US",
+   "attributes": {
+    "artistName": "Drake",
+    "artwork": {
+     "bgColor": "46535d",
+     "hasP3": false,
+     "height": 3000,
+     "textColor1": "e9f6f9",
+     "textColor2": "dfeef7",
+     "textColor3": "c8d5d9",
+     "textColor4": "c0cfd8",
+     "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f2/0d/8b/f20d8bff-a927-ae98-6784-20a1f51cb23e/16UMGIM27642.rgb.jpg/{w}x{h}bb.jpg",
+     "width": 3000
+    },
+    "audioTraits": [
+     "lossless",
+     "lossy-stereo"
+    ],
+    "contentRating": "explicit",
+    "copyright": "℗ 2016 Young Money Entertainment/Cash Money Records",
+    "editorialNotes": {
+     "short": "“Views already a classic.” He knew before he even delivered it.",
+     "standard": "On the cover of his fourth studio album <i>Views</i>, Drake looks down from atop Toronto’s CN Tower, paying homage to the city’s notoriously frigid winter temperatures in a heavyweight shearling coat and high-cut boots. He looks less like the superhero he’d made himself into over the course of a roughly six-year rise as singer-songwriter extraordinaire and more like a troubled monarch. <i>Views</i>, which followed two wildly successful projects in 2015 that he’d branded as mixtapes—<i>If You’re Reading This It’s Too Late</i> and the Future collab <i>What a Time to Be Alive</i>—would confirm him as both, his penchant for immaculate songwriting still fully intact and the pressures of existing as the most popular voice in rap, as well as his hometown’s most successful export, weighing heavy on his mind.\n\n“I made a decision last night that I would die for it,” Drake raps on “9.” “Just to show the city what it takes to be alive for it.” Drake’s presence eclipsed Toronto just about as soon as <i>So Far Gone</i> dropped, but the city—and what it thinks of him—was never far from his mind. There are references here to specific people (“Redemption”), places (“Weston Road Flows”), and experiences (“Views”), along with nods to the influence of the city’s Caribbean population on “With You,” “Controlla,” and “Too Good” (which just happens to feature Rihanna).\n\nHe isn’t too much for the world, though, ruminating on his position as one of music’s biggest names—and those who’d rather he wasn’t—on songs like “Still Here,” “Hype,” and “Grammys.” Maybe the the most affecting acknowledgment to this end is the fact that “Hotline Bling,” a strong contender for 2015 song of the summer, was such an afterthought by the time <i>Views</i> was released that it appears here as a bonus track. For all intents and purposes, the Drake of <i>Views</i> is the same one we got on <i>If You’re Reading This</i> and <i>What a Time</i>, but if his previous proper album (<i>Nothing Was the Same</i>) foretold anything, it’s that the man peering down from CN Tower sees things differently than the rest of us."
+    },
+    "genreNames": [
+     "Hip-Hop/Rap",
+     "Music"
+    ],
+    "isCompilation": false,
+    "isComplete": true,
+    "isMasteredForItunes": true,
+    "isPrerelease": false,
+    "isSingle": false,
+    "name": "Views",
+    "playParams": {
+     "id": "1108737195",
+     "kind": "album"
+    },
+    "recordLabel": "Cash Money Records/Young Money Ent./Universal Rec.",
+    "releaseDate": "2016-04-29",
+    "trackCount": 20,
+    "upc": "00602547943491",
+    "url": "https://music.apple.com/us/album/views/1440841363"
+   },
+   "relationships": {
+    "artists": {
+     "href": "/v1/catalog/us/albums/1108737195/artists?l=en-US",
+     "data": [
+      {
+       "id": "271256",
+       "type": "artists",
+       "href": "/v1/catalog/us/artists/271256?l=en-US"
+      }
+     ]
+    },
+    "tracks": {
+     "href": "/v1/catalog/us/albums/1108737195/tracks?l=en-US",
+     "data": [
+      {
+       "id": "1440841367",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/1440841367?l=en-US",
+       "attributes": {
+        "albumArtistName": "Drake",
+        "albumName": "Views",
+        "artistName": "Drake",
+        "artwork": {
+         "bgColor": "46535d",
+         "hasP3": false,
+         "height": 3000,
+         "textColor1": "e9f6f9",
+         "textColor2": "dfeef7",
+         "textColor3": "c8d5d9",
+         "textColor4": "c0cfd8",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f2/0d/8b/f20d8bff-a927-ae98-6784-20a1f51cb23e/16UMGIM27642.rgb.jpg/{w}x{h}bb.jpg",
+         "width": 3000
+        },
+        "audioLocale": "en-US",
+        "audioTraits": [
+         "lossless",
+         "lossy-stereo"
+        ],
+        "composerName": "Aubrey Drake Graham & Maneesh Bidaye",
+        "contentRating": "explicit",
+        "discNumber": 1,
+        "durationInMillis": 328910,
+        "genreNames": [
+         "Hip-Hop/Rap",
+         "Music"
+        ],
+        "hasLyrics": true,
+        "hasTimeSyncedLyrics": true,
+        "isAppleDigitalMaster": true,
+        "isMasteredForItunes": true,
+        "isVocalAttenuationAllowed": true,
+        "isrc": "USCM51600061",
+        "name": "Keep the Family Close",
+        "playParams": {
+         "id": "1440841367",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/67/ff/a6/67ffa612-3d40-9fb5-aff9-2b4ef1845f76/mzaf_9376529871734784038.plus.aac.ep.m4a"
+         }
+        ],
+        "releaseDate": "2016-04-29",
+        "trackNumber": 1,
+        "url": "https://music.apple.com/us/album/keep-the-family-close/1440841363?i=1440841367"
+       },
+       "meta": {
+        "formerIds": [
+         "1108737253",
+         "1108742598"
+        ]
+       }
+      },
+      {
+       "id": "1440841369",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/1440841369?l=en-US",
+       "attributes": {
+        "albumArtistName": "Drake",
+        "albumName": "Views",
+        "artistName": "Drake",
+        "artwork": {
+         "bgColor": "46535d",
+         "hasP3": false,
+         "height": 3000,
+         "textColor1": "e9f6f9",
+         "textColor2": "dfeef7",
+         "textColor3": "c8d5d9",
+         "textColor4": "c0cfd8",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f2/0d/8b/f20d8bff-a927-ae98-6784-20a1f51cb23e/16UMGIM27642.rgb.jpg/{w}x{h}bb.jpg",
+         "width": 3000
+        },
+        "audioLocale": "en-US",
+        "audioTraits": [
+         "lossless",
+         "lossy-stereo"
+        ],
+        "composerName": "Noah \"40\" Shebib, Craig Harrisingh, David Harrisingh, Brian Morgan, David Brooks, Matthew Jehu Samuels, Aubrey Drake Graham & Craig Marsh",
+        "contentRating": "explicit",
+        "discNumber": 1,
+        "durationInMillis": 255794,
+        "genreNames": [
+         "Hip-Hop/Rap",
+         "Music"
+        ],
+        "hasLyrics": true,
+        "hasTimeSyncedLyrics": true,
+        "isAppleDigitalMaster": true,
+        "isMasteredForItunes": true,
+        "isVocalAttenuationAllowed": true,
+        "isrc": "USCM51600063",
+        "name": "9",
+        "playParams": {
+         "id": "1440841369",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a3/47/4b/a3474b63-2566-4052-1677-60edc0a59be2/mzaf_4937593961562527933.plus.aac.ep.m4a"
+         }
+        ],
+        "releaseDate": "2016-04-29",
+        "trackNumber": 2,
+        "url": "https://music.apple.com/us/album/9/1440841363?i=1440841369"
+       },
+       "meta": {
+        "formerIds": [
+         "1108737257",
+         "1108742601"
+        ]
+       }
+      },
+      {
+       "id": "1440841370",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/1440841370?l=en-US",
+       "attributes": {
+        "albumArtistName": "Drake",
+        "albumName": "Views",
+        "artistName": "Drake",
+        "artwork": {
+         "bgColor": "46535d",
+         "hasP3": false,
+         "height": 3000,
+         "textColor1": "e9f6f9",
+         "textColor2": "dfeef7",
+         "textColor3": "c8d5d9",
+         "textColor4": "c0cfd8",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f2/0d/8b/f20d8bff-a927-ae98-6784-20a1f51cb23e/16UMGIM27642.rgb.jpg/{w}x{h}bb.jpg",
+         "width": 3000
+        },
+        "audioLocale": "en-US",
+        "audioTraits": [
+         "lossless",
+         "lossy-stereo"
+        ],
+        "composerName": "Aubrey Drake Graham, Noah \"40\" Shebib, K. West, D. Natche, R Riera, Axel Morgan, J. Brathwaite, A. Hernandez, Ozan Yildirim, Devin Goode, Mark Andrews, Tamir Ruffin, Earl Simmons, Phillip Weatherspoon & Anthony Fields",
+        "contentRating": "explicit",
+        "discNumber": 1,
+        "durationInMillis": 297371,
+        "genreNames": [
+         "Hip-Hop/Rap",
+         "Music"
+        ],
+        "hasLyrics": true,
+        "hasTimeSyncedLyrics": true,
+        "isAppleDigitalMaster": true,
+        "isMasteredForItunes": true,
+        "isVocalAttenuationAllowed": true,
+        "isrc": "USCM51600065",
+        "name": "U With Me?",
+        "playParams": {
+         "id": "1440841370",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/47/bb/a9/47bba91a-d03b-64e6-e1c9-15f34be87e9f/mzaf_14767909463816885265.plus.aac.ep.m4a"
+         }
+        ],
+        "releaseDate": "2016-04-29",
+        "trackNumber": 3,
+        "url": "https://music.apple.com/us/album/u-with-me/1440841363?i=1440841370"
+       },
+       "meta": {
+        "formerIds": [
+         "1108742694",
+         "1108737267"
+        ]
+       }
+      }
+     ]
+    }
+   },
+   "meta": {
+    "redeliveryId": "1440841363"
+   }
+  }
+ ],
+ "meta": {
+  "filters": {
+   "upc": {
+    "0602547943491": [
+     {
+      "id": "1109766593",
+      "type": "albums",
+      "href": "/v1/catalog/us/albums/1109766593?l=en-US"
+     },
+     {
+      "id": "1440842556",
+      "type": "albums",
+      "href": "/v1/catalog/us/albums/1440842556?l=en-US"
+     },
+     {
+      "id": "1108737195",
+      "type": "albums",
+      "href": "/v1/catalog/us/albums/1108737195?l=en-US"
+     }
+    ]
+   }
+  }
+ }
+}

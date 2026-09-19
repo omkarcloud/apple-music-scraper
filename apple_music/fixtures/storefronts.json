@@ -1,0 +1,46 @@
+{
+ "data": [
+  {
+   "id": "dz",
+   "type": "storefronts",
+   "href": "/v1/storefronts/dz?l=en-US",
+   "attributes": {
+    "defaultLanguageTag": "en-GB",
+    "explicitContentPolicy": "opt-in",
+    "name": "Algeria",
+    "supportedLanguageTags": [
+     "en-GB",
+     "fr-FR",
+     "ar"
+    ]
+   }
+  },
+  {
+   "id": "ao",
+   "type": "storefronts",
+   "href": "/v1/storefronts/ao?l=en-US",
+   "attributes": {
+    "defaultLanguageTag": "en-GB",
+    "explicitContentPolicy": "allowed",
+    "name": "Angola",
+    "supportedLanguageTags": [
+     "en-GB",
+     "pt-PT"
+    ]
+   }
+  },
+  {
+   "id": "ai",
+   "type": "storefronts",
+   "href": "/v1/storefronts/ai?l=en-US",
+   "attributes": {
+    "defaultLanguageTag": "en-GB",
+    "explicitContentPolicy": "allowed",
+    "name": "Anguilla",
+    "supportedLanguageTags": [
+     "en-GB"
+    ]
+   }
+  }
+ ]
+}

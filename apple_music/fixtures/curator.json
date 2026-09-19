@@ -1,0 +1,125 @@
+{
+ "data": [
+  {
+   "id": "1206592230",
+   "type": "curators",
+   "href": "/v1/catalog/us/curators/1206592230?l=en-US",
+   "attributes": {
+    "artwork": {
+     "bgColor": "ffffff",
+     "hasP3": false,
+     "height": 1080,
+     "textColor1": "161209",
+     "textColor2": "16130b",
+     "textColor3": "45423a",
+     "textColor4": "45423c",
+     "url": "https://is1-ssl.mzstatic.com/image/thumb/Features122/v4/9d/78/4a/9d784a5e-4b85-47a4-df45-185d8b6ddf1c/pr_source.png/{w}x{h}bb.jpg",
+     "width": 1080
+    },
+    "editorialNotes": {
+     "short": "All the songs you love, in one place."
+    },
+    "name": "HITS",
+    "url": "https://music.apple.com/us/curator/hits/1206592230"
+   },
+   "relationships": {
+    "playlists": {
+     "href": "/v1/catalog/us/curators/1206592230/playlists?l=en-US",
+     "next": "/v1/catalog/us/curators/1206592230/playlists?l=en-US&offset=10",
+     "data": [
+      {
+       "id": "pl.0eefd0cda5434f7f9043d413f564d704",
+       "type": "playlists",
+       "href": "/v1/catalog/us/playlists/pl.0eefd0cda5434f7f9043d413f564d704?l=en-US",
+       "attributes": {
+        "artwork": {
+         "hasP3": false,
+         "height": 2400,
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/-fskaySkAhzmd_hqO2Wy1w/{w}x{h}bb.jpg",
+         "width": 2400
+        },
+        "audioTraits": [],
+        "curatorName": "HITS",
+        "description": {
+         "standard": "The unforgettable sounds of a singular talent - and music that shaped her."
+        },
+        "hasCollaboration": false,
+        "isChart": false,
+        "lastModifiedDate": "2024-04-29T17:27:12Z",
+        "name": "Back To Black: Songs From The Original Motion Picture",
+        "playParams": {
+         "id": "pl.0eefd0cda5434f7f9043d413f564d704",
+         "kind": "playlist",
+         "versionHash": "623364ff36dd7f5742233dce3fa18d5d163fcf0ee5e518f4d2c8e0d12af6b48f"
+        },
+        "playlistType": "external",
+        "supportsSing": false,
+        "url": "https://music.apple.com/us/playlist/back-to-black-songs-from-the-original-motion-picture/pl.0eefd0cda5434f7f9043d413f564d704"
+       }
+      },
+      {
+       "id": "pl.4241779a4e4344208a3fe0a5c124700d",
+       "type": "playlists",
+       "href": "/v1/catalog/us/playlists/pl.4241779a4e4344208a3fe0a5c124700d?l=en-US",
+       "attributes": {
+        "artwork": {
+         "hasP3": false,
+         "height": 2400,
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/10_NXA8kw6wFDuKAzgb-Kw/{w}x{h}bb.jpg",
+         "width": 2400
+        },
+        "audioTraits": [],
+        "curatorName": "HITS",
+        "description": {
+         "standard": "Acoustic hits from your favourite artists. Covers, unplugged versions, live performances & more."
+        },
+        "hasCollaboration": false,
+        "isChart": false,
+        "lastModifiedDate": "2023-09-29T11:50:47Z",
+        "name": "Acoustic Room",
+        "playParams": {
+         "id": "pl.4241779a4e4344208a3fe0a5c124700d",
+         "kind": "playlist",
+         "versionHash": "f239609157bf64dd3596a6e78106d0e99f6ba5dff737b508678bc2c9a6c08aea"
+        },
+        "playlistType": "external",
+        "supportsSing": false,
+        "url": "https://music.apple.com/us/playlist/acoustic-room/pl.4241779a4e4344208a3fe0a5c124700d"
+       }
+      },
+      {
+       "id": "pl.50887144f53a46b3b6723f052082e1b6",
+       "type": "playlists",
+       "href": "/v1/catalog/us/playlists/pl.50887144f53a46b3b6723f052082e1b6?l=en-US",
+       "attributes": {
+        "artwork": {
+         "hasP3": false,
+         "height": 2400,
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/9sH3GWVD8pzFu1fG2F5QOg/{w}x{h}bb.jpg",
+         "width": 2400
+        },
+        "audioTraits": [],
+        "curatorName": "HITS",
+        "description": {
+         "standard": "Cutting edge tracks from your indie, alt and rock favourites!"
+        },
+        "hasCollaboration": false,
+        "isChart": false,
+        "lastModifiedDate": "2023-09-29T11:47:48Z",
+        "name": "ALT HITS",
+        "playParams": {
+         "id": "pl.50887144f53a46b3b6723f052082e1b6",
+         "kind": "playlist",
+         "versionHash": "cf4152301f6aa9ca05e853e41f5682e69d7663d748ff8a1b42a05616d777443f"
+        },
+        "playlistType": "external",
+        "supportsSing": false,
+        "url": "https://music.apple.com/us/playlist/alt-hits/pl.50887144f53a46b3b6723f052082e1b6"
+       }
+      }
+     ]
+    }
+   }
+  }
+ ]
+}
