@@ -211,6 +211,19 @@ BROWSE_SECTIONS = {
     "popular": "Everyone’s Listening To...",
     "dj-mixes": "DJ Mixes of the Month",
 }
+# 2026-10-06: Apple reworded "DJ Mixes of the Month" to "Latest DJ Mixes" and
+# the exact-title lookup 404ed, so each shortcut also carries a lowercase
+# fragment that survives such rewordings (matched as a substring).
+BROWSE_SECTION_KEYWORDS = {
+    "new-releases": "new this week",
+    "recent-releases": "recent release",
+    "best-new-songs": "best new song",
+    "trending-songs": "trending song",
+    "coming-soon": "coming soon",
+    "updated-playlists": "updated playlist",
+    "popular": "listening to",
+    "dj-mixes": "dj mix",
+}
 ROOM_SORTS = {"featured": "featured", "release-date": "releaseDate", "name": "alphabet"}
 
 # Daily Top 100 playlists are titled "Top 100: <region>"; these regions do

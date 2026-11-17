@@ -50,11 +50,24 @@ def section(section, sort=None, page=1, limit=50, country=None, lang=None):
 def _shortcut(name):
     title = refs.BROWSE_SECTIONS[name]
 
+    keyword = refs.BROWSE_SECTION_KEYWORDS.get(name, title.lower())
+
     def handler(sort=None, page=1, limit=50, country=None, lang=None):
         sf = storefront(country)
-        room_id = browse_room_ids(sf).get(title)
+        rooms = browse_room_ids(sf)
+        room_id = rooms.get(title)
         if not room_id:
-            raise AppleMusicNotFound(f"the Browse page in {sf.upper()} has no {title!r} section")
+            # 2026-10-06: Apple rewords shelf titles ("DJ Mixes of the Month"
+            # -> "Latest DJ Mixes"), so fall back to a case-insensitive
+            # fragment match before concluding the shelf is gone.
+            room_id = next((rid for t, rid in rooms.items() if keyword in t.lower()), None)
+        if not room_id:
+            # 2026-10-06: a shelf Apple is not running right now is "nothing
+            # there", not a bad request: answer an empty page with a note so
+            # callers (and the health check) see a 200, like an empty room.
+            return {"section": {"id": None, "title": title}, "sort": sort, "items": [],
+                    "pagination": P.pagination(page, limit, False),
+                    "note": f"the Browse page in {sf.upper()} has no {title!r} section at the moment"}
         return section(room_id, sort=sort, page=page, limit=limit, country=sf, lang=lang)
 
     handler.__name__ = name.replace("-", "_")

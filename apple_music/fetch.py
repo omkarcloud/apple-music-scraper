@@ -41,7 +41,7 @@ Failure taxonomy (scraper_errors, mapped to HTTP by route_glue):
   AppleMusicNotFound       404 / empty data                   — never retried
 """
 import base64
-import json
+import fastjson
 import os
 import re
 import sys
@@ -53,7 +53,9 @@ from urllib.parse import parse_qsl
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 import config
+import egress
 from scraper_errors import BadRequest, Blocked, NotFound, UpstreamError
+from scraper_utils import debug, fanout, sessions
 
 SITE = "https://music.apple.com"
 API = "https://amp-api.music.apple.com"
@@ -71,7 +73,7 @@ TOKEN_REFRESH_MARGIN = 24 * 3600   # re-harvest a day before exp
 
 PAGE_HEADERS = {
     "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-    "accept-language": "en-US,en;q=0.9",
+    "accept-language": egress.site_accept_language("apple-music"),
 }
 
 
@@ -101,37 +103,17 @@ _local = threading.local()
 
 
 def _session():
-    sess = getattr(_local, "session", None)
-    if sess is None:
-        from curl_cffi import requests as curl_requests
-        sess = curl_requests.Session(impersonate=IMPERSONATE)
-        proxy = config.apple_music_proxy()
-        if proxy:
-            sess.proxies = {"http": proxy, "https": proxy}
-        _local.session = sess
-    return sess
+    return sessions.thread_session(_local, lambda: sessions.curl_session(
+        IMPERSONATE, proxy_fn=config.apple_music_proxy))
 
 
 def _drop_session():
-    sess = getattr(_local, "session", None)
-    _local.session = None
-    if sess is not None:
-        try:
-            sess.close()
-        except Exception:
-            pass
+    sessions.drop(_local)
 
 
 def dump_debug(name, text):
     """Write a raw response to $APPLE_MUSIC_DEBUG_DIR/<name>.txt."""
-    dbg = os.environ.get("APPLE_MUSIC_DEBUG_DIR", "")
-    if dbg and text:
-        try:
-            os.makedirs(dbg, exist_ok=True)
-            with open(os.path.join(dbg, name + ".txt"), "w") as f:
-                f.write(text)
-        except OSError:
-            pass
+    debug.dump("APPLE_MUSIC_DEBUG_DIR", name, text)
 
 
 # ---- developer token --------------------------------------------------------------
@@ -141,7 +123,7 @@ def jwt_payload(token):
     try:
         part = token.split(".")[1]
         part += "=" * (-len(part) % 4)
-        return json.loads(base64.urlsafe_b64decode(part))
+        return fastjson.loads(base64.urlsafe_b64decode(part))
     except Exception:
         return {}
 
@@ -211,7 +193,7 @@ def _api_headers(token, lang):
 
 def _error_detail(body):
     try:
-        errors = json.loads(body).get("errors") or []
+        errors = fastjson.loads(body).get("errors") or []
     except Exception:
         return None
     if errors and isinstance(errors[0], dict):
@@ -387,13 +369,7 @@ def follow_all(first_block, *, max_items, lang=None, max_per_call=100):
 def run_parallel(fns):
     """Run zero-arg callables in parallel; results align with `fns`.
     Exceptions propagate from the first failing call."""
-    if not fns:
-        return []
-    if len(fns) == 1:
-        return [fns[0]()]
-    with ThreadPoolExecutor(max_workers=min(FANOUT_WORKERS, len(fns))) as ex:
-        futures = [ex.submit(fn) for fn in fns]
-        return [f.result() for f in futures]
+    return fanout.per_call(fns, FANOUT_WORKERS)
 
 
 if __name__ == "__main__":

@@ -25,6 +25,7 @@ import html as _html
 import re
 from datetime import datetime
 from urllib.parse import parse_qs, urlparse
+from scraper_utils.values import to_int
 
 _TAG_RE = re.compile(r"<[^>]+>")
 _BR_RE = re.compile(r"<br\s*/?>", re.I)
@@ -39,13 +40,6 @@ _CJK_DATE_RE = re.compile(r"^(\d{4})年(?:(\d{1,2})月)?(?:(\d{1,2})日)?$")
 def clean(value):
     """'' / [] / {} -> None (uniform nulls)."""
     return None if value in ("", [], {}, None) else value
-
-
-def to_int(value):
-    try:
-        return int(value) if value not in (None, "") else None
-    except (TypeError, ValueError):
-        return None
 
 
 def snake(text):
